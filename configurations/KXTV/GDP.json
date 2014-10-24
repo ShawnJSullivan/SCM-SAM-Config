@@ -1,0 +1,42 @@
+{
+	"publicationName": "News10.net",
+	"title": "NEWS10.NET",
+	"marketId": "KXTV",
+	"brandId": "3335KXTV",
+	"cobrandLogoText": "NEWS10.NET | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-916-441-2345",
+	"website": "www.news10.net",
+	"baseName": "news10",
+	"email": "desk@news10.net",
+	"state": "CA",
+	"links": {
+		"termsOfServiceURL": "http://static.news10.net/terms/",
+		"caliPrivacyURL": "http://static.news10.net/privacy/",
+		"privacyURL": "http://static.news10.net/privacy/",
+		"adChoicesURL": "http://static.news10.net/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "sacramento-ca"
+	},
+	"facebook": {
+		"secret#private": "b0a04c20d6e4275594b5e9f8a374daac",
+		"productId": "146675622056340"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.news10.net",
+		"trackingSuite": "gntbcstkxtv,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "desk@news10.net",
+		"phone": "1-916-441-2345"
+	},
+	"topLevelDomain" : ".net"
+}

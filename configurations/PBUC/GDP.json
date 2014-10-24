@@ -1,0 +1,44 @@
+{
+	"publicationName": "Telegraph-Forum",
+	"title": "Telegraph-Forum",
+	"marketId": "B6",
+	"brandId": "1019BT",
+	"cobrandLogoText": "BucyrusTelegraphForum.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0209",
+	"website": "www.bucyrustelegraphforum.com",
+	"baseName": "bucyrustelegraphforum",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static.bucyrustelegraphforum.com/terms/",
+		"caliPrivacyURL": "http://static.bucyrustelegraphforum.com/privacy/",
+		"privacyURL": "http://static.bucyrustelegraphforum.com/privacy/",
+		"adChoicesURL": "http://static.bucyrustelegraphforum.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Bucyrus"
+	},
+	"dealChicken": {
+		"marketKey": "north-central-oh"
+	},
+	"facebook": {
+		"secret#private": "9e253ec20a26e82619fe757a68ef2d05",
+		"productId": "154756444572277"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.bucyrustelegraphforum.com",
+		"trackingSuite": "gpaper230, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Bucyrus"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-877-424-0209"
+	}
+}

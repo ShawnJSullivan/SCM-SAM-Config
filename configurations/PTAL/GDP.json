@@ -1,0 +1,44 @@
+{
+	"publicationName": "Tallahassee Democrat",
+	"title": "Tallahassee Democrat",
+	"marketId": "CD",
+	"brandId": "1558TD",
+	"state": "FL",
+	"cobrandLogoText": "Tallahassee.com | A Gannett Company",
+	"palette": "p6",
+	"custService": "1-800-999-2271",
+	"website": "www.tallahassee.com",
+	"baseName": "tallahassee",
+	"email": "tallahasseedemocrat@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.tallahassee.com/terms/",
+		"caliPrivacyURL": "http://static.tallahassee.com/privacy/",
+		"privacyURL": "http://static.tallahassee.com/privacy/",
+		"adChoicesURL": "http://static.tallahassee.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Tallahassee"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"dealChicken": {
+		"marketKey": "tallahassee-fl"
+	},
+	"facebook": {
+		"secret#private": "5b4c1d9de72fb2d6e2b45d497ecd4880",
+		"productId": "176414652381033"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.tallahassee.com",
+		"trackingSuite": "gpaper223, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Tallahassee"
+		},
+		"email": "tallahasseedemocrat@gannett.com",
+		"phone": "1-800-999-2271"
+	}
+}

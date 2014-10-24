@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.cincinnati.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/331"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/335"
+		}
+	}
+}

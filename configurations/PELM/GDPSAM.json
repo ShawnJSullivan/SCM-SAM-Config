@@ -1,0 +1,77 @@
+{
+	"default": {
+		"brandId" : "STARGAZETTE",
+		"legacyNewslettersPreferences" : {
+			"enabled": true,
+			"hostname": "www.STARGAZETTE.com"
+		},
+		"omniture": {
+			"trackingServer": "srepdata.stargazette.com",
+			"trackingSuite": "gpaper125, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "stargazette.com"
+	},
+	"mobile": {
+		"title": "stargazette.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.stargazette.com/trial-expired/",
+				"restricted": "https://subscribe.stargazette.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Elmira Star-Gazette iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DS",
+			"unitNumber": "1007",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile125"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1265"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1265"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1269"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1269"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Elmira Star-Gazette Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DS",
+			"unitNumber": "1007",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile125"
+		}
+	}
+}

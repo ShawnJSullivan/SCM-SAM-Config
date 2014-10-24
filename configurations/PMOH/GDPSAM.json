@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.baxterbulletin.com",
+			"trackingSuite": "gpaper110, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "BaxterBulletin.com"
+	},
+	"mobile": {
+		"title": "BaxterBulletin.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.baxterbulletin.com/trial-expired/",
+				"restricted": "https://subscribe.baxterbulletin.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Baxter Bulletin iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "WA",
+			"unitNumber": "1136",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile110"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/511"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/511"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/515"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/515"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Baxter Bulletin Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "WA",
+			"unitNumber": "1136",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile110"
+		}
+	}
+}

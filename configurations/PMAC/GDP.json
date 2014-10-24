@@ -1,0 +1,44 @@
+{
+	"publicationName": "Herald Times Reporter",
+	"title": "Herald Times Reporter",
+	"marketId": "U004",
+	"brandId": "WISCONSIN",
+	"cobrandLogoText": "HTRNews.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-5044",
+	"website": "www.htrnews.com",
+	"baseName": "htrnews",
+	"email": "wisconsincoe@gannett.com",
+	"state": "WI",
+	"links": {
+		"termsOfServiceURL": "http://static.htrnews.com/terms/",
+		"caliPrivacyURL": "http://static.htrnews.com/privacy/",
+		"privacyURL": "http://static.htrnews.com/privacy/",
+		"adChoicesURL": "http://static.htrnews.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Manitowoc"
+	},
+	"dealChicken": {
+		"marketKey": "sheboygan-wi"
+	},
+	"facebook": {
+		"secret#private": "5c6d274ecb65095538ac2da271d297ae",
+		"productId": "179306802094584"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.htrnews.com",
+		"trackingSuite": "gpaper188, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Manitowoc"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-5044"
+	}
+}

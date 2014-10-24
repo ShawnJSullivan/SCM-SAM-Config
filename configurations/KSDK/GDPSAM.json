@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.ksdk.com",
+			"trackingSuite": "gntbcstksdk,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "KSDK.com"
+	},
+	"mobile": {
+		"title": "KSDK.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.ksdk.com/trial-expired/",
+				"restricted": "https://subscribe.ksdk.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "KSDK News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3325",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstksdk,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/135"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1739"
+		}
+	},
+	"android": {
+		"title": "KSDK News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3325",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstksdk,gntbcstglobal"
+		}
+	}
+}

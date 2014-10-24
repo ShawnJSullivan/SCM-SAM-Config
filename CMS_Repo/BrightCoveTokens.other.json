@@ -1,0 +1,14 @@
+{
+  "ArrayOfToken": {
+    "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+    "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+    "Token": {
+      "SiteId": "1",
+      "SiteName": "All Dev",
+      "BrightcoveId": "29901528001",
+      "WriteToken": "18_XyZsvuTpENzlH6o9ga0FlACqFGDSa5x_pmV83DNGXfk6qHnRxQA..",
+      "ReadTokenUrl": "jSRpyfmaRi09SMorgNG15AX76kqEiMBb-LUdj7vshSkRz1A4Dn17Uw..",
+      "UnfilteredToken": "jSRpyfmaRi09SMorgNG15AX76kqEiMBb-LUdj7vshSkRz1A4Dn17Uw.."
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+	"publicationName": "WKYC-TV",
+	"title": "WKYC.COM",
+	"marketId": "WKYC",
+	"brandId": "3330WKYC",
+	"cobrandLogoText": "WKYC.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-216-344-3333",
+	"website": "www.wkyc.com",
+	"baseName": "wkyc",
+	"email": "webmaster@wkyc.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static-origin.wkyc.com/en/terms-service/",
+		"caliPrivacyURL": "http://static.wkyc.com/en/privacy-notice/",
+		"privacyURL": "http://static.wkyc.com/en/privacy-notice/",
+		"adChoicesURL": "http://static.wkyc.com/en/privacy-notice/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "cleveland-oh"
+	},
+	"facebook": {
+		"secret#private": "6663404a818b3b382c70a8074874e876",
+		"productId": "194856867191438"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wkyc.com",
+		"trackingSuite": "gntbcstwkyc,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@wkyc.com",
+		"phone": "1-216-344-3333"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"publicationName": "Courier-Post",
+	"title": "Courier-Post",
+	"marketId": "BZ",
+	"brandId": "1013CP",
+	"cobrandLogoText": "CourierPostOnline.com | A Gannett Company",
+	"palette": "p5",
+	"custService": "1-800-677-6289",
+	"website": "www.courierpostonline.com",
+	"baseName": "courierpostonline",
+	"email": "courierpost@gannett.com",
+	"state": "NJ",
+	"links": {
+		"termsOfServiceURL": "http://static.courierpostonline.com/terms/",
+		"caliPrivacyURL": "http://static.courierpostonline.com/privacy/",
+		"privacyURL": "http://static.courierpostonline.com/privacy/",
+		"adChoicesURL": "http://static.courierpostonline.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "CherryHill"
+	},
+	"dealChicken": {
+		"marketKey": "south-jersey-nj"
+	},
+	"facebook": {
+		"secret#private": "f0ec8795841101b992e45f03167bdf6b",
+		"productId": "175025579194557"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.courierpostonline.com",
+		"trackingSuite": "gpaper119, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "CherryHill"
+		},
+		"email": "courierpost@gannett.com",
+		"phone": "1-800-677-6289"
+	}
+}

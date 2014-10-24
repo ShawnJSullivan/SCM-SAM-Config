@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.zanesvilletimesrecorder.com",
+			"trackingSuite": "gpaper238, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "zanesvilletimesrecorder.com"
+	},
+	"mobile": {
+		"title": "zanesvilletimesrecorder.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.zanesvilletimesrecorder.com/trial-expired/",
+				"restricted": "https://subscribe.zanesvilletimesrecorder.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Times Recorder iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OZ",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile238"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/735"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/735"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/739"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/739"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Times Recorder Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OZ",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile238"
+		}
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Advocate",
+	"title": "The Advocate",
+	"marketId": "BF",
+	"brandId": "1019NA",
+	"cobrandLogoText": "newarkadvocate.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0208",
+	"website": "www.newarkadvocate.com",
+	"baseName": "newarkadvocate",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static.newarkadvocate.com/terms/",
+		"caliPrivacyURL": "http://static.newarkadvocate.com/privacy/",
+		"privacyURL": "http://static.newarkadvocate.com/privacy/",
+		"adChoicesURL": "http://static.newarkadvocate.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Newark"
+	},
+	"dealChicken": {
+		"marketKey": "licking-county-oh"
+	},
+	"facebook": {
+		"secret#private": "4fa4db7649e26f024893b5b897f047c4",
+		"productId": "125418460841564"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.newarkadvocate.com",
+		"trackingSuite": "gpaper236, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Newark"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-877-424-0208"
+	}
+}

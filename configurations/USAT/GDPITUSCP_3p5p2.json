@@ -1,0 +1,38 @@
+{
+	"ads": {
+		"articleAds": [
+			{
+				"position": 0,
+				"numberOfCharactersBetweenRepeats": 2500,
+				"enableFlexAd": false,
+				"adType": "article_banner",
+				"size": "{300,250}"
+			}
+		],
+		"articleTransitionalAd": {
+			"adType": "transitional",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"galleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 1,
+			"frequency": 5
+		},
+		"embeddedGalleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		}
+	},
+	"comscore": {
+		"censusId": "6035223",
+		"secret": "0a46f2bdb39db821b07796d980d8919a"
+	},
+	"aam": {
+		"audienceDpid": "3054"
+	}
+}

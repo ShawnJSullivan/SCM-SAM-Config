@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.kvue.com",
+			"trackingSuite": "gntbcstkvue,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "KVUE.com"
+	},
+	"mobile": {
+		"title": "KVUE.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.kvue.com/trial-expired/",
+				"restricted": "https://subscribe.kvue.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "KVUE News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3350",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstkvue,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1509"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1505"
+		}
+	},
+	"android": {
+		"title": "KVUE News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3350",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstkvue,gntbcstglobal"
+		}
+	}
+}

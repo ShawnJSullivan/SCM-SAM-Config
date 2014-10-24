@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.tennessean.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/245"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/247"
+		}
+	}
+}

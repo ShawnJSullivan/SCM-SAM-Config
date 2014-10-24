@@ -1,0 +1,93 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.app.com",
+			"trackingSuite": "gpaper107, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.app\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.app.com/subscribe",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}],
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nj-asburypark-C1171/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nj-asburypark-C1171/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nj-asburypark-C1171/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "APP.com"
+	},
+	"mobile": {
+		"title": "APP.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.app.com/trial-expired/",
+				"restricted": "https://subscribe.app.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Asbury Park Press Native iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1171",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile107"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/807"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/807"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/811"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/811"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Asbury Park Press Native Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1171",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile107"
+		}
+	}
+}

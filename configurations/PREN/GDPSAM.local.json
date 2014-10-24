@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.rgj.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/81"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	}
+}

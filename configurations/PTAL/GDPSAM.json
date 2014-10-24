@@ -1,0 +1,102 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.tallahassee.com",
+			"trackingSuite": "gpaper223, gntbcstglobal"
+		},
+		"organizations": {
+			"fsu": {
+				"userId": "5513270",
+				"licenseId": "5903529",
+				"organizationName": "Florida State University",
+				"splashImageURL": "//staticassets.tallahassee.com/organizations/fsu/splash.jpg",
+				"logoImageURL": "//staticassets.tallahassee.com/organizations/fsu/logo.jpg"
+			}
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/fl-tallahassee-C1558/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/fl-tallahassee-C1558/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/fl-tallahassee-C1558/consumer_sales-all_stop"
+			}
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.tallahassee\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.tallahassee.com/specialoffer",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}]
+	},
+	"site": {
+		"title": "Tallahassee.com"
+	},
+	"mobile": {
+		"title": "Tallahassee.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.tallahassee.com/trial-expired/",
+				"restricted": "https://subscribe.tallahassee.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Tallahassee Democrat iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "WA",
+			"unitNumber": "1558",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile223"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/547"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/547"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/551"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/551"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Tallahassee Democrat Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "WA",
+			"unitNumber": "1558",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile223"
+		}
+	}
+}

@@ -1,0 +1,221 @@
+{
+	"wlna": {
+	"splash": {
+		"logo": {
+			"portrait": {
+				"x": "center",
+				"y": 379
+			},
+			"landscape": {
+				"x": "center",
+				"y": 285
+			},
+			"portrait_iphone": {
+				"x": "center",
+				"y": 196,
+				"scale": 0.625
+			}
+		},
+		"minimumImpressionTime": 3,
+		"sponsorPosition": "left"
+	},
+	"menu": {
+		"position": "left"
+	},
+	"grid": {
+		"pageInsets": {
+			"top": 0,
+			"right": 0,
+			"bottom": 0,
+			"left": 0
+		},
+		"cellInsets": {
+			"top": 1,
+			"right": 1,
+			"bottom": 1,
+			"left": 1
+		}
+	},
+	"fronts": [
+		{
+			"display": "News",
+			"tracking": "news",
+			"url": "http://api.gannett-cdn.com/internal/MobileServices/MArticleService.svc/mcontent/v1/fronts/Sports_Cyclone_Insider_Tablet?siteId=57&api_key=pqrctgph7d5z4337uex6pfv3",
+			"loader": "PrestoLoader"
+		},
+		{
+			"display": "USA Today Sports",
+			"tracking": "usatodaysports",
+			"url": "http://api.gannett-cdn.com/internal/MobileServices/MArticleService.svc/mcontent/v1/fronts/Sports_NCAAF_Tablet?siteId=1&api_key=djw5wr46jscgm39d8bd2rpcy",
+			"loader": "PrestoLoader"
+		},
+		{
+			"display": "Tweets",
+			"tracking": "tweets",
+			"url": "http://sports.cincinnati.com/cfoot/iowast/tweets",
+			"loader": "WebAppLoader"
+		},
+		{
+			"display": "Gamecast",
+			"tracking": "gamecast",
+			"url": "http://sports.cincinnati.com/cfoot/iowast/gamecast/mobile",
+			"ipad": "http://sports.cincinnati.com/cfoot/iowast/gamecast",
+			"loader": "WebAppLoader"
+		},
+		{
+			"display": "Scores",
+			"tracking": "scores",
+			"url": "http://sports.cincinnati.com/cfoot/iowast/scores",
+			"loader": "WebAppLoader"
+		},
+		{
+			"display": "Schedule",
+			"tracking": "schedule",
+			"url": "http://sports.cincinnati.com/cfoot/iowast/games",
+			"loader": "WebAppLoader"
+		},
+		{
+			"display": "Players",
+			"tracking": "players",
+			"url": "http://sports.cincinnati.com/cfoot/iowast/roster",
+			"loader": "WebAppLoader"
+		},
+		{
+			"display": "Standings",
+			"tracking": "standings",
+			"url": "http://sports.cincinnati.com/cfoot/iowast/standings",
+			"loader": "WebAppLoader"
+		},
+		{
+			"display": "Privacy Notice",
+			"tracking": "privacy",
+			"url": "http://static.desmoinesregister.com/privacy/",
+			"loader": "WebAppLoader"
+		},
+		{
+			"display": "Your California Privacy Notice",
+			"tracking": "californiaprivacy",
+			"url": "http://static.desmoinesregister.com/privacy/",
+			"loader": "WebAppLoader"
+		},
+		{
+			"display": "Terms of Service",
+			"tracking": "terms",
+			"url": "http://static.desmoinesregister.com/terms/",
+			"loader": "WebAppLoader"
+		},
+		{
+			"display": "Ad Choices",
+			"tracking": "adchoices",
+			"url": "http://static.desmoinesregister.com/adchoices/",
+			"loader": "WebAppLoader"
+		}
+	],
+	"urbanairship": {
+		"enabled": true,
+		"menuText": "Manage Push Alerts",
+		"tokens": {
+			"developmentAppKey": "",
+			"developmentAppSecret": "",
+			"productionAppKey": "LOp55_LUS8CophdUqBFTnQ",
+			"productionAppSecret": "_BvY3dp-SxqgYn4oRvqvGQ"
+		},
+		"defaultTags": [
+			"cyclones_football"
+		],
+		"mandatoryTags": [
+			"segmentable"
+		],
+		"optionalTags": [
+			{
+				"tag": "cyclones_football",
+				"name": "Cyclones Football"
+			}
+		]
+	},
+	"dfp": {
+		"testing": false,
+		"testDevices": [],
+		"testNetworkId": "7070",
+		"networkId": "7103",
+		"propertyId": "ia-desmoines-mobile-C1150",
+		"appName": "app",
+		"positions": {
+			"sectionFront": "article_banner"
+		},
+		"adUnitIdFormat": "/{networkId}/{propertyId}/{device}_{appName}-{position}",
+		"shouldAppendAWS": true,
+		"appendCustomPath": "/sports/college/features_iowastate",
+		"validSizes": {
+			"iPad": [
+				{
+					"width": 180,
+					"height": 150
+				},
+				{
+					"width": 180,
+					"height": 430
+				}
+			],
+			"iPhone": [
+				{
+					"width": 320,
+					"height": 50
+				}
+			]
+		}
+	},
+	"omniture": {
+		"active": true,
+		"appName": "WLNA|DesMoinesRegister|Cyclones",
+		"trackingServer": "repdata.desmoinesregister.com",
+		"marketId": "gpapermobile122"
+	},
+	"firefly": {
+		"active": true,
+		"sam": {
+			"propertyHostName": "desmoinesregister",
+			"publicationCode": "DA",
+			"unitNumber": "1150",
+			"environment": "PROD"
+		},
+		"iap": [
+			{
+				"receiptRegisterURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/register/apple?api_key=gqajcqwkc45375przsk3gr3b",
+				"receiptValidateURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/validate/apple?api_key=gqajcqwkc45375przsk3gr3b",
+				"productId": "com.gannett.dolly.Cyclones.1moDOa",
+				"commonName": "Subscription",
+				"class": "LocalSubscriptionInAppPurchase",
+				"button": "appOneMonth"
+			},
+			{
+				"receiptRegisterURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/register/apple?api_key=gqajcqwkc45375przsk3gr3b",
+				"receiptValidateURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/validate/apple?api_key=gqajcqwkc45375przsk3gr3b",
+				"productId": "com.gannett.dolly.Cyclones.1yrDOa.rev2",
+				"commonName": "Subscription",
+				"class": "LocalSubscriptionInAppPurchase",
+				"button": "appOneYear"
+			},
+			{
+				"receiptRegisterURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/register/apple?api_key=gqajcqwkc45375przsk3gr3b",
+				"receiptValidateURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/validate/apple?api_key=gqajcqwkc45375przsk3gr3b",
+				"productId": "com.gannett.dolly.Cyclones.1yrDOa",
+				"commonName": "Subscription",
+				"class": "LocalSubscriptionInAppPurchase",
+				"button": ""
+			}
+		],
+		"userOptionNames": {
+			"login": "Log In",
+			"logout": "Log Out",
+			"subscribe": "Subscribe",
+			"restore": "Restore iTunes Purchase",
+			"create": "Create Full Digital Account"
+		}
+	},
+	"prestoLoader": {
+		"replaceStoryURLWithWlnaURL": true,
+		"adPlacementOverride": "poster_wlna"
+	}
+}
+}

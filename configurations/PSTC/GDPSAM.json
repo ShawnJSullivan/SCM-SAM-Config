@@ -1,0 +1,73 @@
+{
+	"title": "St. Cloud Times",
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.sctimes.com",
+			"trackingSuite": "gpaper172, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "SCTimes.com"
+	},
+	"mobile": {
+		"title": "SCTimes.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.sctimes.com/trial-expired/",
+				"restricted": "https://subscribe.sctimes.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "St. Cloud Times iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1076",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile172"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/403"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/403"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/407"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/407"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "St. Cloud Times Native News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1076",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile172"
+		}
+	}
+}

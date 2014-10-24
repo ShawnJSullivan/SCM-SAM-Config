@@ -1,0 +1,78 @@
+{
+	"baseName": "greatfallstribune",
+	"mobilesite": "m.greatfallstribune.com",
+	"cobrandLogo": "http://tablet.greatfallstribune.com/property/logo",
+	"emailNewsTips": "tribonline@greatfallstribune.com",
+	"location": {
+		"timezone": "America/North_Dakota/Center",
+		"name": "Great Falls, MT",
+		"zip": "59405",
+		"coordinates": "47.5036,-111.2864",
+		"latitude": 47.5036,
+		"longitude": -111.2864
+	},
+	"twitter": {
+		"name": "GFTribune"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.greatfallstribune.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile131"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "137930962930704"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.greatfallstribune.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.greatfallstribune.com/privacy/",
+		"TOS_URL": "http://static.greatfallstribune.com/terms/",
+		"AD_CHOICES_URL": "http://static.greatfallstribune.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "3c4262d4-1ebf-4bcf-a550-8d89cfcb95cd"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Great Falls Tribune. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.greatfallstribune.iphone.autosubscription.1month",
+		"MARKET_ID": "G1",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id528270288?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/greatfallstribune",
+		"ITUNES_APPID": "528270288",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/greatfallstribune/id528270288?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.greatfallstribune"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/North_Dakota/Center",
+		"BRAND_LOCATION": "Great Falls, Montana",
+		"BRAND_LOCATION_ZIP": "59405",
+		"BRAND_IDENTIFIER": "n_greatfallstribune",
+		"BRAND_LOCATION_GPS": "47.5036,-111.2864",
+		"BRAND_LOGO_URL": "http://www.greatfallstribune.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "DIlcQwru_6w7c31Cl_cDX13-O_MKDhFlgG0E4G0gg64Y281K5TdMfQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.greatfallstribune.com",
+		"BRAND_NEWS_TIP": "tribonline@greatfallstribune.com",
+		"CONTACT_US_EMAIL": "tribcirc@greatfallstribune.com",
+		"BRAND_NAME": "Great Falls Tribune",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.greatfallstribune.com",
+		"BRAND_TWITTER": "GFTribune"
+	}
+}

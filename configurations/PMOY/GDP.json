@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Montgomery Advertiser",
+	"title": "The Montgomery Advertiser",
+	"marketId": "DS",
+	"brandId": "1123MA",
+	"cobrandLogoText": "MontgomeryAdvertiser.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0007",
+	"website": "www.montgomeryadvertiser.com",
+	"baseName": "montgomeryadvertiser",
+	"email": "mtgadvertiser@gannett.com",
+	"state": "AL",
+	"links": {
+		"termsOfServiceURL": "http://static.montgomeryadvertiser.com/terms/",
+		"caliPrivacyURL": "http://static.montgomeryadvertiser.com/privacy/",
+		"privacyURL": "http://static.montgomeryadvertiser.com/privacy/",
+		"adChoicesURL": "http://static.montgomeryadvertiser.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"chat": {
+		"publicationId": "Montgomery"
+	},
+	"dealChicken": {
+		"marketKey": "montgomery-al"
+	},
+	"facebook": {
+		"secret#private": "c7cf2f701f102b32eff4f3ac48d29790",
+		"productId": "163677993677689"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.montgomeryadvertiser.com",
+		"trackingSuite": "gpaper147, gntbcstglobal"
+	},
+			"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Montgomery"
+		},
+		"email": "mtgadvertiser@gannett.com",
+		"phone": "1-877-424-0007"
+	}
+}

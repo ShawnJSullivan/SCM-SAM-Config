@@ -1,0 +1,40 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.cincinnati.com"
+		},
+		"multiPublication" : {
+			"enabled" : true,
+			"publications": [
+				{
+					"marketId": "BG",
+					"baseName": "indystar",
+					"title": "Indianapolis Star",
+					"description": "Use this publication for end-to-end testing."
+				},
+				{
+					"marketId": "AB",
+					"baseName": "cincinnati",
+					"title": "The Cincinnati Enquirer",
+					"description": "This publication will NOT allow end-to-end testing."
+				},
+				{
+					"marketId": "BL",
+					"baseName": "delawareonline",
+					"title": "The News Journal",
+					"description": "This publication will NOT allow end-to-end testing."
+				}
+			]
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/36"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	}
+}

@@ -1,0 +1,78 @@
+{
+	"baseName": "rgj",
+	"mobilesite": "m.rgj.com",
+	"cobrandLogo": "http://tablet.rgj.com/property/logo",
+	"emailNewsTips": "tips@rgj.com",
+	"location": {
+		"timezone": "America/Nevada",
+		"name": "Reno, NV",
+		"zip": "89501",
+		"coordinates": "39.5272,-119.8219",
+		"latitude": 39.5272,
+		"longitude": -119.8219
+	},
+	"twitter": {
+		"name": "rgj"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.rgj.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile162"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "178959168788968"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.rgj.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.rgj.com/privacy/",
+		"TOS_URL": "http://static.rgj.com/terms/",
+		"AD_CHOICES_URL": "http://static.rgj.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "452683f1-96e8-4eba-b537-b41a82e7d433"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Reno Gazette-Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.rgj.iphone.autosubscription.1month",
+		"MARKET_ID": "J7",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id435103825?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/rgjnews",
+		"ITUNES_APPID": "435103825",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/rgjnews/id435103825?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.RGJNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Nevada",
+		"BRAND_LOCATION": "Reno, Nevada",
+		"BRAND_LOCATION_ZIP": "89501",
+		"BRAND_IDENTIFIER": "n_rgj",
+		"BRAND_LOCATION_GPS": "39.5272,-119.8219",
+		"BRAND_LOGO_URL": "http://www.rgj.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "SF329WrLKXORkOdAS44AvsNF3Ik-u0xHn9fh1zXOSMgv3dw0i_0HOw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.rgj.com",
+		"BRAND_NEWS_TIP": "tips@rgj.com",
+		"CONTACT_US_EMAIL": "tips@rgj.com",
+		"BRAND_NAME": "Reno Gazette-Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.rgj.com",
+		"BRAND_TWITTER": "rgj"
+	}
+}

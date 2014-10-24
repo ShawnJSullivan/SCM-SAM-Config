@@ -1,0 +1,10 @@
+{
+	"default": {
+		"tealium": {
+			"environment": "qa"
+		},
+		"pciAPI": {
+			"baseURL": "https://betasubscription-self-serve.gannett.com/"
+		}
+	}
+}

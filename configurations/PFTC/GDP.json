@@ -1,0 +1,48 @@
+{
+	"publicationName": "The Coloradoan",
+	"title": "The Coloradoan",
+	"marketId": "G2",
+	"brandId": "1021CO",
+	"baseName": "coloradoan",
+	"cobrandLogoText": "Coloradoan.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0063",
+	"website": "www.coloradoan.com",
+	"email": "circulation@coloradoan.com",
+	"state": "CO",
+	"links": {
+		"termsOfServiceURL": "http://static.coloradoan.com/terms/",
+		"caliPrivacyURL": "http://static.coloradoan.com/privacy/",
+		"privacyURL": "http://static.coloradoan.com/privacy/",
+		"adChoicesURL": "http://static.coloradoan.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10,
+		"enabled": true
+	},
+	"chat": {
+		"publicationId": "FortCollins"
+	},
+	"dealChicken": {
+		"marketKey": "northern-colorado-co"
+	},
+	"facebook": {
+		"secret#private": "a88b89f078e380b7ba1e9af1f9f87d20",
+		"productId": "140942715960163"
+	},
+	"twitter": {
+		"name": "coloradoan"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.coloradoan.com",
+		"trackingSuite": "gpaper127, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "FortCollins"
+		},
+		"email": "circulation@coloradoan.com",
+		"phone": "1-877-424-0063"
+	}
+}

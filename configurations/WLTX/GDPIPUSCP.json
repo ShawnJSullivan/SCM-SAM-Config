@@ -1,0 +1,182 @@
+{
+	"baseName": "WLTX",
+	"mobilesite": "m.wltx.com",
+	"cobrandLogo": "http://tablet.wltx.com/property/logo",
+	"emailNewsTips": "news19@wltx.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Columbia, SC",
+		"zip": "29201",
+		"coordinates": "33.9836,-80.9656",
+		"latitude": 33.9836,
+		"longitude": -80.9656
+	},
+	"twitter": {
+		"name": "WLTX"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "WLTX Native News iPhone",
+		"trackingServer": "repdata.wltx.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstwltx",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "104921832917261"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.wltx.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.wltx.com/privacy/",
+		"TOS_URL": "http://static.wltx.com/terms/",
+		"adchoices_URL": "http://static.wltx.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © 2014 WLTX-TV. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "WLTX",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id469391887?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/wltx",
+		"ITUNES_APPID": "469391887",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/wltx/id469391887?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.WLTXNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Columbia, South Carolina",
+		"BRAND_LOCATION_ZIP": "29201",
+		"BRAND_IDENTIFIER": "b_wltx",
+		"BRAND_LOCATION_GPS": "33.9836,-80.9656",
+		"BRAND_LOGO_URL": "http://www.wltx.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "E17JDZbJ0oPrHoU7aYPaXmkwlmfNH7hN8jJzD0TfFewMD1es1wIcLg..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.wltx.com",
+		"BRAND_NEWS_TIP": "news19@wltx.com",
+		"CONTACT_US_EMAIL": "webmaster@WLTX.com",
+		"BRAND_NAME": "WLTX.com",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.wltx.com",
+		"BRAND_TWITTER": "WLTX"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "sc-columbia-WLTX-mobile-B3334",
+		"amazonA9AppId": "861effe4f5064bb7b53b288cf3dbee8b",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_wltx.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_wltx.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+		"CellJournalist" : {
+		"Url" : "http://yourtake.wltx.com",
+		"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "101",
+		"qa": "103",
+		"staging": "107",
+		"dev": "131",
+		"prod": "101",
+		"prod-moc": "101",
+		"prod-phx": "101"
+	}
+}

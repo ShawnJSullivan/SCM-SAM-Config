@@ -1,0 +1,44 @@
+{
+	"publicationName": "Press & Sun-Bulletin",
+	"title": "Press & Sun-Bulletin",
+	"marketId": "CB01",
+	"brandId": "1007PS",
+	"cobrandLogoText": "PressConnects.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-253-5343",
+	"website": "www.pressconnects.com",
+	"baseName": "pressconnects",
+	"email": "pressandsun@gannett.com",
+	"state": "NY",
+	"links": {
+		"termsOfServiceURL": "http://static.pressconnects.com/terms",
+		"caliPrivacyURL": "http://static.pressconnects.com/privacy",
+		"privacyURL": "http://static.pressconnects.com/privacy",
+		"adChoicesURL": "http://static.pressconnects.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Binghamton"
+	},
+	"dealChicken": {
+		"marketKey": "binghamton-ny"
+	},
+	"facebook": {
+		"secret#private": "52ecae082a7071859487745e3cbc4c0b",
+		"productId": "176086195755788"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.pressconnects.com",
+		"trackingSuite": "gpaper112, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Binghamton"
+		},
+		"email": "pressandsun@gannett.com",
+		"phone": "1-800-253-5343"
+	}
+}

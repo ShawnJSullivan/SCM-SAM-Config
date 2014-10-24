@@ -1,0 +1,105 @@
+{
+	"default": {
+		"support": {
+			"accountNewsletters" : {
+				"byGroupEnabled": true,
+				"showLogoInPage": false,
+				"dealChickenEnabled": false,
+				"offersEnabled" : false,
+				"showGroupName" : false,
+				"showTitleSupplement": false
+			}
+		},
+		"dictionary": {
+			"account_newsletters_specialPageTitleEmail": "Newsletter settings",
+			"account_newsletters_specialPageTitle": "SUBSCRIBE TO USA TODAY NEWSLETTERS",
+			"account_newsletters_specialPageTitleSupplement": "To sign up for free newsletters, just make your selections, share your email address and click sign me up.",
+			"account_newsletters_pageTitle": "EMAIL NEWSLETTERS",
+			"account_newsletters_titleSupplement": " ",
+			"account_newsletters_formOurPromise": ["OUR PROMISE TO YOU:",
+				"1. We will never give your e-mail address to anyone else for any reason.",
+				"2. You can opt-out at any time."],
+			"account_newsletters_formFinePrint": ["Signing up for newsletters indicates you agree with our <a href={{config.links.termsOfServiceURL}}>terms of service</a>",
+				"If you decide that you no longer want to receive a newsletter, you can unsubscribe by clicking the &quot;Unsubscribe&quot; link, located at the bottom of each newsletter."]
+		},
+		"displayMessages": {
+			"gems_subscribersPost" : {
+				"0" : "Your preferences have been updated."
+			}
+		},
+		"omniture": {
+			"trackingServer": "srepdata.usatoday.com",
+			"trackingSuite": "usatodayprod, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "USATODAY.com"
+	},
+	"mobile": {
+		"title": "USATODAY.com | Mobile Edition",
+		"omniture": {
+			"trackingSuite": "gpapermobileapp"
+		}
+	},
+	"ios": {
+		"title": "USA TODAY iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "UT",
+			"unitNumber": "8872",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobileapp"
+		}
+	},
+	"ios_ipad": {
+		"title": "USA TODAY Native iPad App",
+		"core": {
+			"navigationPath": "schema/id/1543"
+		}
+	},
+	"ios_ipad_3p5p2": {
+		"title": "USA TODAY Native iPhone App",
+		"core": {
+			"navigationPath": "schema/id/1543"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_3p5p2"
+		]
+	},
+	"ios_iphone": {
+		"title": "USA TODAY Native iPhone App",
+		"core": {
+			"navigationPath": "schema/id/1281"
+		}
+	},
+	"ios_iphone_2": {
+		"title": "USA TODAY Native iPhone App",
+		"core": {
+			"navigationPath": "schema/id/1281"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"ios_iphone_2p5p3": {
+		"additionalConfigs": [
+			"GDPIPUSCP2P5P3"
+		]
+	},
+	"android": {
+		"title": "USA TODAY Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "UT",
+			"unitNumber": "8872",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobileapp"
+		}
+	}
+}

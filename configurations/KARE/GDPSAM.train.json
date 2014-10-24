@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "gntbcstkare,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/143"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1221"
+		}
+	}
+}

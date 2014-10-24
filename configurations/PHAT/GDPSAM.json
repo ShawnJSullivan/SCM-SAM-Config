@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.hattiesburgamerican.com",
+			"trackingSuite": "gpaper135, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "hattiesburgamerican.com"
+	},
+	"mobile": {
+		"title": "hattiesburgamerican.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.hattiesburgamerican.com/trial-expired/",
+				"restricted": "https://subscribe.hattiesburgamerican.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Hattiesburg American iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "HD",
+			"unitNumber": "1099",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile135"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1155"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1155"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1153"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1153"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Hattiesburg American Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "HD",
+			"unitNumber": "1099",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile135"
+		}
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"publicationName": "Pensacola News Journal",
+	"title": "Pensacola News Journal",
+	"marketId": "DP",
+	"brandId": "1063NJ",
+	"cobrandLogoText": "PNJ.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0028",
+	"website": "www.pnj.com",
+	"baseName": "pnj",
+	"email": "customerservice@pnj.com",
+	"state": "FL",
+	"links": {
+		"termsOfServiceURL": "http://static.pnj.com/terms/",
+		"caliPrivacyURL": "http://static.pnj.com/privacy/",
+		"privacyURL": "http://static.pnj.com/privacy/",
+		"adChoicesURL": "http://static.pnj.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Pensacola"
+	},
+	"dealChicken": {
+		"marketKey": "pensacola-fl"
+	},
+	"facebook": {
+		"secret#private": "da614b5da9f578f0d1278f57b5c2e232",
+		"productId": "179056438789435"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15,
+		"enabled": true
+	},
+	"omniture": {
+		"trackingServer": "srepdata.pnj.com",
+		"trackingSuite": "gpaper157, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Pensacola"
+		},
+		"email": "newsjournal@gannett.com",
+		"phone": "1-877-424-0028"
+	}
+}

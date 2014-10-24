@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Times",
+	"title": "The Times",
+	"marketId": "D9",
+	"brandId": "1040ST",
+	"state": "LA",
+	"cobrandLogoText": "ShreveportTimes.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-866-979-6397",
+	"website": "www.shreveporttimes.com",
+	"baseName": "shreveporttimes",
+	"email": "timesshreveport@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.shreveporttimes.com/terms/",
+		"caliPrivacyURL": "http://static.shreveporttimes.com/privacy/",
+		"privacyURL": "http://static.shreveporttimes.com/privacy/",
+		"adChoicesURL": "http://static.shreveporttimes.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Shreveport"
+	},
+	"dealChicken": {
+		"marketKey": "shreveport-la"
+	},
+	"facebook": {
+		"secret#private": "a65e456b83b8ee96a08e5a39c7c1895e",
+		"productId": "170028863032820"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"omniture": {
+		"trackingServer": "srepdata.shreveporttimes.com",
+		"trackingSuite": "gpaper169, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Shreveport"
+		},
+		"email": "timesshreveport@gannett.com",
+		"phone": "1-866-979-6397"
+	}
+}

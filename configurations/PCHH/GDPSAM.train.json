@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "gpapermobile119"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/319"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/323"
+		}
+	}
+}

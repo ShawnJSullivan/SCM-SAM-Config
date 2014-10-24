@@ -1,0 +1,41 @@
+{
+	"publicationName": "WFMY News 2",
+	"title": "WFMYNews2.COM",
+	"marketId": "WFMY",
+	"brandId": "3320WFMY",
+	"cobrandLogoText": "WFMYNews.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-593-3692",
+	"website": "www.wfmynews2.com",
+	"baseName": "wfmynews2",
+	"email": "2WTK@wfmy.com",
+	"state": "NC",
+	"links": {
+		"termsOfServiceURL": "http://static.wfmynews2.com/terms/",
+		"caliPrivacyURL": "http://static.wfmynews2.com/privacy/",
+		"privacyURL": "http://static.wfmynews2.com/privacy/",
+		"adChoicesURL": "http://static.wfmynews2.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "the-triad-nc"
+	},
+	"facebook": {
+		"secret#private": "1deb8029f6a17e9ff9fb96ada944b073",
+		"productId": "142105475850211"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.digtriad.com",
+		"trackingSuite": "gntbcstwfmy,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "2WTK@wfmy.com",
+		"phone": "1-800-593-3692"
+	}
+}

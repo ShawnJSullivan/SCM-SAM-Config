@@ -1,0 +1,40 @@
+{
+	"publicationName": "The News-Star",
+	"title": "The News-Star",
+	"marketId": "DI",
+	"brandId" : "1040NS",
+	"state": "LA",
+	"baseName": "thenewsstar",
+	"website": "www.thenewsstar.com",
+	"cobrandLogoText": "TheNewsStar.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0036",
+	"email": "monroenewsstar@gannett.com",
+	"facebook": {
+		"productId": "174541472579431",
+		"secret#private": "d0271f951ded2874f74a64a5be6c0c9d"
+	},
+	"dealChicken": {
+		"marketKey" : "monroe-la"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.thenewsstar.com/terms/",
+		"caliPrivacyURL": "http://static.thenewsstar.com/privacy/",
+		"privacyURL": "http://static.thenewsstar.com/privacy/",
+		"adChoicesURL": "http://static.thenewsstar.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Monroe"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Monroe"
+		},
+		"email": "monroenewsstar@gannett.com",
+		"phone": "1-877-424-0036"
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.montgomeryadvertiser.com",
+			"trackingSuite": "gpaper147, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "MontgomeryAdvertiser.com"
+	},
+	"mobile": {
+		"title": "MontgomeryAdvertiser.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.montgomeryadvertiser.com/trial-expired/",
+				"restricted": "https://subscribe.montgomeryadvertiser.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Montgomery Advertiser iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1123",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile147"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/487"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/487"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/491"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/491"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Montgomery Advertiser Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1123",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile147"
+		}
+	}
+}

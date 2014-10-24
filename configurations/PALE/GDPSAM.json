@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.thetowntalk.com",
+			"trackingSuite": "gpaper105, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "thetowntalk.com"
+	},
+	"mobile": {
+		"title": "thetowntalk.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thetowntalk.com/trial-expired/",
+				"restricted": "https://subscribe.thetowntalk.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Town Talk iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OT",
+			"unitNumber": "1040",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile105"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1183"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1183"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1181"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1181"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Town Talk Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OT",
+			"unitNumber": "1040",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile105"
+		}
+	}
+}

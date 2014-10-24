@@ -1,0 +1,44 @@
+{
+	"publicationName": "Times Herald",
+	"title": "The Times Herald",
+	"marketId": "BP",
+	"brandId": "1051TH",
+	"state": "MI",
+	"cobrandLogoText": "TheTimesHerald.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-686-1213",
+	"website": "www.thetimesherald.com",
+	"baseName": "thetimesherald",
+	"email": "porthurontimesherald@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.thetimesherald.com/terms/",
+		"caliPrivacyURL": "http://static.thetimesherald.com/privacy/",
+		"privacyURL": "http://static.thetimesherald.com/privacy/",
+		"adChoicesURL": "http://static.thetimesherald.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "PortHuron"
+	},
+	"dealChicken": {
+		"marketKey": "port-huron-mi"
+	},
+	"facebook": {
+		"secret#private": "f81d69b06c95f9c331c2443cb4c9f568",
+		"productId": "112964595441805"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.thetimesherald.com",
+		"trackingSuite": "gpaper160, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "PortHuron"
+		},
+		"email": "porthurontimesherald@gannett.com",
+		"phone": "1-800-686-1213"
+	}
+}

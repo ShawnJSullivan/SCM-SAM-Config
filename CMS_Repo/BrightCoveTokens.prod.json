@@ -1,0 +1,1024 @@
+{
+    "ArrayOfToken": {
+        "-xmlns:xsd": "http://www.w3.org/2001/XMLSchema",
+        "-xmlns:xsi": "http://www.w3.org/2001/XMLSchema-instance",
+        "Token": [
+            {
+                "SiteId": "1",
+                "SiteName": "USA Today",
+                "BrightcoveId": "29906170001",
+                "WriteToken": "_m35zHtlGBSeGp29YgDoOv2zcjb6g8gR8cprx77ahDoBAgivfA86Dg..",
+                "ReadTokenUrl": "q5_Y4xoa5cyPszGwuztctcIelcmgwIFXqWKmIhNV1ar4U2lNQdGfmQ..",
+                "UnfilteredToken": "KsfPl8MSS8ehseiXk6ejmnaXd7VCJoRLPB_171vOfHN0ro8GX3haWA.."
+            },
+            {
+                "SiteId": "269",
+                "SiteName": "KVUE",
+                "BrightcoveId": "3427415713001",
+                "WriteToken": "a2KW-bjccwipX4SdDtepmiC16IxYJoUg1A294zmt0pwBok_IGXVBOw..",
+                "ReadTokenUrl": "a2KW-bjccwipX4SdDtepmiC16IxYJoUgucbNqAQvX7d8fnbeMLT8_A..",
+                "UnfilteredToken": "nvZCtGvpLYS1JMESdBSPQvLq_QmLXtt1YKFmy4vLAsBGA-zeNwCYjw.."
+            },
+            {
+                "SiteId": "273",
+                "SiteName": "KENS",
+                "BrightcoveId": "3616287834001",
+                "WriteToken": "0Md81Pv5JqvICQyAA9icDvGnVSqhAnEisvB0Bnwp_eDW6N28otuVWA..",
+                "ReadTokenUrl": "0Md81Pv5JqvICQyAA9icDvGnVSqhAnEie7E2-krOktmlZuBmpw59YA..",
+                "UnfilteredToken": "PF-Z5KWQx-tjtQoS0t0yPO7_2PnXnLnpZgK6pG4jpmxeiJCGQX_ajg.."
+            },
+            {
+                "SiteId": "283",
+                "SiteName": "KGW",
+                "BrightcoveId": "3655502862001",
+                "WriteToken": "yBIYm_8omLfbAseuIyXMebnt0JrEPuGcCNkok8L0HW6nZ5J-I5dm3g..",
+                "ReadTokenUrl": "yBIYm_8omLfbAseuIyXMebnt0JrEPuGcETP1tNlkcyCCcYbgq4I1Tg..",
+                "UnfilteredToken": "aLUDQ1dTluogpnJZdH-YsKDhU2nCf_2FJX6F1U9uAN9tjQcY2PyY7w.."
+            },
+            {
+                "SiteId": "281",
+                "SiteName": "KING",
+                "BrightcoveId": "3655502863001",
+                "WriteToken": "yBIYm_8omLceOemRkYdKm2x-NB8P_h4C78Tk6qtXXZaGZtJaaEVTBg..",
+                "ReadTokenUrl": "yBIYm_8omLceOemRkYdKm2x-NB8P_h4CrgWwMufse1vLjaZBwsj_HA..",
+                "UnfilteredToken": "ATQN2QiLE3e3Sq5xlT9hc0lcyF4fCcf2nVRp-QXaryxsNxJAJXmGjQ.."
+            },
+            {
+                "SiteId": "287",
+                "SiteName": "WFAA",
+                "BrightcoveId": "3655502865001",
+                "WriteToken": "ncqYlD97cqMOhk6BDaXgLLdnatZeT9T4egsK9N6l4Fau7gF4uDSIbA..",
+                "ReadTokenUrl": "ncqYlD97cqMOhk6BDaXgLLdnatZeT9T4c6tRE9MhBZFDsbH_QUUdaQ..",
+                "UnfilteredToken": "G1h8wd3IPdYkqwcM1Tt7_ye8tfjtjzG7laMzLytLsgJB_IjOLhz6aQ.."
+            },
+            {
+                "SiteId": "291",
+                "SiteName": "WVEC",
+                "BrightcoveId": "3655502867001",
+                "WriteToken": "oLJCuIEqA-eHz6QzCqgqnNO4sIwnHMAEG746IP5kPRJ6nNNE0J1K6A..",
+                "ReadTokenUrl": "oLJCuIEqA-eHz6QzCqgqnNO4sIwnHMAEh7ph_iaByi77XfMomH5e7w..",
+                "UnfilteredToken": "eutz09vcZMTVStCRd2DoV9DAO1QoiAzlu1cnk-46zx4-gNknG2x58g.."
+            },
+            {
+                "SiteId": "289",
+                "SiteName": "WWL",
+                "BrightcoveId": "3655502866001",
+                "WriteToken": "oLJCuIEqA-cTe7_JAEM-xW_0qtnZinrOn9fA_5tAo07FW3hxcpu9ag..",
+                "ReadTokenUrl": "oLJCuIEqA-cTe7_JAEM-xW_0qtnZinrOT0nBUme8jakE3lnc_nBFJg..",
+                "UnfilteredToken": "ATQN2QiLE3evCyR3n7y82-98fpg0wsKjrWr9yz3SlXdm-MWDK7yGdQ.."
+            },
+            {
+                "SiteId": "277",
+                "SiteName": "KTVB",
+                "BrightcoveId": "3616287835001",
+                "WriteToken": "zyr96cL6tO0sqD_-uaG0Q7pv6P44ZbUn4tqQp-Z0yWKrCOE-N6O1gA..",
+                "ReadTokenUrl": "zyr96cL6tO0sqD_-uaG0Q7pv6P44ZbUn2ocAbdH9788EgiQCT0XwWg..",
+                "UnfilteredToken": "qkTcjngplSzQDxneO4JDQDT4NUkJcWcryAgqAgKrZXwTEnLXAKV_Ng.."
+            },
+            {
+                "SiteId": "275",
+                "SiteName": "WCNC",
+                "BrightcoveId": "3562770994001",
+                "WriteToken": "8LQkh4G_cF2KVwCk15wWZu6_9c1Z6GZD1ykVmTJ739ieWiKlSigJSg..",
+                "ReadTokenUrl": "8LQkh4G_cF2KVwCk15wWZu6_9c1Z6GZDeTEDGfaKEKAAqhLELE86Ug..",
+                "UnfilteredToken": "dCwFypnY5irJzRoru7KzzD76aK436VXcdh3laKUQPeyRvXdATt-boA.."
+            },
+            {
+                "SiteId": "285",
+                "SiteName": "KHOU",
+                "BrightcoveId": "3623811477001",
+                "WriteToken": "k4HrS1FtR5yESDn5Dp4ETJh28cHsnUk-NK1OabTAr5IwMPc0edMksQ..",
+                "ReadTokenUrl": "k4HrS1FtR5yESDn5Dp4ETJh28cHsnUk-8en9kx9E9Z63bXOMPTIklA..",
+                "UnfilteredToken": "6ojM30rVGz_FqvhJ1EyQDWuXycl9WZzfiYtRmameZBkJQGuqgVHtrQ.."
+            },
+            {
+                "SiteId": "77",
+                "SiteName": "WTLV",
+                "BrightcoveId": "35067928001",
+                "WriteToken": "2vt7KyXXFeARIAtttjaioZ_I_851-8zwTUcC5-C5U-nbtYxRQm5NJw..",
+                "ReadTokenUrl": "-gBhKMURrl2-pf8opvTamcap6_2Kma0iMS-LKzjbd4ODtIPB0xqFWg..",
+                "UnfilteredToken": "42Bw_f8YnVR3m9cFoA2uJuvto-eMYqlJn-qV1mBS3dbqiGzRp3a4Sw.."
+            },
+            {
+                "SiteId": "89",
+                "SiteName": "KARE",
+                "BrightcoveId": "35140830001",
+                "WriteToken": "fsIvWXCP3prr7FQf6GhjWhwJhxSKcah2zRbDn4goOahSGAzWqjNE-w..",
+                "ReadTokenUrl": "rOhe8EmSiGcOxLhtNsCU1EpP0iJ8ZyqsmcBCAhcZLwwqDd5cRBa7dw..",
+                "UnfilteredToken": "tcsXQgfIXKagdc6LXS2k48z4VcNzzzvMniIoXCEbA9-i13e2e6_85A.."
+            },
+            {
+                "SiteId": "63",
+                "SiteName": "KSDK",
+                "BrightcoveId": "35121359001",
+                "WriteToken": "J3WcqW9tKu_ymb0B0k0dQDzYJt-L4DP53zr2qK0MoYmgb5s9E9UZ7g..",
+                "ReadTokenUrl": "LG0Qkm12j0EGjzIpRxfiPUv1DWmu1istamapP-BU5JytKERjobLPWA..",
+                "UnfilteredToken": "OXj5pHyWjOneUO9Z3cbjw4xVG71HjhQJqSkL_QIaqzGClMziN52pbw.."
+            },
+            {
+                "SiteId": "91",
+                "SiteName": "KTHV",
+                "BrightcoveId": "34300056001",
+                "WriteToken": "TBmAjsXcl8wgqx3VreL932KQ0kyu_UpSeKwH6Ev7gcApyUcNkYH4ig..",
+                "ReadTokenUrl": "xTHxCxqMMQnE_5hcJo2yknxayzA2XvQksSiP35Tlh5ctFo0wseIDTw..",
+                "UnfilteredToken": "415NYu-WUiQorjCXog1PU2FlufdNFcwTEP2OYqWEURaqWU__7FhOcw.."
+            },
+            {
+                "SiteId": "73",
+                "SiteName": "KUSA",
+                "BrightcoveId": "34295199001",
+                "WriteToken": "toPZYGEsq07zFGAaUfF_e13eCIw_omfWdGvhP_YkPTR3U9wPWD2CuA..",
+                "ReadTokenUrl": "etuksGUzI-wuq9b12KGtOr6IiLkbYMdTIwJiSRaHo5AtHafu_f-urQ..",
+                "UnfilteredToken": "AlxsDTIRqMDSiVwAB7Nv4OB8IH5gDtAko6p0FCgONAoeJBqMh54ugw.."
+            },
+            {
+                "SiteId": "103",
+                "SiteName": "KXTV",
+                "BrightcoveId": "35121343001",
+                "WriteToken": "vWtSPp_CL_WobfHg7RRzkvSL3UX_VH0gcyIP6FDpN0sCmFvDgY57RA..",
+                "ReadTokenUrl": "NGwYZc7TrcBMd0b7xD6F1lexqArJlsRmDh0xP1Jr75LmjdyiNKDwnw..",
+                "UnfilteredToken": "kFsRY4eONoiH2-sr-gIQlhm_f7GB-O1oURwiV9yHsAtBgCZGlXuVXw.."
+            },
+            {
+                "SiteId": "51",
+                "SiteName": "WBIR",
+                "BrightcoveId": "29913744001",
+                "WriteToken": "9rrvDgD07g2L5B3kf4SMxnZapRNmTJN-6ehofo12q7idJmeWVVN09A..",
+                "ReadTokenUrl": "9rrvDgD07g1GoqvfytvHrw-Vlgrrp2I22eSC4SMlDmMPJIE7u1DLvA..",
+                "UnfilteredToken": "ZuJUWNpboe4ZcBUxCznrXfTzSZifMGvo6HY_1H-PQihVSZCNm4jNMg.."
+            },
+            {
+                "SiteId": "97",
+                "SiteName": "WCSH",
+                "BrightcoveId": "35121342001",
+                "WriteToken": "5CCzzGO0B195ozaBke4wtP7ABv45N2LxroSi7GSEeiFBhuv22DPfKA..",
+                "ReadTokenUrl": "yoiRLHjZULDuzUmG1W9OZHM7fBnz5GC5QeOCSNeZBvd9KaQ9LIENYw..",
+                "UnfilteredToken": "jC1EvCW7kC9aQGzj7EJ-9xh6pdcjsUeApU60gJCXiUlih7lseIXnrQ.."
+            },
+            {
+                "SiteId": "83",
+                "SiteName": "WFMY",
+                "BrightcoveId": "34300080001",
+                "WriteToken": "iRJJlHOjU-VPqiqOhXGWxBS1c-O1SkgmRuUOMnwI_MVrd81YkhGvsQ..",
+                "ReadTokenUrl": "UWMCWvcWYK5y9rPTuPxwJPFjXEisND7P0w0d2JWOqX7NnPuWiyzz3Q..",
+                "UnfilteredToken": "tcsXQgfIXKZxxT6MzRZNQKX_V8OCnomHuZGel5fDXXXfNpzknI6sqg.."
+            },
+            {
+                "SiteId": "71",
+                "SiteName": "WGRZ",
+                "BrightcoveId": "34300055001",
+                "WriteToken": "rCJPaZjABpJ9Bishm636Qebgbfc0O_A95jVI8iYLWTKV51CSw4o9wA..",
+                "ReadTokenUrl": "Rq2y3nJCAzh5bVoyjhQk0WFec3htiPwbboUF-IoplUYy1AP1OCTFEA..",
+                "UnfilteredToken": "kFsRY4eONohBVaqn-MvMRbNCt1-FOmh0oDRXGtfD3GFqoXwWNLnsKA.."
+            },
+            {
+                "SiteId": "95",
+                "SiteName": "WKYC",
+                "BrightcoveId": "34306114001",
+                "WriteToken": "O26O6eiERP1J8kAvYFfDcIndMeH8y_URbWvP4eZx6uaFbF4IfH-3Dg..",
+                "ReadTokenUrl": "kNsY7tjnyNq56rsfV8qid7UgNZoxByq_Bwi05Jji8WUo6HAPuVjmYg..",
+                "UnfilteredToken": "42Bw_f8YnVSlUOSTqPZnCw5207uD0LoPA26PoJQFXWXaGSzCk0b3ig.."
+            },
+            {
+                "SiteId": "99",
+                "SiteName": "WLBZ",
+                "BrightcoveId": "35121342001",
+                "WriteToken": "EFMIq3eI0R9yNqoaXYcUCO2-PwQUe7jDXYz9nzftqLg7ShMR8prwcw..",
+                "ReadTokenUrl": "5CCzzGO0B18DFQNZuKrwaHOoAlRsz4w-jAdcDlKoMnpE1e_i4P3RxA..",
+                "UnfilteredToken": "jC1EvCW7kC9aQGzj7EJ-9xh6pdcjsUeApU60gJCXiUlih7lseIXnrQ.."
+            },
+            {
+                "SiteId": "101",
+                "SiteName": "WLTX",
+                "BrightcoveId": "34310454001",
+                "WriteToken": "dBnxHUetXs7Xg0BWCp7ly123hTcj5Naj4YUTn_iAilVY6-hOZ4TINQ..",
+                "ReadTokenUrl": "481t8Shl4TtGZbUUubDu3t-oFQjR-fNuHysnpA_wEzhGVAM9ZjQ48g..",
+                "UnfilteredToken": "42Bw_f8YnVS2g0BX0UULvJ2yPKdolbtK83P61Z8S9tEGm0yhd3j6Dw.."
+            },
+            {
+                "SiteId": "93",
+                "SiteName": "WMAZ",
+                "BrightcoveId": "34300057001",
+                "WriteToken": "TbEInf1r_QHn_lSQXr3B2-uDSyc5NOMiSxaypgOjvYVOf0BWeGp39Q..",
+                "ReadTokenUrl": "gZsTlU55oe3-rUTPEZZVxIvximrVoDuMcg3reXHSJmeHQtM5KeU-NQ..",
+                "UnfilteredToken": "7mN0-Lu029x_Ng_zZQ88S2ooAAjm_j2k0XRY37ADAlBlW-VgwT_-1A.."
+            },
+            {
+                "SiteId": "67",
+                "SiteName": "WTSP",
+                "BrightcoveId": "35087134001",
+                "WriteToken": "GUEu7qRkDsxxqMuC8bGyX0qkgdnmfSbUFI-e5KjqaTlfpUav4TfYYQ..",
+                "ReadTokenUrl": "QWDzIYtN7xRCgUkgOZk97TUZax2BZQ4FJKOtMdIKTmQb-epP3enMyA..",
+                "UnfilteredToken": "Pl6k_d34_jXFFsQhloyEHdctIjqIE6hpqu6-uKhvOIEwW2CeRE_FUg.."
+            },
+            {
+                "SiteId": "65",
+                "SiteName": "WUSA",
+                "BrightcoveId": "29906171001",
+                "WriteToken": "_FElWBufLNtfTXVzobyziUKjTb1HuToLf7hjA0tkItjuYqhpAdXVLw..",
+                "ReadTokenUrl": "Hq5dquUiLfV-ZXzxkBhemDJRJm4BijHu97K-aD1vl1lfsUrXKPImYw..",
+                "UnfilteredToken": "IWQseYzhNiCAkHIQwRfam7N84qNwWuE-o_J48F0DrDmynowcUY6tsA.."
+            },
+            {
+                "SiteId": "85",
+                "SiteName": "WXIA",
+                "BrightcoveId": "34310441001",
+                "WriteToken": "roBUVfcV6g_tod4LT7U-RTB-nRfXcygOCPKi2hwflnlNM3ZaTm2hfQ..",
+                "ReadTokenUrl": "VnYjWE9fKN9ddsGBvEv9oBcsEyJSd-Yv3urj9tyuMhwubrSeIChP5w..",
+                "UnfilteredToken": "DYaGbq1FhL095Y4hSZU2HufiOxI8macGFgX3om-e4oUHj-x9OvUsBw.."
+            },
+            {
+                "SiteId": "69",
+                "SiteName": "WZZM",
+                "BrightcoveId": "34295214001",
+                "WriteToken": "mDbpa7CKID1m7fmBq3vyYpqyGxbHPg9CWZAK4bye7IJa5xY46HiOvQ..",
+                "ReadTokenUrl": "HLVlEuzajZhs6bkDmTFua2HlJ-_pPTSxXaANEzGzY_5quMiwsPk6lw..",
+                "UnfilteredToken": "7mN0-Lu029yLbvYJedSZaRbRVlc3vzhNsL4wyhbzjkTgj17BhVkwLQ.."
+            },
+            {
+                "SiteId": "143",
+                "SiteName": "Asheville",
+                "BrightcoveId": "37906156001",
+                "WriteToken": "IpdSPvalq--3tcQrhAm2CwrtRkYqoF_S4D0DU4XpaVhJYQQBdyBfFA..",
+                "ReadTokenUrl": "pl6xxKEH9IHtn_7M9gE_lpAJZd9xp0_1XrKO-7NXzXs1z7IeMWqt7w..",
+                "UnfilteredToken": "pl6xxKEH9IFd5L_fC3iG_Er3ZOTOKK6VoCT3ht2TYORwr_gdKvFwPw.."
+            },
+            {
+                "SiteId": "123",
+                "SiteName": "Brevard",
+                "BrightcoveId": "38321750001",
+                "WriteToken": "Jk0qP3FkPQd_bbfJMg-naaVCsCsfp3RKRSrWg7AVTmWqT7-VNg1KXA..",
+                "ReadTokenUrl": "fTy6xdIeKFf4yc7Af9HUB8qVL0LYIW_l6vUKrpmPTYLasCovOSh5Qw..",
+                "UnfilteredToken": "fTy6xdIeKFdJYrbKzQp0Q6ka9hDe7xXKwe9sw-3anfZhiiQwDQyH3w.."
+            },
+            {
+                "SiteId": "113",
+                "SiteName": "BurlingtonFreePress",
+                "BrightcoveId": "38321751001",
+                "WriteToken": "lpQJOhYxtTup4x0I0wAQqhwKRbt5xAMNsSOa6kQNNDF5tbFptl5NNA..",
+                "ReadTokenUrl": "9TVveX97F1fDyjFanMn8CI2Lk1zJZU16zcjopPJBYmq193w7beQ8Bw..",
+                "UnfilteredToken": "GluNJ4cHtd76CfrJ311XFBIfVMi0zlMTKzV1maXznlhajKr9BsMKag.."
+            },
+            {
+                "SiteId": "117",
+                "SiteName": "Cherry Hill Courier Post",
+                "BrightcoveId": "37795283001",
+                "WriteToken": "zCykYLFDpexxscMzNsXxD9NoAtDum2Qht8MchUUzUWHahf2UfhVFUA..",
+                "ReadTokenUrl": "q8fBgAfkaBv8TliR7h3WfSa4bix_Bggn9Hug2n5HtuQKQtpZ-sT7Bg..",
+                "UnfilteredToken": "q8fBgAfkaBvWlmFcqPd_FayVb0vImQTPdxJz5mCNmwCxK3eYXo0Kjw.."
+            },
+            {
+                "SiteId": "141",
+                "SiteName": "Greenville News",
+                "BrightcoveId": "38321755001",
+                "WriteToken": "xQ6M7bwvm9rsCVt9a5KmUDuHNm5rUj_tx2v0ABxWg-pSRtfCERTrAQ..",
+                "ReadTokenUrl": "NVIV7G_XnmdUumoBApwEFv3cFBLT7GLE8halvhYaXgs3OLDA9r9Wbw..",
+                "UnfilteredToken": "NVIV7G_Xnmd2bV1v5A9ElWW516EQzcuHI7mmaL5fZ7bPYyB-rN0EXQ.."
+            },
+            {
+                "SiteId": "147",
+                "SiteName": "Staunton News Leader",
+                "BrightcoveId": "44692044001",
+                "WriteToken": "NtnsSu6ggsotdyxVmFzKBKAQ-BDZtozrFYjCLr3jhGHyBZUnXrq6fw..",
+                "ReadTokenUrl": "p6cTaG6iUvRqbLTjxKFq72Xgi1GYbwRCf0wskqFfmtML4q3fgyqVmw..",
+                "UnfilteredToken": "GluNJ4cHtd5xzWeuiVZqVEhfNj5QJb9S1Ge4ZrO3TsRGxv5LezrkLQ.."
+            },
+            {
+                "SiteId": "145",
+                "SiteName": "Montgomery Advertiser",
+                "BrightcoveId": "41698457001",
+                "WriteToken": "kB3bmF9DMt1sa0SDZUozYxCbE-j1lb8lkYleNjrM5DnfN4Vzc2WzwQ..",
+                "ReadTokenUrl": "Dt5cy5COvrrl37EGK6yHUl2_7wgevW7ixk406eMOPU_wv-poh9YY_A..",
+                "UnfilteredToken": "Dt5cy5COvrqqV_KqXBos8KrlWQXUZPr_BohdoODFu-CEcPkU3Y03yg.."
+            },
+            {
+                "SiteId": "155",
+                "SiteName": "Tallahassee Democrat",
+                "BrightcoveId": "41801896001",
+                "WriteToken": "EKbMw_zkC1szcpBQ7MJl9ml2sIfeOEup7UHEcNNTfNIk8CdyCxn-Nw..",
+                "ReadTokenUrl": "uYTZWUWBKW-WNSBLJfFDpzteM_dfMCC9uGoXlODz2LP9fONuRWrbRw..",
+                "UnfilteredToken": "uYTZWUWBKW-TwkaSODqM1Xtl5xCho6Matfisfx49lE8ZDIWcWMKhrQ.."
+            },
+            {
+                "SiteId": "135",
+                "SiteName": "Sioux Falls Argus Leader",
+                "BrightcoveId": "41808150001",
+                "WriteToken": "cJSiIYmMV2pjD4W_XCWg46y7hZ2E6nUZjCU3D0hQHwvNcXPNqwR98g..",
+                "ReadTokenUrl": "6zzbzZNKCk73dNpzcAWV9Ymx616G-_MNXqFg9hx9c8bCFVJUUcA7aA..",
+                "UnfilteredToken": "GluNJ4cHtd6zEfx_aXloajMSdI89-BaQ4FyomulVzlcW9EfSGaT1aw.."
+            },
+            {
+                "SiteId": "131",
+                "SiteName": "St. Cloud Times",
+                "BrightcoveId": "41819772001",
+                "WriteToken": "qT-mxaTTdqoojiconeRo0Rar7tNE9SfxU4NURAmbzwF7HGV9MXStGA..",
+                "ReadTokenUrl": "OBLKOjZaly4M56VF7w7XCxd-jqc1SbPZ_3ZX_in9fm7BfNqeg18mAA..",
+                "UnfilteredToken": "GluNJ4cHtd61dYTkufTIxtt3mtgm2rqD9sCsAhn4x5rPrakzO9La1A.."
+            },
+            {
+                "SiteId": "125",
+                "SiteName": "GUAM",
+                "BrightcoveId": "44238100001",
+                "WriteToken": "4OVkZKrlvlrR_r6bej_NWjCWPAwI2xqmrgkJHD_dZulVsKyRoQh3gg..",
+                "ReadTokenUrl": "FDMh3NPl8bXz9pz0pli3umfHPl3amLjszRpmgvKhsIwqUFcLyDU63A..",
+                "UnfilteredToken": "GluNJ4cHtd6fIQXQuTZJ8OGXS-2UEAsyVBps9KpuPFif6L7ODaYJNw.."
+            },
+            {
+                "SiteId": "137",
+                "SiteName": "Great Falls Tribune",
+                "BrightcoveId": "44692040001",
+                "WriteToken": "1DLtk1odykHc1QW-W53uyk7mk7XIXwO9-IYhaf5kjbvFZE897Q1SiQ..",
+                "ReadTokenUrl": "DIlcQwru_6zR-YcyNm62QyPyvBi2RBrDi2hry2v-Gb5ZjyVNnAL0Lw..",
+                "UnfilteredToken": "GluNJ4cHtd7CTS4laQs76umhCDxtSNqHkGlf7a849SP6Oa6XxSAhJA.."
+            },
+            {
+                "SiteId": "151",
+                "SiteName": "Delmarva-Salisbury",
+                "BrightcoveId": "44692031001",
+                "WriteToken": "vKUq1QbRKqlz0rS1K5GDxV6DuoAu2pua6Fk8YCm8bFovtzIaFuNjGg..",
+                "ReadTokenUrl": "jVB4RD-sANcIg8PfVnDfpsPBbLdOTpDsftkFqQtjRdTd9fUYUoePUQ..",
+                "UnfilteredToken": "jVB4RD-sANe_6Du-9H2wvGj2dgMNe3hTy6Z3x61dgiFwAHDfPe65VA.."
+            },
+            {
+                "SiteId": "139",
+                "SiteName": "Vineland Daily Journal",
+                "BrightcoveId": "44692041001",
+                "WriteToken": "1DLtk1odykHVpx3g_xVgELvQieDNlIpjit6tLER5ve1U99S-zxq0Ng..",
+                "ReadTokenUrl": "-xtwvZYQ3ATzBvFwmbeOviKhfI_gkmVsOv-Z5yP5tUkxJiTalXpa4w..",
+                "UnfilteredToken": "GluNJ4cHtd4jsBDKfrAhFHXFpfnIANsMLhbO1nf5mPvQW5zDaCtf_w.."
+            },
+            {
+                "SiteId": "153",
+                "SiteName": "St. George Daily Spectrum",
+                "BrightcoveId": "44854210001",
+                "WriteToken": "i3proBaXRswBO1FP-JwGysJrGkbxIgHUGVKeKi1mfrASQUmZBBEkBg..",
+                "ReadTokenUrl": "RcP9fdX5fhXjzCSVEVTwEuoauLfr3VhClUYW2kpqdW4hw53_xn0o6g..",
+                "UnfilteredToken": "RcP9fdX5fhWpAqCOegxFPZ5C7ZcRzqtrLqNBx6bE83XC_OOjrYJy9w.."
+            },
+            {
+                "SiteId": "133",
+                "SiteName": "The Salinas Californian",
+                "BrightcoveId": "44238091001",
+                "WriteToken": "VAx9mGLMplLOTTohAukYQF6xsdXFKFsDFQX5yCGODNfvEevNs6-kxw..",
+                "ReadTokenUrl": "lPP2_SwQidYMv8krpYVL7nxo6IKQb55hrtl0D8PJMDh2nBPB5cgpRA..",
+                "UnfilteredToken": "lPP2_SwQidaBHNH6AErDZOGRkvhuAQ3wBv-TGAWs_DOuQd4Evz0SyA.."
+            },
+            {
+                "SiteId": "149",
+                "SiteName": "Baxter Bulletin",
+                "BrightcoveId": "44238090001",
+                "WriteToken": "tfxtelljRr1bwB_k6ZElOyVPVgqHZmjoGhyDFfSvKuuNGouA-a2kzw..",
+                "ReadTokenUrl": "kyJss4lz_rtYeLCFASgF6iP_BAYh1HsCoZmrPwZlhRrdbnosOPbRdw..",
+                "UnfilteredToken": "kyJss4lz_rtHGllbWv3T31Hp3ILRJRTSgUjHA4abJY4cv8MAzcBBsA.."
+            },
+            {
+                "SiteId": "49",
+                "SiteName": "Indianapolis",
+                "BrightcoveId": "35547429001",
+                "WriteToken": "-qSsCq3OHXbkwM1hnmIC0MAA0kFsd2xXrcFYLcuL70_QR84cByiIUg..",
+                "ReadTokenUrl": "rfgEzfYybWFp0nGQ-3t19UePPBbddMca7El7VzDPIT4JZOp4PiKcIQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XjzcjGDsEOcinvzY6KtPPikdcnab9FcuU0dwIRGpFHg.."
+            },
+            {
+                "SiteId": "53",
+                "SiteName": "Louisville",
+                "BrightcoveId": "29913742001",
+                "WriteToken": "EBXFZVQ7uOr5gke0K1CLT8c9-PUS2_bb47FE2VoOY5F_nrQ8lagDTA..",
+                "ReadTokenUrl": "EBXFZVQ7uOpTiWQZsN6AnXZGdmcG3CzrOuGOvAUKGJej9HR6o3a3Rw..",
+                "UnfilteredToken": "sQr6hy_kAka6VJQGmLT-X9PtFED9jtq0A6RywH1m1bZGmnO3m27w_A.."
+            },
+            {
+                "SiteId": "59",
+                "SiteName": "Westchester-LOHUD",
+                "BrightcoveId": "37861007001",
+                "WriteToken": "mDbpa7CKID2R-G7pude3QbobqhJG5pjwSC-ld3Zsw6Z94k1yl1eODw..",
+                "ReadTokenUrl": "MHkqDkmu-_xljRgKDSV_0n6nIHcFBPn7Uemoc0tY6n-d5b5jEmukHg..",
+                "UnfilteredToken": "qDcKG58RXCAvrZtT_F0vaMcpI-eb0Tg8o1QDRqFHYqTeFX5-hWMjYA.."
+            },
+            {
+                "SiteId": "109",
+                "SiteName": "Nashville",
+                "BrightcoveId": "35553607001",
+                "WriteToken": "mDbpa7CKID0_WDQU5wAIfcVKm3s9Plu5WGFcwo6My3xVP3fKMPP0xA..",
+                "ReadTokenUrl": "3wq5GKWx-rGkv8NbyUsP52aGwGy_Fqgw-4qYYROD0bcXNhckEYlj8w..",
+                "UnfilteredToken": "2h4nJ32Sxhp26TyrVQhBbIj2eiOh4bZQw2jm6N1VhMwbLQGSr4G18A.."
+            },
+            {
+                "SiteId": "55",
+                "SiteName": "Palm Springs - Desert Sun",
+                "BrightcoveId": "41188256001",
+                "WriteToken": "3y8ecmF-5c5Bcyssi8mX9oxE1TSGJb49ISRNvso5fxgHsWl-LtmRzA..",
+                "ReadTokenUrl": "eU9JgboG1wHW-5Xo2874P7AvALE1r99Z91NR4ti8yZASQliHhEkxuQ..",
+                "UnfilteredToken": "2h4nJ32SxhpI7pPr_vF8f0f-ILuXZqnuG0hD4v5IESwwAjJLEnROfw.."
+            },
+            {
+                "SiteId": "157",
+                "SiteName": "Pensacola News Journal",
+                "BrightcoveId": "41822998001",
+                "WriteToken": "MSpozFop4GbTS6Ljs8PAP1-s2gheCVIQgZOZ3f6l7WD78Pf3K0OxjQ..",
+                "ReadTokenUrl": "lJsmDoPWmU6vNNv_PHpmpRao7k3Ks6fY3C1C2ocvkPmNcNsgzFAnkQ..",
+                "UnfilteredToken": "GluNJ4cHtd57zEv5pCeGVBytssW8NDppa4M0ZNvNKEvbpIo2dKS9bA.."
+            },
+            {
+                "SiteId": "127",
+                "SiteName": "Poughkeepsie Journal",
+                "BrightcoveId": "41819768001",
+                "WriteToken": "dShJnj3LsvHJ9Qqk12ftQIKcWZApWHlFdMWJV98NDxRM0krQlFhbfA..",
+                "ReadTokenUrl": "dFrrQeIZ2KiqI3gTIY3rGrLggmSSqwBnAxrRXp2f0nPqq3k8UImnOg..",
+                "UnfilteredToken": "dFrrQeIZ2Kh32Qw3cpCCghD5dmgrBt-8HivzxhjrzILhkhQdtmG80g.."
+            },
+            {
+                "SiteId": "115",
+                "SiteName": "Reno Gazette Journal",
+                "BrightcoveId": "41819770001",
+                "WriteToken": "2FlaKazFRY5J9XYZj-BGfH29StsquDeekOD4dhkEAibcx25r_1bRNQ..",
+                "ReadTokenUrl": "SF329WrLKXORkOdAS44AvsNF3Ik-u0xHn9fh1zXOSMgv3dw0i_0HOw..",
+                "UnfilteredToken": "GluNJ4cHtd7XbJy6pQmCp36poROJCIotx5xTXaXC4LUQczMQHWckEw.."
+            },
+            {
+                "SiteId": "129",
+                "SiteName": "Salem-Statesman Journal",
+                "BrightcoveId": "41801895001",
+                "WriteToken": "LAiWHiUE0obtaoa9LocZ29rZ3rfsmV-QAZ4wUo7ByqL7AR0CKrEDIw..",
+                "ReadTokenUrl": "TmWihiSVCOL7mLBQTy-Ce0Vq3Gtb3amxDgLEIsYAActl1DOv7_fpfA..",
+                "UnfilteredToken": "TmWihiSVCOK0twgyClr_soycQlYpwGT-YSmcb61qA2lDIN8B3IZOsw.."
+            },
+            {
+                "SiteId": "159",
+                "SiteName": "Springfield News-Leader",
+                "BrightcoveId": "41823000001",
+                "WriteToken": "0DjmfKNCA8528J6tlTsGHLP85htnS1dSdHmPtrBLE3pxy_IXd3G2dg..",
+                "ReadTokenUrl": "sXTwrMm99JBqBNhFnU57dtef9Zby1oxHyH_MF0H8t0On1e-iXCg77A..",
+                "UnfilteredToken": "GluNJ4cHtd6KwDqh0S_AlYEqaO0taSIFQ7n7l4KEJMtq0M1heZSP0Q.."
+            },
+            {
+                "SiteId": "161",
+                "SiteName": "Phoenix",
+                "BrightcoveId": "29901534001",
+                "WriteToken": "s88qURsykpVb0CUSH565_nOlP0_Z6gX7gOg-IC253azYOLO032XTmw..",
+                "ReadTokenUrl": "YN22P_cws2SUdOOQbRQg2Uv2lQJBu4BqAO0b-SCo8SNfkWyd2-M9fA..",
+                "UnfilteredToken": "OCUc71B4WpBMZzdSGdLAgH-kRsI9N3jpo-rtMx0qeyM_zP_RfYFtPg.."
+            },
+            {
+                "SiteId": "121",
+                "SiteName": "Fort Myers - News Press",
+                "BrightcoveId": "37906159001",
+                "WriteToken": "CDMRdoioaYfMoCWFGrBkO8trwc_r737dMZFzLTj6aTEqu311L3aGgQ..",
+                "ReadTokenUrl": "eJziZZiLVG_4nEPntdqEwZCat-Sz6MAvms-EfpITYfuYI5vsRgDpiA..",
+                "UnfilteredToken": "YN22P_cws2RUy7o9JIK4f1PVMcsL1Hw9_MA1Gtx13GoujBmdCgCevg.."
+            },
+            {
+                "SiteId": "61",
+                "SiteName": "Wilmington",
+                "BrightcoveId": "29913743001",
+                "WriteToken": "lxF6prrcSVi5Gs_if4ZFuVuaeGnX3VgRbCEBOoWPc10vSH6TX-rWpQ..",
+                "ReadTokenUrl": "ViTU3JoyjkmyogQUNw9sPD5CWGDZf68sd_we4zTcvDL7W4grd47cGA..",
+                "UnfilteredToken": "wwVvNE-GtWD8MIWXYalyOUH_GGimX2MCe_jS804gALwZQC5CoFYRRg.."
+            },
+            {
+                "SiteId": "57",
+                "SiteName": "Des Moines",
+                "BrightcoveId": "35546125001",
+                "WriteToken": "waxfnrYiDZMbXSJZSPujOOpZjlOePgN9ubuyAld9P15DkMs2BRUjdQ..",
+                "ReadTokenUrl": "MYvU06zW9kgZdnh6dxsGsvZBQsRSC7icFTrpG3xbBILdJza7tRwsyQ..",
+                "UnfilteredToken": "gyH9XHHPJX7BnkFLV1bQiRUZ2caHgzNJQfRMbabh4ykArWf8OQHF_g.."
+            },
+            {
+                "SiteId": "185",
+                "SiteName": "Asbury Park",
+                "BrightcoveId": "35553589001",
+                "WriteToken": "E3ru2DhsScNjE2XlCMpTWDoPPG5pg0Ybvxdz761sLmJJpDsknP6yHw..",
+                "ReadTokenUrl": "gUWnkVBaIkpkhjoKsIgudP2lR8bYYtHILaLIomqgU0vA_RarVWzFFw..",
+                "UnfilteredToken": "gyH9XHHPJX776yQ7X3jw0TR0wlQzqpQ4M9NScpfn4GVkbhwbQrhhdw.."
+            },
+            {
+                "SiteId": "119",
+                "SiteName": "Cincinnati",
+                "BrightcoveId": "35546123001",
+                "WriteToken": "GUEu7qRkDsx0bsAJNi83F4fyiCHjrPkLVYMQWgX8N5JvAkniQ85QQg..",
+                "ReadTokenUrl": "aq-lJUnlrlbGMxG2nvD5yY0iK7M1KWxP4qnz9bKXPJivNgC6mb1yXA..",
+                "UnfilteredToken": "yIbdOXPrJKIkkQZnZUfrfzddVHll1rUoQIhKn6bdIlXlqzRjIqUTPQ.."
+            },
+            {
+                "SiteId": "47",
+                "SiteName": "Rochester - Democrat and Chronicle",
+                "BrightcoveId": "36517057001",
+                "WriteToken": "mDbpa7CKID1wUp5K2fUjge5C-agoS2h38QbE4Sq7E08kBq3a9GVy-A..",
+                "ReadTokenUrl": "sAhJblA2DF-xN27o-uPuWTTaJyLLZwRQod6ZS_jog8m9pUWpYGEH5w..",
+                "UnfilteredToken": "Xdr3DpD1aL5YVZqfnWvEz_xHjMbQlQG7vwDOn_Yvl757d1fQCVqzBQ.."
+            },
+            {
+                "SiteId": "111",
+                "SiteName": "Fort Collins - Coloradoan",
+                "BrightcoveId": "44238099001",
+                "WriteToken": "Y4yNIaLA4mTergSAd-X0rDLLhAxVpeN4YYIs12ihYIOSc3v_0N_7og..",
+                "ReadTokenUrl": "oqI0egElIlMuQooTosZDpWLXl9g0YAm7Kd21Lhiyl9Az2UWccqkV6Q..",
+                "UnfilteredToken": "GluNJ4cHtd61mqTTnP2OVMMkscZdsZw2g_Q_1Nw6ZmzlbDY6GakcAg.."
+            },
+            {
+                "SiteId": "219",
+                "SiteName": "Clarion Ledger",
+                "BrightcoveId": "41188240001",
+                "WriteToken": "MX8IfaNgzzx_Dk5uvDvlefsLETmp3JK12Zo33w6Nas4ueXogpyzbaA..",
+                "ReadTokenUrl": "3fQbSpdjJHOc4G2ctQJaiKWW8w12kFeQDfsUUtBK3RkUkaT2d8vZ0A..",
+                "UnfilteredToken": "rA_Vrr2VkXpWVgs9eA8LYOV5woSeTP5IWck0wBpO1YinCKwsACBMXw.."
+            },
+            {
+                "SiteId": "105",
+                "SiteName": "Lafayette",
+                "BrightcoveId": "44483291001",
+                "WriteToken": "t_Y6_1sByI3cSMw927nSjb3InOonggnjnWOvypGKAbWzkliwpmOBPg..",
+                "ReadTokenUrl": "sFGCTqdfDuyr5yJ_pud-RZCRr8n8f0T4klzxPN6Imh077Lvfvjh3CQ..",
+                "UnfilteredToken": "v0jSV6zXfjjPg3iKhxn9K0W0uPrySlEf0ZTb5CcJyYSVDBkmyLXuWg.."
+            },
+            {
+                "SiteId": "225",
+                "SiteName": "Iowa",
+                "BrightcoveId": "35547430001",
+                "WriteToken": "Ol8nNTl6p7q3I1eqbtz-HM45r9UJ0orwjkOn6A4TOQTbMIARtnBQpQ..",
+                "ReadTokenUrl": "KUbo6hNkKJcWi1zU0AZ0j-JS6ucymLCmLJHnDF4MMXdGUfNR1hpQnA..",
+                "UnfilteredToken": "5WJhkhq7D9VeNT8sRmJArSCzLuzlcbGgXBwGvsdjyXIrfNwDyUCiIw.."
+            },
+            {
+                "SiteId": "163",
+                "SiteName": "Layfayette Indiania",
+                "BrightcoveId": "40792583001",
+                "WriteToken": "IoMmIAqnoWfPgWak7TOB6jBIZXm2nBh6nL_vKMJd1Hck8UIx1luMqQ..",
+                "ReadTokenUrl": "V5gE_vwe94PJvsu1N3i8EibIZbz4kdjN0Qz20TebM0LlCCgO-4Tgdg..",
+                "UnfilteredToken": "GluNJ4cHtd7z81GSaBWWxyS6Owa-ZpAkvNwF8FV750-DHMMWFptQIQ.."
+            },
+            {
+                "SiteId": "239",
+                "SiteName": "Visalia",
+                "BrightcoveId": "44238092001",
+                "WriteToken": "GGeam_ofMuENGp1Dp0LlWw_EX7OEcjM2X3K7zzKxRP6a_I28YqEalw..",
+                "ReadTokenUrl": "Hmvd1DXIiodS6hF1HrW3CLgiGssxwRpqb8qHS0pSsfbw_h7LotWcYw..",
+                "UnfilteredToken": "GluNJ4cHtd5gEOJ3EZsPzi2tCVYiGtlQfN9KtnXkyjYEaBDKbmYclA.."
+            },
+            {
+                "SiteId": "237",
+                "SiteName": "Hattiesburg",
+                "BrightcoveId": "44854208001",
+                "WriteToken": "3-GlCS7bZYzMokBnSphoGjKV6xAuiTrzRq_asSH8ahX0lKJWg3g3yg..",
+                "ReadTokenUrl": "wMEFbS53uRSoL_yvOIx3lUBh_0v911i3K9PQ5D8c4LPBRqj8J_2YLQ..",
+                "UnfilteredToken": "GluNJ4cHtd69MnSynxDcyZHD2Q9w3W937jOTMn4mn11XL27kH3qpow.."
+            },
+            {
+                "SiteId": "261",
+                "SiteName": "Press and Sun-Bulletin - PressConnects",
+                "BrightcoveId": "37906157001",
+                "WriteToken": "FYIgyNjd8KOe3obGLlBmjs2e1mRWRjdM6XkiWjxk5YaOJz0ggaX1Aw..",
+                "ReadTokenUrl": "fsbyUYvtfFOrfKGtaNvnyBGTcff_g94uXqQWN-Z6AE_m7nmOyVTeFA..",
+                "UnfilteredToken": "GluNJ4cHtd4gqApwfg57OrXqIHQYx4D28KWWg-Q30o4tmzG00jdjgg.."
+            },
+            {
+                "SiteId": "263",
+                "SiteName": "Star-Gazette - Elmira",
+                "BrightcoveId": "37906157001",
+                "WriteToken": "FYIgyNjd8KOe3obGLlBmjs2e1mRWRjdM6XkiWjxk5YaOJz0ggaX1Aw..",
+                "ReadTokenUrl": "fsbyUYvtfFOrfKGtaNvnyBGTcff_g94uXqQWN-Z6AE_m7nmOyVTeFA..",
+                "UnfilteredToken": "GluNJ4cHtd4gqApwfg57OrXqIHQYx4D28KWWg-Q30o4tmzG00jdjgg.."
+            },
+            {
+                "SiteId": "265",
+                "SiteName": "Ithaca Journal - Ithaca",
+                "BrightcoveId": "37906157001",
+                "WriteToken": "FYIgyNjd8KOe3obGLlBmjs2e1mRWRjdM6XkiWjxk5YaOJz0ggaX1Aw..",
+                "ReadTokenUrl": "fsbyUYvtfFOrfKGtaNvnyBGTcff_g94uXqQWN-Z6AE_m7nmOyVTeFA..",
+                "UnfilteredToken": "GluNJ4cHtd4gqApwfg57OrXqIHQYx4D28KWWg-Q30o4tmzG00jdjgg.."
+            },
+            {
+                "SiteId": "235",
+                "SiteName": "Muncie Star Press",
+                "BrightcoveId": "40792583001",
+                "WriteToken": "IoMmIAqnoWfPgWak7TOB6jBIZXm2nBh6nL_vKMJd1Hck8UIx1luMqQ..",
+                "ReadTokenUrl": "V5gE_vwe94PJvsu1N3i8EibIZbz4kdjN0Qz20TebM0LlCCgO-4Tgdg..",
+                "UnfilteredToken": "GluNJ4cHtd7z81GSaBWWxyS6Owa-ZpAkvNwF8FV750-DHMMWFptQIQ.."
+            },
+            {
+                "SiteId": "243",
+                "SiteName": "Palladium-Item",
+                "BrightcoveId": "40792583001",
+                "WriteToken": "IoMmIAqnoWfPgWak7TOB6jBIZXm2nBh6nL_vKMJd1Hck8UIx1luMqQ..",
+                "ReadTokenUrl": "V5gE_vwe94PJvsu1N3i8EibIZbz4kdjN0Qz20TebM0LlCCgO-4Tgdg..",
+                "UnfilteredToken": "GluNJ4cHtd7z81GSaBWWxyS6Owa-ZpAkvNwF8FV750-DHMMWFptQIQ.."
+            },
+            {
+                "SiteId": "259",
+                "SiteName": "Livingston Daily",
+                "BrightcoveId": "41075352001",
+                "WriteToken": "NLxxT5_RREnGtN91hAuNH6XEO-86KfZZ3BWkAtQINXLX-FUi-MAlJQ..",
+                "ReadTokenUrl": "mSs9l9ibZB8zwzlmpLMIP0rqTWcro48QL_mxSY38wb3Zy60EPhumvQ..",
+                "UnfilteredToken": "GluNJ4cHtd7_nvqKLFN8vel7RoWq4qHwz7_YFHt07lC4M7_R7VV92Q.."
+            },
+            {
+                "SiteId": "257",
+                "SiteName": "Hometown Life",
+                "BrightcoveId": "41075352001",
+                "WriteToken": "NLxxT5_RREnGtN91hAuNH6XEO-86KfZZ3BWkAtQINXLX-FUi-MAlJQ..",
+                "ReadTokenUrl": "mSs9l9ibZB8zwzlmpLMIP0rqTWcro48QL_mxSY38wb3Zy60EPhumvQ..",
+                "UnfilteredToken": "GluNJ4cHtd7_nvqKLFN8vel7RoWq4qHwz7_YFHt07lC4M7_R7VV92Q.."
+            },
+            {
+                "SiteId": "209",
+                "SiteName": "Battle Creek Enquirer",
+                "BrightcoveId": "41075352001",
+                "WriteToken": "NLxxT5_RREnGtN91hAuNH6XEO-86KfZZ3BWkAtQINXLX-FUi-MAlJQ..",
+                "ReadTokenUrl": "mSs9l9ibZB8zwzlmpLMIP0rqTWcro48QL_mxSY38wb3Zy60EPhumvQ..",
+                "UnfilteredToken": "GluNJ4cHtd7_nvqKLFN8vel7RoWq4qHwz7_YFHt07lC4M7_R7VV92Q.."
+            },
+            {
+                "SiteId": "211",
+                "SiteName": "Lansing State Journal",
+                "BrightcoveId": "41075352001",
+                "WriteToken": "NLxxT5_RREnGtN91hAuNH6XEO-86KfZZ3BWkAtQINXLX-FUi-MAlJQ..",
+                "ReadTokenUrl": "mSs9l9ibZB8zwzlmpLMIP0rqTWcro48QL_mxSY38wb3Zy60EPhumvQ..",
+                "UnfilteredToken": "GluNJ4cHtd7_nvqKLFN8vel7RoWq4qHwz7_YFHt07lC4M7_R7VV92Q.."
+            },
+            {
+                "SiteId": "213",
+                "SiteName": "Port Huron Times Herald",
+                "BrightcoveId": "41075352001",
+                "WriteToken": "NLxxT5_RREnGtN91hAuNH6XEO-86KfZZ3BWkAtQINXLX-FUi-MAlJQ..",
+                "ReadTokenUrl": "mSs9l9ibZB8zwzlmpLMIP0rqTWcro48QL_mxSY38wb3Zy60EPhumvQ..",
+                "UnfilteredToken": "GluNJ4cHtd7_nvqKLFN8vel7RoWq4qHwz7_YFHt07lC4M7_R7VV92Q.."
+            },
+            {
+                "SiteId": "187",
+                "SiteName": "MyCentralJersey.com",
+                "BrightcoveId": "35553589001",
+                "WriteToken": "E3ru2DhsScNjE2XlCMpTWDoPPG5pg0Ybvxdz761sLmJJpDsknP6yHw..",
+                "ReadTokenUrl": "gUWnkVBaIkpkhjoKsIgudP2lR8bYYtHILaLIomqgU0vA_RarVWzFFw..",
+                "UnfilteredToken": "gyH9XHHPJX776yQ7X3jw0TR0wlQzqpQ4M9NScpfn4GVkbhwbQrhhdw.."
+            },
+            {
+                "SiteId": "189",
+                "SiteName": "Daily Record",
+                "BrightcoveId": "35553589001",
+                "WriteToken": "E3ru2DhsScNjE2XlCMpTWDoPPG5pg0Ybvxdz761sLmJJpDsknP6yHw..",
+                "ReadTokenUrl": "gUWnkVBaIkpkhjoKsIgudP2lR8bYYtHILaLIomqgU0vA_RarVWzFFw..",
+                "UnfilteredToken": "gyH9XHHPJX776yQ7X3jw0TR0wlQzqpQ4M9NScpfn4GVkbhwbQrhhdw.."
+            },
+            {
+                "SiteId": "191",
+                "SiteName": "Appleton Post Crescent",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "193",
+                "SiteName": "Fond du Lac Reporter",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "195",
+                "SiteName": "Green Bay Press Gazette",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "197",
+                "SiteName": "Herald Times Reporter",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "215",
+                "SiteName": "Marshfield News-Herald",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "199",
+                "SiteName": "The Oshkosh Northwestern",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "201",
+                "SiteName": "The Sheboygan Press",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "203",
+                "SiteName": "Stevenspointjournal",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "205",
+                "SiteName": "Wausau Daily Herald",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "207",
+                "SiteName": "Wisconsin Rapids Tribune",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "217",
+                "SiteName": "LaVoz Arizona",
+                "BrightcoveId": "29901534001",
+                "WriteToken": "s88qURsykpVb0CUSH565_nOlP0_Z6gX7gOg-IC253azYOLO032XTmw..",
+                "ReadTokenUrl": "YN22P_cws2SUdOOQbRQg2Uv2lQJBu4BqAO0b-SCo8SNfkWyd2-M9fA..",
+                "UnfilteredToken": "OCUc71B4WpBMZzdSGdLAgH-kRsI9N3jpo-rtMx0qeyM_zP_RfYFtPg.."
+            },
+            {
+                "SiteId": "241",
+                "SiteName": "Wisconsin Packers News",
+                "BrightcoveId": "41823025001",
+                "WriteToken": "HvSCHzwnX4P5oX4wGurvPN704LSO-1E_drlXBvtynHlsOY0_1GKDEg..",
+                "ReadTokenUrl": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+                "UnfilteredToken": "GluNJ4cHtd6ddxDLGKruV0ahTa0NdhZq3HZE-deajONg9w20gFSHxA.."
+            },
+            {
+                "SiteId": "229",
+                "SiteName": "NowU Boomers",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "rhFtLdJITcbghVdHfzAVst7iPM7GtH4Nwb3gmFdZFnIylRSoNDG25w..",
+                "ReadTokenUrl": "rhFtLdJITcbHnd846MrlTx96moUQfKOhK8s7YhQE50Oi3YKRgLUPUw..",
+                "UnfilteredToken": "XXaBDaYruRSAXodkTI5Gx5XDG47JD_R7K3yYYqmAM88VfvKCxI5aBw.."
+            },
+            {
+                "SiteId": "165",
+                "SiteName": "Bucyrus",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "169",
+                "SiteName": "Chillicothe",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "171",
+                "SiteName": "Coshocton",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "175",
+                "SiteName": "Fremont",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "179",
+                "SiteName": "Lancaster",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "167",
+                "SiteName": "Mansfield",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "181",
+                "SiteName": "Marion",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "183",
+                "SiteName": "Newark",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "177",
+                "SiteName": "PortClinton",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "173",
+                "SiteName": "Zanesville",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "tItifWYt8SZUreyOK0vCP4xNTXf0DzDDQX4ydS_BpaB78coebdwM-w..",
+                "ReadTokenUrl": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+                "UnfilteredToken": "GluNJ4cHtd4XDzQrcC9LpoHN1wPYYT54ELQHvsDCQBKC-28ZUZ6HLw.."
+            },
+            {
+                "SiteId": "251",
+                "SiteName": "Jackson",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "KuiFZCQYnkwneRGMA9IP2aKdxw2xNYhFc43__HVHzhzAhqZ7TGGB4Q..",
+                "ReadTokenUrl": "9OEx_dmE9YBDmhXCgIprkXU8YoTYBFPu3IKwssZckKcAqyxoJd35nQ..",
+                "UnfilteredToken": "GluNJ4cHtd58xCVV5t-gn88QvPPm7DVXGArxq802NDMv-sKxzM8Mzg.."
+            },
+            {
+                "SiteId": "253",
+                "SiteName": "Clarksville",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "KuiFZCQYnkwneRGMA9IP2aKdxw2xNYhFc43__HVHzhzAhqZ7TGGB4Q..",
+                "ReadTokenUrl": "9OEx_dmE9YBDmhXCgIprkXU8YoTYBFPu3IKwssZckKcAqyxoJd35nQ..",
+                "UnfilteredToken": "GluNJ4cHtd58xCVV5t-gn88QvPPm7DVXGArxq802NDMv-sKxzM8Mzg.."
+            },
+            {
+                "SiteId": "255",
+                "SiteName": "Murfreesboro",
+                "BrightcoveId": "3582266081001",
+                "WriteToken": "KuiFZCQYnkwneRGMA9IP2aKdxw2xNYhFc43__HVHzhzAhqZ7TGGB4Q..",
+                "ReadTokenUrl": "9OEx_dmE9YBDmhXCgIprkXU8YoTYBFPu3IKwssZckKcAqyxoJd35nQ..",
+                "UnfilteredToken": "GluNJ4cHtd58xCVV5t-gn88QvPPm7DVXGArxq802NDMv-sKxzM8Mzg.."
+            },
+            {
+                "SiteId": "247",
+                "SiteName": "Alexandria",
+                "BrightcoveId": "44483291001",
+                "WriteToken": "t_Y6_1sByI3cSMw927nSjb3InOonggnjnWOvypGKAbWzkliwpmOBPg..",
+                "ReadTokenUrl": "sFGCTqdfDuyr5yJ_pud-RZCRr8n8f0T4klzxPN6Imh077Lvfvjh3CQ..",
+                "UnfilteredToken": "v0jSV6zXfjjPg3iKhxn9K0W0uPrySlEf0ZTb5CcJyYSVDBkmyLXuWg.."
+            },
+            {
+                "SiteId": "249",
+                "SiteName": "Monroe",
+                "BrightcoveId": "44483291001",
+                "WriteToken": "t_Y6_1sByI3cSMw927nSjb3InOonggnjnWOvypGKAbWzkliwpmOBPg..",
+                "ReadTokenUrl": "sFGCTqdfDuyr5yJ_pud-RZCRr8n8f0T4klzxPN6Imh077Lvfvjh3CQ..",
+                "UnfilteredToken": "v0jSV6zXfjjPg3iKhxn9K0W0uPrySlEf0ZTb5CcJyYSVDBkmyLXuWg.."
+            },
+            {
+                "SiteId": "245",
+                "SiteName": "Opelousas",
+                "BrightcoveId": "44483291001",
+                "WriteToken": "t_Y6_1sByI3cSMw927nSjb3InOonggnjnWOvypGKAbWzkliwpmOBPg..",
+                "ReadTokenUrl": "sFGCTqdfDuyr5yJ_pud-RZCRr8n8f0T4klzxPN6Imh077Lvfvjh3CQ..",
+                "UnfilteredToken": "v0jSV6zXfjjPg3iKhxn9K0W0uPrySlEf0ZTb5CcJyYSVDBkmyLXuWg.."
+            },
+            {
+                "SiteId": "231",
+                "SiteName": "Shreveport",
+                "BrightcoveId": "44483291001",
+                "WriteToken": "t_Y6_1sByI3cSMw927nSjb3InOonggnjnWOvypGKAbWzkliwpmOBPg..",
+                "ReadTokenUrl": "sFGCTqdfDuyr5yJ_pud-RZCRr8n8f0T4klzxPN6Imh077Lvfvjh3CQ..",
+                "UnfilteredToken": "v0jSV6zXfjjPg3iKhxn9K0W0uPrySlEf0ZTb5CcJyYSVDBkmyLXuWg.."
+            },
+            {
+                "SiteId": "271",
+                "SiteName": "Central Florida Future",
+                "BrightcoveId": "3699350179001",
+                "WriteToken": "o0Z0Lt6Bw5cOD968rkkxLiMGA4gbj6Db5OHe8t1FuVZX9DYvqBwxpg..",
+                "ReadTokenUrl": "o0Z0Lt6Bw5cOD968rkkxLiMGA4gbj6DbiLlz77KaSxdMwER_JLAFyQ..",
+                "UnfilteredToken": "6CDbxu3ciq5jx9eD1ZDWNydhWHgiVqrd9yUOzATNGfVJP5bxplHxAg.."
+            },
+            {
+                "SiteId": "413",
+                "SiteName": "Air Force Times",
+                "BrightcoveId": "44862801001",
+                "WriteToken": "VcwmKKPuZfCT9aINZ7DZ_3NJQEuv2IPM3rsil6SxiZIHmWjbWKngWA..",
+                "ReadTokenUrl": "tyc9NmTfz19Uxm9bLY9xshLDIaTElygl3c9a7fp7lgI9rT-dDmiR4w..",
+                "UnfilteredToken": "r7ht7koQ_fEjW2_dzivg5e0_zpVutTHN41EmeEL5FxgYrrgLIGMzQQ.."
+            },
+            {
+                "SiteId": "407",
+                "SiteName": "Army Times",
+                "BrightcoveId": "44862801001",
+                "WriteToken": "VcwmKKPuZfCT9aINZ7DZ_3NJQEuv2IPM3rsil6SxiZIHmWjbWKngWA..",
+                "ReadTokenUrl": "tyc9NmTfz19Uxm9bLY9xshLDIaTElygl3c9a7fp7lgI9rT-dDmiR4w..",
+                "UnfilteredToken": "r7ht7koQ_fEjW2_dzivg5e0_zpVutTHN41EmeEL5FxgYrrgLIGMzQQ.."
+            },
+            {
+                "SiteId": "411",
+                "SiteName": "Marine Corps Times",
+                "BrightcoveId": "44862801001",
+                "WriteToken": "VcwmKKPuZfCT9aINZ7DZ_3NJQEuv2IPM3rsil6SxiZIHmWjbWKngWA..",
+                "ReadTokenUrl": "tyc9NmTfz19Uxm9bLY9xshLDIaTElygl3c9a7fp7lgI9rT-dDmiR4w..",
+                "UnfilteredToken": "r7ht7koQ_fEjW2_dzivg5e0_zpVutTHN41EmeEL5FxgYrrgLIGMzQQ.."
+            },
+            {
+                "SiteId": "405",
+                "SiteName": "Military Times",
+                "BrightcoveId": "44862801001",
+                "WriteToken": "VcwmKKPuZfCT9aINZ7DZ_3NJQEuv2IPM3rsil6SxiZIHmWjbWKngWA..",
+                "ReadTokenUrl": "tyc9NmTfz19Uxm9bLY9xshLDIaTElygl3c9a7fp7lgI9rT-dDmiR4w..",
+                "UnfilteredToken": "r7ht7koQ_fEjW2_dzivg5e0_zpVutTHN41EmeEL5FxgYrrgLIGMzQQ.."
+            },
+            {
+                "SiteId": "409",
+                "SiteName": "Navy Times",
+                "BrightcoveId": "44862801001",
+                "WriteToken": "VcwmKKPuZfCT9aINZ7DZ_3NJQEuv2IPM3rsil6SxiZIHmWjbWKngWA..",
+                "ReadTokenUrl": "tyc9NmTfz19Uxm9bLY9xshLDIaTElygl3c9a7fp7lgI9rT-dDmiR4w..",
+                "UnfilteredToken": "r7ht7koQ_fEjW2_dzivg5e0_zpVutTHN41EmeEL5FxgYrrgLIGMzQQ.."
+            },
+            {
+                "SiteId": "429",
+                "SiteName": "Hawk Central",
+                "BrightcoveId": "35546125001",
+                "WriteToken": "waxfnrYiDZMbXSJZSPujOOpZjlOePgN9ubuyAld9P15DkMs2BRUjdQ..",
+                "ReadTokenUrl": "MYvU06zW9kgZdnh6dxsGsvZBQsRSC7icFTrpG3xbBILdJza7tRwsyQ..",
+                "UnfilteredToken": "gyH9XHHPJX7BnkFLV1bQiRUZ2caHgzNJQfRMbabh4ykArWf8OQHF_g.."
+            },
+            {
+                "SiteId": "425",
+                "SiteName": "Detroit Free Press",
+                "BrightcoveId": "35547428001",
+                "WriteToken": "844CtQUgORih9THg4qhD4OG9sCsLszyx7rY7Of5dgKHm6QSTvhlUrA..",
+                "ReadTokenUrl": "IysdN9OCgcN0aIYuR3uF7_BJ5_FkkC6BGB91R8Th60F1utYz9lUpdA..",
+                "UnfilteredToken": "7qHYhD1Lda0M2lHIqfw5PeVCWobkLFg2-bl11p7TZaQ_dzp9vp1gpQ.."
+            },
+            {
+                "SiteId": "397",
+                "SiteName": "Detroit News",
+                "BrightcoveId": "52815481001",
+                "WriteToken": "fK51HPBxzGJAas4Eo9_NDwSrrDd1skYqipO7jL1sCj6bHP04onnu4Q..",
+                "ReadTokenUrl": "pRR9FOkxTPjKCVCrw4pv4ztvfOK0nOtbi_gHRv8mZBYByz1iH9h7mA..",
+                "UnfilteredToken": "GluNJ4cHtd5_lfrMfSVYTB2skizsIKfk8uBjvGKO85_dExNAMkUpnQ.."
+            },
+            {
+                "SiteId": "423",
+                "SiteName": "USA Today Experience - FAW",
+                "BrightcoveId": "29906170001",
+                "WriteToken": "_m35zHtlGBSeGp29YgDoOv2zcjb6g8gR8cprx77ahDoBAgivfA86Dg..",
+                "ReadTokenUrl": "q5_Y4xoa5cyPszGwuztctcIelcmgwIFXqWKmIhNV1ar4U2lNQdGfmQ..",
+                "UnfilteredToken": "KsfPl8MSS8ehseiXk6ejmnaXd7VCJoRLPB_171vOfHN0ro8GX3haWA.."
+            },
+            {
+                "SiteId": "421",
+                "SiteName": "USA Today Experience - SKI",
+                "BrightcoveId": "29906170001",
+                "WriteToken": "_m35zHtlGBSeGp29YgDoOv2zcjb6g8gR8cprx77ahDoBAgivfA86Dg..",
+                "ReadTokenUrl": "q5_Y4xoa5cyPszGwuztctcIelcmgwIFXqWKmIhNV1ar4U2lNQdGfmQ..",
+                "UnfilteredToken": "KsfPl8MSS8ehseiXk6ejmnaXd7VCJoRLPB_171vOfHN0ro8GX3haWA.."
+            },
+            {
+                "SiteId": "395",
+                "SiteName": "GMTI",
+                "BrightcoveId": "35067939001",
+                "WriteToken": "NtGySRMNOPM44Iy4Nylp3-hixIFF6ZMHq-P3cMC-4PsjTRqBo4QAmA..",
+                "ReadTokenUrl": "9prr9r97q1H-KQ6pzAY-k6EPbbwom95xk1x05PYGBsoVvlka-fYopw..",
+                "UnfilteredToken": "ZuTszCejlEU-6f6WAgsgJykGg_pFrwfo-kEjyxLrgpQS3ZwUFWNVcw.."
+            },
+            {
+                "SiteId": "453",
+                "SiteName": "USAT - Training",
+                "BrightcoveId": "35067939001",
+                "WriteToken": "NtGySRMNOPM44Iy4Nylp3-hixIFF6ZMHq-P3cMC-4PsjTRqBo4QAmA..",
+                "ReadTokenUrl": "9prr9r97q1H-KQ6pzAY-k6EPbbwom95xk1x05PYGBsoVvlka-fYopw..",
+                "UnfilteredToken": "ZuTszCejlEU-6f6WAgsgJykGg_pFrwfo-kEjyxLrgpQS3ZwUFWNVcw.."
+            },
+            {
+                "SiteId": "451",
+                "SiteName": "USCP - Training",
+                "BrightcoveId": "35067939001",
+                "WriteToken": "NtGySRMNOPM44Iy4Nylp3-hixIFF6ZMHq-P3cMC-4PsjTRqBo4QAmA..",
+                "ReadTokenUrl": "9prr9r97q1H-KQ6pzAY-k6EPbbwom95xk1x05PYGBsoVvlka-fYopw..",
+                "UnfilteredToken": "ZuTszCejlEU-6f6WAgsgJykGg_pFrwfo-kEjyxLrgpQS3ZwUFWNVcw.."
+            },
+            {
+                "SiteId": "449",
+                "SiteName": "Broadcast - Training",
+                "BrightcoveId": "35067939001",
+                "WriteToken": "NtGySRMNOPM44Iy4Nylp3-hixIFF6ZMHq-P3cMC-4PsjTRqBo4QAmA..",
+                "ReadTokenUrl": "9prr9r97q1H-KQ6pzAY-k6EPbbwom95xk1x05PYGBsoVvlka-fYopw..",
+                "UnfilteredToken": "ZuTszCejlEU-6f6WAgsgJykGg_pFrwfo-kEjyxLrgpQS3ZwUFWNVcw.."
+            }
+        ]
+    }
+}

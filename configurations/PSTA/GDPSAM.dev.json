@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.newsleader.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/205"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	}
+}

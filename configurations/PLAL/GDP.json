@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Daily Advertiser",
+	"state": "LA",
+	"title": "The Daily Advertiser",
+	"marketId": "DG",
+	"brandId": "1040DA",
+	"cobrandLogoText": "TheAdvertiser.com | A Gannett Company",
+	"palette": "p6",
+	"custService": "1-800-259-8852",
+	"facebook": {
+		"secret#private": "1b413db504627bfd6401db51000d8892",
+		"productId": "150147415035780"
+	},
+	"dealChicken": {
+		"marketKey": "acadiana-la"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.theadvertiser.com",
+		"trackingSuite": "gpaper104, gntbcstglobal"
+	},
+	"website": "www.theadvertiser.com",
+	"baseName": "theadvertiser",
+	"email": "lafdailyadvertiser@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.theadvertiser.com/terms/",
+		"caliPrivacyURL": "http://static.theadvertiser.com/privacy/",
+		"privacyURL": "http://static.theadvertiser.com/privacy/",
+		"adChoicesURL": "http://static.theadvertiser.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "LafayetteLA"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "LafayetteLA"
+		},
+		"email": "lafdailyadvertiser@gannett.com",
+		"phone": "1-800-259-8852"
+	}
+}

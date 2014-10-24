@@ -1,0 +1,294 @@
+{
+    "__default__": {
+        "theme": "usatoday",
+        "display_name": "USATODAY",
+        "display_url": "USATODAY.com",
+        "base_url": "usatoday.com",
+        "site_code": "USAT",
+        "market_id": "USAT",
+        "dealchicken_market": "travel",
+        "sections": "news|sports|life|money|tech|travel|opinion|weather|home",
+        "section_arrows": "news|sports|life|money|tech|travel|opinion|weather|home",
+        "tealium_profile": "usat",
+        "assets": {
+              "videos": {
+                  "turnOnTranscript": true,
+                  "global_hidetranscripttext": false
+              }
+        },
+        "enable_big_page": true,
+        "publisher": {
+            "address": "7950 Jones Branch Drive",
+            "city": "McLean",
+            "state": "VA",
+            "zip": "22102"
+        },
+        "ads": {
+            "account_name": "usatoday",
+            "a9": {
+                "url": "http://c.amazon-adsystem.com/aax2/amzn_ads.js",
+                "account": "3062",
+                "enabled": true
+            },
+            "pubMatic": {
+                "slots": [
+                    "adunit1@728x90",
+                    "adunit2@300x250"
+                ]
+            },
+            "LEAVEBEHIND_EXPIRATION_MINUTES": 60,
+            "poster_scroll_refresh_disabled": true,
+            "high_impact_companion_ad": true
+        },
+        "twitter": {
+            "default_account":"usatoday",
+            "account_prefix":"usatoday"
+        },
+        "UGC": {
+            "ENABLED": true,
+            "UTILITY_BAR_ENABLED": false,
+            "SOCIAL": {
+                "ENABLED": true
+            },
+            "APP_PROMO": {
+                "ENABLED": true
+            },
+            "FEATURED_CONTRIBUTIONS_MAX": 15
+        },
+        "STAFF_BIO_LINK": true,
+        "THIRDPARTYAPI":{
+            "GOOGLEPLUS":{
+                "TURNON":true,
+                "CLIENTID": "383230156302.apps.googleusercontent.com",
+                "APPPACKAGENAME":"com.usatoday.android.news"
+            },
+            "FACEBOOK":{
+                "APPID": "215046668549694",
+                "SHARE_TOKEN": "215046668549694|SVVx_Ybu1RTEAGdaN_iXFgvkrTU",
+                "CHANNELURL": "//www.usatoday.com/static/html/channel.html"
+            },
+            "FILEMOBILE":{
+                "VHOST": 1137,
+                "API_KEY": "fc0cf936aea96eacd5759edf32541aa8",
+                "SiteGroupID": 84485,
+                "FeaturedGroupID": 84487,
+                "FeaturedContributionGroupID": 88343,
+                "GeneralGroupID": 86035,
+                "UtilityBarContentLimit": 50,
+                "OffensiveReportLimit": 5,
+                "ReportAbuse":{
+                    "templateid": 40947,
+                    "emailaddress": "yourtake@usatoday.com"
+                },
+                "Transcoders": {
+                    "image": 15,
+                    "video": 22
+                }
+            },
+            "FOURSQUARE":{
+                "CLIENT_ID": "DRICRIK0TQW4ASEH3PEBO0TPVJ0IJP5RKWB5LPJWTVFPHJFA",
+                "CLIENT_SECRET": "2DGKO5JD0Y2D4AGG0TERJN0GZYKQEORT3E3PDOEFYA2LSDTM"
+            },
+            "GOOGLE": {
+                "API_KEY": "AIzaSyDYdmU0fUxRL30kWxshyPRiMB58-7w3QKE"
+            },
+            "Taboola":{
+                "api_id": "usatodaydemo",
+                "publisher_id": "usatodaydemo"
+            },
+            "MONEYMARKETAPI" : {
+                "autocomplete": "http://markets.usatoday.wallst.com/USATMoney/api/getsymbols?count=10"
+            }
+        },
+        "VPCVIDEOENDPOINT": "http://www.gannett-tv.com/tools/services/ENPSLiveStream.svc/video/vpc/live?sid=dev",
+        "footer": {
+            "expanded": true
+        },
+        "aws_site_name": "usat",
+        "social": {
+            "comments_title": "Join the Nation's Conversation"
+        },
+        "header": {
+            "textItemPaddings": {
+                "small": "14",
+                "medium": "8",
+                "large": "11"
+            },
+            "auxTextItemPaddings": {
+                "small": "12",
+                "medium": "6",
+                "large": "9"
+            },
+            "iconItemPaddings": {
+                "medium": "5",
+                "large": "9"
+            },
+            "searchWidths": {
+                "small": "400",
+                "medium": "475"
+            },
+            "subscribeCallout": {
+                "enabled": true,
+                "secondary": "to get home delivery",
+                "primary_font_size": 16,
+                "secondary_font_size": 13,
+                "url": "https://offers.usatoday.com/3FOR34COM"
+            },
+            "topNavPrimaryOverride": "top_nav_primary_override",
+            "topNavSecondaryOverride": "top_nav_secondary_override"
+        },
+        "flags": {
+            "storyrightrail_morestories_add_nationnowstory": false
+        },
+        "wlna" : {
+            "mobile_config": "http://www.gannett-cdn.com/mobile-web/usat-mobile/v1/"
+        },
+        "Brightcove": {
+            "writetoken": "-IAou26u0kcnojJRF_8I_OvnBpZ25d_gNcREFF2d-mEFO5zQp2s6_A..",
+            "readtoken": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+        },
+        "assets": {
+            "videos": {
+                "players": {
+                    "ugcplayer": {
+                        "id": 2609186650001
+                    }, 
+                    "smallarticleplayer": {
+                        "id": 1797379882001
+                    },
+                     "smallarticleplayerattop": {
+                        "id": 3700942850001
+                    }, 
+                    "immersiveplayer": {
+                        "id": 2346945760001
+                    }, 
+                    "livevideopopoutplayer": {
+                        "id": 1826416035001
+                    }, 
+                    "videoleftplayer": {
+                        "id": 1797379882001
+                    }, 
+                    "carouselplayer": {
+                        "id": 2632427750001
+                    }, 
+                    "videoassetplayer": {
+                        "id": 2245242285001
+                    }, 
+                    "timelineplayer": {
+                        "adsplayerid": 2327383105001, 
+                        "id": 1797379879001
+                    }, 
+                    "livevideoplayer": {
+                        "id": 1826416036001
+                    }, 
+                    "chronologyplayer": {
+                        "adsplayerid": 2327383105001, 
+                        "id": 1797379879001
+                    }, 
+                    "sequencerplayer": {
+                        "adsplayerid": 2327383105001, 
+                        "id": 1797379879001
+                    }, 
+                    "largearticleplayer": {
+                        "id": 1797379883001
+                    }, 
+                    "viralplayer": {
+                        "id": 2112656916001
+                    }, 
+                    "heroplayer": {
+                        "id": 1797379878001
+                    }, 
+                    "carouselsmallplayer": {
+                        "id": 2632427750001
+                    },
+                    "widestoryvideo": {
+                        "id": 1797379882001,
+                        "autoplay": false
+                    }
+                }
+            }
+        },
+        "VIDEO": {
+            "HEROPLAYER": {
+                "PLAYERID": "1797379878001"
+            },
+            "IMMERSIVEPLAYER": {
+                "PLAYERID": "2346945760001"
+            },
+            "LARGEARTICLEPLAYER": {
+                "PLAYERID": "1797379883001"
+            },
+            "SMALLARTICLEPLAYER": {
+                "PLAYERID": "1797379882001"
+            },
+            "VIDEOASSETPLAYER": {
+                "PLAYERID": "2245242285001"
+            },
+            "VIDEOLEFTPLAYER": {
+                "PLAYERID": "1797379882001"
+            },
+            "SEQUENCERPLAYER": {
+                "PLAYERID": "1797379879001",
+                "ADSPLAYERID": "2327383105001"
+            },
+            "TIMELINEPLAYER": {
+                "PLAYERID": "1797379879001",
+                "ADSPLAYERID": "2327383105001"
+            },
+            "CHRONOLOGYPLAYER": {
+                "PLAYERID": "1797379879001",
+                "ADSPLAYERID": "2327383105001"
+            },
+            "LIVEVIDEOPLAYER": {
+                "PLAYERID": "1826416036001"
+            },
+            "LIVEVIDEOPOPOUTPLAYER": {
+                "PLAYERID": "1826416035001"
+            },
+            "VIRALPLAYER": {
+                "PLAYERID": "2112656916001"
+            },
+            "CAROUSELPLAYER": {
+                "PLAYERID": "2632427750001"
+            },
+            "UGCPLAYER": {
+                "PLAYERID": "2609186650001",
+                "SKIN": "ugcplayer"
+            }
+        },
+        "SMARTPLAYLISTS" : {
+            "HOME": {
+                "PLAYLISTID": "2632390399001"
+            },
+            "NEWS": {
+                "PLAYLISTID": "2632390400001"
+            },
+            "SPORTS": {
+                "PLAYLISTID": "2632390402001"
+            },
+            "LIFE": {
+                "PLAYLISTID": "2632390401001"
+            },
+            "MONEY": {
+                "PLAYLISTID": "2632390403001"
+            },
+            "TECH": {
+                "PLAYLISTID": "2632390404001"
+            },
+            "TRAVEL": {
+                "PLAYLISTID": "2632390405001"
+            },
+            "OPINION": {
+                "PLAYLISTID": "2632390406001"
+            }
+        },
+        "robots": {
+            "blacklist_subdomains": "optimus|exp-cruise|exp-las-vegas2|exp-faw|exp-caribbean|exp-beach|exp-cruise2",
+            "blacklist_directories": "yourtake|story/sports/ncaab/2014/03/20/ge-cfo-challenge-daniel-kelly-amfam/6661213/|story/2014/03/20/ge-cfo-challenge-david-bartlett-amway/6653003/|story/sports/ncaab/2014/03/20/ge-cfo-challenge-art-mccarthy-neulion/6655521/|story/sports/ncaab/2014/03/20/ge-cfo-challenge-david-gross-major-league-lacrosse/6646987/|money/lookup/stocks/"
+        },
+        "flags": {
+            "markitondemand_usat_money_stock_asset_page": true,
+            "markitondemand_usat_money_autocomplete": false
+        }
+    }
+}

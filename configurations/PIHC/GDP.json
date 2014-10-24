@@ -1,0 +1,29 @@
+{
+	"publicationName": "Hawk Central",
+	"title": "Hawk Central",
+	"marketId": "PIHC",
+	"state": "IA",
+	"custService": "1-877-424-0071",
+	"website": "www.hawkcentral.com",
+	"baseName": "hawkcentral",
+	"firefly": {
+		"enabled": false
+	},
+	"chat": {
+		"enabled": false
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "newsubs@dmreg.com",
+		"phone": "1-800-424-0225"
+	},
+	"brandId": "1150HC",
+	"links": {
+		"termsOfServiceURL": "http://static.hawkcentral.com/terms/",
+		"caliPrivacyURL": "http://static.hawkcentral.com/privacy/",
+		"privacyURL": "http://static.hawkcentral.com/privacy/",
+		"adChoicesURL": "http://static.hawkcentral.com/privacy/#adchoices"
+	}
+}

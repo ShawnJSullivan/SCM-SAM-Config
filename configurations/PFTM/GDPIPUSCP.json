@@ -1,0 +1,63 @@
+{
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.news-press.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile128"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "149631068421067"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.news-press.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.news-press.com/privacy/",
+		"TOS_URL": "http://static.news-press.com/terms/",
+		"AD_CHOICES_URL": "http://static.news-press.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "07209a08-3f08-4e24-8aa2-ef34adb99d6b"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright \u00A9 YEAR The News-Press. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.news_press.iphone.autosubscription.1month",
+		"MARKET_ID": "A4",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=566322004",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thenewspress",
+		"ITUNES_APPID": "566322004",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thenewspress/id566322004?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.news-press"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Fort Myers, FL",
+		"BRAND_LOCATION_ZIP": "33901",
+		"BRAND_IDENTIFIER": "n_newspress",
+		"BRAND_LOCATION_GPS": "26.6167,-81.8333",
+		"BRAND_LOGO_URL": "http://www.news-press.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "C01D1D",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "eJziZZiLVG_4nEPntdqEwZCat-Sz6MAvms-EfpITYfuYI5vsRgDpiA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.news-press.com",
+		"BRAND_NEWS_TIP": "digital@news-press.com",
+		"CONTACT_US_EMAIL": "digital@news-press.com",
+		"BRAND_NAME": "The News-Press",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.news-press.com",
+		"BRAND_TWITTER": "thenewspress"
+	}
+}

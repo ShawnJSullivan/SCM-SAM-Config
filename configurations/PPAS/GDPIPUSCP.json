@@ -1,0 +1,78 @@
+{
+	"baseName": "desertsun",
+	"mobilesite": "m.desertsun.com",
+	"cobrandLogo": "http://tablet.desertsun.com/property/logo",
+	"emailNewsTips": "onlinehelp@mydesert.com",
+	"location": {
+		"timezone": "America/Los_Angeles",
+		"name": "Palm Springs, CA",
+		"zip": "92263",
+		"coordinates": "33.8303,-116.5444",
+		"latitude": 33.8303,
+		"longitude": -116.5444
+	},
+	"twitter": {
+		"name": "MyDesert"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.desertsun.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile156"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "116853348383382"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.mydesert.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.mydesert.com/privacy/",
+		"TOS_URL": "http://static.mydesert.com/terms/",
+		"AD_CHOICES_URL": "http://static.mydesert.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "b4e9db45-0d29-429b-9b40-87151b987c6e"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Desert Sun. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.mydesert.iphone.autosubscription.1month",
+		"MARKET_ID": "J1",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=531366663",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thedesertsun",
+		"ITUNES_APPID": "531366663",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thedesertsun/id531366663?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.mydesert"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Los_Angeles",
+		"BRAND_LOCATION": "Palm Springs, California",
+		"BRAND_LOCATION_ZIP": "92263",
+		"BRAND_IDENTIFIER": "n_mydesert",
+		"BRAND_LOCATION_GPS": "33.8303,-116.5444",
+		"BRAND_LOGO_URL": "http://www.desertsun.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "MyDesert",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0E4176",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "eU9JgboG1wHW-5Xo2874P7AvALE1r99Z91NR4ti8yZASQliHhEkxuQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.desertsun.com",
+		"BRAND_NEWS_TIP": "localnews@thedesertsun.com",
+		"CONTACT_US_EMAIL": "onlinehelp@mydesert.com",
+		"BRAND_NAME": "The Desert Sun",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.desertsun.com",
+		"BRAND_TWITTER": "MyDesert"
+	}
+}

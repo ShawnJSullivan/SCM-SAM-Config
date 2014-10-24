@@ -1,0 +1,78 @@
+{
+	"baseName": "poughkeepsiejournal",
+	"mobilesite": "m.poughkeepsiejournal.com",
+	"cobrandLogo": "http://tablet.poughkeepsiejournal.com/property/logo",
+	"emailNewsTips": "newsroom@poughkeepsiejournal.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Poughkeepsie, NY",
+		"zip": "12602",
+		"coordinates": "41.7064,-73.9208",
+		"latitude": 41.7064,
+		"longitude": -73.9208
+	},
+	"twitter": {
+		"name": "pokjournal"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.poughkeepsiejournal.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile161"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "179935365368749"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.poughkeepsiejournal.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.poughkeepsiejournal.com/privacy/",
+		"TOS_URL": "http://static.poughkeepsiejournal.com/terms/",
+		"AD_CHOICES_URL": "http://static.poughkeepsiejournal.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "6e66bb92-0517-46ba-8b3a-327016c30143"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Poughkeepsie Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.poughkeepsiejournal.iphone.autosubscription.1month",
+		"MARKET_ID": "BK",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=493347726",
+		"ITUNES_URL": "http://itunes.com/app/gannett/poughkeepsiejournal",
+		"ITUNES_APPID": "493347726",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/poughkeepsiejournal/id493347726?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.poughkeepsie"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Poughkeepsie, New York",
+		"BRAND_LOCATION_ZIP": "12602",
+		"BRAND_IDENTIFIER": "n_poughkeepsiejournal",
+		"BRAND_LOCATION_GPS": "41.7064,-73.9208",
+		"BRAND_LOGO_URL": "http://www.poughkeepsiejournal.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "C01D1D",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "dFrrQeIZ2Kh32Qw3cpCCghD5dmgrBt-8HivzxhjrzILhkhQdtmG80g..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.poughkeepsiejournal.com",
+		"BRAND_NEWS_TIP": "newsroom@poughkeepsiejournal.com",
+		"CONTACT_US_EMAIL": "thepoughkeepsiejournal@gannett.com",
+		"BRAND_NAME": "Poughkeepsie Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.poughkeepsiejournal.com",
+		"BRAND_TWITTER": "pokjournal"
+	}
+}

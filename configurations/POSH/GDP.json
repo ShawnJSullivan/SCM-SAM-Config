@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Oshkosh Northwestern",
+	"title": "The Oshkosh Northwestern",
+	"marketId": "U006",
+	"brandId": "WISCONSIN",
+	"cobrandLogoText": "thenorthwestern.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-5048",
+	"website": "www.thenorthwestern.com",
+	"baseName": "thenorthwestern",
+	"email": "wisconsincoe@gannett.com",
+	"state": "WI",
+	"links": {
+		"termsOfServiceURL": "http://static.thenorthwestern.com/terms/",
+		"caliPrivacyURL": "http://static.thenorthwestern.com/privacy/",
+		"privacyURL": "http://static.thenorthwestern.com/privacy/",
+		"adChoicesURL": "http://static.thenorthwestern.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "OshKosh"
+	},
+	"dealChicken": {
+		"marketKey": "fonddulac-oshkosh-wi"
+	},
+	"facebook": {
+		"secret#private": "b0cf1b41fd2439e01f3fb6f5ff7df7e0",
+		"productId": "167919243249397"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.thenorthwestern.com",
+		"trackingSuite": "gpaper190, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "OshKosh"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-5048"
+	}
+}

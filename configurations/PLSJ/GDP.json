@@ -1,0 +1,40 @@
+{
+	"publicationName": "Lansing State Journal",
+	"title": "Lansing State Journal",
+	"marketId": "A3",
+	"brandId" : "1051SJ",
+	"state": "MI",
+	"baseName": "lansingstatejournal",
+	"website": "www.lansingstatejournal.com",
+	"cobrandLogoText": "lansingstatejournal.com | A Gannett Company",
+	"palette": "p3",
+	"custService": "1-800-234-1719",
+	"email": "lansingstatejournal@gannett.com",
+	"facebook": {
+		"secret#private": "3f7d1ddf3135a6de8616fb0778c7274d",
+		"productId": "155580771156105"
+	},
+	"dealChicken": {
+		"marketKey" : "lansing-mi"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.lansingstatejournal.com/terms/",
+		"caliPrivacyURL": "http://static.lansingstatejournal.com/privacy/",
+		"privacyURL": "http://static.lansingstatejournal.com/privacy/",
+		"adChoicesURL": "http://static.lansingstatejournal.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Lansing"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Lansing"
+		},
+		"email": "lansingstatejournal@gannett.com",
+		"phone": "1-800-234-1719"
+	}
+}

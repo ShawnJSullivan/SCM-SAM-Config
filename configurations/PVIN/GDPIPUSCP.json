@@ -1,0 +1,78 @@
+{
+	"baseName": "thedailyjournal",
+	"mobilesite": "m.thedailyjournal.com",
+	"cobrandLogo": "http://tablet.thedailyjournal.com/property/logo",
+	"emailNewsTips": "djcustomerservice@thedailyjournal.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Vineland, NJ",
+		"zip": "08360",
+		"coordinates": "39.4650,-74.9971",
+		"latitude": 39.4650,
+		"longitude": -74.9971
+	},
+	"twitter": {
+		"name": "thedailyjournal"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.thedailyjournal.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile180"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "137541692970601"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.thedailyjournal.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.thedailyjournal.com/privacy/",
+		"TOS_URL": "http://static.thedailyjournal.com/terms/",
+		"AD_CHOICES_URL": "http://static.thedailyjournal.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "77ce7128-992b-4a7f-a6cb-0cb6d1cccea9"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Daily Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.thedailyjournal.iphone.autosubscription.1month",
+		"MARKET_ID": "A8",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=566359405",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thedailyjournal",
+		"ITUNES_APPID": "566359405",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thedailyjournal/id566359405?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.thedailyjournal"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Vineland, New Jersey",
+		"BRAND_LOCATION_ZIP": "08360",
+		"BRAND_IDENTIFIER": "n_thedailyjournal",
+		"BRAND_LOCATION_GPS": "39.4650,-74.9971",
+		"BRAND_LOGO_URL": "http://www.thedailyjournal.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0E4176",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "-xtwvZYQ3ATzBvFwmbeOviKhfI_gkmVsOv-Z5yP5tUkxJiTalXpa4w..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.thedailyjournal.com",
+		"BRAND_NEWS_TIP": "djcustomerservice@thedailyjournal.com",
+		"CONTACT_US_EMAIL": "djcustomerservice@thedailyjournal.com",
+		"BRAND_NAME": "The Daily Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.thedailyjournal.com",
+		"BRAND_TWITTER": "thedailyjournal"
+	}
+}

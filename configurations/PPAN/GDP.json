@@ -1,0 +1,45 @@
+{
+	"publicationName": "Packers News & Green Bay Press Gazette",
+	"title": "Packers News",
+	"marketId": "U007",
+	"brandId" : "WISCONSIN",
+	"state": "WI",
+	"baseName": "packersnews",
+	"website": "www.packersnews.com",
+	"cobrandLogoText": "PackersNews.com | A Gannett Company",
+	"palette": "p4",
+	"custService": "1-877-424-5042",
+	"email": "wisconsincoe@gannett.com",
+	"facebook": {
+		"secret#private": "591c5241e160d372e460541c244c12a3",
+		"productId": "249896938457153"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.packersnews.com",
+		"trackingSuite": "gpaper132, gntbcstglobal"
+	},
+	"dealChicken": {
+		"marketKey" : "green-bay-wi"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.packersnews.com/terms/",
+		"caliPrivacyURL": "http://static.packersnews.com/privacy/",
+		"privacyURL": "http://static.packersnews.com/privacy/",
+		"adChoicesURL": "http://static.packersnews.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10,
+		"enabled": false
+	},
+	"chat": {
+		"publicationId": "GreenBay"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "GreenBay"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-5042"
+	}
+}

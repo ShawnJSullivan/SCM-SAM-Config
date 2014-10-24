@@ -1,0 +1,78 @@
+{
+	"baseName": "guampdn",
+	"mobilesite": "m.guampdn.com",
+	"cobrandLogo": "http://tablet.guampdn.com/property/logo",
+	"emailNewsTips": "mobile@guampdn.com",
+	"location": {
+		"timezone": "Pacific/Guam",
+		"name": "Hagatna, GU",
+		"zip": "96932",
+		"coordinates": "13.4833,144.7500",
+		"latitude": 13.4833,
+		"longitude": 144.7500
+	},
+	"twitter": {
+		"name": "guampdn"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.guampdn.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile134"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "120982527969586"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://m.guampdn.com/privacy?os=ios&device=iphone&nativeapp=1",
+		"CALI_PRIVACY_URL": "http://m.guampdn.com/privacy?os=ios&device=iphone&nativeapp=1#california",
+		"TOS_URL": "http://m.guampdn.com/tos?os=ios&device=iphone&nativeapp=1",
+		"AD_CHOICES_URL": "http://m.guampdn.com/privacy?os=ios&device=iphone&nativeapp=1#adchoices",
+		"SHARING_ENABLED": "F",
+		"WDAKey": ""
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Pacific Daily News. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.guampdn.iphone.autosubscription.1month",
+		"MARKET_ID": "PGUA",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=",
+		"ITUNES_URL": "http://itunes.com/app/gannett/",
+		"ITUNES_APPID": "",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thegreenvillenews/id?mt=8",
+		"ITUNES_BUNDLEID": ""
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "Pacific/Guam",
+		"BRAND_LOCATION": "Hagatna, Guam",
+		"BRAND_LOCATION_ZIP": "96932",
+		"BRAND_IDENTIFIER": "n_guampdn",
+		"BRAND_LOCATION_GPS": "13.4833,144.7500",
+		"BRAND_LOGO_URL": "http://www.guampdn.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0E4176",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "FDMh3NPl8bXz9pz0pli3umfHPl3amLjszRpmgvKhsIwqUFcLyDU63A..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.guampdn.com",
+		"BRAND_NEWS_TIP": "mobile@guampdn.com",
+		"CONTACT_US_EMAIL": "mobile@guampdn.com",
+		"BRAND_NAME": "Pacific Daily News",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.guampdn.com",
+		"BRAND_TWITTER": "guampdn"
+	}
+}

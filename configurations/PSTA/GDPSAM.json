@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.newsleader.com",
+			"trackingSuite": "gpaper174, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "NewsLeader.com"
+	},
+	"mobile": {
+		"title": "NewsLeader.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.newsleader.com/trial-expired/",
+				"restricted": "https://subscribe.newsleader.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Staunton News Leader iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DP",
+			"unitNumber": "1125",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile174"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/499"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/499"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/503"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/503"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Staunton News Leader Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DP",
+			"unitNumber": "1125",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile174"
+		}
+	}
+}

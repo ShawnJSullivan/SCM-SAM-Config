@@ -1,0 +1,76 @@
+{
+	"emailNewsTips": "news@theadvertiser.com",
+	"mobilesite": "m.theadvertiser.com",
+	"twitter": {
+		"name": "theadvertiser"
+	},
+	"baseName": "theadvertiser",
+	"location": {
+		"timezone": "America/Chicago",
+		"zip": "70502",
+		"name": "Lafayette, LA",
+		"coordinates": "30.2167,-92.0333"
+	},
+	"cobrandLogo": "http://tablet.theadvertiser.com/property/logo",
+	"Facebook": {
+		"FACEBOOK_ID": "150147415035780"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.theadvertiser.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile104"
+	},
+	"fireflyEnabled": true,
+	"Settings": {
+		"PRIVACY_URL": "http://static.theadvertiser.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.theadvertiser.com/privacy/",
+		"TOS_URL": "http://static.theadvertiser.com/terms/",
+		"AD_CHOICES_URL": "http://static.theadvertiser.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "b94c31c4-de13-46ad-adad-628b4a5cc66e"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Daily Advertiser. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.theadvertiser.iphone.autosubscription.1month",
+		"MARKET_ID": "DG",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id527942108?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thedailyadvertiser",
+		"ITUNES_APPID": "527942108",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thedailyadvertiser/id527942108?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.theadvertiser"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Lafayette, Louisiana",
+		"BRAND_LOCATION_ZIP": "70502",
+		"BRAND_IDENTIFIER": "n_theadvertiser",
+		"BRAND_LOCATION_GPS": "30.2167,-92.0333",
+		"BRAND_LOGO_URL": "http://www.theadvertiser.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "C01D1D",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "sFGCTqdfDuyr5yJ_pud-RZCRr8n8f0T4klzxPN6Imh077Lvfvjh3CQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.theadvertiser.com",
+		"BRAND_NEWS_TIP": "news@theadvertiser.com",
+		"CONTACT_US_EMAIL": "lafdailyadvertiser@gannett.com",
+		"BRAND_NAME": "The Daily Advertiser",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.theadvertiser.com",
+		"BRAND_TWITTER": "theadvertiser"
+	}
+}

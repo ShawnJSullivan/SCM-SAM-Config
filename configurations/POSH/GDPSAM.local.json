@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.thenorthwestern.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/91"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	}
+}

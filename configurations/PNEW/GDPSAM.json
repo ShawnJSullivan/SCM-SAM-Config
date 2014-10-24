@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.newarkadvocate.com",
+			"trackingSuite": "gpaper236, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "newarkadvocate.com"
+	},
+	"mobile": {
+		"title": "newarkadvocate.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.newarkadvocate.com/trial-expired/",
+				"restricted": "https://subscribe.newarkadvocate.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Advocate iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ON",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile236"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/795"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/795"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/799"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/799"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Advocate Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ON",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile236"
+		}
+	}
+}

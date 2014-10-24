@@ -1,0 +1,201 @@
+{
+	"default": {
+		"support": {
+			"accountManagementMenuOptionsMap": {
+				"eNewspaper": {"map": "ENEWSPAPER", "enabled": false}
+			}
+		},
+		"omniture": {
+			"trackingServer": "srepdata.hometownlife.com",
+			"trackingSuite": "gpaper224, gntbcstglobal"
+		},
+		"dictionary": {
+			"thankyou_default_subscribedDescription": "Thank you for subscribing to Observer and Eccentric Newspapers and Hometown Weeklies.",
+			"thankyou_default_subscribedDisclaimer":{
+				"enabled": true,
+				"text": "To opt out or manage your newsletter preferences, log in to My Account on hometownlife.com."
+			},
+			"subscribe_default_fodHeadline": "CHOOSE A SUBSCRIPTION OPTION",
+			"subscribe_default_fodDescription": "The Observer & Eccentric and Hometown newspapers provide news and information that is relevant to the people that live and work in western Wayne and Oakland counties."},
+		"multiPublication": {
+			"enabled": true,
+			"publications": [
+				{
+					"marketId": "C5",
+					"submarketId": "C501",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "birminghameccentric",
+					"title": "Birmingham Eccentric",
+					"description": "Subscribe to the Birmingham Eccentric"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C502",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "cantonobserver",
+					"title": "Canton Observer",
+					"description": "Subscribe to the Canton Observer"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C503",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "farmingtonobserver",
+					"title": "Farmington Observer",
+					"description": "Subscribe to the Farmington Observer"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C504",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "gardencityobserver",
+					"title": "Garden City Observer",
+					"description": "Subscribe to the Garden City Observer"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C505",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "livoniaobserver",
+					"title": "Livonia Observer",
+					"description": "Subscribe to the Livonia Observer"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C506",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "milfordtimes",
+					"title": "Milford Times",
+					"description": "Subscribe to the Milford Times"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C507",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "northvillerecord",
+					"title": "Northville Record",
+					"description": "Subscribe to the Northville Record"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C508",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "novinews",
+					"title": "Novi News",
+					"description": "Subscribe to the Novi News"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C509",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "plymouthobserver",
+					"title": "Plymouth Observer",
+					"description": "Subscribe to the Plymouth Observer"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C510",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "redfordobserver",
+					"title": "Redford Observer",
+					"description": "Subscribe to the Redford Observer"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C511",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "southlyonherald",
+					"title": "South Lyon Herald",
+					"description": "Subscribe to the South Lyon Herald"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C512",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "southoaklandeccentric",
+					"title": "South Oakland Eccentric",
+					"description": "Subscribe to the South Oakland Eccentric"
+				},
+				{
+					"marketId": "C5",
+					"submarketId": "C513",
+					"baseName": "hometownlife",
+					"publicationAssetAlias": "waynewestlandobserver",
+					"title": "Wayne-Westland Observer",
+					"description": "Subscribe to the Wayne-Westland Observer"
+				}
+			]
+		}
+	},
+	"site": {
+		"title": "hometownlife.com"
+	},
+	"mobile": {
+		"title": "hometownlife.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.hometownlife.com/trial-expired/",
+				"restricted": "https://subscribe.hometownlife.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Observer and Eccentric iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://www.hometownlife.com/tos",
+			"caliPrivacyURL": "http://static.hometownlife.com/privacy/",
+			"privacyURL": "http://static.hometownlife.com/privacy/",
+			"adChoicesURL": "http://static.hometownlife.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile224"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "1008",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1127"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1127"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1129"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1129"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Observer and Eccentric Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "1008",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile224"
+		}
+	}
+}

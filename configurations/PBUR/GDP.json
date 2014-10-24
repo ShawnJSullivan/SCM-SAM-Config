@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Burlington Free Press",
+	"title": "The Burlington Free Press",
+	"marketId": "BT",
+	"brandId": "1010FP",
+	"cobrandLogoText": "BurlingtonFreePress.com | A Gannett Company",
+	"palette": "p5",
+	"custService": "800-427-3126",
+	"website": "www.burlingtonfreepress.com",
+	"baseName": "burlingtonfreepress",
+	"email": "freepress@gannett.com",
+	"state": "VT",
+	"links": {
+		"termsOfServiceURL": "http://static.burlingtonfreepress.com/terms/",
+		"caliPrivacyURL": "http://static.burlingtonfreepress.com/privacy/",
+		"privacyURL": "http://static.burlingtonfreepress.com/privacy/",
+		"adChoicesURL": "http://static.burlingtonfreepress.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Burlington"
+	},
+	"dealChicken": {
+		"marketKey": "burlington-vt"
+	},
+	"facebook": {
+		"secret#private": "70e9832479838b91a7c4dc4e6bf11cbb",
+		"productId": "151224581596873"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.burlingtonfreepress.com",
+		"trackingSuite": "gpaper116, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Burlington"
+		},
+		"email": "freepress@gannett.com",
+		"phone": "1-800-427-3126"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"publicationName": "Asbury Park Press",
+	"title": "Asbury Park Press",
+	"marketId": "B3",
+	"brandId": "1171AP",
+	"cobrandLogoText": "APP.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-822-9779",
+	"website": "www.app.com",
+	"baseName": "app",
+	"email": "asburyparkpress@gannett.com",
+	"state": "NJ",
+	"links": {
+		"termsOfServiceURL": "http://static.app.com/terms/",
+		"caliPrivacyURL": "http://static.app.com/privacy/",
+		"privacyURL": "http://static.app.com/privacy/",
+		"adChoicesURL": "http://static.app.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "AsburyPark"
+	},
+	"dealChicken": {
+		"marketKey": "monmouth-nj"
+	},
+	"facebook": {
+		"secret#private": "ccc27bea3fc4c6f74c3f133b3a3398e7",
+		"productId": "116172675120111"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.app.com",
+		"trackingSuite": "gpaper107, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "AsburyPark"
+		},
+		"email": "asburyparkpress@gannett.com",
+		"phone": "1-800-822-9779"
+	}
+}

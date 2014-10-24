@@ -1,0 +1,45 @@
+{
+	"publicationName": "The Detroit News",
+	"title": "The Detroit News",
+	"marketId": "PDTN",
+	"brandId" : "1008DN",
+	"state": "MI",
+	"baseName": "detroitnews",
+	"website": "www.detroitnews.com",
+	"cobrandLogoText": "DetroitNews.com | A Gannett Company",
+	"palette": "p5",
+	"custService": "1-800-395-3300",
+	"email": "cserv@dnps.com",
+	"facebook": {
+		"secret#private": "f67e541b301db71b14209ee3b588084c",
+		"productId": "140492272680485"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.detroitnews.com",
+		"trackingSuite": "gpaper123, gntbcstglobal"
+	},
+	"dealChicken": {
+		"marketKey" : "detroit-mi"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.detroitnews.com/terms/",
+		"caliPrivacyURL": "http://static.detroitnews.com/privacy/",
+		"privacyURL": "http://static.detroitnews.com/privacy/",
+		"adChoicesURL": "http://static.detroitnews.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"enabled": false,
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": ""
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": ""
+		},
+		"email": "cserv@dnps.com",
+		"phone": "1-800-395-3300"
+	}
+}

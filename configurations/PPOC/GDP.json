@@ -1,0 +1,44 @@
+{
+	"publicationName": "The News Herald",
+	"title": "The News Herald",
+	"marketId": "BC",
+	"brandId": "1019PH",
+	"cobrandLogoText": "portclintonnewsherald.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0218",
+	"website": "www.portclintonnewsherald.com",
+	"baseName": "portclintonnewsherald",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static.portclintonnewsherald.com/terms/",
+		"caliPrivacyURL": "http://static.portclintonnewsherald.com/privacy/",
+		"privacyURL": "http://static.portclintonnewsherald.com/privacy/",
+		"adChoicesURL": "http://static.portclintonnewsherald.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "PortClinton"
+	},
+	"dealChicken": {
+		"marketKey": "north-coast-oh"
+	},
+	"facebook": {
+		"secret#private": "f2fdc5673a18d203c339417e0fb13e46",
+		"productId": "145259835536858"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.portclintonnewsherald.com",
+		"trackingSuite": "gpaper237, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "PortClinton"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-877-424-0218"
+	}
+}

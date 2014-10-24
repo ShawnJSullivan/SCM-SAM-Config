@@ -1,0 +1,44 @@
+{
+	"publicationName": "Journal and Courier",
+	"title": "Journal and Courier",
+	"marketId": "BY",
+	"brandId": "1532JC",
+	"cobrandLogoText": "JCOnline.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-456-3223",
+	"website": "www.jconline.com",
+	"baseName": "jconline",
+	"email": "journalandcourier@gannett.com",
+	"state": "IN",
+	"links": {
+		"termsOfServiceURL": "http://static.jconline.com/terms/",
+		"caliPrivacyURL": "http://static.jconline.com/privacy/",
+		"privacyURL": "http://static.jconline.com/privacy/",
+		"adChoicesURL": "http://static.jconline.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "LafayetteIN"
+	},
+	"dealChicken": {
+		"marketKey": "lafayette-in"
+	},
+	"facebook": {
+		"secret#private": "6b3cfade2f6769b1d3f23b1433612d21",
+		"productId": "150121088373528"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.jconline.com",
+		"trackingSuite": "gpaper143, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "LafayetteIN"
+		},
+		"email": "journalandcourier@gannett.com",
+		"phone": "1-800-456-3223"
+	}
+}

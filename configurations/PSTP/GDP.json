@@ -1,0 +1,40 @@
+{
+	"publicationName": "Stevens Point Journal",
+	"title": "Stevens Point Journal",
+	"marketId": "U009",
+	"brandId" : "WISCONSIN",
+	"state": "WI",
+	"baseName": "stevenspointjournal",
+	"website": "www.stevenspointjournal.com",
+	"cobrandLogoText": "StevensPointJournal.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-5641",
+	"email": "wisconsincoe@gannett.com",
+	"facebook": {
+		"secret#private": "d22372c6d2a2aeac0aae98eb19b6875b",
+		"productId": "116784471723374"
+	},
+	"dealChicken": {
+		"marketKey" : "central-wisconsin-wi"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.stevenspointjournal.com/terms/",
+		"caliPrivacyURL": "http://static.stevenspointjournal.com/privacy/",
+		"privacyURL": "http://static.stevenspointjournal.com/privacy/",
+		"adChoicesURL": "http://static.stevenspointjournal.com/adchoices/"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "StevensPoint"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "StevensPoint"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-5641"
+	}
+}

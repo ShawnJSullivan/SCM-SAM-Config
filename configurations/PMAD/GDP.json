@@ -1,0 +1,44 @@
+{
+	"publicationName": "Marshfield News-Herald",
+	"title": "Marshfield News-Herald",
+	"marketId": "U005",
+	"brandId": "WISCONSIN",
+	"cobrandLogoText": "marshfieldnewsherald.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-5046",
+	"website": "www.marshfieldnewsherald.com",
+	"baseName": "marshfieldnewsherald",
+	"email": "wisconsincoe@gannett.com",
+	"state": "WI",
+	"links": {
+		"termsOfServiceURL": "http://static.marshfieldnewsherald.com/terms/",
+		"caliPrivacyURL": "http://static.marshfieldnewsherald.com/privacy/",
+		"privacyURL": "http://static.marshfieldnewsherald.com/privacy/",
+		"adChoicesURL": "http://static.marshfieldnewsherald.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Marshfield"
+	},
+	"dealChicken": {
+		"marketKey": "central-wisconsin-wi"
+	},
+	"facebook": {
+		"secret#private": "8a00acae41dab3725903e5dd9bf84f8d",
+		"productId": "127108344020788"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.marshfieldnewsherald.com",
+		"trackingSuite": "gpaper189, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Marshfield"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-5046"
+	}
+}

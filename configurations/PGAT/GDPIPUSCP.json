@@ -1,0 +1,79 @@
+{
+	"baseName": "armytimes",
+	"mobilesite": "m.armytimes.com",
+	"cobrandLogo": "http://tablet.armytimes.com/property/logo",
+	"emailNewsTips": "armylet@armytimes.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Washington, DC",
+		"zip": "20004",
+		"coordinates": "38.8930,-77.0441",
+		"latitude": 38.8930,
+		"longitude": -77.0441
+	},
+	"twitter": {
+		"name": "ArmyTimes"
+	},
+	"fireflyEnabled": true,
+	"title": "Army Times Native iPhone App",
+	"Omniture": {
+		"OMNITURE_APP_NAME": "armytimesiphone",
+		"trackingServer": "gannett.112.2o7.net",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gmobilemilitary"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "352855671529986"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.armytimes.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.armytimes.com/privacy/",
+		"TOS_URL": "http://static.armytimes.com/terms/",
+		"AD_CHOICES_URL": "http://static.armytimes.com/privacy/#adchoices",
+		"SHARING_ENABLED": "F",
+		"WDAKey": ""
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Army Times. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.armytimes.iphone.autosubscription.1month",
+		"MARKET_ID": "M602",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id892929833?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/armytimes",
+		"ITUNES_APPID": "892929833",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/apple-store/id892929833?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.ggm.armytimes"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Washington, DC",
+		"BRAND_LOCATION_ZIP": "20004",
+		"BRAND_IDENTIFIER": "",
+		"BRAND_LOCATION_GPS": "38.8930,-77.0441",
+		"BRAND_LOGO_URL": "http://www.armytimes.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "ArmyTimes",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "059347",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "tyc9NmTfz19Uxm9bLY9xshLDIaTElygl3c9a7fp7lgI9rT-dDmiR4w..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.armytimes.com",
+		"BRAND_NEWS_TIP": "armylet@armytimes.com",
+		"CONTACT_US_EMAIL": "cust-svc@armytimes.com",
+		"BRAND_NAME": "Army Times",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.armytimes.com",
+		"BRAND_TWITTER": "ArmyTimes"
+	}
+}

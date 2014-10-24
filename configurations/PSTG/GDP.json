@@ -1,0 +1,48 @@
+{
+	"publicationName": "The Spectrum",
+	"title": "The Spectrum",
+	"marketId": "G3",
+	"brandId": "1530SP",
+	"cobrandLogoText": "TheSpectrum.com | A Gannett Company",
+	"palette": "p5",
+	"custService": "1-800-748-5489",
+	"website": "www.thespectrum.com",
+	"baseName": "thespectrum",
+	"email": "circulation@thespectrum.com",
+	"state": "UT",
+	"links": {
+		"termsOfServiceURL": "http://www.thespectrum.com/tos",
+		"caliPrivacyURL": "http://www.thespectrum.com/privacy#california",
+		"privacyURL": "http://www.thespectrum.com/privacy",
+		"adChoicesURL": "http://www.thespectrum.com/privacy#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "StGeorge"
+	},
+	"dealChicken": {
+		"marketKey": "southern-utah-ut"
+	},
+	"facebook": {
+		"secret#private": "929cf3353b572e3f4a1f88794ac0eb5f",
+		"productId": "116065358464006"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.thespectrum.com",
+		"trackingSuite": "gpaper173, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "StGeorge"
+		},
+		"email": "circulation@thespectrum.com",
+		"phone": "1-800-748-5489"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	}
+}

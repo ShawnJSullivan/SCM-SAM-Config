@@ -1,0 +1,41 @@
+{
+	"publicationName": "THV 11",
+	"title": "THV11.COM",
+	"marketId": "KTHV",
+	"brandId": "3324KTHV",
+	"cobrandLogoText": "THV11.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-501-376-1111",
+	"website": "www.thv11.com",
+	"baseName": "thv11",
+	"email": "web@thv11.com",
+	"state": "AR",
+	"links": {
+		"termsOfServiceURL": "http://static.thv11.com/terms/",
+		"caliPrivacyURL": "http://static.thv11.com/privacy/",
+		"privacyURL": "http://static.thv11.com/privacy/",
+		"adChoicesURL": "http://static.thv11.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "little-rock-ar"
+	},
+	"facebook": {
+		"secret#private": "d1c3e878d9fe8012d41b82dcf0deef8f",
+		"productId": "136172173112869"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.thv11.com",
+		"trackingSuite": "gntbcstkthv,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "web@thv11.com",
+		"phone": "1-501-376-1111"
+	}
+}

@@ -1,0 +1,59 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.kare11.com",
+			"trackingSuite": "gntbcstkare,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "KARE11.com"
+	},
+	"mobile": {
+		"title": "KARE11.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.kare11.com/trial-expired/",
+				"restricted": "https://subscribe.kare11.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "KARE News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3323",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstkare,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/143"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1221"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1763"
+		}
+	},
+	"android": {
+		"title": "KARE News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3323",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstkare,gntbcstglobal"
+		}
+	}
+}

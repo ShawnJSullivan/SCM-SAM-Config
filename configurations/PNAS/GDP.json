@@ -1,0 +1,48 @@
+{
+	"publicationName": "The Tennessean",
+	"title": "The Tennessean",
+	"marketId": "DN",
+	"brandId": "1056TN",
+	"state": "TN",
+	"palette": "p3",
+	"baseName": "tennessean",
+	"website": "www.tennessean.com",
+	"mobilesite": "m.tennessean.com",
+	"cobrandLogoText": "Tennessean.com | A Gannett Company",
+	"custService": "1-800-342-8237",
+	"email": "customer@tennessean.com",
+	"links": {
+		"termsOfServiceURL": "http://static.tennessean.com/terms/",
+		"caliPrivacyURL": "http://static.tennessean.com/privacy/",
+		"privacyURL": "http://static.tennessean.com/privacy/",
+		"adChoicesURL": "http://static.tennessean.com/adchoices/"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Nashville"
+	},
+	"dealChicken": {
+		"marketKey": "nashville-tn"
+	},
+	"facebook": {
+		"secret#private": "0e7ee771499ccc9b490d50bcef26e0a8",
+		"productId": "121487414583460"
+	},
+	"twitter": {
+		"name": "tennessean"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.tennessean.com",
+		"trackingSuite": "gpaper151, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Nashville"
+		},
+		"email": "customer@tennessean.com",
+		"phone": "1-800-342-8237"
+	}
+}

@@ -1,0 +1,22 @@
+{
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	}
+}

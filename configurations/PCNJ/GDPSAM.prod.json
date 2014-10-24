@@ -1,0 +1,9 @@
+{
+	"default": {
+		"brandId": "CENTRALJERSEY",
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.mycentraljersey.com"
+			}
+	}
+}

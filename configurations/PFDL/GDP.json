@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Reporter",
+	"title": "The Reporter",
+	"marketId": "U002",
+	"brandId": "WISCONSIN",
+	"cobrandLogoText": "FDLReporter.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-5040",
+	"website": "www.fdlreporter.com",
+	"baseName": "fdlreporter",
+	"email": "wisconsincoe@gannett.com.",
+	"state": "WI",
+	"links": {
+		"termsOfServiceURL": "http://static.fdlreporter.com/terms/",
+		"caliPrivacyURL": "http://static.fdlreporter.com/privacy/",
+		"privacyURL": "http://static.fdlreporter.com/privacy/",
+		"adChoicesURL": "http://static.fdlreporter.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "FondDuLac"
+	},
+	"dealChicken": {
+		"marketKey": "fonddulac-oshkosh-wi"
+	},
+	"facebook": {
+		"secret#private": "1ce1031f9333b61419473f1bf3d5c200",
+		"productId": "175275349169565"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.fdlreporter.com",
+		"trackingSuite": "gpaper187, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "FondDuLac"
+		},
+		"email": "wisconsincoe@gannett.com.",
+		"phone": "1-877-424-5040"
+	}
+}

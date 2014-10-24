@@ -1,0 +1,40 @@
+{
+	"publicationName": "Democrat and Chronicle",
+	"title": "Democrat and Chronicle",
+	"marketId": "A2",
+	"brandId" : "1070DC",
+	"state": "NY",
+	"baseName": "democratandchronicle",
+	"website": "www.democratandchronicle.com",
+	"cobrandLogoText": "DemocratAndChronicle.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-790-9565",
+	"email": "webmaster@democratandchronicle.com",
+	"facebook": {
+		"secret#private": "f6475bf5254ca0cd8e1a02593e5d3f85",
+		"productId": "176958652324613"
+	},
+	"dealChicken": {
+		"marketKey" : "rochester-ny"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.democratandchronicle.com/terms/",
+		"caliPrivacyURL": "http://static.democratandchronicle.com/privacy/",
+		"privacyURL": "http://static.democratandchronicle.com/privacy/",
+		"adChoicesURL": "http://static.democratandchronicle.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"chat": {
+		"publicationId": "Rochester"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Rochester"
+		},
+		"email": "democratandchronicle@gannett.com",
+		"phone": "1-800-790-9565"
+	}
+}

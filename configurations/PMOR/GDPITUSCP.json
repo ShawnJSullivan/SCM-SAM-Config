@@ -1,0 +1,160 @@
+{
+	"baseName": "dailyrecord",
+	"mobilesite": "m.dailyrecord.com",
+	"cobrandLogo": "http://tablet.dailyrecord.com/property/logo",
+	"emailNewsTips": "mvandyk@njpressmedia.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Morristown, NJ",
+		"zip": "07960",
+		"coordinates": "40.8517,-74.4532",
+		"latitude": 40.8517,
+		"longitude": -74.4532
+	},
+	"twitter": {
+		"name": "dailyrecord"
+	},
+	"fireflyEnabled": true,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/nj-morristown-mobile-C1174/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/nj-morristown-mobile-C1174/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsipad",
+		"trackingServer": "repdata.dailyrecord.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobile149"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "148966475155999"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.dailyrecord.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.dailyrecord.com/privacy/",
+		"TOS_URL": "http://static.dailyrecord.com/terms/",
+		"TILE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://static.dailyrecord.com/privacy/#adchoices",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "north-jersey-nj",
+		"WDAKey": "a568bacf-6a74-4c08-abea-d51ccacd32a7",
+		"SHARING_ENABLED": "T"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Daily Record. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.dailyrecord.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.dailyrecord.autosubscription.1month",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "C0",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id860677320?mt=8",
+		"OLD_FEED_URL": "http://m.dailyrecord.com/mg-ui/dynagate/page?site=n_dailyrecord&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/dailyrecordmorrisconjforipad",
+		"ITUNES_APPID": "860677320"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Morristown, New Jersey",
+		"BRAND_LOCATION_ZIP": "07960",
+		"BRAND_IDENTIFIER": "n_dailyrecord",
+		"BRAND_LOCATION_GPS": "40.8517,-74.4532",
+		"BRAND_LOGO_URL": "http://www.dailyrecord.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "gUWnkVBaIkpkhjoKsIgudP2lR8bYYtHILaLIomqgU0vA_RarVWzFFw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.dailyrecord.com",
+		"CONTACT_US_EMAIL": "dailyrecord@gannett.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "Daily Record",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.dailyrecord.com",
+		"BRAND_TWITTER": "dailyrecord",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+			{
+				"name": "Apartments.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.dailyrecord.com/apartments"
+			},
+			{
+				"name": "CareerBuilder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://dailyrecord.gannettonline.com/careerbuilder/index.html"
+			},
+			{
+				"name": "Cars.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.cars.com/?aff=dailyrec"
+			},
+			{
+				"name": "Classifieds",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.dailyrecord.com/classifieds"
+			},
+			{
+				"name": "DealChicken.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "https://www.dealchicken.com/north-jersey-nj"
+			},
+			{
+				"name": "Find & Save",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://findnsave.dailyrecord.com/"
+			},
+			{
+				"name": "HomeFinder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.dailyrecord.com/homes"
+			}
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=morristown&state=nj",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.dailyrecord.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.wusa9.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "189",
+		"qa": "",
+		"staging": "271",
+		"dev": "434",
+		"prod": "189",
+		"prod-moc": "189",
+		"prod-phx": "189"
+	}
+}

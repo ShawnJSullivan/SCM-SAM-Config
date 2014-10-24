@@ -1,0 +1,44 @@
+{
+	"publicationName": "Hattiesburg American",
+	"title": "Hattiesburg American",
+	"marketId": "DB",
+	"brandId": "1099HA",
+	"cobrandLogoText": "HattiesburgAmerican.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-844-2637",
+	"website": "www.hattiesburgamerican.com",
+	"baseName": "hattiesburgamerican",
+	"email": "customerservice@hattiesburgamerican.com",
+	"state": "MS",
+	"links": {
+		"termsOfServiceURL": "http://static.hattiesburgamerican.com/terms/",
+		"caliPrivacyURL": "http://static.hattiesburgamerican.com/privacy/",
+		"privacyURL": "http://static.hattiesburgamerican.com/privacy/",
+		"adChoicesURL": "http://static.hattiesburgamerican.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Hattiesburg"
+	},
+	"dealChicken": {
+		"marketKey": "hattiesburg-ms"
+	},
+	"facebook": {
+		"secret#private": "3ab8f6a07faece5838390b217b8b91fb",
+		"productId": "176281025726180"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.hattiesburgamerican.com",
+		"trackingSuite": "gpaper135, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Hattiesburg"
+		},
+		"email": "customerservice@hattiesburgamerican.com",
+		"phone": "1-800-844-2637"
+	}
+}

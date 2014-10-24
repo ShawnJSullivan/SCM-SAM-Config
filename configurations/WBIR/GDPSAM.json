@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wbir.com",
+			"trackingSuite": "gntbcstwbir,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "wbir.com"
+	},
+	"mobile": {
+		"title": "wbir.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wbir.com/trial-expired/",
+				"restricted": "https://subscribe.wbir.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "wbir News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3328",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwbir,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1341"
+		}
+	},
+	"android": {
+		"title": "WBIR News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3328",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwbir,gntbcstglobal"
+		}
+	}
+}

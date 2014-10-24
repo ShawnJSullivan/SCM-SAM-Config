@@ -1,0 +1,41 @@
+{
+	"publicationName": "KUSA-TV",
+	"title": "9NEWS.com",
+	"marketId": "KUSA",
+	"brandId": "3316KUSA",
+	"cobrandLogoText": "9NEWS.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-303-871-9999",
+	"website": "www.9news.com",
+	"baseName": "9news",
+	"email": "tim.ryan@9news.com ",
+	"state": "CO",
+	"links": {
+		"termsOfServiceURL": "http://static.9news.com/terms/",
+		"caliPrivacyURL": "http://static.9news.com/privacy/",
+		"privacyURL": "http://static.9news.com/privacy/",
+		"adChoicesURL": "http://static.9news.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": ""
+	},
+	"facebook": {
+		"secret#private": "6dc2075a65d9828c4e2825fa811a26f6",
+		"productId": "195999427076956"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.9news.com",
+		"trackingSuite": "gntbcstkusa,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "tim.ryan@9news.com",
+		"phone": "1-303-871-9999"
+	}
+}

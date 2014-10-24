@@ -1,0 +1,182 @@
+{
+	"baseName": "ksdk",
+	"mobilesite": "m.ksdk.com",
+	"cobrandLogo": "http://tablet.ksdk.com/property/logo",
+	"emailNewsTips": "newstips@ksdk.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Saint Louis, MO",
+		"zip": "63110",
+		"coordinates": "38.6269,-90.1961",
+		"latitude": 38.6269,
+		"longitude": -90.1961
+	},
+	"twitter": {
+		"name": "KSDKNews"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "KSDK Native News iPhone",
+		"trackingServer": "repdata.ksdk.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstksdk",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "102370399840683"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.ksdk.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.ksdk.com/privacy/",
+		"TOS_URL": "http://static.ksdk.com/terms/",
+		"adchoices_URL": "http://static.ksdk.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © 2014 KSDK, a division of Multimedia Holdings Corporation. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "KSDK",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id568136681?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/ksdk-5",
+		"ITUNES_APPID": "568136681",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/ksdk-5/id568136681?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.KSDKNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Saint Louis, Missouri",
+		"BRAND_LOCATION_ZIP": "63110",
+		"BRAND_IDENTIFIER": "b_ksdk",
+		"BRAND_LOCATION_GPS": "38.6269,-90.1961",
+		"BRAND_LOGO_URL": "http://www.ksdk.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "J3WcqW9tKu8XmB7RCfbmhuzeAB41DvjzaCihIUyWAczPYkgqkiMwzQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.ksdk.com",
+		"BRAND_NEWS_TIP": "newstips@ksdk.com",
+		"CONTACT_US_EMAIL": "webmaster@ksdk.com",
+		"BRAND_NAME": "KSDK",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.ksdk.com",
+		"BRAND_TWITTER": "KSDKNews"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "mo-stlouis-KSDK-mobile-B3325",
+		"amazonA9AppId": "f43c5db6d8454eb6b64428c43a1f49ae",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_ksdk.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_ksdk.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+		"CellJournalist" : {
+		"Url" : "http://yourtake.ksdk.com",
+		"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "63",
+		"qa": "65",
+		"staging": "69",
+		"dev": "151",
+		"prod": "63",
+		"prod-moc": "63",
+		"prod-phx": "63"
+	}
+}

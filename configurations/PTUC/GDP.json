@@ -1,0 +1,34 @@
+{
+	"publicationName": "Arizona Daily Star",
+	"title": "Arizona Daily Star",
+	"marketId": "PTUC",
+	"brandId": "1087AM",
+	"state": "AZ",
+	"cobrandLogoText": "tucson.com",
+	"custService": "1-800-695-4492",
+	"website": "www.tucson.com",
+	"baseName": "tucson",
+	"email": "circulation@tucson.com",
+	"links": {
+		"termsOfServiceURL": "http://tucson.com/terms/",
+		"caliPrivacyURL": "http://tucson.com/privacy/#california",
+		"privacyURL": "http://tucson.com/privacy/",
+		"adChoicesURL": "http://tucson.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"facebook": {
+		"secret#private": "",
+		"productId": "125406300831782"
+	},
+	"omniture": {
+		"trackingServer": "tucson.com",
+		"trackingSuite": "tucson.com"
+	},
+		"customerServiceCenter": {
+		"email": "circulation@tucson.com",
+		"phone": "1-800-695-4492"
+	}
+}

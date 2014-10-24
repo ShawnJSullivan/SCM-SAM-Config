@@ -1,0 +1,86 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.desertsun.com",
+			"trackingSuite": "gpaper156, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ca-palmsprings-C1082/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ca-palmsprings-C1082/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ca-palmsprings-C1082/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "DesertSun.com"
+	},
+	"mobile": {
+		"title": "DesertSun.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.desertsun.com/trial-expired/",
+				"restricted": "https://subscribe.desertsun.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Desert Sun iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ME",
+			"unitNumber": "1082",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile156"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/55"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/55"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/261"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/261"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Desert Sun Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ME",
+			"unitNumber": "1082",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile156"
+		}
+	}
+}

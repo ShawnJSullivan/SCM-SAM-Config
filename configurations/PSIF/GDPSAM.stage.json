@@ -1,0 +1,17 @@
+{
+	"default": {
+		"mieContribution" : {
+			"enabled" : false
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/411"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/415"
+		}
+	}
+}

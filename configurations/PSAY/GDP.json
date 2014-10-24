@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Daily Times",
+	"title": "The Daily Times",
+	"marketId": "A7",
+	"brandId": "1528DT",
+	"cobrandLogoText": "DelmarvaNow.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0148",
+	"website": "www.delmarvanow.com",
+	"baseName": "delmarvanow",
+	"email": "salisburythedailytimes@gannett.com",
+	"state": "MD",
+	"links": {
+		"termsOfServiceURL": "http://static.delmarvanow.com/terms/",
+		"caliPrivacyURL": "http://static.delmarvanow.com/privacy/",
+		"privacyURL": "http://static.delmarvanow.com/privacy/",
+		"adChoicesURL": "http://static.delmarvanow.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Salisbury"
+	},
+	"dealChicken": {
+		"marketKey": "salisbury-md"
+	},
+	"facebook": {
+		"secret#private": "c44d2a37e4e2976286338bf3bf5cdc62",
+		"productId": "179822335370394"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.delmarvanow.com",
+		"trackingSuite": "gpaper168, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Salisbury"
+		},
+		"email": "salisburythedailytimes@gannett.com",
+		"phone": "1-877-424-0148"
+	}
+}

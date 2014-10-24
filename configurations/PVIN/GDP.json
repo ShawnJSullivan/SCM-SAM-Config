@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Daily Journal",
+	"title": "The Daily Journal",
+	"marketId": "A8",
+	"brandId": "1106DJ",
+	"cobrandLogoText": "TheDailyJournal.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-2765",
+	"website": "www.thedailyjournal.com",
+	"baseName": "thedailyjournal",
+	"email": "vinelandthedailyjournal@gannett.com",
+	"state": "NJ",
+	"links": {
+		"termsOfServiceURL": "http://static.thedailyjournal.com/terms/",
+		"caliPrivacyURL": "http://static.thedailyjournal.com/privacy/",
+		"privacyURL": "http://static.thedailyjournal.com/privacy/",
+		"adChoicesURL": "http://static.thedailyjournal.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Vineland"
+	},
+	"dealChicken": {
+		"marketKey": "south-jersey-nj"
+	},
+	"facebook": {
+		"secret#private": "54bb6674aad152cca07f7a57bcc93fb9",
+		"productId": "137541692970601"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.thedailyjournal.com",
+		"trackingSuite": "gpaper180, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Vineland"
+		},
+		"email": "vinelandthedailyjournal@gannett.com",
+		"phone": "1-877-424-2765"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Baxter Bulletin",
+	"title": "The Baxter Bulletin",
+	"marketId": "D3",
+	"brandId": "1136BB",
+	"cobrandLogoText": "BaxterBulletin.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0198",
+	"website": "www.baxterbulletin.com",
+	"baseName": "baxterbulletin",
+	"email": "homedel@baxterbulletin.com",
+	"state": "AR",
+	"links": {
+		"termsOfServiceURL": "http://static.baxterbulletin.com/terms/",
+		"caliPrivacyURL": "http://static.baxterbulletin.com/privacy/",
+		"privacyURL": "http://static.baxterbulletin.com/privacy/",
+		"adChoicesURL": "http://static.baxterbulletin.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Baxter"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"dealChicken": {
+		"marketKey": "mountain-home-ar"
+	},
+	"facebook": {
+		"secret#private": "82063da7759b331290261f1db9f3737d",
+		"productId": "183082181717378"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.baxterbulletin.com",
+		"trackingSuite": "gpaper110, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Baxter"
+		},
+		"email": "homedel@baxterbulletin.com",
+		"phone": "1-877-424-0198"
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.thespectrum.com",
+			"trackingSuite": "gpaper173, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.thespectrum\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.thespectrum.com/specialoffer",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}],
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ut-stgeorge-C1530/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ut-stgeorge-C1530/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ut-stgeorge-C1530/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "TheSpectrum.com"
+	},
+	"mobile": {
+		"title": "TheSpectrum.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thespectrum.com/trial-expired/",
+				"restricted": "https://subscribe.thespectrum.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Spectrum iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "WA",
+			"unitNumber": "1530",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile173"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/535"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/535"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/539"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/539"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Spectrum Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "WA",
+			"unitNumber": "1530",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile173"
+		}
+	}
+}

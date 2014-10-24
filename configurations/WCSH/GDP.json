@@ -1,0 +1,41 @@
+{
+	"publicationName": "WCSH-TV",
+	"title": "wcsh6.com",
+	"marketId": "WCSH",
+	"brandId": "3332WXIA",
+	"cobrandLogoText": "wcsh6.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-464-1213",
+	"website": "www.wcsh6.com",
+	"baseName": "wcsh6",
+	"email": "webmaster@wcsh6.com",
+	"state": "ME",
+	"links": {
+		"termsOfServiceURL": "http://static.wcsh6.com/terms/",
+		"caliPrivacyURL": "http://static.wcsh6.com/privacy/",
+		"privacyURL": "http://static.wcsh6.com/privacy/",
+		"adChoicesURL": "http://static.wcsh6.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "portland-me"
+	},
+	"facebook": {
+		"secret#private": "4cef469be9ee8a5beb07fb9f6ab27810",
+		"productId": "179811695390925"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wcsh6.com",
+		"trackingSuite": "gntbcstwcsh,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@wcsh6.com",
+		"phone": "1-800-464-1213"
+	}
+}

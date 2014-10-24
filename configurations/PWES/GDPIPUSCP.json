@@ -1,0 +1,63 @@
+{
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.lohud.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iPhone",
+		"OMNITURE_MARKET_ID": "gpapermobile183"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "169889109713077"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.lohud.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.lohud.com/privacy/",
+		"TOS_URL": "http://static.lohud.com/terms/",
+		"AD_CHOICES_URL": "http://static.lohud.com/adchoices/",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "7B7B2F3F-DDA2-43B7-9288-53717F311EE8"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Journal News. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.lohud.iphone.autosubscription.1month",
+		"MARKET_ID": "BH",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=518390835",
+		"ITUNES_URL": "http://itunes.com/app/gannett/lohud",
+		"ITUNES_APPID": "518390835",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/lohud/id518390835?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.lohud"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "White Plains, New York",
+		"BRAND_LOCATION_ZIP": "10601",
+		"BRAND_IDENTIFIER": "n_lohud",
+		"BRAND_LOCATION_GPS": "41.0339,-73.7633",
+		"BRAND_LOGO_URL": "http://www.lohud.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0E4176",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "MHkqDkmu-_xljRgKDSV_0n6nIHcFBPn7Uemoc0tY6n-d5b5jEmukHg..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.lohud.com",
+		"BRAND_NEWS_TIP": "metro@lohud.com",
+		"CONTACT_US_EMAIL": "metro@lohud.com",
+		"BRAND_NAME": "The Journal News",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.lohud.com",
+		"BRAND_TWITTER": "lohud"
+	}
+}

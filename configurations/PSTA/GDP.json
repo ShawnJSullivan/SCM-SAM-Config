@@ -1,0 +1,44 @@
+{
+	"publicationName": "The News Leader",
+	"title": "The News Leader",
+	"marketId": "AA",
+	"brandId": "1125NL",
+	"state": "VA",
+	"cobrandLogoText": "NewsLeader.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0032",
+	"website": "www.newsleader.com",
+	"baseName": "newsleader",
+	"email": "customerservice@newsleader.com",
+	"links": {
+		"termsOfServiceURL": "http://static.newsleader.com/terms/",
+		"caliPrivacyURL": "http://static.newsleader.com/privacy/",
+		"privacyURL": "http://static.newsleader.com/privacy/",
+		"adChoicesURL": "http://static.newsleader.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Staunton"
+	},
+	"dealChicken": {
+		"marketKey": "staunton-va"
+	},
+	"facebook": {
+		"secret#private": "82e62d7507c4389b5ad9848960a61cef",
+		"productId": "169868743049940"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.newsleader.com",
+		"trackingSuite": "gpaper174, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Staunton"
+		},
+		"email": "customerservice@newsleader.com",
+		"phone": "1-877-424-0032"
+	}
+}

@@ -1,0 +1,40 @@
+{
+	"publicationName": "Navy Times",
+	"title": "Navy Times",
+	"marketId": "M604",
+	"brandId": "9170NT",
+	"state": "VA",
+	"cobrandLogoText": "NavyTimes.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-368-5718",
+	"website": "www.navytimes.com",
+	"baseName": "navytimes",
+	"email": "cust-svc@navytimes.com",
+	"links": {
+		"termsOfServiceURL": "http://static.navytimes.com/terms",
+		"caliPrivacyURL": "http://static.navytimes.com/privacy#california",
+		"privacyURL": "http://static.navytimes.com/privacy",
+		"adChoicesURL": "http://static.navytimes.com/privacy#adchoices"
+	},
+	"chat": {
+		"enabled": false
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"enabled" : false
+		},
+		"email": "cust-svc@navytimes.com",
+		"phone": "1-800-368-5718"
+	},
+	"facebook": {
+		"productId": "859066120771292"
+	},
+	"omniture": {
+		"trackingServer": "gannett.112.2o7.net",
+		"trackingSuite": "gpaper194, gntbcstglobal"
+	}
+}

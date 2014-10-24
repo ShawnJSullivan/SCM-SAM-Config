@@ -1,0 +1,109 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.coloradoan.com",
+			"trackingSuite": "gpaper127, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/co-fortcollins-C1021/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/co-fortcollins-C1021/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/co-fortcollins-C1021/consumer_sales-all_stop"
+			}
+		},
+		"organizations": {
+			"csu": {
+				"userId": "6369185",
+				"licenseId": "6925724",
+				"organizationName": "Colorado State University",
+				"splashImageURL": "//staticassets.coloradoan.com/organizations/csu/splash.jpg",
+				"logoImageURL": "//staticassets.coloradoan.com/organizations/csu/logo.jpg"
+			}
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.coloradoan\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.coloradoan.com/specialoffer",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}]
+	},
+	"site": {
+		"title": "Coloradoan.com"
+	},
+	"mobile": {
+		"title": "Coloradoan.com | Mobile Edition"
+	},
+	"firefly": {
+		"links": {
+			"getAccess": "https://subscribe.coloradoan.com/trial-expired/",
+			"restricted": "https://subscribe.coloradoan.com/trial-expired/"
+		}
+	},
+	"ios": {
+		"title": "Coloradoan iOS App",
+		"email": "circulation@coloradoan.com",
+		"links": {
+			"termsOfServiceURL": "http://static.coloradoan.com/terms/",
+			"caliPrivacyURL": "http://static.coloradoan.com/privacy/",
+			"privacyURL": "http://static.coloradoan.com/privacy/",
+			"adChoicesURL": "http://static.coloradoan.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile127"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1021",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/611"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/611"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/613"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/613"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Coloradoan Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1021",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile127"
+		}
+	}
+}

@@ -1,0 +1,42 @@
+{
+	"publicationName": "Detroit Free Press",
+	"title": "Detroit Free Press",
+	"marketId": "PDTF",
+	"brandId": "1008FP",
+	"cobrandLogoText": "FreeP.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-395-3300",
+	"website": "www.freep.com",
+	"baseName": "freep",
+	"email": "cserv@dnps.com",
+	"state": "MI",
+	"links": {
+		"termsOfServiceURL": "http://static.freep.com/terms/",
+		"caliPrivacyURL": "http://static.freep.com/privacy/",
+		"privacyURL": "http://static.freep.com/privacy/",
+		"adChoicesURL": "http://static.freep.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"enabled": false,
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"dealChicken": {
+		"marketKey": "detroit-mi"
+	},
+	"facebook": {
+		"secret#private": "b5413be33cc3ccfffe8bb90f96bdff91",
+		"productId": "185931034751252"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.freep.com",
+		"trackingSuite": "gpaper204, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": ""
+		},
+		"email": "cserv@dnps.com",
+		"phone": "1-800-395-3300"
+	}
+}

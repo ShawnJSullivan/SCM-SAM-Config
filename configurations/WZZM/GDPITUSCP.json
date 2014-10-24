@@ -1,0 +1,125 @@
+{
+	"baseName": "wzzm13",
+	"mobilesite": "m.wzzm13.com",
+	"cobrandLogo": "http://tablet.wzzm13.com/property/logo",
+	"emailNewsTips": "news@wzzm13.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Grand Rapids, MI",
+		"zip": "49544",
+		"coordinates": "43.0147,-85.6849",
+		"latitude": 43.0147,
+		"longitude": -85.6849
+	},
+	"twitter": {
+		"name": "wzzm13"
+	},
+	"fireflyEnabled": false,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/mi-grandrapids-WZZM-mobile-B3314/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/mi-grandrapids-WZZM-mobile-B3314/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "WZZM13 Native News iPad",
+		"trackingServer": "repdata.wzzm13.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstwzzm"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "140069466052631"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.wzzm13.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.wzzm13.com/privacy/",
+		"TOS_URL": "http://static.wzzm13.com/terms/",
+		"TILE_ENABLED": "T",
+		"adchoices_URL": "http://static.wzzm13.com/privacy/#adchoices",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "grand-rapids-mi",
+		"WDAKey": "",
+		"SHARING_ENABLED": "T"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "WZZM: Copyright © 2014 WZZM-TV. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.wzzm13.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "WZZM",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id567246554?mt=8",
+		"OLD_FEED_URL": "http://m.wzzm13.com/mg-ui/dynagate/page?site=b_wzzm13&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/wzzm-tv-for-ipad",
+		"ITUNES_APPID": "567246554"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Grand Rapids, Michigan",
+		"BRAND_LOCATION_ZIP": "49544",
+		"BRAND_IDENTIFIER": "b_wzzm13",
+		"BRAND_LOCATION_GPS": "43.0147,-85.6849",
+		"BRAND_LOGO_URL": "http://www.wzzm13.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "mDbpa7CKID0nGoD5jlVeTrlI3KuLE44Rv_kl-QFCtrqW5ZWJ1_mBfA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.wzzm13.com",
+		"CONTACT_US_EMAIL": "webmaster@wzzm13.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "WZZM",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.wzzm13.com",
+		"BRAND_TWITTER": "wzzm13",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=grandrapids&state=mi",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.wzzm13.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.wzzm13.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "71",
+		"qa": "71",
+		"staging": "75",
+		"dev": "154",
+		"prod": "69",
+		"prod-moc": "69",
+		"prod-phx": "69"
+	}
+}

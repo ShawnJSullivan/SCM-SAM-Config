@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.argusleader.com",
+			"trackingSuite": "gpaper170, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "ArgusLeader.com"
+	},
+	"mobile": {
+		"title": "ArgusLeader.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.argusleader.com/trial-expired/",
+				"restricted": "https://subscribe.argusleader.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "ArgusLeader iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1085",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile170"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/427"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/427"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/431"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/431"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "ArgusLeader Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1085",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile170"
+		}
+	}
+}

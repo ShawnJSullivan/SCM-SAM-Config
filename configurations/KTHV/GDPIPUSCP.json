@@ -1,0 +1,182 @@
+{
+	"baseName": "thv11",
+	"mobilesite": "m.thv11.com",
+	"cobrandLogo": "http://tablet.thv11.com/property/logo",
+	"emailNewsTips": "news@thv11.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Little Rock, AR",
+		"zip": "72201",
+		"coordinates": "34.7429,-92.2812",
+		"latitude": 34.7429,
+		"longitude": -92.2812
+	},
+	"twitter": {
+		"name": "THV11"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "THV11 Native News iPhone",
+		"trackingServer": "repdata.thv11.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstkthv",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "136172173112869"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.thv11.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.thv11.com/privacy/",
+		"TOS_URL": "http://static.thv11.com/terms/",
+		"adchoices_URL": "http://static.thv11.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "KTHV: Copyright © 2014 Arkansas Television Company. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "KTHV",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id469738355?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thv11",
+		"ITUNES_APPID": "469738355",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thv11/id469738355?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.KTHVNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Little Rock, Arkansas",
+		"BRAND_LOCATION_ZIP": "72201",
+		"BRAND_IDENTIFIER": "b_thvtogo",
+		"BRAND_LOCATION_GPS": "34.7429,-92.2812",
+		"BRAND_LOGO_URL": "http://www.thv11.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "TBmAjsXcl8xatiVrdcIPATMcR0RcQBgdGTjBn_oIYNfyS6hMp65z2A..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.thv11.com",
+		"BRAND_NEWS_TIP": "news@thv11.com",
+		"CONTACT_US_EMAIL": "web@thv11.com",
+		"BRAND_NAME": "THV 11",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.thv11.com",
+		"BRAND_TWITTER": "THV11"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "ar-littlerock-KTHV-mobile-B3324",
+		"amazonA9AppId": "ed0ce8586cab4d75b6bcc7295b4a6845",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_kthv.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_kthv.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+		"CellJournalist" : {
+		"Url" : "http://yourtake.thv11.com",
+		"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "91",
+		"qa": "93",
+		"staging": "97",
+		"dev": "165",
+		"prod": "91",
+		"prod-moc": "91",
+		"prod-phx": "91"
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wcnc.com",
+			"trackingSuite": "gntbcstwcnc,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "WCNC.com"
+	},
+	"mobile": {
+		"title": "WCNC.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wcnc.com/trial-expired/",
+				"restricted": "https://subscribe.wcnc.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WCNC News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3352",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwcnc,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1511"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1515"
+		}
+	},
+	"android": {
+		"title": "WCNC News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3352",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwcnc,gntbcstglobal"
+		}
+	}
+}

@@ -1,0 +1,93 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.greenvilleonline.com",
+			"trackingSuite": "gpaper133, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.greenvilleonline\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.greenvilleonline.com/specialoffer",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}],
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/sc-greenville-C1120/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/sc-greenville-C1120/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/sc-greenville-C1120/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "GreenvilleOnline.com"
+	},
+	"mobile": {
+		"title": "GreenvilleOnline.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.greenvilleonline.com/trial-expired/",
+				"restricted": "https://subscribe.greenvilleonline.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Greenville News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "WA",
+			"unitNumber": "1120",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile133"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/463"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/463"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/467"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/467"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Greenville News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "WA",
+			"unitNumber": "1120",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile133"
+		}
+	}
+}

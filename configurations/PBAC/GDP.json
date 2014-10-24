@@ -1,0 +1,44 @@
+{
+	"publicationName": "Battle Creek Enquirer",
+	"title": "Battle Creek Enquirer",
+	"marketId": "A5",
+	"brandId" : "1051EN",
+	"state": "MI",
+	"baseName": "battlecreekenquirer",
+	"website": "www.battlecreekenquirer.com",
+	"cobrandLogoText": "BattleCreekEnquirer.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-333-4139",
+	"email": "battlecreekenquirer@gannett.com",
+	"facebook": {
+		"secret#private": "17e401e342c6d8c6ce4b21f93f995b14",
+		"productId": "179053648786175"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.battlecreekenquirer.com",
+		"trackingSuite": "gpaper109, gntbcstglobal"
+	},
+	"dealChicken": {
+		"marketKey" : "battle-creek-mi"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.battlecreekenquirer.com/terms/",
+		"caliPrivacyURL": "http://static.battlecreekenquirer.com/privacy/",
+		"privacyURL": "http://static.battlecreekenquirer.com/privacy/",
+		"adChoicesURL": "http://static.battlecreekenquirer.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "BattleCreek"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "BattleCreek"
+		},
+		"email": "battlecreekenquirer@gannett.com",
+		"phone": "1-800-333-4139"
+	}
+}

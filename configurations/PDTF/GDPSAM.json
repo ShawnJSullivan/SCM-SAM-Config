@@ -1,0 +1,75 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.freep.com",
+			"trackingSuite": "gpaper204, gntbcstglobal"
+		},
+		"dictionary": {
+			"subscribe_default_fodDescription": "All options include 7-day access to the E-edition and a 30-day article archive."
+		}
+	},
+	"site": {
+		"title": "freep.com"
+	},
+	"mobile": {
+		"title": "freep.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.freep.com/trial-expired/",
+				"restricted": "https://subscribe.freep.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Detroit Free Press iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "1008",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile204"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1675"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1851"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1677"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1677"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Detroit Free Press Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "1008",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile204"
+		}
+	}
+}

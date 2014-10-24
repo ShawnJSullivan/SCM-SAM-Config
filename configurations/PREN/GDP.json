@@ -1,0 +1,44 @@
+{
+	"publicationName": "Reno Gazette Journal",
+	"title": "Reno Gazette Journal",
+	"marketId": "J7",
+	"brandId": "1011GJ",
+	"state": "NV",
+	"cobrandLogoText": "RGJ.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-970-7366",
+	"website": "www.rgj.com",
+	"baseName": "rgj",
+	"email": "renogazettejournal@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.rgj.com/terms/",
+		"caliPrivacyURL": "http://static.rgj.com/privacy/",
+		"privacyURL": "http://static.rgj.com/privacy/",
+		"adChoicesURL": "http://static.rgj.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Reno"
+	},
+	"dealChicken": {
+		"marketKey": "reno-nv"
+	},
+	"facebook": {
+		"secret#private": "037c5fb29b36c61b9ab2b549daf60a6a",
+		"productId": "178959168788968"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.rgj.com",
+		"trackingSuite": "gpaper162, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Reno"
+		},
+		"email": "renogazettejournal@gannett.com",
+		"phone": "1-800-970-7366"
+	}
+}

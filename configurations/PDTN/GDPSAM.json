@@ -1,0 +1,96 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.detroitnews.com",
+			"trackingSuite": "gpaper123, gntbcstglobal"
+		},
+		"dictionary": {
+			"subscribe_default_fodDescription": "All options include 7-day access to the E-edition and a 30-day article archive."
+		}
+	},
+	"site": {
+		"title": "detroitnews.com"
+	},
+	"mobile": {
+		"title": "detroitnews.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.detroitnews.com/trial-expired/",
+				"restricted": "https://subscribe.detroitnews.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Detroit News iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.detroitnews.com/terms/",
+			"caliPrivacyURL": "http://static.detroitnews.com/privacy/",
+			"privacyURL": "http://static.detroitnews.com/privacy/",
+			"adChoicesURL": "http://static.detroitnews.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile123"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "1008",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"title": "The Detroit News iPad App",
+		"core": {
+			"navigationPath": "schema/id/1689"
+		}
+	},
+	"ios_ipad_2": {
+		"title": "The Detroit News iPad App",
+		"core": {
+			"navigationPath": "schema/id/1845"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+
+	"ios_iphone": {
+		"title": "The Detroit News iPhone App",
+		"core": {
+			"navigationPath": "schema/id/1727"
+		}
+	},
+	"ios_iphone_2": {
+		"title": "The Detroit News iPhone App",
+		"core": {
+			"navigationPath": "schema/id/1727"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1727"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Detroit News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "1008",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile123"
+		}
+	}
+}

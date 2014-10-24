@@ -1,0 +1,228 @@
+{
+	"aam": {
+		"audienceDpid": "3054"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"subscribeProductSelectTop": {
+			"preserveSpace": true,
+			"enabled": false,
+			"dimensions": [
+				[
+					950,
+					200
+				]
+			],
+			"provider": "dfp"
+		},
+		"articleAds": [
+			{
+				"position": 0,
+				"numberOfCharactersBetweenRepeats": 2500,
+				"enableFlexAd": false,
+				"adType": "article_banner",
+				"size": "{300,250}"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"enableFlexAd": false,
+				"adType": "section_front_top",
+				"size": "{320,50}"
+			},
+			{
+				"position": 15,
+				"enableFlexAd": false,
+				"adType": "section_front_bottom",
+				"size": "{300,250}"
+			}
+		],
+		"trialExpired": {
+			"alternateContentSelector": ".subscribe-call-to-action",
+			"preserveSpace": false,
+			"enabled": false,
+			"dimensions": [
+				[
+					264,
+					200
+				]
+			],
+			"provider": "dfp"
+		},
+		"articleTransitionalAd": {
+			"adType": "transitional",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"galleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"embeddedGalleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"amazonA9AppId": "64575fe058e84ee480253a046eea11e7",
+		"houseAds": {
+			"{300, 250}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/300x250_detroitnews.png",
+					"clickthru": ""
+				}
+			],
+			"{320, 50}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/320x50_detroitnews.png",
+					"clickthru": ""
+				}
+			]
+		},
+		"property": "mi-detroit-mobile-C1561",
+		"subscribeProductSelectSide": {
+			"preserveSpace": true,
+			"enabled": false,
+			"dimensions": [
+				[
+					215,
+					215
+				]
+			],
+			"provider": "dfp"
+		}
+	},
+	"appReviewPrompt": {
+		"daysBeforeReminding": 10,
+		"daysUntilPrompt": 3,
+		"debug": false,
+		"enable": true,
+		"reset": false,
+		"usesUntilPrompt": 10
+	},
+	"comscore": {
+		"censusId": "6035223",
+		"secret": "0a46f2bdb39db821b07796d980d8919a"
+	},
+	"Branding": {
+		"BRAND_QUICKLINKS": {
+			"default": [
+				{
+					"name": "Weather",
+					"imageName": "quicklinks_weather_icon",
+					"type": "13"
+				},
+				{
+					"name": "Saved",
+					"imageName": "quicklinks_saved_articles_icon",
+					"type": "7"
+				},
+				{
+					"name": "Scores",
+					"imageName": "quicklinks_scores_icon",
+					"type": "10",
+					"listItemImageOnRight": true,
+					"quickLinks": [
+						{
+							"name": "NFL",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://detroitnews.sportsnetwork.com/NFL/score/scoreboard.aspx",
+							"type": "12"
+						},
+						{
+							"name": "MLB",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://detroitnews.sportsnetwork.com/MLB/score/scoreboard.aspx",
+							"type": "12"
+						},
+						{
+							"name": "NBA",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://detroitnews.sportsnetwork.com/NBA/score/scoreboard.aspx",
+							"type": "12"
+						},
+						{
+							"name": "NHL",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://detroitnews.sportsnetwork.com/NHL/score/scoreboard.aspx",
+							"type": "12"
+						},
+						{
+							"name": "NCAAF",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://detroitnews.sportsnetwork.com/foot/cfoot2/score/scoreboard.aspx",
+							"type": "12"
+						},
+						{
+							"name": "NCAAB",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://detroitnews.sportsnetwork.com/cbask/scores/live/scoreboard.aspx",
+							"type": "12"
+						}
+					]
+				},
+				{
+					"name": "Marketplace",
+					"imageName": "quicklinks_marketplace_icon",
+					"type": "10",
+					"listItemImageOnRight": true,
+					"quickLinks": [
+						{
+							"name": "Apartments.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.michigan.com/realestate/",
+							"type": "12"
+						},
+						{
+							"name": "CareerBuilder.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.michigan.com/jobs/",
+							"type": "12"
+						},
+						{
+							"name": "Cars.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.michigan.com/cars/",
+							"type": "12"
+						},
+						{
+							"name": "Classifieds",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.michigan.com/classifieds/",
+							"type": "12"
+						},
+						{
+							"name": "DealChicken.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "https://www.dealchicken.com/detroit-mi",
+							"type": "12"
+						},
+						{
+							"name": "Find & Save",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://findnsave.detnews.com/",
+							"type": "12"
+						},
+						{
+							"name": "HomeFinder.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.michigan.com/realestate/",
+							"type": "12"
+						}
+					]
+				},
+				{
+					"name": "DealChicken",
+					"imageName": "dealchicken_icon",
+					"url": "https://www.dealchicken.com/detroit-mi",
+					"type": "12"
+				}
+			]
+		}
+	}
+}

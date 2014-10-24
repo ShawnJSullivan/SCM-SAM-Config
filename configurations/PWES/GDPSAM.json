@@ -1,0 +1,90 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.lohud.com",
+			"trackingSuite": "gpaper183, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.lohud\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.lohud.com/subscribe",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}],
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ny-westchester-C1084/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ny-westchester-C1084/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ny-westchester-C1084/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "LoHud.com"
+	},
+	"mobile": {
+		"title": "LoHud.com | Mobile Edition",
+		"omniture": {
+			"trackingSuite": "gpapermobile183"
+		}
+	},
+	"ios": {
+		"title": "The Journal News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1084",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile183"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/77"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1857"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1043"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1043"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Journal News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1084",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile183"
+		}
+	}
+}

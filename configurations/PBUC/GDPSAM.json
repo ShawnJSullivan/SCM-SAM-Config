@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.bucyrustelegraphforum.com",
+			"trackingSuite": "gpaper230, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "bucyrustelegraphforum.com"
+	},
+	"mobile": {
+		"title": "bucyrustelegraphforum.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.bucyrustelegraphforum.com/trial-expired/",
+				"restricted": "https://subscribe.bucyrustelegraphforum.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Telegraph-Forum iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OB",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile230"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/687"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/687"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/691"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/691"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Telegraph-Forum Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OB",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile230"
+		}
+	}
+}

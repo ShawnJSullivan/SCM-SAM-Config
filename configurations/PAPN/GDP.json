@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Post-Crescent",
+	"title": "The Post-Crescent",
+	"marketId": "U001",
+	"brandId": "WISCONSIN",
+	"cobrandLogoText": "postcrescent.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-4924",
+	"website": "www.postcrescent.com",
+	"baseName": "postcrescent",
+	"email": "wisconsincoe@gannett.com",
+	"state": "WI",
+	"links": {
+		"termsOfServiceURL": "http://static.postcrescent.com/terms",
+		"caliPrivacyURL": "http://static.postcrescent.com/privacy",
+		"privacyURL": "http://static.postcrescent.com/privacy",
+		"adChoicesURL": "http://static.postcrescent.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Appleton"
+	},
+	"dealChicken": {
+		"marketKey": "appleton-wi"
+	},
+	"facebook": {
+		"secret#private": "3855b3c9a15d502542c651c6645850a2",
+		"productId": "117306038338949"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"omniture": {
+		"trackingServer": "srepdata.postcrescent.com",
+		"trackingSuite": "gpaper186, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Appleton"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-4924"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"publicationName": "WXIA-TV",
+	"title": "11Alive.COM",
+	"marketId": "WAWX",
+	"brandId": "3321WXIA",
+	"cobrandLogoText": "11ALIVE.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-404-892-1611",
+	"website": "www.11alive.com",
+	"baseName": "11alive",
+	"email": "webmaster@11alive.com",
+	"state": "GA",
+	"links": {
+		"termsOfServiceURL": "http://static.11alive.com/terms/",
+		"caliPrivacyURL": "http://static.11alive.com/privacy/",
+		"privacyURL": "http://static.11alive.com/privacy/",
+		"adChoicesURL": "http://static.11alive.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "atlanta-ga"
+	},
+	"facebook": {
+		"secret#private": "2de906fdfc18495faa3d8b4f2f590adf",
+		"productId": "298931766802481"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.11alive.com",
+		"trackingSuite": "gntbcstwxia,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@11alive.com",
+		"phone": "1-404-892-1611"
+	}
+}

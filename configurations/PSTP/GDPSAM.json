@@ -1,0 +1,81 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.stevenspointjournal.com",
+			"trackingSuite": "gpaper122, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.stevenspointjournal.com"
+		}
+	},
+	"site": {
+		"title": "StevensPointJournal.com"
+	},
+	"mobile": {
+		"title": "StevensPointJournal.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.stevenspointjournal.com/trial-expired/",
+				"restricted": "https://subscribe.stevenspointjournal.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Stevens Point Journal iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.stevenspointjournal.com/terms/",
+			"caliPrivacyURL": "http://static.stevenspointjournal.com/privacy/",
+			"privacyURL": "http://static.stevenspointjournal.com/privacy/",
+			"adChoicesURL": "http://static.stevenspointjournal.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile192"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZP",
+			"unitNumber": "1014",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/927"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/927"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/931"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/931"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZP",
+			"unitNumber": "1014"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile192"
+		}
+	}
+}

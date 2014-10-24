@@ -1,0 +1,33 @@
+{
+    "__default__": {
+        "prod": {
+            "id": 1,
+            "schema_id": 37,
+            "tealium_env": "prod",
+            "VPCVIDEOENDPOINT": "http://www.gannett-tv.com/tools/services/ENPSLiveStream.svc/video/vpc/live?sid=usatoday",
+            "THIRDPARTYAPI": {
+                "FILEMOBILE": {
+                    "VHOST": 1056,
+                    "API_KEY": "33a7a865bda679bc4b639ddaff9d7a6a",
+                    "SiteGroupID": 70787,
+                    "FeaturedGroupID": 43074,
+                    "FeaturedContributionGroupID": 75751,
+                    "GeneralGroupID": 75309,
+                    "UtilityBarContentLimit": 50,
+                    "OffensiveReportLimit": 5,
+                    "ReportAbuse": {
+                        "templateid": 40947,
+                        "emailaddress": "yourtake@usatoday.com"
+                    },
+                    "Transcoders": {
+                        "image": 15,
+                        "video": 22
+                    }
+                },
+                "MONEYMARKETAPI": {
+                    "autocomplete": "http://markets.usatoday.wallst.com/USATMoney/api/getsymbols?count=10"
+                }
+            }
+        }
+    }
+}

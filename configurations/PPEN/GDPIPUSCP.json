@@ -1,0 +1,78 @@
+{
+	"baseName": "pnj",
+	"mobilesite": "m.pnj.com",
+	"cobrandLogo": "http://tablet.pnj.com/property/logo",
+	"emailNewsTips": "customerservice@pnj.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Pensacola, FL",
+		"zip": "32501",
+		"coordinates": "30.4333,-87.2000",
+		"latitude": 30.4333,
+		"longitude": -87.2000
+	},
+	"twitter": {
+		"name": "pnj"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.pnj.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile157"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "179056438789435"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.pnj.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.pnj.com/privacy/",
+		"TOS_URL": "http://static.pnj.com/terms/",
+		"AD_CHOICES_URL": "http://static.pnj.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "0af5f6de-6e9f-4995-a37a-834eba220602"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Pensacola News Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.pnj.iphone.autosubscription.1month",
+		"MARKET_ID": "DP",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id545721147?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/pensacolanewsjournal",
+		"ITUNES_APPID": "545721147",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/pensacolanewsjournal/id545721147?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.pnj"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Pensacola, Florida",
+		"BRAND_LOCATION_ZIP": "32501",
+		"BRAND_IDENTIFIER": "n_pnj",
+		"BRAND_LOCATION_GPS": "30.4333,-87.2000",
+		"BRAND_LOGO_URL": "http://www.pnj.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "lJsmDoPWmU6vNNv_PHpmpRao7k3Ks6fY3C1C2ocvkPmNcNsgzFAnkQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.pnj.com",
+		"BRAND_NEWS_TIP": "customerservice@pnj.com",
+		"CONTACT_US_EMAIL": "customerservice@pnj.com",
+		"BRAND_NAME": "Pensacola News Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.pnj.com",
+		"BRAND_TWITTER": "pnj"
+	}
+}

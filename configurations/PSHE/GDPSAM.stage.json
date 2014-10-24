@@ -1,0 +1,18 @@
+{
+	"default": {
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "cmsstage.sheboyganpress.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/813"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/817"
+		}
+	}
+}

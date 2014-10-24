@@ -1,0 +1,224 @@
+{
+	"aam": {
+		"audienceDpid": "3054"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"subscribeProductSelectTop": {
+			"preserveSpace": true,
+			"enabled": false,
+			"dimensions": [
+				[
+					950,
+					200
+				]
+			],
+			"provider": "dfp"
+		},
+		"articleAds": [
+			{
+				"position": 0,
+				"numberOfCharactersBetweenRepeats": 2500,
+				"enableFlexAd": false,
+				"adType": "article_banner",
+				"size": "{300,250}"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"enableFlexAd": false,
+				"adType": "section_front_top",
+				"size": "{320,50}"
+			},
+			{
+				"position": 15,
+				"enableFlexAd": false,
+				"adType": "section_front_bottom",
+				"size": "{300,250}"
+			}
+		],
+		"trialExpired": {
+			"alternateContentSelector": ".subscribe-call-to-action",
+			"preserveSpace": false,
+			"enabled": false,
+			"dimensions": [
+				[
+					264,
+					200
+				]
+			],
+			"provider": "dfp"
+		},
+		"articleTransitionalAd": {
+			"adType": "transitional",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"galleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"embeddedGalleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"amazonA9AppId": "09927005b8b64a499771c9680c0ff66e",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/320x50_indianapolis.png",
+					"clickthru": ""
+				}
+			],
+			"{300, 250}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/300x250_indianapolis.png",
+					"clickthru": ""
+				}
+			]
+		},
+		"property": "in-indianapolis-mobile-C1532",
+		"subscribeProductSelectSide": {
+			"preserveSpace": true,
+			"enabled": false,
+			"dimensions": [
+				[
+					215,
+					215
+				]
+			],
+			"provider": "dfp"
+		}
+	},
+	"appReviewPrompt": {
+		"daysBeforeReminding": 10,
+		"daysUntilPrompt": 3,
+		"debug": false,
+		"enable": true,
+		"reset": false,
+		"usesUntilPrompt": 10
+	},
+	"Settings": {
+		"DEFAULT_FRONTS_MODE": "reader"
+	},
+	"comscore": {
+		"censusId": "6035223",
+		"secret": "0a46f2bdb39db821b07796d980d8919a"
+	},
+	"Branding": {
+		"BRAND_QUICKLINKS": {
+			"default": [
+				{
+					"name": "Weather",
+					"imageName": "quicklinks_weather_icon",
+					"type": "13"
+				},
+				{
+					"name": "Saved",
+					"imageName": "quicklinks_saved_articles_icon",
+					"type": "7"
+				},
+				{
+					"name": "Scores",
+					"imageName": "quicklinks_scores_icon",
+					"type": "10",
+					"listItemImageOnRight": true,
+					"quickLinks": [
+						{
+							"name": "NFL",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/nfl/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "MLB",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/mlb/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NBA",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/nba/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NHL",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/nhl/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NCAAF",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/ncaaf/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NCAAB",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/ncaab/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						}
+					]
+				},
+				{
+					"name": "Marketplace",
+					"imageName": "quicklinks_marketplace_icon",
+					"type": "10",
+					"listItemImageOnRight": true,
+					"quickLinks": [
+						{
+							"name": "Apartments.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.indystar.com/apartments"
+						},
+						{
+							"name": "CareerBuilder.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.indystar.com/jobs"
+						},
+						{
+							"name": "Cars.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.cars.com/?aff=starnews"
+						},
+						{
+							"name": "Classifieds",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.indystar.com/classifieds"
+						},
+						{
+							"name": "DealChicken.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.dealchicken.com/indianapolis-in/27779?Source=ip%7Cindianapolis-in%7CiPadApp"
+						},
+						{
+							"name": "Find & Save",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://findnsave.indystar.com/"
+						},
+						{
+							"name": "HomeFinder.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://indystar.gon.gannettonline.com/apps/pbcs.dll/section?Category=HOMES"
+						}
+					]
+				},
+				{
+					"name": "DealChicken",
+					"imageName": "dealchicken_icon",
+					"url": "http://www.dealchicken.com/indianapolis-in?Source=ip%7Cindianapolis-in%7CiPadApp",
+					"type": "12"
+				}
+			]
+		}
+	}
+}

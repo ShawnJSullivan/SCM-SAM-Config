@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.pal-item.com",
+			"trackingSuite": "gpaper163, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "pal-item.com"
+	},
+	"mobile": {
+		"title": "pal-item.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.pal-item.com/trial-expired/",
+				"restricted": "https://subscribe.pal-item.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Palladium-Item iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "RD",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile163"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1095"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1095"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1099"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1099"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Palladium-Item Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "RD",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile163"
+		}
+	}
+}

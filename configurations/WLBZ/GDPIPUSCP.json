@@ -1,0 +1,182 @@
+{
+	"baseName": "wlbz2",
+	"mobilesite": "m.wlbz2.com",
+	"cobrandLogo": "http://tablet.wlbz2.com/property/logo",
+	"emailNewsTips": "newscenter@wlbz2.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Bangor, ME",
+		"zip": "04401",
+		"coordinates": "44.8173,-68.7520",
+		"latitude": 44.8173,
+		"longitude": -68.7520
+	},
+	"twitter": {
+		"name": "WLBZ2"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "WLBZ2 Native News iPhone",
+		"trackingServer": "repdata.wlbz2.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstwlbz",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "311503385543038"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.wlbz2.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.wlbz2.com/privacy/",
+		"TOS_URL": "http://static.wlbz2.com/terms/",
+		"adchoices_URL": "http://static.wlbz2.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © 2014 WLBZ, Pacific and Southern Company, Inc. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "WLBZ",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id469737691?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/wlbz",
+		"ITUNES_APPID": "469737691",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/wlbz/id469737691?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.WLBZNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Bangor, Maine",
+		"BRAND_LOCATION_ZIP": "04401",
+		"BRAND_IDENTIFIER": "b_wlbz2",
+		"BRAND_LOCATION_GPS": "44.8173,-68.7520",
+		"BRAND_LOGO_URL": "http://www.wlbz2.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "F-TTxN6V0Yu5nhTKSf7TyJ45R7gqG1kFpJBg3xtyPKymV1BN_L15-Q..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.wlbz2.com",
+		"BRAND_NEWS_TIP": "newscenter@wlbz2.com",
+		"CONTACT_US_EMAIL": "webmaster@wlbz2.com",
+		"BRAND_NAME": "WLBZ-TV",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.wlbz2.com",
+		"BRAND_TWITTER": "WLBZ2"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "me-bangor-WLBZ-mobile-B3333",
+		"amazonA9AppId": "ebefd62369b947a68ec05fe68b93a819",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_wlbz.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_wlbz.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+		"CellJournalist" : {
+		"Url" : "http://yourtake.wlbz2.com",
+		"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "99",
+		"qa": "",
+		"staging": "105",
+		"dev": "",
+		"prod": "99",
+		"prod-moc": "99",
+		"prod-phx": "99"
+	}
+}

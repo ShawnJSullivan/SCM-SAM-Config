@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wlbz2.com",
+			"trackingSuite": "gntbcstwlbz,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "WLBZ2.com"
+	},
+	"mobile": {
+		"title": "WLBZ2.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wlbz2.com/trial-expired/",
+				"restricted": "https://subscribe.wlbz2.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WLBZ2 News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3333",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwlbz,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/163"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1789"
+		}
+	},
+	"android": {
+		"title": "WLBZ2 News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3333",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwlbz,gntbcstglobal"
+		}
+	}
+}

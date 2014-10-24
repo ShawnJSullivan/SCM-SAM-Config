@@ -1,0 +1,78 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.thenewsstar.com",
+			"trackingSuite": "gpaper148, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "TheNewsStar.com"
+	},
+	"mobile": {
+		"title": "TheNewsStar.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thenewsstar.com/trial-expired/",
+				"restricted": "https://subscribe.thenewsstar.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The News-Star iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.thenewsstar.com/terms/",
+			"caliPrivacyURL": "http://static.thenewsstar.com/privacy/",
+			"privacyURL": "http://static.thenewsstar.com/privacy/",
+			"adChoicesURL": "http://static.thenewsstar.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile148"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "AN",
+			"unitNumber": "1040",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1195"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1195"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1191"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1191"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "AN",
+			"unitNumber": "1040",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile148"
+		}
+	}
+}

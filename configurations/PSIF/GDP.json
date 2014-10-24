@@ -1,0 +1,44 @@
+{
+	"publicationName": "Argus Leader",
+	"title": "Argus Leader",
+	"marketId": "DF",
+	"brandId": "1085AL",
+	"state": "SD",
+	"cobrandLogoText": "ArgusLeader.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-952-0127",
+	"website": "www.argusleader.com",
+	"baseName": "argusleader",
+	"email": "siouxfallsargusleadermedia@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.argusleader.com/terms/",
+		"caliPrivacyURL": "http://static.argusleader.com/privacy/",
+		"privacyURL": "http://static.argusleader.com/privacy/",
+		"adChoicesURL": "http://static.argusleader.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "SiouxFalls"
+	},
+	"dealChicken": {
+		"marketKey": "sioux-falls-sd"
+	},
+	"facebook": {
+		"secret#private": "53e8f3ac16d75e2dd44432ef43bbf68d",
+		"productId": "174484999248444"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.argusleader.com",
+		"trackingSuite": "gpaper170, gntbcstglobal"
+	},
+			"customerServiceCenter": {
+		"chat": {
+			"publicationId": "SiouxFalls"
+		},
+		"email": "siouxfallsargusleadermedia@gannett.com",
+		"phone": "1-800-952-0127"
+	}
+}

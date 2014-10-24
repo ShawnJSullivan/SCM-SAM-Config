@@ -1,0 +1,45 @@
+{
+	"publicationName": "The Courier-Journal",
+	"title": "The Courier-Journal",
+	"marketId": "B2",
+	"brandId": "1107CJ",
+	"baseName": "courier-journal",
+	"state": "KY",
+	"palette": "p1",
+	"website": "www.courier-journal.com",
+	"cobrandLogoText": "Courier-Journal.com | A Gannett Company",
+	"custService": "1-800-866-2211",
+	"email": "louisvillecourierjournal@gannett.com",
+	"facebook": {
+		"secret#private": "0d76a24556142f7a64357dc2b53963e9",
+		"productId": "128534137209813"
+	},
+	"dealChicken": {
+		"marketKey": "louisville-ky"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.courier-journal.com",
+		"trackingSuite": "gpaper145, gntbcstglobal"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.courier-journal.com/terms/",
+		"caliPrivacyURL": "http://static.courier-journal.com/privacy/",
+		"privacyURL": "http://static.courier-journal.com/privacy/",
+		"adChoicesURL": "http://static.courier-journal.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Louisville"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10,
+		"enabled": true
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Louisville"
+		},
+		"email": "louisvillecourierjournal@gannett.com",
+		"phone": "1-800-866-2211"
+	}
+}

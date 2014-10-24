@@ -1,0 +1,190 @@
+{
+	"baseName": "usatoday",
+	"alias": "usatoday",
+	"mobilesite": "m.usatoday.com",
+	"cobrandLogo": "http://tablet.usatoday.com/property/logo",
+	"emailNewsTips": "usatodaymobile@usatoday.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "New York, NY",
+		"zip": "10017",
+		"coordinates": "40.6700,-73.9400",
+		"latitude": 40.67,
+		"longitude": -73.94
+	},
+	"twitter": {
+		"name": "USATODAY"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "usatodaynewsiphone",
+		"trackingServer": "repdata.usatoday.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobileapp"
+	},
+	"comscore": {
+		"censusId": "6035223",
+		"secret": "0a46f2bdb39db821b07796d980d8919a"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "103752723082824"
+	},
+	"Settings": {
+		"IRATE_ENABLED": "T",
+		"PRIVACY_URL": "http://www.usatoday.com/legal/privacynotice.html?chromeless=true",
+		"CALI_PRIVACY_URL": "http://www.usatoday.com/legal/privacynotice.html?chromeless=true#california-privacy",
+		"TOS_URL": "http://www.usatoday.com/legal/tos.html?chromeless=true",
+		"AD_CHOICES_URL": "http://www.usatoday.com/legal/privacynotice.html?chromeless=true#adchoices",
+		"SHARING_ENABLED": "T",
+		"THUMBNAIL_OVERLAY_FOR_EMBEDDED_MEDIA": "T",
+		"WDAKey": "78212c94-f580-414c-ac1c-60b230946a15",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "25"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR USA TODAY. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "USAT",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=504631398",
+		"ITUNES_URL": "http://itunes.com/app/usatoday/usatodayforiphone",
+		"ITUNES_APPID": "504631398",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/usatodayforiphone/id504631398?mt=8",
+		"ITUNES_BUNDLEID": "com.usatoday.iPhone20"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION_WEATHER_DEFAULTS": {
+			"Locations": [
+				"New York, New York",
+				"Chicago, Illinois",
+				"Los Angeles, California"
+			]
+		},
+		"BRAND_LOCATION": "New York, New York",
+		"BRAND_LOCATION_ZIP": "10017",
+		"BRAND_IDENTIFIER": "n_usatoday",
+		"BRAND_LOCATION_GPS": "40.6700,-73.9400",
+		"BRAND_LOGO_URL": "http://www.usatoday.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "http://www.usatoday.com/mobile-apps",
+		"BRAND_SUPPORT_TWITTER": "usatodaymobile",
+		"BRAND_SUPPORT_EMAIL": "usatodaymobile@usatoday.com",
+		"BRAND_COLOR": "0068A9",
+		"BRAND_COLOR_SECTION": {
+			"news": "009EFC",
+			"money": "18A040",
+			"sports": "EB1E00",
+			"life": "921BB0",
+			"tech": "F65D16",
+			"travel": "17C2B9",
+			"opinion": "666666",
+			"weather": "FFCC00",
+			"yourtake": "009EFC"
+		},
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.usatoday.com",
+		"BRAND_NEWS_TIP": "usatodaymobile@usatoday.com",
+		"CONTACT_US_EMAIL": "usatodaymobile@usatoday.com",
+		"BRAND_NAME": "USA TODAY",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.usatoday.com",
+		"BRAND_TWITTER": "USATODAY",
+		"BRAND_MIN_FONT_SIZE_MULTIPLIER" : "0.8",
+		"BRAND_MAX_FONT_SIZE_MULTIPLIER" : "1.8"
+	},
+	"Fronts": {
+		"articleCount": 25
+	},
+	"Weather": {
+		"Locations": [
+			"New York, New York",
+			"Chicago, Illinois",
+			"Los Angeles, California"
+		]
+	},
+	"YourTake": {
+		"Upload": {
+			"requires-oauth": true,
+			"tab-order": 3
+		},
+		"Recent": {
+			"requires-oauth": false,
+			"tab-order": 1,
+			"item-count": 100,
+			"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+		},
+		"Featured": {
+			"requires-oauth": false,
+			"tab-order": 0,
+			"item-count": 9,
+			"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+			"is-home": true
+		},
+		"MyUploads": {
+			"requires-oauth": true,
+			"tab-order": 2,
+			"item-count": 100,
+			"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+		}
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "usatoday_mobile",
+		"amazonA9AppId": "218b713dc1744823b48eb6322bc4d2df",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "https://itunes.apple.com/us/app/usa-today-bingo-cruise/id845093884?mt=8",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/usat/320x50_SimpleBingo.jpg"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "https://itunes.apple.com/us/app/usa-today-bingo-cruise/id845093884?mt=8",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/usat/300x250_Bingo.jpg"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": -1,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 100,
+				"minPosition": 4,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 15,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	}
+}

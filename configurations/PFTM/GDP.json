@@ -1,0 +1,44 @@
+{
+	"publicationName": "The News-Press",
+	"title": "The News-Press",
+	"marketId": "A4",
+	"brandId": "1026NP",
+	"state": "FL",
+	"palette": "p5",
+	"baseName": "news-press",
+	"website": "www.news-press.com",
+	"mobilesite": "m.news-press.com",
+	"cobrandLogoText": "News-Press.com | A Gannett Company",
+	"custService": "1-800-468-0233",
+	"email": "digital@news-press.com",
+	"links": {
+		"termsOfServiceURL": "http://static.news-press.com/terms/",
+		"caliPrivacyURL": "http://static.news-press.com/privacy/",
+		"privacyURL": "http://static.news-press.com/privacy/",
+		"adChoicesURL": "http://static.news-press.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "FortMyers"
+	},
+	"facebook": {
+		"secret#private": "1fc15207a9280ce76699fbe6f1cba5f8",
+		"productId": "149631068421067"
+	},
+	"twitter": {
+		"name": "thenewspress"
+	},
+	"dealChicken": {
+		"marketKey": "fort-myers-fl"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.news-press.com",
+		"trackingSuite": "gpaper128,gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "FortMyers"
+		},
+		"email": "ftmnewspress@gannett.com",
+		"phone": "1-800-468-0233"
+	}
+}

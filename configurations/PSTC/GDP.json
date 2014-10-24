@@ -1,0 +1,44 @@
+{
+	"publicationName": "St. Cloud Times",
+	"title": "St. Cloud Times",
+	"marketId": "DR",
+	"brandId": "1076SC",
+	"cobrandLogoText": "SCTimes.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-4921",
+	"website": "www.sctimes.com",
+	"baseName": "sctimes",
+	"email": "saintcloudtimes@gannett.com",
+	"state": "MN",
+	"links": {
+		"termsOfServiceURL": "http://static.sctimes.com/terms/",
+		"caliPrivacyURL": "http://static.sctimes.com/privacy/",
+		"privacyURL": "http://static.sctimes.com/privacy/",
+		"adChoicesURL": "http://static.sctimes.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "StCloud"
+	},
+	"dealChicken": {
+		"marketKey": "st-cloud-mn"
+	},
+	"facebook": {
+		"secret#private": "f7f6e0b40cf42e937129b09b68c07696",
+		"productId": "170170889686818"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.sctimes.com",
+		"trackingSuite": "gpaper172, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "StCloud"
+		},
+		"email": "saintcloudtimes@gannett.com",
+		"phone": "1-800-955-9998"
+	}
+}

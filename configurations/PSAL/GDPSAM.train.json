@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.statesmanjournal.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/391"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/395"
+		}
+	}
+}

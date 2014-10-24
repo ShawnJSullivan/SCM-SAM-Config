@@ -1,0 +1,76 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.centralfloridafuture.com",
+			"trackingSuite": ", gntbcstglobal"
+		}
+	},
+	"mobile": {
+		"title": "centralfloridafuture.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.centralfloridafuture.com/trial-expired/",
+				"restricted": "https://subscribe.centralfloridafuture.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Central Florida Future iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.centralfloridafuture.com/terms/",
+			"caliPrivacyURL": "http://static.centralfloridafuture.com/privacy/",
+			"privacyURL": "http://static.centralfloridafuture.com/privacy/",
+			"adChoicesURL": "http://static.centralfloridafuture.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": ""
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "1028",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1659"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1659"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1661"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1661"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Central Florida Future Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "1028",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": ""
+		}
+	}
+}

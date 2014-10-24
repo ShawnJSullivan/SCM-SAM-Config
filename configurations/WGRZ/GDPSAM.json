@@ -1,0 +1,59 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wgrz.com",
+			"trackingSuite": "gntbcstwgrz,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "WGRZ.com"
+	},
+	"mobile": {
+		"title": "WGRZ.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wgrz.com/trial-expired/",
+				"restricted": "https://subscribe.wgrz.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WGRZ News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3315",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwgrz,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/107"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1219"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1765"
+		}
+	},
+	"android": {
+		"title": "WGRZ News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3315",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwgrz,gntbcstglobal"
+		}
+	}
+}

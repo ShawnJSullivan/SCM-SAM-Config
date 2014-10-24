@@ -1,0 +1,93 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.courierpostonline.com",
+			"trackingSuite": "gpaper119, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.courierpostonline\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.courierpostonline.com/specialoffer",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}],
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nj-cherryhill-C1013/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nj-cherryhill-C1013/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nj-cherryhill-C1013/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "CourierPostOnline.com"
+	},
+	"mobile": {
+		"title": "CourierPostOnline.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.courierpostonline.com/trial-expired/",
+				"restricted": "https://subscribe.courierpostonline.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Courier-Post iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DC",
+			"unitNumber": "1013",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile119"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/319"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/319"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/323"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/323"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Courier-Post Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DC",
+			"unitNumber": "1013",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile119"
+		}
+	}
+}

@@ -1,0 +1,76 @@
+{
+	"title": "Pacific Daily News",
+	"firefly": {
+		"enabled": false
+	},
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.guampdn.com",
+			"trackingSuite": "gpaper134, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "GuamPDN.com"
+	},
+	"mobile": {
+		"title": "GuamPDN.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.guampdn.com/trial-expired/",
+				"restricted": "https://subscribe.guampdn.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Pacific Daily News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DN",
+			"unitNumber": "1030",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile134"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/367"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/367"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/371"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/371"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Guam PDN Native News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DN",
+			"unitNumber": "1030",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile134"
+		}
+	}
+}

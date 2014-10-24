@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.11alive.com",
+			"trackingSuite": "gntbcstwxia,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "11Alive.com"
+	},
+	"mobile": {
+		"title": "11Alive.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.11alive.com/trial-expired/",
+				"restricted": "https://subscribe.11alive.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "11Alive News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3321",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwxia,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/135"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1729"
+		}
+	},
+	"android": {
+		"title": "11Alive News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3321",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwxia,gntbcstglobal"
+		}
+	}
+}

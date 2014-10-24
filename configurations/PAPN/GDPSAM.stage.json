@@ -1,0 +1,18 @@
+{
+	"default": {
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "cmsstage.postcrescent.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/741"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/745"
+		}
+	}
+}

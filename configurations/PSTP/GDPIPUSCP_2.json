@@ -1,0 +1,95 @@
+{
+	"Branding": {
+		"BRAND_LOCATION_WEATHER_DEFAULTS": {
+			"Locations": [
+				"Stevens Point, Wisconsin"
+			]
+		}
+	},
+	"Settings": {
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "25",
+		"THUMBNAIL_OVERLAY_FOR_EMBEDDED_MEDIA": "T"
+	},
+	"aam": {
+		"audienceDpid": "3054"
+	},
+	"ads": {
+		"amazonA9AppId": "541edeeca4a4489594c1dc5bb19ac224",
+		"articleAds": [
+			{
+				"adType": "article_banner_top",
+				"enableFlexAd": false,
+				"position": 0,
+				"size": "{320,50}"
+			},
+			{
+				"adType": "article_banner_bottom",
+				"enableFlexAd": false,
+				"minPosition": 4,
+				"position": 10000,
+				"size": "{300,250}"
+			}
+		],
+		"articleTransitionalAd": {
+			"adType": "transitional",
+			"enableFlexAd": true,
+			"frequency": 5,
+			"position": 2
+		},
+		"embeddedGalleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": false,
+			"frequency": 5,
+			"position": 2
+		},
+		"frontAds": [
+			{
+				"adType": "section_front_top",
+				"enableFlexAd": false,
+				"position": 2,
+				"size": "{320,50}"
+			},
+			{
+				"adType": "section_front_bottom",
+				"enableFlexAd": false,
+				"position": 15,
+				"size": "{300,250}"
+			}
+		],
+		"galleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"frequency": 5,
+			"position": 2
+		},
+		"houseAds": {
+			"{300, 250}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/300x250_stevenspoint.png",
+					"clickthru": ""
+				}
+			],
+			"{320, 50}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/320x50_stevenspoint.png",
+					"clickthru": ""
+				}
+			]
+		},
+		"networkId": "7103",
+		"property": "wi-stevenspoint-mobile-C1522",
+		"testNetworkId": "7070"
+	},
+	"appReviewPrompt": {
+		"daysBeforeReminding": 10,
+		"daysUntilPrompt": 3,
+		"debug": false,
+		"enable": true,
+		"reset": false,
+		"usesUntilPrompt": 10
+	},
+	"comscore": {
+		"censusId": "6035223",
+		"secret": "0a46f2bdb39db821b07796d980d8919a"
+	}
+}

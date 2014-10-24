@@ -1,0 +1,29 @@
+{
+    "__default__": {
+        "dev": {
+            "id": 1,
+            "schema_id": 67,
+            "ads": {
+                "pubMatic": {
+                    "enabled": true
+                },
+                "rubicon": {
+                    "url": "http: //tap-cdn.rubiconproject.com/partner/scripts/rubicon/dorothy.js",
+                    "api": "valuation",
+                    "adServer": "gam",
+                    "site": "7881/12621",
+                    "adSlotSize": "300x250",
+                    "enabled": true
+                }
+            },
+            "tealium_env": "dev",
+            "flags": {
+                "markitondemand_usat_money_stock_asset_page": true,
+                "markitondemand_usat_money_autocomplete": true
+            },
+            "breaking_live_video_ribbon": true,
+            "breaking_live_video_sidebar": false,
+            "VPCVIDEOENDPOINT": "http: //uscp-web-pr-211.ux-dev.usatoday.com/test1.json"
+        }
+    }
+}

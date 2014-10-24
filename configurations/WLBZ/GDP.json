@@ -1,0 +1,41 @@
+{
+	"publicationName": "WLBZ-TV",
+	"title": "WLBZ2.COM",
+	"marketId": "WLBZ",
+	"brandId": "3333WLBZ",
+	"cobrandLogoText": "WLBZ2.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-207-942-4821",
+	"website": "www.wlbz2.com",
+	"baseName": "wlbz2",
+	"email": "webmaster@wlbz2.com",
+	"state": "ME",
+	"links": {
+		"termsOfServiceURL": "http://static.wlbz2.com/terms/",
+		"caliPrivacyURL": "http://static.wlbz2.com/privacy/",
+		"privacyURL": "http://static.wlbz2.com/privacy/",
+		"adChoicesURL": "http://static.wlbz2.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "bangor-me"
+	},
+	"facebook": {
+		"secret#private": "835b87ccd7e337d529d852377896b1c8",
+		"productId": "311503385543038"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wlbz2.com",
+		"trackingSuite": "gntbcstwlbz,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@wlbz2.com",
+		"phone": "1-207-942-4821"
+	}
+}

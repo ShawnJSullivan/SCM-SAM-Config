@@ -1,0 +1,18 @@
+{
+	"default": {
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "cmsstage.greenbaypressgazette.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/765"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/769"
+		}
+	}
+}

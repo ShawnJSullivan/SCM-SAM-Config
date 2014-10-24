@@ -1,0 +1,78 @@
+{
+	"baseName": "livingstondaily",
+	"mobilesite": "m.livingstondaily.com",
+	"cobrandLogo": "http://tablet.livingstondaily.com/property/logo",
+	"emailNewsTips": "info@livingstondaily.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Howell, MI",
+		"zip": "48843",
+		"coordinates": "42.6072, -83.9294",
+		"latitude": 42.6072,
+		"longitude": -83.9294
+	},
+	"twitter": {
+		"name": "livingstondaily"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.livingstondaily.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile219"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "116528121750318"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.livingstondaily.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.livingstondaily.com/privacy/",
+		"TOS_URL": "http://static.livingstondaily.com/terms/",
+		"AD_CHOICES_URL": "http://static.livingstondaily.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "dafbbfb8-8f8f-41f4-991c-9ea5ee327aef"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Livingston Daily Press and Argus. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.livingstondaily.iphone.autosubscription.1month",
+		"MARKET_ID": "C6",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id900198081?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/livingstondaily",
+		"ITUNES_APPID": "900198081",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/livingstondaily/id900198081?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.livingstondaily"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Howell, Michigan",
+		"BRAND_LOCATION_ZIP": "48843",
+		"BRAND_IDENTIFIER": "n_livingstondaily",
+		"BRAND_LOCATION_GPS": "42.6072, -83.9294",
+		"BRAND_LOGO_URL": "http://www.livingstondaily.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "40A159",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "mSs9l9ibZB8zwzlmpLMIP0rqTWcro48QL_mxSY38wb3Zy60EPhumvQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.livingstondaily.com",
+		"BRAND_NEWS_TIP": "info@livingstondaily.com",
+		"CONTACT_US_EMAIL": "",
+		"BRAND_NAME": "Livingston Daily",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.livingstondaily.com",
+		"BRAND_TWITTER": "livingstondaily"
+	}
+}

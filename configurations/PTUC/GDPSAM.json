@@ -1,0 +1,30 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "tucson.com",
+			"trackingSuite": "tucson.com"
+		},
+		"support": {
+			"accountManagementMenuOptionsMap": {
+				"newsletters": {"map": "NEWSLETTERS", "enabled": false},
+				"eNewspaper": {"map": "ENEWSPAPER", "enabled": false}
+			}
+		},
+		"dictionary": {
+			"account_user_create_pageDescription": "Fill in the fields below to create an account.",
+			"account_user_create_pageTitle": "Create an account"
+		}
+	},
+	"site": {
+		"title": "tucson.com"
+	},
+	"mobile": {
+		"title": "tucson.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.tucson.com/trial-expired/",
+				"restricted": "https://subscribe.tucson.com/trial-expired/"
+			}
+		}
+	}
+}

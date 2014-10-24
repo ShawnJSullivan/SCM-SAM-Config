@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.thecalifornian.com",
+			"trackingSuite": "gpaper167, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "TheCalifornian.com"
+	},
+	"mobile": {
+		"title": "TheCalifornian.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thecalifornian.com/trial-expired/",
+				"restricted": "https://subscribe.thecalifornian.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Salinas Californian iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "CA",
+			"unitNumber": "1078",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile167"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/415"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/415"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/419"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/419"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Salinas Californian Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "CA",
+			"unitNumber": "1078",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile167"
+		}
+	}
+}

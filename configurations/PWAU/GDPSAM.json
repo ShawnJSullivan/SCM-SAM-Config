@@ -1,0 +1,76 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wausaudailyherald.com",
+			"trackingSuite": "gpaper182, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.wausaudailyherald.com"
+		}
+	},
+	"site": {
+		"title": "wausaudailyherald.com"
+	},
+	"mobile": {
+		"title": "wausaudailyherald.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wausaudailyherald.com/trial-expired/",
+				"restricted": "https://subscribe.wausaudailyherald.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Wausau Daily Herald iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZW",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile182"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/939"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/939"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/943"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/943"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Wausau Daily Herald Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZW",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile182"
+		}
+	}
+}

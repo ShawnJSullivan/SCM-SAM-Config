@@ -1,0 +1,45 @@
+{
+	"publicationName": "Iowa City Press-Citizen",
+	"title": "Iowa City Press-Citizen",
+	"marketId": "D5",
+	"brandId": "1033PC",
+	"cobrandLogoText": "Press-Citizen.com | A Gannett Company",
+	"palette": "p5",
+	"custService": "1-877-424-0071",
+	"website": "www.press-citizen.com",
+	"baseName": "press-citizen",
+	"email": "customerservice@press-citizen.com",
+	"state": "IA",
+	"links": {
+		"termsOfServiceURL": "http://static.press-citizen.com/terms/",
+		"caliPrivacyURL": "http://static.press-citizen.com/privacy/",
+		"privacyURL": "http://static.press-citizen.com/privacy/",
+		"adChoicesURL": "http://static.press-citizen.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10,
+		"enabled": true
+	},
+	"chat": {
+		"publicationId": "IowaCity"
+	},
+	"dealChicken": {
+		"marketKey": "iowa-city-ia"
+	},
+	"facebook": {
+		"secret#private": "762ab387912164f781abe8103de47404",
+		"productId": "178998875452298"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.press-citizen.com",
+		"trackingSuite": "gpaper139, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "IowaCity"
+		},
+		"email": "customerservice@press-citizen.com",
+		"phone": "1-877-424-0071"
+	}
+}

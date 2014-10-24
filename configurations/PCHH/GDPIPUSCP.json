@@ -1,0 +1,78 @@
+{
+	"baseName": "courierpostonline",
+	"mobilesite": "m.courierpostonline.com",
+	"cobrandLogo": "http://tablet.courierpostonline.com/property/logo",
+	"emailNewsTips": "cpsjonline@gannett.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Cherry Hill, NJ",
+		"zip": "08002",
+		"coordinates": "39.9046,-74.9970",
+		"latitude": 39.9046,
+		"longitude": -74.9970
+	},
+	"twitter": {
+		"name": "cpsj"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.courierpostonline.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile119"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "175025579194557"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.courierpostonline.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.courierpostonline.com/privacy/",
+		"TOS_URL": "http://static.courierpostonline.com/terms/",
+		"AD_CHOICES_URL": "http://static.courierpostonline.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "22617acc-e0fa-4c4f-8722-7d5dbd16fe7a"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Courier-Post. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.courierpostonline.iphone.autosubscription.1month",
+		"MARKET_ID": "BZ",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id566331284?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/courierpost",
+		"ITUNES_APPID": "566331284",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/courierpost/id566331284?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.courierpostonline"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Cherry Hill, New Jersey",
+		"BRAND_LOCATION_ZIP": "08002",
+		"BRAND_IDENTIFIER": "n_courierpostonline",
+		"BRAND_LOCATION_GPS": "39.9046,-74.9970",
+		"BRAND_LOGO_URL": "http://www.courierpostonline.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "C01D1D",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "q8fBgAfkaBvWlmFcqPd_FayVb0vImQTPdxJz5mCNmwCxK3eYXo0Kjw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.courierpostonline.com",
+		"BRAND_NEWS_TIP": "cpsjonline@gannett.com",
+		"CONTACT_US_EMAIL": "courierpost@gannett.com",
+		"BRAND_NAME": "Courier-Post",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.courierpostonline.com",
+		"BRAND_TWITTER": "cpsj"
+	}
+}

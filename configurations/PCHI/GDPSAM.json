@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.chillicothegazette.com",
+			"trackingSuite": "gpaper231, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "chillicothegazette.com"
+	},
+	"mobile": {
+		"title": "chillicothegazette.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.chillicothegazette.com/trial-expired/",
+				"restricted": "https://subscribe.chillicothegazette.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Chillicothe Gazette iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OG",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile231"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/711"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/711"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/715"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/715"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Chillicothe Gazette Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OG",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile231"
+		}
+	}
+}

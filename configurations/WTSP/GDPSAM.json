@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wtsp.com",
+			"trackingSuite": "gntbcstwtsp,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "wtsp.com"
+	},
+	"mobile": {
+		"title": "wtsp.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wtsp.com/trial-expired/",
+				"restricted": "https://subscribe.wtsp.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WTSP News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3313",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwtsp,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/99"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1711"
+		}
+	},
+	"android": {
+		"title": "WTSP News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3313",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwtsp,gntbcstglobal"
+		}
+	}
+}

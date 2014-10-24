@@ -1,0 +1,79 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.battlecreekenquirer.com",
+			"trackingSuite": "gpaper109, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "battlecreekenquirer.com"
+	},
+	"mobile": {
+		"title": "battlecreekenquirer.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.battlecreekenquirer.com/trial-expired/",
+				"restricted": "https://subscribe.battlecreekenquirer.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Battle Creek Enquirer iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.battlecreekenquirer.com/terms/",
+			"caliPrivacyURL": "http://static.battlecreekenquirer.com/privacy/",
+			"privacyURL": "http://static.battlecreekenquirer.com/privacy/",
+			"adChoicesURL": "http://static.battlecreekenquirer.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile109"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ED",
+			"unitNumber": "1051",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/963"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/963"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/967"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/967"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Battle Creek Enquirer Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ED",
+			"unitNumber": "1051",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile109"
+		}
+	}
+}

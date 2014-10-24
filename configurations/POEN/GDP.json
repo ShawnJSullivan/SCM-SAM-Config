@@ -1,0 +1,41 @@
+{
+	"publicationName": "Observer and Eccentric Newspapers and Hometown Weeklies",
+	"title": "O&E Media hometownlife",
+	"marketId": "C5",
+	"brandId" : "1008HT",
+	"state": "MI",
+	"baseName": "hometownlife",
+	"website": "www.hometownlife.com",
+	"cobrandLogoText": "HomeTownLife.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-866-887-2732",
+	"email": "cserv@dnps.com",
+	"facebook": {
+		"secret#private": "caddd2dfdd12dd5a32b91b5928c988ce",
+		"productId": "169969316374298"
+	},
+	"dealChicken": {
+		"marketKey" : "detroit-mi"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.hometownlife.com/terms/",
+		"caliPrivacyURL": "http://static.hometownlife.com/privacy/",
+		"privacyURL": "http://static.hometownlife.com/privacy/",
+		"adChoicesURL": "http://static.hometownlife.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10,
+		"enabled": false
+	},
+	"chat": {
+		"publicationId": ""
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": ""
+		},
+		"email": "cserv@dnps.com",
+		"phone": "1-866-887-2732"
+	}
+}

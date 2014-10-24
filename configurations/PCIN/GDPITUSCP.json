@@ -1,0 +1,152 @@
+{
+	"baseName": "cincinnati",
+	"mobilesite": "m.cincinnati.com",
+	"cobrandLogo": "http://tablet.cincinnati.com/property/logo",
+	"emailNewsTips": "customerservice@enquirer.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Cincinnati, OH",
+		"zip": "45201",
+		"coordinates": "39.1000,-84.5167",
+		"latitude": 39.1000,
+		"longitude": -84.5167
+	},
+	"twitter": {
+		"name": "enquirer"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsipad",
+		"trackingServer": "repdata.cincinnati.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobile120"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "157995810912644"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.cincinnati.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.cincinnati.com/privacy/",
+		"TOS_URL": "http://static.cincinnati.com/terms/",
+		"TILE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://static.cincinnati.com/adchoices/",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "cincinnati-oh",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "53212C17-3C1C-4F1F-BCCF-C2B97E9B3B9B"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Cincinnati Enquirer. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://news.cincinnati.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.cincinnati.autosubscription.1month",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "AB",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id600019252?mt=8",
+		"OLD_FEED_URL": "http://m.cincinnati.com/mg-ui/dynagate/page?site=n_cincinnati&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thecincinnatienquirerforipad",
+		"ITUNES_APPID": "600019252"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Cincinnati, OH",
+		"BRAND_LOCATION_ZIP": "45201",
+		"BRAND_IDENTIFIER": "n_cincinnati",
+		"BRAND_LOCATION_GPS": "39.1000,-84.5167",
+		"BRAND_LOGO_URL": "http://news.cincinnati.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "C01D1D",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "aq-lJUnlrlbGMxG2nvD5yY0iK7M1KWxP4qnz9bKXPJivNgC6mb1yXA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.cincinnati.com",
+		"CONTACT_US_EMAIL": "customerservice@enquirer.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "The Cincinnati Enquirer",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.cincinnati.com",
+		"BRAND_TWITTER": "enquirer",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+			{
+				"name": "Apartments.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.apartments.com/Ohio/Cincinnati"
+			},
+			{
+				"name": "CareerBuilder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://cincinnati.gannettonline.com/careerbuilder/"
+			},
+			{
+				"name": "Cars.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.cars.com/?aff=cinci"
+			},
+			{
+				"name": "Classifieds",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://classifiedads.cincinnati.com/"
+			},
+			{
+				"name": "DealChicken.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.dealchicken.com/cincinnati-oh"
+			},
+			{
+				"name": "Find & Save",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://findnsave.cincinnati.com/"
+			},
+			{
+				"name": "HomeFinder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://news.cincinnati.com/homes"
+			}
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=cincinnati&state=oh",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.cincinnati.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.cincinnati.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "119",
+		"qa": "0",
+		"staging": "125",
+		"dev": "0",
+		"prod": "119",
+		"prod-moc": "119",
+		"prod-phx": "119"
+	}
+}

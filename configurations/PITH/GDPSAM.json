@@ -1,0 +1,77 @@
+{
+	"default": {
+		"brandId" : "ITHACAJOURNAL",
+		"legacyNewslettersPreferences" : {
+			"enabled": true,
+			"hostname": "www.ITHACAJOURNAL.com"
+		},
+		"omniture": {
+			"trackingServer": "srepdata.ithacajournal.com",
+			"trackingSuite": "gpaper140, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "ithacajournal.com"
+	},
+	"mobile": {
+		"title": "ithacajournal.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.ithacajournal.com/trial-expired/",
+				"restricted": "https://subscribe.ithacajournal.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Ithaca Journal iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DI",
+			"unitNumber": "1007",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile140"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1227"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1227"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1229"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1229"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Ithaca Journal Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DI",
+			"unitNumber": "1007",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile140"
+		}
+	}
+}

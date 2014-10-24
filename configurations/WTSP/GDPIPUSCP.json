@@ -1,0 +1,182 @@
+{
+	"baseName": "wtsp",
+	"mobilesite": "m.wtsp.com",
+	"cobrandLogo": "http://tablet.wtsp.com/property/logo",
+	"emailNewsTips": "tips@wtsp.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Tampa, FL",
+		"zip": "33609",
+		"coordinates": "27.8722,-82.6159",
+		"latitude": 27.8722,
+		"longitude": -82.6159
+	},
+	"twitter": {
+		"name": "WTSP10News"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "WTSP Native News iPhone",
+		"trackingServer": "repdata.wtsp.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstwtsp",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "179755582063680"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.wtsp.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.wtsp.com/privacy/",
+		"TOS_URL": "http://static.wtsp.com/en/terms-service/",
+		"AD_CHOICES_URL": "http://static.wtsp.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © 2014 WTSP, Pacific and Southern Company, Inc. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "WTSP",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id568148832?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/wtsp10news",
+		"ITUNES_APPID": "568148832",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/wtsp/id568148832?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.WTSPNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Tampa, Florida",
+		"BRAND_LOCATION_ZIP": "33609",
+		"BRAND_IDENTIFIER": "b_wtsp",
+		"BRAND_LOCATION_GPS": "27.8722,-82.6159",
+		"BRAND_LOGO_URL": "http://www.wtsp.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "waxfnrYiDZOxoksF24G7DhGo7x9RRMs343oYHptCSh0shqoQBU9btA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.wtsp.com",
+		"BRAND_NEWS_TIP": "tips@wtsp.com",
+		"CONTACT_US_EMAIL": "10news@wtsp.com",
+		"BRAND_NAME": "WTSP TV10",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.wtsp.com",
+		"BRAND_TWITTER": "WTSP10News"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "fl-tampa-WTSP-mobile-B3313",
+		"amazonA9AppId": "75e01aedff5042fbaaacc9ad49aebde7",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_wtsp.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_wtsp.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+		"CellJournalist" : {
+		"Url" : "http://yourtake.wtsp.com",
+		"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "69",
+		"qa": "69",
+		"staging": "73",
+		"dev": "153",
+		"prod": "67",
+		"prod-moc": "67",
+		"prod-phx": "67"
+	}
+}

@@ -1,0 +1,100 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.citizen-times.com",
+			"trackingSuite": "gpaper108, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nc-asheville-C1122/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nc-asheville-C1122/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nc-asheville-C1122/consumer_sales-all_stop"
+			}
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.citizen-times\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.citizen-times.com/specialoffer",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}]
+	},
+	"site": {
+		"title": "citizen-times.com"
+	},
+	"mobile": {
+		"title": "citizen-times.com | Mobile Edition"
+	},
+	"firefly": {
+		"links": {
+			"getAccess": "https://subscribe.citizen-times.com/trial-expired/",
+			"restricted": "https://subscribe.citizen-times.com/trial-expired/"
+		}
+	},
+	"ios": {
+		"title": "Asheville Citizen Times iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.citizen-times.com/terms/",
+			"caliPrivacyURL": "http://static.citizen-times.com/privacy/",
+			"privacyURL": "http://static.citizen-times.com/privacy/",
+			"adChoicesURL": "http://static.citizen-times.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile108"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "CD",
+			"unitNumber": "1122",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/475"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/475"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/479"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/479"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Asheville Citizen Times Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "CD",
+			"unitNumber": "1122",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile108"
+		}
+	}
+}

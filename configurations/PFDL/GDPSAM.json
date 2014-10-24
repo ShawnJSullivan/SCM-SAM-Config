@@ -1,0 +1,76 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.fdlreporter.com",
+			"trackingSuite": "gpaper187, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.fdlreporter.com"
+		}
+	},
+	"site": {
+		"title": "fdlreporter.com"
+	},
+	"mobile": {
+		"title": "fdlreporter.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.fdlreporter.com/trial-expired/",
+				"restricted": "https://subscribe.fdlreporter.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Reporter iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZF",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile187"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/855"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/855"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/859"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/859"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Reporter Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZF",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile187"
+		}
+	}
+}

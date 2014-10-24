@@ -1,0 +1,31 @@
+{
+	"publicationName": "Pacific Daily News",
+	"marketId": "PGUA",
+	"brandId": "1030DN",
+	"cobrandLogoText": "GuamPDN.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "671-472-1736",
+	"website": "www.guampdn.com",
+	"baseName": "guampdn",
+	"email": "mobile@guampdn.com",
+	"state": "GU",
+	"links": {
+		"termsOfServiceURL": "http://www.guampdn.com/tos",
+		"caliPrivacyURL": "http://www.guampdn.com/privacy#california",
+		"privacyURL": "http://www.guampdn.com/privacy",
+		"adChoicesURL": "http://www.guampdn.com/privacy#adchoices"
+	},
+	"chat": {
+		"publicationId": ""
+	},
+	"dealChicken": {
+		"marketKey": "guam-gu"
+	},
+	"facebook": {
+		"productId": "120982527969586"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.guampdn.com",
+		"trackingSuite": "gpaper134, gntbcstglobal"
+	}
+}

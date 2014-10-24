@@ -1,0 +1,36 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.democratandchronicle.com"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"unitPath" : "/7070/ny-rochester-C1070/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"unitPath" : "/7070/ny-rochester-C1070/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"unitPath" : "/7070/ny-rochester-C1070/consumer_sales-all_stop"
+			}
+		},
+		"redirectMiddleware": [
+			{"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.democratandchronicle\\.com(:8000)?\\/$", "redirectURL":"http://offers.indystar.com/subscribe"}
+		],
+		"support": {
+			"accountNewsletters" : {
+				"dealChickenEnabled": false
+			}
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/19"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/73"
+		}
+	}
+}

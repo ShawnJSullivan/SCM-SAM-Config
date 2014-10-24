@@ -1,0 +1,96 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.greenbaypressgazette.com",
+			"trackingSuite": "gpaper132, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.greenbaypressgazette.com"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/wi-greenbay-C1014/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/wi-greenbay-C1014/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/wi-greenbay-C1014/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "greenbaypressgazette.com"
+	},
+	"mobile": {
+		"title": "greenbaypressgazette.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.greenbaypressgazette.com/trial-expired/",
+				"restricted": "https://subscribe.greenbaypressgazette.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Green Bay Press-Gazette iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.greenbaypressgazette.com/terms/",
+			"caliPrivacyURL": "http://static.greenbaypressgazette.com/privacy/",
+			"privacyURL": "http://static.greenbaypressgazette.com/privacy/",
+			"adChoicesURL": "http://static.greenbaypressgazette.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile132"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZG",
+			"unitNumber": "1014",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/867"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/867"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/871"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/871"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZG",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile132"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.thedailyjournal.com",
+			"trackingSuite": "gpaper180, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "TheDailyJournal.com"
+	},
+	"mobile": {
+		"title": "TheDailyJournal.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thedailyjournal.com/trial-expired/",
+				"restricted": "https://subscribe.thedailyjournal.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Daily Journal iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DV",
+			"unitNumber": "1106",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile180"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/451"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/451"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/455"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/455"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Daily Journal Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DV",
+			"unitNumber": "1106",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile180"
+		}
+	}
+}

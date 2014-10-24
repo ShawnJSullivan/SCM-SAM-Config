@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.theleafchronicle.com",
+			"trackingSuite": "gpaper121, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "theleafchronicle.com"
+	},
+	"mobile": {
+		"title": "theleafchronicle.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.theleafchronicle.com/trial-expired/",
+				"restricted": "https://subscribe.theleafchronicle.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Leaf-Chronicle iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DL",
+			"unitNumber": "1056",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile121"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1557"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1557"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1555"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1555"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Leaf-Chronicle Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DL",
+			"unitNumber": "1056",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile121"
+		}
+	}
+}

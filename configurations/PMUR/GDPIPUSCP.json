@@ -1,0 +1,78 @@
+{
+	"baseName": "dnj",
+	"mobilesite": "m.dnj.com",
+	"cobrandLogo": "http://tablet.dnj.com/property/logo",
+	"emailNewsTips": "news@dnj.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Murfreesboro, TN",
+		"zip": "37130",
+		"coordinates": "35.8481,-86.3931",
+		"latitude": 35.8481,
+		"longitude": -86.3931
+	},
+	"twitter": {
+		"name": "dnj_com"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.dnj.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile214"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "184474251565027"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.dnj.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.dnj.com/privacy/",
+		"TOS_URL": "http://static.dnj.com/terms/",
+		"AD_CHOICES_URL": "http://static.dnj.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": ""
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Daily News Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.dnj.iphone.autosubscription.1month",
+		"MARKET_ID": "D4",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id528350381?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thedailynewsjournal",
+		"ITUNES_APPID": "528350381",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thedailynewsjournal/id528350381?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.dnj"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Murfreesboro, Tennessee",
+		"BRAND_LOCATION_ZIP": "37130",
+		"BRAND_IDENTIFIER": "n_dnj",
+		"BRAND_LOCATION_GPS": "35.8481,-86.3931",
+		"BRAND_LOGO_URL": "http://www.dnj.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "5c0b0Dc09grhxUuS4CGaeRlHIVDWOlp8TnHj89T5NJpYfX9GrjTkEg..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.dnj.com",
+		"BRAND_NEWS_TIP": "news@dnj.com",
+		"CONTACT_US_EMAIL": "news@dnj.com",
+		"BRAND_NAME": "The Daily News Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.dnj.com",
+		"BRAND_TWITTER": "dnj_com"
+	}
+}

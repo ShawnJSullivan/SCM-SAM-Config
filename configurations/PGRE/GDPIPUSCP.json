@@ -1,0 +1,78 @@
+{
+	"baseName": "greenvilleonline",
+	"mobilesite": "m.greenvilleonline.com",
+	"cobrandLogo": "http://tablet.greenvilleonline.com/property/logo",
+	"emailNewsTips": "greenvillenews@gannett.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Greenville, SC",
+		"zip": "29602",
+		"coordinates": "34.8444,-82.3856",
+		"latitude": 34.8444,
+		"longitude": -82.3856
+	},
+	"twitter": {
+		"name": "greenvillenews"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.greenvilleonline.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile133"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "127457533984247"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.greenvilleonline.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.greenvilleonline.com/privacy/",
+		"TOS_URL": "http://static.greenvilleonline.com/terms/",
+		"AD_CHOICES_URL": "http://static.greenvilleonline.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "ed1dbc4d-f96d-4360-9666-7d9d90569f11"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Greenville News. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.greenvilleonline.iphone.autosubscription.1month",
+		"MARKET_ID": "BS",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id513921905?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thegreenvillenews",
+		"ITUNES_APPID": "513921905",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thegreenvillenews/id513921905?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.greenville"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Greenville, South Carolina",
+		"BRAND_LOCATION_ZIP": "29602",
+		"BRAND_IDENTIFIER": "n_greenvilleonline",
+		"BRAND_LOCATION_GPS": "34.8444,-82.3856",
+		"BRAND_LOGO_URL": "http://www.greenvilleonline.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "NVIV7G_Xnmd2bV1v5A9ElWW516EQzcuHI7mmaL5fZ7bPYyB-rN0EXQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.greenvilleonline.com",
+		"BRAND_NEWS_TIP": "greenvillenews@gannett.com",
+		"CONTACT_US_EMAIL": "greenvillenews@gannett.com",
+		"BRAND_NAME": "The Greenville News",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.greenvilleonline.com",
+		"BRAND_TWITTER": "greenvillenews"
+	}
+}

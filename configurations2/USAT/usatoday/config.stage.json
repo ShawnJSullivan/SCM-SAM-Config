@@ -1,0 +1,29 @@
+{
+    "__default__": {
+        "stage": {
+            "id": 1,
+            "schema_id": 43,
+            "ads": {
+                "pubMatic": {
+                    "enabled": true
+                },
+                "rubicon": {
+                    "url": "http://tap-cdn.rubiconproject.com/partner/scripts/rubicon/dorothy.js",
+                    "api": "valuation",
+                    "adServer": "gam",
+                    "site": "7881/12621",
+                    "adSlotSize": "300x250",
+                    "enabled": true
+                }
+            },
+            "tealium_env": "qa",
+            "UGC": {
+                "FEATURED_CONTRIBUTIONS_MAX": 7
+            },
+            "flags": {
+                "markitondemand_usat_money_stock_asset_page": true,
+                "markitondemand_usat_money_autocomplete": true
+            }
+        }
+    }
+}

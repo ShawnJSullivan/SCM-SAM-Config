@@ -1,0 +1,44 @@
+{
+	"publicationName": "Green Bay Press-Gazette",
+	"title": "Green Bay Press-Gazette",
+	"marketId": "U003",
+	"brandId" : "WISCONSIN",
+	"state": "WI",
+	"baseName": "greenbaypressgazette",
+	"website": "www.greenbaypressgazette.com",
+	"cobrandLogoText": "GreenBayPressGazette.com | A Gannett Company",
+	"palette": "p6",
+	"custService": "1-877-424-5042",
+	"email": "wisconsincoe@gannett.com",
+	"facebook": {
+		"secret#private": "065f9b1649c7032ad6094c29f383a71d",
+		"productId": "179406702077699"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.greenbaypressgazette.com",
+		"trackingSuite": "gpaper132, gntbcstglobal"
+	},
+	"dealChicken": {
+		"marketKey" : "green-bay-wi"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.greenbaypressgazette.com/terms/",
+		"caliPrivacyURL": "http://static.greenbaypressgazette.com/privacy/",
+		"privacyURL": "http://static.greenbaypressgazette.com/privacy/",
+		"adChoicesURL": "http://static.greenbaypressgazette.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "GreenBay"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "GreenBay"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-5042"
+	}
+}

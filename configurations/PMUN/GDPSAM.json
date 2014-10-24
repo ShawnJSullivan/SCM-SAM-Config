@@ -1,0 +1,87 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.thestarpress.com",
+			"trackingSuite": "gpaper150, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/in-muncie-C1535/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/in-muncie-C1535/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/in-muncie-C1535/consumer_sales-all_stop"
+			}
+		}
+	},
+
+	"site": {
+		"title": "thestarpress.com"
+	},
+	"mobile": {
+		"title": "thestarpress.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thestarpress.com/trial-expired/",
+				"restricted": "https://subscribe.thestarpress.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Star Press iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "MC",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile150"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1083"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1083"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1079"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1079"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Star Press Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "MC",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile150"
+		}
+	}
+}

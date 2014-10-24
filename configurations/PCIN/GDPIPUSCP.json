@@ -1,0 +1,79 @@
+{
+	"baseName": "cincinnati",
+	"mobilesite": "m.cincinnati.com",
+	"cobrandLogo": "http://tablet.cincinnati.com/property/logo",
+	"emailNewsTips": "customerservice@enquirer.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Cincinnati, OH",
+		"zip": "45201",
+		"coordinates": "39.1000,-84.5167",
+		"latitude": 39.1000,
+		"longitude": -84.5167
+	},
+	"twitter": {
+		"name": "enquirer"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.cincinnati.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile120"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "157995810912644"
+	},
+	"Settings": {
+		"WDAKey": "E8FAF858-D06A-41E3-8853-A59099F47B0A",
+		"CALI_PRIVACY_URL": "http://static.cincinnati.com/privacy/",
+		"AD_CHOICES_URL": "http://static.cincinnati.com/adchoices/",
+		"PRIVACY_URL": "http://static.cincinnati.com/privacy/",
+		"SHARING_ENABLED": "T",
+		"TOS_URL": "http://static.cincinnati.com/terms/"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Cincinnati Enquirer. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.cincinnati.iphone.autosubscription.1month",
+		"MARKET_ID": "AB",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=814555930",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thecincinnatienquirer",
+		"ITUNES_APPID": "814555930",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thecincinnatienquirer/id814555930?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.cincinnati"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Cincinnati, OH",
+		"BRAND_LOCATION_ZIP": "45201",
+		"BRAND_IDENTIFIER": "n_cincinnati",
+		"BRAND_LOCATION_GPS": "39.1000,-84.5167",
+		"BRAND_LOGO_URL": "http://news.cincinnati.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "C01D1D",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "aq-lJUnlrlbGMxG2nvD5yY0iK7M1KWxP4qnz9bKXPJivNgC6mb1yXA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.cincinnati.com",
+		"CONTACT_US_EMAIL": "customerservice@enquirer.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "The Cincinnati Enquirer",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.cincinnati.com",
+		"BRAND_TWITTER": "enquirer"
+	}
+}

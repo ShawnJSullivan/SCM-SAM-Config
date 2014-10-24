@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Salinas Californian",
+	"title": "The Salinas Californian",
+	"marketId": "J2",
+	"brandId": "1078SC",
+	"cobrandLogoText": "TheCalifornian.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-4917",
+	"website": "www.thecalifornian.com",
+	"baseName": "thecalifornian",
+	"email": "thesalinascalifornian@gannett.com",
+	"state": "CA",
+	"links": {
+		"termsOfServiceURL": "http://static.thecalifornian.com/terms/",
+		"caliPrivacyURL": "http://static.thecalifornian.com/privacy/",
+		"privacyURL": "http://static.thecalifornian.com/privacy/",
+		"adChoicesURL": "http://static.thecalifornian.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"chat": {
+		"publicationId": "Salinas"
+	},
+	"dealChicken": {
+		"marketKey": "salinas-ca"
+	},
+	"facebook": {
+		"secret#private": "5566bac38293b22f7f6663e43e7ebda1",
+		"productId": "149812628403064"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.thecalifornian.com",
+		"trackingSuite": "gpaper167, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Salinas"
+		},
+		"email": "thesalinascalifornian@gannett.com",
+		"phone": "1-877-424-4917"
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"baseName": "dailyrecord",
+	"mobilesite": "m.dailyrecord.com",
+	"cobrandLogo": "http://tablet.dailyrecord.com/property/logo",
+	"emailNewsTips": "mvandyk@njpressmedia.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Morristown, NJ",
+		"zip": "07960",
+		"coordinates": "40.8517,-74.4532",
+		"latitude": 40.8517,
+		"longitude": -74.4532
+	},
+	"twitter": {
+		"name": "dailyrecord"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.dailyrecord.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile149"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "148966475155999"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.dailyrecord.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.dailyrecord.com/privacy/",
+		"TOS_URL": "http://static.dailyrecord.com/terms/",
+		"AD_CHOICES_URL": "http://static.dailyrecord.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "229f93da-2223-46dc-8e0c-fc5034db9c17"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Daily Record. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.dailyrecord.iphone.autosubscription.1month",
+		"MARKET_ID": "C0",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=520571562",
+		"ITUNES_URL": "http://itunes.com/app/gannett/dailyrecordmorrisconj",
+		"ITUNES_APPID": "520571562",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/dailyrecordmorrisconj/id520571562?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.dailyrecord"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Morristown, NJ",
+		"BRAND_LOCATION_ZIP": "07960",
+		"BRAND_IDENTIFIER": "n_dailyrecord",
+		"BRAND_LOCATION_GPS": "40.8517,-74.4532",
+		"BRAND_LOGO_URL": "http://www.dailyrecord.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "gUWnkVBaIkpkhjoKsIgudP2lR8bYYtHILaLIomqgU0vA_RarVWzFFw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.dailyrecord.com",
+		"BRAND_NEWS_TIP": "mvandyk@njpressmedia.com",
+		"CONTACT_US_EMAIL": "dailyrecord@gannett.com",
+		"BRAND_NAME": "Daily Record",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.dailyrecord.com",
+		"BRAND_TWITTER": "dailyrecord"
+	}
+}
