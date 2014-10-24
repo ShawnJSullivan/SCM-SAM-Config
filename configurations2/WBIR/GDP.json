@@ -1,0 +1,41 @@
+{
+	"publicationName": "WBIR",
+	"title": "WBIR.COM",
+	"marketId": "WBIR",
+	"brandId": "3328WBIR",
+	"cobrandLogoText": "WBIR.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-865-637-1010",
+	"website": "www.wbir.com",
+	"baseName": "wbir",
+	"email": "webmaster@wbir.com",
+	"state": "TN",
+	"links": {
+		"termsOfServiceURL": "http://static.wbir.com/en/terms-service/",
+		"caliPrivacyURL": "http://static.wbir.com/privacy/",
+		"privacyURL": "http://static.wbir.com/privacy/",
+		"adChoicesURL": "http://static.wbir.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "knoxville-tn"
+	},
+	"facebook": {
+		"secret#private": "",
+		"productId": "110845768975038"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wbir.com",
+		"trackingSuite": "gntbcstwbir,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@wbir.com",
+		"phone": "1-865-637-1010"
+	}
+}

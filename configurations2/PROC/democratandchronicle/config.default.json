@@ -1,0 +1,185 @@
+{
+    "__default__": {
+        "tealium_profile": "democratandchronicle",
+        "prefix": "roc_",
+        "display_url": "DemocratandChronicle.com",
+        "base_url": "democratandchronicle.com",
+        "legacy_url": "http://roc.democratandchronicle.com/",
+        "sections": "sports|news|life|business|rocflavors|opinion|herrochester|home|communities|travel",
+        "section_arrows": "sports|life|business|rocflavors|opinion|herrochester|home",
+        "display_name": "Rochester Democrat and Chronicle",
+        "dealchicken_market": "rochester-ny",
+        "aws_site_name": "PROC",
+        "enable_big_page": true,
+        "site_code": "PROC",
+        "assets": {
+              "videos": {
+                  "turnOnTranscript": true,
+                  "global_hidetranscripttext": false
+              }
+        },
+        "market_id": "A2",
+        "enewspaper_image_url": "http://roc.democratandchronicle.com/e-edition",
+        "apps": {
+            "apple": "http://itunes.apple.com/us/app/democrat-chronicle/id514408621?mt=8",
+            "ipad_app_id": "600028377"
+        },
+        "publisher": {
+            "address": "55 Exchange Blvd.",
+            "city": "Rochester",
+            "state": "NY",
+            "zip": "14614",
+            "phone_main": "585-232-7100",
+            "phone_custserv": "800-790-9565"
+        },
+        "ads": {
+            "account_name": "ny-rochester-C1070"
+        },
+        "header": {
+            "searchWidths": {
+                "small": "230",
+                "large": "400"
+            },
+            "textItemPaddings": {
+                "small": "10",
+                "large": "20"
+            },
+            "auxTextItemPaddings": {
+                "small": "11",
+                "large": "20"
+            },
+            "iconItemPaddings": {
+                "small": "7",
+                "large": "9"
+            }
+        },
+        "twitter": {
+            "default_account": "DandC",
+            "account_prefix": "DandC"
+        },
+        "THIRDPARTYAPI": {
+            "GOOGLEPLUS": {
+                "TURNON": false
+            },
+            "FACEBOOK": {
+                "APPID": "176958652324613",
+                "SHARE_TOKEN": "176958652324613|Ko22-oQbnz1dsWV7nFzfHC3cKaQ",
+                "CHANNELURL": "//www.democratandchronicle.com/static/html/channel.html"
+            },
+            "FILEMOBILE": {
+                "VHOST": 1056
+            },
+            "FOURSQUARE": {
+                "CLIENT_ID": "DRICRIK0TQW4ASEH3PEBO0TPVJ0IJP5RKWB5LPJWTVFPHJFA",
+                "CLIENT_SECRET": "2DGKO5JD0Y2D4AGG0TERJN0GZYKQEORT3E3PDOEFYA2LSDTM"
+            },
+            "GOOGLE": {
+                "API_KEY": "AIzaSyDYdmU0fUxRL30kWxshyPRiMB58-7w3QKE"
+            },
+            "Taboola": {
+                "api_id": "gannettcompany-democratandchronicle",
+                "publisher_id": "gannett-network"
+            },
+            "FIREFLY": {
+                "ENABLED": true
+            },
+            "MYCAPTURE": {
+                "ENABLED": true,
+                "blacklist": {
+                    "SSTS": [],
+                    "byline": []
+                },
+                "whitelist": {
+                    "byline": [
+                        "file photo",
+                        "staff photographer",
+                        "Kate Melton",
+                        "Megan Dailor",
+                        "Brady Dillsworth",
+                        "Kevin Leas",
+                        "Scott Ellman",
+                        "Steve Pfost",
+                        "Adrian Kraus"
+                    ]
+                }
+            }
+        },
+        "VPCVIDEOENDPOINT": "http://www.gannett-tv.com/tools/services/ENPSLiveStream.svc/video/vpc/live?sid=rdc",
+        "footer": {
+            "expanded": true,
+            "copyrightText": " www.democratandchronicle.com. All rights reserved."
+        },
+        "display_options": {
+            "sidebar_theme": "light"
+        },
+        "social": {
+            "facebook": {
+                "primary_account": "DemocratandChronicle",
+                "follow_url": "http://www.democratandchronicle.com"
+            },
+            "twitter": {
+                "primary_account": "DandC"
+            },
+            "googleplus": {
+                "primary_account": "110156198449161181827"
+            }
+        },
+        "theme_overrides": {
+            "section_colors": [
+                {
+                    "name": "home",
+                    "color": "rgb(19, 115, 192)"
+                },
+                {
+                    "name": "sports",
+                    "color": "rgb(184, 24, 0)"
+                },
+                {
+                    "name": "life",
+                    "color": "rgb(150, 0, 180)"
+                },
+                {
+                    "name": "business",
+                    "color": "rgb(0, 165, 60)"
+                },
+                {
+                    "name": "flavors",
+                    "color": "rgb(160, 60, 24)"
+                },
+                {
+                    "name": "rocflavors",
+                    "color": "rgb(160, 60, 24)"
+                },
+                {
+                    "name": "opinion",
+                    "color": "rgb(96, 125, 135)"
+                },
+                {
+                    "name": "her",
+                    "color": "rgb(158, 46, 62)"
+                },
+                {
+                    "name": "rocdocs",
+                    "color": "rgb(130, 130, 130)"
+                },
+                {
+                    "name": "rocroots",
+                    "color": "rgb(93, 114, 93)"
+                }
+            ]
+        },
+        "blogs": {
+            "index": false,
+            "landing": false
+        },
+        "config": {
+            "GEMS": {
+                "businessUnitCodes": {
+                    "editorial": "1070DC-E",
+                    "ad_mail": "1070DC-A",
+                    "production": ""
+                }
+            }
+        }
+    }
+}

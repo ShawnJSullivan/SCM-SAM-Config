@@ -1,0 +1,36 @@
+{
+    "__default__": {
+        "prod": {
+            "id": 51,
+            "schema_id": 43,
+            "tealium_env": "prod",
+            "UGC": {
+                "ENABLED": false
+            },
+            "Brightcove": {
+                "readtoken": "9rrvDgD07g1GoqvfytvHrw-Vlgrrp2I22eSC4SMlDmMPJIE7u1DLvA..",
+                "writetoken": "_FElWBufLNspZVNMLqmY7vRIzSCqnNVViXouwc8LrAWFMqM2hZL_qA.."
+            },
+            "THIRDPARTYAPI": {
+                "FILEMOBILE": {
+                    "VHOST": 1056,
+                    "API_KEY": "33a7a865bda679bc4b639ddaff9d7a6a",
+                    "SiteGroupID": 73225,
+                    "FeaturedGroupID": 75053,
+                    "FeaturedContributionGroupID": 75963,
+                    "GeneralGroupID": 77119,
+                    "UtilityBarContentLimit": 50,
+                    "OffensiveReportLimit": 5,
+                    "ReportAbuse": {
+                        "templateid": 40947,
+                        "emailaddress": "yourtake@usatoday.com"
+                    },
+                    "Transcoders": {
+                        "image": 15,
+                        "video": 22
+                    }
+                }
+            }
+        }
+    }
+}

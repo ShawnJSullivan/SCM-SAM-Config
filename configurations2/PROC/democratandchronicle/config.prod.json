@@ -1,0 +1,138 @@
+{
+    "__default__": {
+        "prod": {
+            "id": 47,
+            "schema_id": 39,
+            "tealium_env": "prod",
+            "Brightcove": {
+                "readtoken": "sAhJblA2DF-xN27o-uPuWTTaJyLLZwRQod6ZS_jog8m9pUWpYGEH5w.."
+            },
+            "assets": {
+                "videos": {
+                    "players": {
+                        "smallarticleplayer": {
+                            "id": 2620764742001
+                        },
+                        "immersiveplayer": {
+                            "id": 2620764730001
+                        },
+                        "livevideopopoutplayer": {
+                            "id": 2620764740001
+                        },
+                        "videoleftplayer": {
+                            "id": 2620764742001
+                        },
+                        "carouselplayer": {
+                            "id": 2620764745001
+                        },
+                        "videoassetplayer": {
+                            "id": 2620764743001
+                        },
+                        "timelineplayer": {
+                            "adsplayerid": 2327383105001,
+                            "id": 1797379879001
+                        },
+                        "livevideoplayer": {
+                            "id": 2620764734001
+                        },
+                        "chronologyplayer": {
+                            "adsplayerid": 2327383105001,
+                            "id": 1797379879001
+                        },
+                        "sequencerplayer": {
+                            "adsplayerid": 2327383105001,
+                            "id": 1797379879001
+                        },
+                        "largearticleplayer": {
+                            "id": 2620764747001,
+                            "autoplay": false
+                        },
+                        "viralplayer": {
+                            "id": 2620764748001
+                        },
+                        "heroplayer": {
+                            "id": 1797379878001
+                        },
+                        "carouselsmallplayer": {
+                            "id": 2620764745001
+                        },
+                        "widestoryvideo": {
+                            "id": 2620764742001,
+                            "autoplay": false
+                        }
+                    }
+                }
+            },
+            "VIDEO": {
+                "HEROPLAYER": {
+                    "PLAYERID": "1797379878001"
+                },
+                "IMMERSIVEPLAYER": {
+                    "PLAYERID": "2620764730001"
+                },
+                "LARGEARTICLEPLAYER": {
+                    "PLAYERID": "2620764747001"
+                },
+                "SMALLARTICLEPLAYER": {
+                    "PLAYERID": "2620764742001"
+                },
+                "VIDEOASSETPLAYER": {
+                    "PLAYERID": "2620764743001"
+                },
+                "VIDEOLEFTPLAYER": {
+                    "PLAYERID": "2620764742001"
+                },
+                "SEQUENCERPLAYER": {
+                    "PLAYERID": "1797379879001",
+                    "ADSPLAYERID": "2327383105001"
+                },
+                "TIMELINEPLAYER": {
+                    "PLAYERID": "1797379879001",
+                    "ADSPLAYERID": "2327383105001"
+                },
+                "CHRONOLOGYPLAYER": {
+                    "PLAYERID": "1797379879001",
+                    "ADSPLAYERID": "2327383105001"
+                },
+                "LIVEVIDEOPLAYER": {
+                    "PLAYERID": "2620764734001"
+                },
+                "LIVEVIDEOPOPOUTPLAYER": {
+                    "PLAYERID": "2620764740001"
+                },
+                "VIRALPLAYER": {
+                    "PLAYERID": "2620764748001"
+                },
+                "CAROUSELPLAYER": {
+                    "PLAYERID": "2620764745001"
+                }
+            },
+            "SMARTPLAYLISTS": {
+                "HOME": {
+                    "PLAYLISTID": "2621105815001"
+                },
+                "NEWS": {
+                    "PLAYLISTID": "2621105814001"
+                },
+                "SPORTS": {
+                    "PLAYLISTID": "2621105820001"
+                },
+                "LIFE": {
+                    "PLAYLISTID": "2621105819001"
+                },
+                "MONEY": {
+                    "PLAYLISTID": "2621105818001"
+                },
+                "TECH": {
+                    "PLAYLISTID": "2621105817001"
+                },
+                "TRAVEL": {
+                    "PLAYLISTID": "2621105813001"
+                },
+                "OPINION": {
+                    "PLAYLISTID": "2621105816001"
+                }
+            }
+        }
+    }
+}

@@ -1,0 +1,54 @@
+{
+    "__default__": {
+        "stage": {
+            "id": 47,
+            "schema_id": 45,
+            "tealium_env": "qa",
+            "blogs": {
+                "index": true,
+                "landing": true
+            },
+            "THIRDPARTYAPI": {
+                "MYCAPTURE": {
+                    "ENABLED": true,
+                    "blacklist": {
+                        "SSTS": [
+                            "news/nation",
+                            "sports/mlb",
+                            "sports/nfl/teams"
+                        ],
+                        "byline": [
+                            "AP",
+                            "AP FILE",
+                            "AP PHOTO",
+                            "ASSOCIATED PRESS",
+                            "PROVIDED",
+                            "Archives",
+                            "REDS",
+                            "BENGALS",
+                            "MLB",
+                            "NFL",
+                            "/NO",
+                            "Kimball"
+                        ]
+                    },
+                    "whitelist": {
+                        "byline": [
+                            "The Enquirer",
+                            "ENQUIRER FILE",
+                            "COMMUNITY PRESS & RECORDER STAFF",
+                            "Community Press Staff",
+                            "Community Recorder Staff",
+                            "The Community Press",
+                            "The Community Recorder",
+                            "Community Press",
+                            "Community Recorder",
+                            "Kate Melton",
+                            "Megan Dailor"
+                        ]
+                    }
+                }
+            }
+        }
+    }
+}

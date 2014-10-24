@@ -1,0 +1,289 @@
+{
+    "__default__": {
+        "sections": "news|weather|local|traffic|sports|features|about|home",
+        "section_arrows": "weather|local|traffic|sports|features|about|home",
+        "display_name": "WBIR",
+        "display_url": "WBIR.com",
+        "base_url": "wbir.com",
+        "site_name": "WBIR",
+        "legacy_url": "http://archive.wbir.com",
+        "aws_site_name": "wbir",
+        "site_code": "WBIR",
+        "url_rewrite_site_keys": ["wbir","wltx"],
+        "market_id": "WBIR",
+        "external_partner_key": "wbir",
+        "theme": "broadcast",
+        "assets": {
+              "videos": {
+                  "turnOnTranscript": true,
+                  "global_hidetranscripttext": false
+              }
+        },
+        "tealium_profile": "wbir",
+        "UGC": {
+            "ENABLED": true,
+            "UTILITY_BAR_ENABLED": false,
+            "EMAIL_ADDRESS": "yourtake@kare11.com",
+            "SOCIAL": {
+                "ENABLED": true,
+                "facebook_url": "https://www.facebook.com/KARE11",
+                "twitter_url": "https://twitter.com/kare11",
+                "instagram_url": "http://instagram.com/kare11"
+            },
+            "APP_PROMO": {
+                "ENABLED": true,
+                "download_url": "https://itunes.apple.com/us/app/kare11/id568147907?mt=8",
+                "app_store_url": "https://itunes.apple.com/us/app/kare11/id568147907?mt=8"
+            },
+            "TOS_URL": "http://static.kare11.com/en/terms-service/",
+            "FEATURED_CONTRIBUTIONS_MAX": 9
+        },
+        "apps": {
+            "ipad_app_id": "562030993"
+        },
+        "ads": {
+            "criteo": {
+                "url": "http://rtax.criteo.com/delivery/rta/rta.js",
+                "account": "1493",
+                "cookie": "cto_belo",
+                "var": "crtg_content",
+                "varName": "crtg_content",
+                "enabled": true
+            },
+            "account_name": "tn-knoxville-WBIR-B3328"
+        },
+        "publisher": {
+            "address": "1513 Bill Williams Ave",
+            "city": "Knoxville",
+            "state": "TN",
+            "zip": "37917",
+            "phone_main": "865-637-1010",
+            "phone_advertising": "865-544-3290",
+            "phone_custserv": "865-637-1010"
+        },
+        "datasphere": {
+            "site": "wbir",
+            "type": "dynamic",
+            "switch": true
+        },
+        "dealchicken_market": "knoxville-tn",
+        "search": {
+            "url": "http://search.wbir.com/default.aspx",
+            "parameters": [ {"name": "ct", "value": "r"} ]
+        },
+        "header": {
+            "textItemPadding": "10",
+            "iconItemPadding": "7",
+            "searchWidths": {
+                "small": "300"
+            }
+        },
+        "twitter": {
+            "default_account": "wbir",
+            "account_prefix": "wbir"
+        },
+        "THIRDPARTYAPI":{
+            "GOOGLEPLUS":{
+                "TURNON": true,
+                "CLIENTID": "851787535318.apps.googleusercontent.com"
+            },
+            "FACEBOOK":{
+                "APPID": "110845768975038",
+                "SHARE_TOKEN": "110845768975038|w_OpsPhmuBm6DvA8pC-pI2m684U",
+                "CHANNELURL": "//www.wbir.com/static/html/channel.html"
+            },
+            "FILEMOBILE":{
+                "VHOST": 1137,
+                "API_KEY": "fc0cf936aea96eacd5759edf32541aa8",
+                "SiteGroupID": 88379,
+                "FeaturedGroupID": 88383,
+                "FeaturedContributionGroupID": 88381,
+                "GeneralGroupID": 88385,
+                "UtilityBarContentLimit": 50,
+                "OffensiveReportLimit": 5,
+                "ReportAbuse":{
+                    "templateid": 40947,
+                    "emailaddress": "yourtake@usatoday.com"
+                },
+                "Transcoders": {
+                    "image": 15,
+                    "video": 22
+                }
+            },
+            "FOURSQUARE":{
+                "CLIENT_ID": "DRICRIK0TQW4ASEH3PEBO0TPVJ0IJP5RKWB5LPJWTVFPHJFA",
+                "CLIENT_SECRET": "2DGKO5JD0Y2D4AGG0TERJN0GZYKQEORT3E3PDOEFYA2LSDTM"
+            },
+            "GOOGLE": {
+                "API_KEY": "AIzaSyDYdmU0fUxRL30kWxshyPRiMB58-7w3QKE"
+            },
+            "Taboola":{
+                "api_id": "gannettcompany-wbir",
+                "publisher_id": "gannett-network"
+            },
+            "vibes": {
+                "campaign_id" : "203152"
+            },
+            "wsi_map": {
+                "member_id" : "1051"
+            }
+        },
+        "VPCVIDEOENDPOINT": "http://www.gannett-tv.com/tools/services/ENPSLiveStream.svc/video/vpc/live?sid=wbir",
+        "footer": {
+            "expanded": false
+        },
+        "Brightcove": {
+            "readtoken": "9rrvDgD07g1GoqvfytvHrw-Vlgrrp2I22eSC4SMlDmMPJIE7u1DLvA..",
+            "writetoken": "_FElWBufLNspZVNMLqmY7vRIzSCqnNVViXouwc8LrAWFMqM2hZL_qA.."
+        },
+        "THIRDPARTYAPI": {
+            "FILEMOBILE": {
+                "VHOST": 1056,
+                "API_KEY": "33a7a865bda679bc4b639ddaff9d7a6a",
+                "SiteGroupID": 73225,
+                "FeaturedGroupID": 75053,
+                "FeaturedContributionGroupID": 75963,
+                "GeneralGroupID": 77119,
+                "UtilityBarContentLimit": 50,
+                "OffensiveReportLimit": 5,
+                "ReportAbuse":{
+                    "templateid": 40947,
+                    "emailaddress": "yourtake@usatoday.com"
+                },
+                "Transcoders": {
+                    "image": 15,
+                    "video": 22
+                }
+            }
+        },
+        "assets": {
+            "videos": {
+                "players": {
+                    "smallarticleplayer": {
+                        "id": 2621331746001
+                    }, 
+                    "immersiveplayer": {
+                        "id": 2621331747001
+                    }, 
+                    "livevideopopoutplayer": {
+                        "id": 2621331757001
+                    }, 
+                    "videoleftplayer": {
+                        "id": 2621331746001
+                    }, 
+                    "carouselplayer": {
+                        "id": 2621331767001
+                    }, 
+                    "videoassetplayer": {
+                        "id": 2621331744001
+                    }, 
+                    "timelineplayer": {
+                        "adsplayerid": 2327383105001, 
+                        "id": 1797379879001
+                    }, 
+                    "livevideoplayer": {
+                        "id": 2621331752001
+                    }, 
+                    "chronologyplayer": {
+                        "adsplayerid": 2327383105001, 
+                        "id": 1797379879001
+                    }, 
+                    "sequencerplayer": {
+                        "adsplayerid": 2327383105001, 
+                        "id": 1797379879001
+                    }, 
+                    "largearticleplayer": {
+                        "id": 2621331745001
+                    }, 
+                    "viralplayer": {
+                        "id": 2621331760001
+                    }, 
+                    "heroplayer": {
+                        "id": 1797379878001
+                    }, 
+                    "carouselsmallplayer": {
+                        "id": 2621331767001
+                    }, 
+		    "widestoryvideo": {
+                        "id": 2621331746001, 
+		        "autoplay": false
+                    }
+                }
+            }
+        },
+        "VIDEO": {
+            "HEROPLAYER": {
+                "PLAYERID": "1797379878001"
+            },
+            "IMMERSIVEPLAYER": {
+                "PLAYERID": "2621331747001"
+            },
+            "LARGEARTICLEPLAYER": {
+                "PLAYERID": "2621331745001"
+            },
+            "SMALLARTICLEPLAYER": {
+                "PLAYERID": "2621331746001"
+            },
+            "VIDEOASSETPLAYER": {
+                "PLAYERID": "2621331744001"
+            },
+            "VIDEOLEFTPLAYER": {
+                "PLAYERID": "2621331746001"
+            },
+            "SEQUENCERPLAYER": {
+                "PLAYERID": "1797379879001",
+                "ADSPLAYERID": "2327383105001"
+            },
+            "TIMELINEPLAYER": {
+                "PLAYERID": "1797379879001",
+                "ADSPLAYERID": "2327383105001"
+            },
+            "CHRONOLOGYPLAYER": {
+                "PLAYERID": "1797379879001",
+                "ADSPLAYERID": "2327383105001"
+            },
+            "LIVEVIDEOPLAYER": {
+                "PLAYERID": "2621331752001"
+            },
+            "LIVEVIDEOPOPOUTPLAYER": {
+                "PLAYERID": "2621331757001"
+            },
+            "VIRALPLAYER": {
+                "PLAYERID": "2621331760001"
+            },
+            "CAROUSELPLAYER": {
+                "PLAYERID": "2621331767001"
+            },
+            "UGCPLAYER": {
+            "PLAYERID": "2621331749001",
+            "SKIN": "ugcplayer"
+            }
+        },
+        "SMARTPLAYLISTS": {
+            "HOME": {
+                "PLAYLISTID": "2622992164001"
+            },
+            "NEWS": {
+                "PLAYLISTID": "2622992162001"
+            },
+            "SPORTS": {
+                "PLAYLISTID": "2622992169001"
+            },
+            "LIFE": {
+                "PLAYLISTID": "2622992168001"
+            },
+            "MONEY": {
+                "PLAYLISTID": "2622992167001"
+            },
+            "TECH": {
+                "PLAYLISTID": "2622992166001"
+            },
+            "TRAVEL": {
+                "PLAYLISTID": "2622992161001"
+            },
+            "OPINION": {
+                "PLAYLISTID": "2622992165001"
+            }
+        }
+    }
+}

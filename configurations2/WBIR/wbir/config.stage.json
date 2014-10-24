@@ -1,0 +1,29 @@
+{
+    "__default__": {
+        "stage": {
+            "id": 51,
+            "schema_id": 47,
+            "tealium_env": "qa",
+            "THIRDPARTYAPI": {
+                "FILEMOBILE": {
+                    "VHOST": 1056,
+                    "API_KEY": "b8f1789f978a922d2c2aeba2963036c6",
+                    "SiteGroupID": 425031,
+                    "FeaturedGroupID": 425827,
+                    "FeaturedContributionGroupID": 425821,
+                    "GeneralGroupID": 429721,
+                    "UtilityBarContentLimit": 50,
+                    "OffensiveReportLimit": 5,
+                    "ReportAbuse": {
+                        "templateid": 40947,
+                        "emailaddress": "yourtakereportwgrz@gannett.com"
+                    },
+                    "Transcoders": {
+                        "image": 15,
+                        "video": 22
+                    }
+                }
+            }
+        }
+    }
+}

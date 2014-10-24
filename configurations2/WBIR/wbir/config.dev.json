@@ -1,0 +1,12 @@
+{
+    "__default__": {
+        "dev": {
+            "id": 53,
+            "schema_id": 65,
+            "tealium_env": "dev",
+            "breaking_live_video_ribbon": false,
+            "breaking_live_video_sidebar": false,
+            "VPCVIDEOENDPOINT": "http://uscp-web-pr-211.ux-dev.usatoday.com/test1.json"
+        }
+    }
+}
