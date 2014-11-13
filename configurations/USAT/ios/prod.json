@@ -1,0 +1,15 @@
+{
+    "@context": {"@vocab": "uri://GannettDigital.com/vocab#"},
+    "@id": "scm_sam/USAT/ios/prod/master",
+
+    "title": "USA TODAY iOS App",
+    "atypon": {
+        "transactionOrigin": "iTunes",
+        "publicationCode": "UT",
+        "unitNumber": "8872",
+        "accountId": "0"
+    },
+    "omniture": {
+        "trackingSuite": "gpapermobileapp"
+    }
+}

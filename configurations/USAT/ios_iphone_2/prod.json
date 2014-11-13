@@ -1,0 +1,12 @@
+{
+    "@context": {"@vocab": "uri://GannettDigital.com/vocab#"},
+    "@id": "scm_sam/USAT/ios_iphone_2/prod/master",
+    "@parent_urls": ["scm_sam/USAT/GDPIPUSCP/prod/master",
+                     "scm_sam/USAT/GDPIPUSCP_2/prod/master",
+                     "scm_sam/USAT/ios_iphone/prod/master"],
+
+    "title": "USA TODAY Native iPhone App",
+    "core": {
+        "navigationPath": "schema/id/1281"
+    }
+}
