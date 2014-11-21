@@ -1,7 +1,0 @@
-{
-  "@context": {"@vocab": "uri://GannettDigital.com/vocab#"},
-    "@id": "scm/UCA/configs/web-site-config/usat/",
-    "@parent_urls": ["scm/UCA/configs/web-site-config/usat/dev",
-                     "scm/UCA/configs/web-site-config/usat/stage",
-                     "sscm/UCA/configs/web-site-config/usat/prod"]
-}
