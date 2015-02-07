@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.dailyworld.com",
+			"trackingSuite": "gpaper155, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "DailyWorld.com"
+	},
+	"mobile": {
+		"title": "DailyWorld.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.dailyworld.com/trial-expired/",
+				"restricted": "https://subscribe.dailyworld.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Daily World iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OW",
+			"unitNumber": "1040",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile155"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1279"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1279"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1277"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1277"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Daily World Native News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OW",
+			"unitNumber": "1040",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile155"
+		}
+	}
+}

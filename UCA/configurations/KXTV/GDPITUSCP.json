@@ -1,0 +1,125 @@
+{
+	"baseName": "news10",
+	"mobilesite": "m.news10.net",
+	"cobrandLogo": "http://tablet.news10.net/property/logo",
+	"emailNewsTips": "desk@news10.net",
+	"location": {
+		"timezone": "America/Los_Angeles",
+		"name": "Sacramento, CA",
+		"zip": "95818",
+		"coordinates": "38.5690,-121.5087",
+		"latitude": 38.5690,
+		"longitude": -121.5087
+	},
+	"twitter": {
+		"name": "News10_CA"
+	},
+	"fireflyEnabled": false,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/ca-sacramento-KXTV-mobile-B3335/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/ca-sacramento-KXTV-mobile-B3335/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "News10 Native News iPad",
+		"trackingServer": "repdata.news10.net",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstkxtv"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "146675622056340"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.news10.net/privacy/",
+		"CALI_PRIVACY_URL": "http://static.news10.net/privacy/",
+		"TOS_URL": "http://static.news10.net/terms/",
+		"TILE_ENABLED": "T",
+		"adchoices_URL": "http://static.news10.net/privacy/#adchoices",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "sacramento-ca",
+		"WDAKey": "",
+		"SHARING_ENABLED": "T"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "KXTV: Copyright © 2014 KXTV-TV. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.news10.net/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "KXTV",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id567253302?mt=8",
+		"OLD_FEED_URL": "http://m.news10.net/mg-ui/dynagate/page?site=b_news10&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/news10-for-ipad",
+		"ITUNES_APPID": "567253302"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Los_Angeles",
+		"BRAND_LOCATION": "Sacramento, California",
+		"BRAND_LOCATION_ZIP": "95818",
+		"BRAND_IDENTIFIER": "b_news10",
+		"BRAND_LOCATION_GPS": "38.5690,-121.5087",
+		"BRAND_LOGO_URL": "http://www.news10.net/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "vWtSPp_CL_VB-kzy_nGmlkv0FzEZV_Zo4lGcOXpUww6zywYbO8lzZA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.news10.net",
+		"CONTACT_US_EMAIL": "desk@news10.net",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "News10.net",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.news10.net",
+		"BRAND_TWITTER": "News10_CA",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=sacramento&state=ca",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.news10.net/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.news10.net/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "105",
+		"qa": "105",
+		"staging": "109",
+		"dev": "171",
+		"prod": "103",
+		"prod-moc": "103",
+		"prod-phx": "103"
+	}
+}

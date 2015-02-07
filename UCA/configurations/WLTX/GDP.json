@@ -1,0 +1,41 @@
+{
+	"publicationName": "WLTX.com",
+	"title": "WLTX.COM",
+	"marketId": "WLTX",
+	"brandId": "3334WLTX",
+	"cobrandLogoText": "WLTX.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-803-776-3600",
+	"website": "www.wltx.com",
+	"baseName": "WLTX",
+	"email": "webmaster@WLTX.com",
+	"state": "SC",
+	"links": {
+		"termsOfServiceURL": "http://static.wltx.com/terms/",
+		"caliPrivacyURL": "http://static.wltx.com/privacy/",
+		"privacyURL": "http://static.wltx.com/privacy/",
+		"adChoicesURL": "http://static.wltx.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "columbia-sc"
+	},
+	"facebook": {
+		"secret#private": "d577b5a134d6c1aafe55702700e4a492",
+		"productId": "104921832917261"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wltx.com",
+		"trackingSuite": "gntbcstwltx,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@WLTX.com",
+		"phone": "1-803-776-3600"
+	}
+}

@@ -1,0 +1,116 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.cincinnati.com",
+			"trackingSuite": "gpaper120, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.cincinnati\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.cincinnati.com/subscribe",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}],
+		"organizations": {
+			"cincystate": {
+				"userId": "3416130",
+				"licenseId": "5951680",
+				"organizationName": "Cincinnati State",
+				"splashImageURL": "//staticassets.cincinnati.com/organizations/cincystate/splash.jpg",
+				"logoImageURL": "//staticassets.cincinnati.com/organizations/cincystate/logo.jpg"
+			},
+			"ucinci": {
+				"userId": "5386190",
+				"licenseId": "5738721",
+				"organizationName": "University of Cincinnati",
+				"splashImageURL": "//staticassets.cincinnati.com/organizations/ucinci/splash.jpg",
+				"logoImageURL": "//staticassets.cincinnati.com/organizations/ucinci/logo.jpg"
+			}
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/oh-cincinnati-C1019/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/oh-cincinnati-C1019/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/oh-cincinnati-C1019/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "Cincinnati.com"
+	},
+	"mobile": {
+		"title": "Cincinnati.com | Mobile Edition"
+	},
+	"firefly": {
+		"links": {
+			"getAccess": "https://subscribe.cincinnati.com/trial-expired/",
+			"restricted": "https://subscribe.cincinnati.com/trial-expired/"
+		}
+	},
+	"ios": {
+		"title": "The Cincinnati Enquirer iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.cincinnati.com/terms/",
+			"caliPrivacyURL": "http://static.cincinnati.com/privacy/",
+			"privacyURL": "http://static.cincinnati.com/privacy/",
+			"adChoicesURL": "http://static.cincinnati.com/adchoices/"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile120"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "FA",
+			"unitNumber": "1019",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/331"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1847"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/335"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/335"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Cincinnati Enquirer Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "FA",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile120"
+		}
+	}
+}

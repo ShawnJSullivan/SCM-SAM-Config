@@ -1,0 +1,40 @@
+{
+	"publicationName": "Air Force Times",
+	"title": "Air Force Times",
+	"marketId": "M601",
+	"brandId": "9170AF",
+	"state": "VA",
+	"cobrandLogoText": "AirForceTimes.com | A Gannett Company",
+	"palette": "p3",
+	"custService": "1-800-368-5718",
+	"website": "www.airforcetimes.com",
+	"baseName": "airforcetimes",
+	"email": "cust-svc@airforcetimes.com",
+	"links": {
+		"termsOfServiceURL": "http://static.airforcetimes.com/terms",
+		"caliPrivacyURL": "http://static.airforcetimes.com/privacy#california",
+		"privacyURL": "http://static.airforcetimes.com/privacy",
+		"adChoicesURL": "http://static.airforcetimes.com/privacy#adchoices"
+	},
+	"chat": {
+		"enabled": false
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"enabled" : false
+		},
+		"email": "cust-svc@airforcetimes.com",
+		"phone": "1-800-368-5718"
+	},
+	"facebook": {
+		"productId": "303078199866120"
+	},
+	"omniture": {
+		"trackingServer": "gannett.112.2o7.net",
+		"trackingSuite": "gpaper196, gntbcstglobal"
+	}
+}

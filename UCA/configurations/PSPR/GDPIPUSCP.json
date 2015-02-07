@@ -1,0 +1,78 @@
+{
+	"baseName": "news-leader",
+	"mobilesite": "m.news-leader.com",
+	"cobrandLogo": "http://tablet.news-leader.com/property/logo",
+	"emailNewsTips": "online@news-leader.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Springfield, MO",
+		"zip": "65806",
+		"coordinates": "37.1950,-93.2861",
+		"latitude": 37.1950,
+		"longitude": -93.2861
+	},
+	"twitter": {
+		"name": "springfieldNL"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.news-leader.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile171"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "164654783578465"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.news-leader.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.news-leader.com/privacy/",
+		"TOS_URL": "http://static.news-leader.com/terms/",
+		"AD_CHOICES_URL": "http://static.news-leader.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "7c2647b0-0a36-4d3d-9ad6-6e717d1b0f21"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR News-Leader. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.news_leader.iphone.autosubscription.1month",
+		"MARKET_ID": "DO",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id520202089?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/news-leader",
+		"ITUNES_APPID": "520202089",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/news-leader/id520202089?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.news-leader"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Springfield, Missouri",
+		"BRAND_LOCATION_ZIP": "65806",
+		"BRAND_IDENTIFIER": "n_newsleader",
+		"BRAND_LOCATION_GPS": "37.1950,-93.2861",
+		"BRAND_LOGO_URL": "http://www.news-leader.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "sXTwrMm99JBqBNhFnU57dtef9Zby1oxHyH_MF0H8t0On1e-iXCg77A..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "TmWihiSVCOK0twgyClr_soycQlYpwGT-YSmcb61qA2lDIN8B3IZOsw.."
+		},
+		"BRAND_WEBSITE": "www.news-leader.com",
+		"BRAND_NEWS_TIP": "online@news-leader.com",
+		"CONTACT_US_EMAIL": "springfieldnewsleader@gannett.com",
+		"BRAND_NAME": "Springfield News-Leader",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.news-leader.com",
+		"BRAND_TWITTER": "springfieldNL"
+	}
+}

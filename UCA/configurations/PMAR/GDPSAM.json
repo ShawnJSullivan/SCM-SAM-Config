@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.marionstar.com",
+			"trackingSuite": "gpaper235, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "marionstar.com"
+	},
+	"mobile": {
+		"title": "marionstar.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.marionstar.com/trial-expired/",
+				"restricted": "https://subscribe.marionstar.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Marion Star iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OS",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile235"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/783"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/783"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/787"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/787"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Marion Star Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OS",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile235"
+		}
+	}
+}

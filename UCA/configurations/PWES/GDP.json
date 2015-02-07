@@ -1,0 +1,43 @@
+{
+	"publicationName": "The Journal News",
+	"title": "The Journal News",
+	"marketId": "BH",
+	"brandId": "1084WT",
+	"state": "NY",
+	"baseName": "lohud",
+	"cobrandLogoText": "lohud.com | A Gannett Company",
+	"palette": "p3",
+	"custService": "1-800-942-1010",
+	"website": "www.lohud.com",
+	"email": "metro@lohud.com",
+	"facebook": {
+		"secret#private": "d913c8fa11f03cb0597b1805f568e659",
+		"productId": "169889109713077"
+	},
+	"dealChicken": {
+		"marketKey": "westchester-ny"
+	},
+	"twitter": {
+		"name": "lohud"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.lohud.com/terms/",
+		"caliPrivacyURL": "http://static.lohud.com/privacy/",
+		"privacyURL": "http://static.lohud.com/privacy/",
+		"adChoicesURL": "http://static.lohud.com/adchoices/"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"chat": {
+		"publicationId": "Westchester"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Westchester"
+		},
+		"email": "mobilesupport@gannett.com",
+		"phone": "1-888-426-6388"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"publicationName": "Mansfield News Journal",
+	"title": "News Journal",
+	"marketId": "B7",
+	"brandId": "1019MN",
+	"cobrandLogoText": "mansfieldnewsjournal.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0216",
+	"website": "www.mansfieldnewsjournal.com",
+	"baseName": "mansfieldnewsjournal",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static.mansfieldnewsjournal.com/terms/",
+		"caliPrivacyURL": "http://static.mansfieldnewsjournal.com/privacy/",
+		"privacyURL": "http://static.mansfieldnewsjournal.com/privacy/",
+		"adChoicesURL": "http://static.mansfieldnewsjournal.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Mansfield"
+	},
+	"dealChicken": {
+		"marketKey": "north-central-oh"
+	},
+	"facebook": {
+		"secret#private": "ec355e5e0fd0f320e966cec841938a96",
+		"productId": "178138928870539"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.mansfieldnewsjournal.com",
+		"trackingSuite": "gpaper234, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Mansfield"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-877-424-0216"
+	}
+}

@@ -1,0 +1,182 @@
+{
+	"baseName": "wgrz",
+	"mobilesite": "m.wgrz.com",
+	"cobrandLogo": "http://tablet.wgrz.com/property/logo",
+	"emailNewsTips": "feedback@wgrz.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Buffalo, NY",
+		"zip": "14202",
+		"coordinates": "42.9047,-78.8494",
+		"latitude": 42.9047,
+		"longitude": -78.8494
+	},
+	"twitter": {
+		"name": "WGRZ"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "WGRZ Native News iPhone",
+		"trackingServer": "repdata.wgrz.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstwgrz",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "193961913949886"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.wgrz.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.wgrz.com/privacy/",
+		"TOS_URL": "http://static.wgrz.com/en/terms-service/",
+		"AD_CHOICES_URL": "http://static.wgrz.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © 2014 WGRZ.COM. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "WGRZ",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id469738487?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/wgrz",
+		"ITUNES_APPID": "469738487",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/wgrz/id469738487?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.WGRZNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Buffalo, New York",
+		"BRAND_LOCATION_ZIP": "14202",
+		"BRAND_IDENTIFIER": "b_wgrz",
+		"BRAND_LOCATION_GPS": "42.9047,-78.8494",
+		"BRAND_LOGO_URL": "http://www.wgrz.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "tteiSlL8r_EVNM21dV1LVDwXW-ekEdHt_8WAsSbIvuNnU4dMnJId0g..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.wgrz.com",
+		"BRAND_NEWS_TIP": "feedback@wgrz.com",
+		"CONTACT_US_EMAIL": "webmaster@WGRZ.com",
+		"BRAND_NAME": "WGRZ TV2",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.wgrz.com",
+		"BRAND_TWITTER": "WGRZ"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "ny-buffalo-WGRZ-mobile-B3315",
+		"amazonA9AppId": "78f961c439f847179e5bc712d47c3e41",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_wgrz.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_wgrz.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+			"CellJournalist" : {
+			"Url" : "http://yourtake.wgrz.com",
+			"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "71",
+		"qa": "73",
+		"staging": "77",
+		"dev": "155",
+		"prod": "71",
+		"prod-moc": "71",
+		"prod-phx": "71"
+	}
+}

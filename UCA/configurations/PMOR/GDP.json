@@ -1,0 +1,44 @@
+{
+	"publicationName": "Daily Record",
+	"title": "Daily Record",
+	"marketId": "C0",
+	"brandId": "1174DR",
+	"cobrandLogoText": "DailyRecord.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-398-8990",
+	"website": "www.dailyrecord.com",
+	"baseName": "dailyrecord",
+	"email": "dailyrecord@gannett.com",
+	"state": "NJ",
+	"links": {
+		"termsOfServiceURL": "http://static.dailyrecord.com/terms/",
+		"caliPrivacyURL": "http://static.dailyrecord.com/privacy/",
+		"privacyURL": "http://static.dailyrecord.com/privacy/",
+		"adChoicesURL": "http://static.dailyrecord.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Morristown"
+	},
+	"dealChicken": {
+		"marketKey": "north-jersey-nj"
+	},
+	"facebook": {
+		"secret#private": "97378e5561e2f132f12855ea293735cf",
+		"productId": "148966475155999"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.dailyrecord.com",
+		"trackingSuite": "gpaper149, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Morristown"
+		},
+		"email": "dailyrecord@gannett.com",
+		"phone": "1-800-398-8990"
+	}
+}

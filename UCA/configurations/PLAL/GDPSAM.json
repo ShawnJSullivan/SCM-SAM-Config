@@ -1,0 +1,86 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.theadvertiser.com",
+			"trackingSuite": "gpaper104, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/la-lafayette-C1529/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/la-lafayette-C1529/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/la-lafayette-C1529/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "TheAdvertiser.com"
+	},
+	"mobile": {
+		"title": "TheAdvertiser.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.theadvertiser.com/trial-expired/",
+				"restricted": "https://subscribe.theadvertiser.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Daily Advertiser iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OA",
+			"unitNumber": "1040",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile104"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1015"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1015"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1023"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1023"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Advertiser Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OA",
+			"unitNumber": "1040",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile104"
+		}
+	}
+}

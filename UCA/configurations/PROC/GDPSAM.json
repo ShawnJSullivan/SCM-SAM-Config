@@ -1,0 +1,120 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.democratandchronicle.com",
+			"trackingSuite": "gpaper164, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.democratandchronicle\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://promotions.democratandchronicle.com/subscribe",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}],
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ny-rochester-C1070/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ny-rochester-C1070/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ny-rochester-C1070/consumer_sales-all_stop"
+			}
+		}
+	},
+			"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ny-rochester-C1070/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ny-rochester-C1070/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ny-rochester-C1070/consumer_sales-all_stop"
+			}
+		},
+	"site": {
+		"title": "DemocratAndChronicle.com"
+	},
+	"mobile": {
+		"title": "DemocratAndChronicle.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.democratandchronicle.com/trial-expired/",
+				"restricted": "https://subscribe.democratandchronicle.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Democrat and Chronicle iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.democratandchronicle.com/terms/",
+			"caliPrivacyURL": "http://static.democratandchronicle.com/privacy/",
+			"privacyURL": "http://static.democratandchronicle.com/privacy/",
+			"adChoicesURL": "http://static.democratandchronicle.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile164"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1070",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"title": "Democrat and Chronicle Native iPad App",
+		"core": {
+			"navigationPath": "schema/id/21"
+		}
+	},
+	"ios_ipad_2": {
+		"title": "Democrat and Chronicle Native iPad App",
+		"core": {
+			"navigationPath": "schema/id/1841"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"title": "Democrat and Chronicle Native iPhone App",
+		"core": {
+			"navigationPath": "schema/id/71"
+		}
+	},
+	"ios_iphone_2": {
+		"title": "Democrat and Chronicle Native iPhone App",
+		"core": {
+			"navigationPath": "schema/id/71"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1070",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile164"
+		}
+	},
+	"wlna_bills": {
+		"additionalConfigs": ["WLNABills"]
+	}
+}

@@ -1,0 +1,221 @@
+{
+	"aam": {
+		"audienceDpid": "3054"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"subscribeProductSelectTop": {
+			"preserveSpace": true,
+			"enabled": false,
+			"dimensions": [
+				[
+					950,
+					200
+				]
+			],
+			"provider": "dfp"
+		},
+		"articleAds": [
+			{
+				"position": 0,
+				"numberOfCharactersBetweenRepeats": 2500,
+				"enableFlexAd": false,
+				"adType": "article_banner",
+				"size": "{300,250}"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"enableFlexAd": false,
+				"adType": "section_front_top",
+				"size": "{320,50}"
+			},
+			{
+				"position": 15,
+				"enableFlexAd": false,
+				"adType": "section_front_bottom",
+				"size": "{300,250}"
+			}
+		],
+		"trialExpired": {
+			"alternateContentSelector": ".subscribe-call-to-action",
+			"preserveSpace": false,
+			"enabled": false,
+			"dimensions": [
+				[
+					264,
+					200
+				]
+			],
+			"provider": "dfp"
+		},
+		"articleTransitionalAd": {
+			"adType": "transitional",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"galleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"embeddedGalleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"amazonA9AppId": "f8882dceceb94203b2a460af1821e1f6",
+		"houseAds": {
+			"{300, 250}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/300x250_wilmington.png",
+					"clickthru": ""
+				}
+			],
+			"{320, 50}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/320x50_wilmington.png",
+					"clickthru": ""
+				}
+			]
+		},
+		"property": "de-wilmington-mobile-C1052",
+		"subscribeProductSelectSide": {
+			"preserveSpace": true,
+			"enabled": false,
+			"dimensions": [
+				[
+					215,
+					215
+				]
+			],
+			"provider": "dfp"
+		}
+	},
+	"appReviewPrompt": {
+		"daysBeforeReminding": 10,
+		"daysUntilPrompt": 3,
+		"debug": false,
+		"enable": true,
+		"reset": false,
+		"usesUntilPrompt": 10
+	},
+	"comscore": {
+		"censusId": "6035223",
+		"secret": "0a46f2bdb39db821b07796d980d8919a"
+	},
+	"Branding": {
+		"BRAND_QUICKLINKS": {
+			"default": [
+				{
+					"name": "Weather",
+					"imageName": "quicklinks_weather_icon",
+					"type": "13"
+				},
+				{
+					"name": "Saved",
+					"imageName": "quicklinks_saved_articles_icon",
+					"type": "7"
+				},
+				{
+					"name": "Scores",
+					"imageName": "quicklinks_scores_icon",
+					"type": "10",
+					"listItemImageOnRight": true,
+					"quickLinks": [
+						{
+							"name": "NFL",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/nfl/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "MLB",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/mlb/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NBA",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/nba/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NHL",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/nhl/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NCAAF",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/ncaaf/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NCAAB",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/ncaab/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						}
+					]
+				},
+				{
+					"name": "Marketplace",
+					"imageName": "quicklinks_marketplace_icon",
+					"type": "10",
+					"listItemImageOnRight": true,
+					"quickLinks": [
+						{
+							"name": "Apartments.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.apartments.com/delaware/wilmington"
+						},
+						{
+							"name": "CareerBuilder.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://delawareonline.gannettonline.com/careerbuilder/index.html"
+						},
+						{
+							"name": "Cars.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.cars.com/?aff=newsjour"
+						},
+						{
+							"name": "Classifieds",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.delawareonline.com/marketplace"
+						},
+						{
+							"name": "DealChicken.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.dealchicken.com/wilmington-de"
+						},
+						{
+							"name": "Find & Save",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://findnsave.delawareonline.com/"
+						},
+						{
+							"name": "HomeFinder.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.delawareonline.com/homes"
+						}
+					]
+				},
+				{
+					"name": "DealChicken",
+					"imageName": "dealchicken_icon",
+					"url": "http://www.dealchicken.com/wilmington-de?Source=ip%7Cwilmington-de%7CiPadApp",
+					"type": "12"
+				}
+			]
+		}
+	}
+}

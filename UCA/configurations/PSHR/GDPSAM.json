@@ -1,0 +1,86 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.shreveporttimes.com",
+			"trackingSuite": "gpaper169, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/la-shreveport-C1040/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/la-shreveport-C1040/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/la-shreveport-C1040/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "ShreveportTimes.com"
+	},
+	"mobile": {
+		"title": "ShreveportTimes.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.shreveporttimes.com/trial-expired/",
+				"restricted": "https://subscribe.shreveporttimes.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Times iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "AS",
+			"unitNumber": "1040",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile169"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1171"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1171"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1169"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1169"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Times Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "AS",
+			"unitNumber": "1040",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile169"
+		}
+	}
+}

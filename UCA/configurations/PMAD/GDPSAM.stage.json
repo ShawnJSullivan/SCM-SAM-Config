@@ -1,0 +1,18 @@
+{
+	"default": {
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "cmsstage.marshfieldnewsherald.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/793"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/789"
+		}
+	}
+}

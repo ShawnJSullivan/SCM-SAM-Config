@@ -1,0 +1,44 @@
+{
+	"publicationName": "Palladium-Item",
+	"title": "Palladium-Item",
+	"marketId": "A0",
+	"brandId": "1532PI",
+	"cobrandLogoText": "pal-item.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-888-725-2472",
+	"website": "www.pal-item.com",
+	"baseName": "pal-item",
+	"email": "palladiumitem@gannett.com",
+	"state": "IN",
+	"links": {
+		"termsOfServiceURL": "http://static.pal-item.com/terms/",
+		"caliPrivacyURL": "http://static.pal-item.com/privacy/",
+		"privacyURL": "http://static.pal-item.com/privacy/",
+		"adChoicesURL": "http://static.pal-item.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Richmond"
+	},
+	"dealChicken": {
+		"marketKey": "richmond-in"
+	},
+	"facebook": {
+		"secret#private": "9b5445cc801aba4d060ba361a9a88153",
+		"productId": "128030483926763"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.pal-item.com",
+		"trackingSuite": "gpaper163, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Richmond"
+		},
+		"email": "palladiumitem@gannett.com",
+		"phone": "1-888-725-2472"
+	}
+}

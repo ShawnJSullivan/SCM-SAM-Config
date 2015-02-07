@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Daily News Journal",
+	"title": "The Daily News Journal",
+	"marketId": "D4",
+	"brandId": "1056NJ",
+	"cobrandLogoText": "DNJ.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0203",
+	"website": "www.dnj.com",
+	"baseName": "dnj",
+	"email": "customer@dnj.com",
+	"state": "TN",
+	"links": {
+		"termsOfServiceURL": "http://static.dnj.com/terms/",
+		"caliPrivacyURL": "http://static.dnj.com/privacy/",
+		"privacyURL": "http://static.dnj.com/privacy/",
+		"adChoicesURL": "http://static.dnj.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Murfreesboro"
+	},
+	"dealChicken": {
+		"marketKey": "murfreesboro-tn"
+	},
+	"facebook": {
+		"secret#private": "6acb0930bc0f9d6c8951cbf5def9bc93",
+		"productId": "184474251565027"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.dnj.com",
+		"trackingSuite": "gpaper214, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Murfreesboro"
+		},
+		"email": "customer@dnj.com",
+		"phone": "1-877-424-0203"
+	}
+}

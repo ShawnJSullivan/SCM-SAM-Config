@@ -1,0 +1,44 @@
+{
+	"publicationName": "Daily World",
+	"title": "Daily World",
+	"marketId": "DH",
+	"brandId": "1040DW",
+	"cobrandLogoText": "DailyWorld.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-259-8852",
+	"website": "www.dailyworld.com",
+	"baseName": "dailyworld",
+	"email": "opeldailyworld@gannett.com",
+	"state": "MT",
+	"links": {
+		"termsOfServiceURL": "http://static.dailyworld.com/terms/",
+		"caliPrivacyURL": "http://static.dailyworld.com/privacy/",
+		"privacyURL": "http://static.dailyworld.com/privacy/",
+		"adChoicesURL": "http://static.dailyworld.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Opelousas"
+	},
+	"dealChicken": {
+		"marketKey": "acadiana-la"
+	},
+	"facebook": {
+		"secret#private": "9a1523a2a0f143ab58d9ec8f3e179ac2",
+		"productId": "164724483570611"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.dailyworld.com",
+		"trackingSuite": "gpaper155, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Opelousas"
+		},
+		"email": "opeldailyworld@gannett.com",
+		"phone": "1-888-424-8742"
+	}
+}

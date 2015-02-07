@@ -1,0 +1,78 @@
+{
+	"baseName": "sheboyganpress",
+	"mobilesite": "m.sheboyganpress.com",
+	"cobrandLogo": "http://tablet.sheboyganpress.com/property/logo",
+	"emailNewsTips": "submitnews@sheboyganpress.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Sheboygan, WI",
+		"zip": "53081",
+		"coordinates": "43.7500,-87.7250",
+		"latitude": 43.7500,
+		"longitude": -87.7250
+	},
+	"twitter": {
+		"name": "sheboyganpress"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.sheboyganpress.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile191"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "140019942719126"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.sheboyganpress.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.sheboyganpress.com/privacy/",
+		"TOS_URL": "http://static.sheboyganpress.com/terms/",
+		"AD_CHOICES_URL": "http://static.sheboyganpress.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "7b8e1b3e-7f75-45c6-b792-e8c2debae5b1"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Sheboygan Press. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.sheboyganpress.iphone.autosubscription.1month",
+		"MARKET_ID": "U008",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id531373974?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thesheboyganpress",
+		"ITUNES_APPID": "531373974",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/sheboyganpress/id531373974?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.sheboyganpress"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Sheboygan, Wisconsin",
+		"BRAND_LOCATION_ZIP": "53081",
+		"BRAND_IDENTIFIER": "n_sheboyganpress",
+		"BRAND_LOCATION_GPS": "43.7500,-87.7250",
+		"BRAND_LOGO_URL": "http://www.sheboyganpress.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.sheboyganpress.com",
+		"BRAND_NEWS_TIP": "submitnews@sheboyganpress.com",
+		"CONTACT_US_EMAIL": "wisconsincoe@gannett.com",
+		"BRAND_NAME": "The Sheboygan Press",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.sheboyganpress.com",
+		"BRAND_TWITTER": "sheboyganpress"
+	}
+}

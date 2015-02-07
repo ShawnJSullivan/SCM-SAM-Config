@@ -1,0 +1,76 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wisconsinrapidstribune.com",
+			"trackingSuite": "gpaper193, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.wisconsinrapidstribune.com"
+		}
+	},
+	"site": {
+		"title": "wisconsinrapidstribune.com"
+	},
+	"mobile": {
+		"title": "wisconsinrapidstribune.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wisconsinrapidstribune.com/trial-expired/",
+				"restricted": "https://subscribe.wisconsinrapidstribune.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Daily Tribune iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZR",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile193"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/951"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/951"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/955"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/955"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Daily Tribune Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZR",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile193"
+		}
+	}
+}

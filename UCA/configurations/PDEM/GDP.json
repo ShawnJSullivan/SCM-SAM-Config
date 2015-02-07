@@ -1,0 +1,40 @@
+{
+	"publicationName": "Des Moines Register",
+	"title": "Des Moines Register",
+	"marketId": "D2",
+	"brandId" : "1150DM",
+	"state": "IA",
+	"baseName": "desmoinesregister",
+	"website": "www.desmoinesregister.com",
+	"cobrandLogoText": "DesMoinesRegister.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0225",
+	"email": "newsubs@dmreg.com",
+	"facebook": {
+		"secret#private": "f7f5f2a79aa94d6d18fb8a49117c573b",
+		"productId": "169766623060429"
+	},
+	"dealChicken": {
+		"marketKey" : "des-moines-ia"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.desmoinesregister.com/terms/",
+		"caliPrivacyURL": "http://static.desmoinesregister.com/privacy/",
+		"privacyURL": "http://static.desmoinesregister.com/privacy/",
+		"adChoicesURL": "http://static.desmoinesregister.com/adchoices/"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "DesMoines"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "DesMoines"
+		},
+		"email": "newsubs@dmreg.com",
+		"phone": "1-877-424-0225"
+	}
+}

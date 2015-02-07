@@ -1,0 +1,78 @@
+{
+	"baseName": "postcrescent",
+	"mobilesite": "m.postcrescent.com",
+	"cobrandLogo": "http://tablet.postcrescent.com/property/logo",
+	"emailNewsTips": "digital@postcrescent.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Appleton, WI",
+		"zip": "54911",
+		"coordinates": "44.2636,-88.4091",
+		"latitude": 44.2636,
+		"longitude": -88.4091
+	},
+	"twitter": {
+		"name": "PostCrescent"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.postcrescent.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile186"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "117306038338949"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.postcrescent.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.postcrescent.com/privacy/",
+		"TOS_URL": "http://static.postcrescent.com/terms",
+		"AD_CHOICES_URL": "http://static.postcrescent.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "406b60b8-dd13-45ec-b37b-6cbbcee1ab8b"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Post-Crescent. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.postcrescent.iphone.autosubscription.1month",
+		"MARKET_ID": "U001",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id531365286?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thepostcrescent",
+		"ITUNES_APPID": "531365286",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thepostcrescent/id531365286?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.postcrescent"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Appleton, Wisconsin",
+		"BRAND_LOCATION_ZIP": "54912",
+		"BRAND_IDENTIFIER": "n_postcrescent",
+		"BRAND_LOCATION_GPS": "44.2636,-88.4091",
+		"BRAND_LOGO_URL": "http://www.postcrescent.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "6dI1ZiJ-1nTlBdhH9O8lX0jjVWqQqYJzDKpVb8li9SEylzBLn0Xbkw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.postcrescent.com",
+		"BRAND_NEWS_TIP": "digital@postcrescent.com",
+		"CONTACT_US_EMAIL": "wisconsincoe@gannett.com",
+		"BRAND_NAME": "The Post-Crescent",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.postcrescent.com",
+		"BRAND_TWITTER": "PostCrescent"
+	}
+}

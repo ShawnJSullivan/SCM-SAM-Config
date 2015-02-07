@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.9news",
+			"trackingSuite": "gntbcstkusa,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "9news.com"
+	},
+	"mobile": {
+		"title": "9news.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.9news/trial-expired/",
+				"restricted": "https://subscribe.9news/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "KUSA News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3316",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcst9news,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/111"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1497"
+		}
+	},
+	"android": {
+		"title": "KUSA News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3316",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstkusa,gntbcstglobal"
+		}
+	}
+}

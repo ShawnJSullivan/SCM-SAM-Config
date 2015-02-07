@@ -1,0 +1,41 @@
+{
+    "@context": {"@vocab": "uri://GannettDigital.com/vocab#"},
+    "@id": "scm_sam/USAT/GDPSAM/prod/master",
+
+    "default": {
+        "support": {
+            "accountNewsletters": {
+                "byGroupEnabled": true,
+                "showLogoInPage": false,
+                "dealChickenEnabled": false,
+                "offersEnabled": false,
+                "showGroupName": false,
+                "showTitleSupplement": false
+            }
+        },
+        "dictionary": {
+            "account_newsletters_specialPageTitleEmail": "Newsletter settings",
+            "account_newsletters_specialPageTitle": "SUBSCRIBE TO USA TODAY NEWSLETTERS",
+            "account_newsletters_specialPageTitleSupplement": "To sign up for free newsletters, just make your selections, share your email address and click sign me up.",
+            "account_newsletters_pageTitle": "EMAIL NEWSLETTERS",
+            "account_newsletters_titleSupplement": " ",
+            "account_newsletters_formOurPromise": ["OUR PROMISE TO YOU:",
+                "1. We will never give your e-mail address to anyone else for any reason.",
+                "2. You can opt-out at any time."],
+            "account_newsletters_formFinePrint": ["Signing up for newsletters indicates you agree with our <a href={{config.links.termsOfServiceURL}}>terms of service</a>",
+                "If you decide that you no longer want to receive a newsletter, you can unsubscribe by clicking the &quot;Unsubscribe&quot; link, located at the bottom of each newsletter."]
+        },
+        "displayMessages": {
+            "gems_subscribersPost": {
+                "0": "Your preferences have been updated."
+            }
+        },
+        "omniture": {
+            "trackingServer": "srepdata.usatoday.com",
+            "trackingSuite": "usatodayprod, gntbcstglobal"
+        }
+    },
+    "site": {
+        "title": "USATODAY.com"
+    }
+}

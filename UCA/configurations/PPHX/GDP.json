@@ -1,0 +1,47 @@
+{
+	"publicationName": "azcentral",
+	"title": "azcentral",
+	"marketId": "RE",
+	"brandId" : "1531AR",
+	"state": "AZ",
+	"baseName": "azcentral",
+	"cobrandLogoText": "AZCentral.com | A Gannett Company",
+	"palette": "p3",
+	"custService": "1-800-332-6733",
+	"website": "www.azcentral.com",
+	"email": "fullaccess@republicmedia.com",
+	"facebook": {
+		"secret#private": "4623b5791a5e485eeac73ca16450fbca",
+		"productId": "115142145268769"
+	},
+	"dealChicken": {
+		"marketKey" : "phoenix-az"
+	},
+	"twitter": {
+		"name": "azcentral"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.azcentral.com/terms/",
+		"caliPrivacyURL": "http://static.azcentral.com/privacy/",
+		"privacyURL": "http://static.azcentral.com/privacy/",
+		"adChoicesURL": "http://static.azcentral.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 20,
+		"thresholdRegistered": 20,
+		"enabled": false
+	},
+	"chat": {
+		"hoursPattern": "^(([Mm][Oo][Nn]|[Tt][Uu][Ee]|[Ww][Ee][Dd]|[Tt][Hh][Uu]|[Ff][Rr][Ii]) \\d\\d/\\d\\d/\\d\\d (0[7-9]|1[0-6]):\\d\\d|([Ss][Uu][Nn]) \\d\\d/\\d\\d/\\d\\d (0[7-9]|10):\\d\\d)$",
+		"timezone": "America/Phoenix"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Phoenix",
+			"hoursPattern": "^(([Mm][Oo][Nn]|[Tt][Uu][Ee]|[Ww][Ee][Dd]|[Tt][Hh][Uu]|[Ff][Rr][Ii]) \\d\\d/\\d\\d/\\d\\d (0[7-9]|1[0-6]):\\d\\d|([Ss][Uu][Nn]) \\d\\d/\\d\\d/\\d\\d (0[7-9]|10):\\d\\d)$",
+			"timezone": "America/Phoenix"
+		},
+		"email": "AZRepublicCustomerService@gannett.com ",
+		"phone": "1-800-332-6733"
+	}
+}

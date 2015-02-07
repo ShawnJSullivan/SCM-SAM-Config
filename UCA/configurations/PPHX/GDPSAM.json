@@ -1,0 +1,126 @@
+{
+	"default": {
+		"support": {
+			"subscriptionOverrideURL": "https://fullaccess.azcentral.com/",
+			"accountManagementMenuOptionsMap": {
+				"history": {"map": "show_account_history"},
+				"viewBill": {"map": "view_bill"},
+				"deliveryIssue": {"map": "delivery_service_issue"},
+				"deliveryTemporaryStop": {"map": "vacation_stop"},
+				"paymentInformation": {"map": "change_credit_card"},
+				"deliveryFrequency": {"map": "delivery_frequency"},
+				"autoPay": {"map": "sign_up_for_ez_pay"},
+				"pay": {"map": "make_a_payment"}
+			}
+		},
+		"omniture": {
+			"trackingServer": "srepdata.azcentral.com",
+			"trackingSuite": "gpaper158, gntbcstglobal"
+		},
+		"displayMessages": {
+			"default": {
+				"1004": "A payment has already been submitted.",
+				"1005": "No payment is due at this time.",
+				"1040": "Please enter a resume date that is after the stop date provided.",
+				"1041": "A scheduled vacation stop already exists for this same time frame.",
+				"1046": "A delivery issue has already been registered for this day.",
+				"1051": "Service has not been scheduled to start. Please call the call 1-800-332-6733 for more information.",
+				"1052": "The date selected is not part of your scheduled print delivery."
+			}
+		},
+		"pciAPI": {
+			"baseURL": "https://fullaccess.azcentral.com/api/sam/"
+		},
+		"dictionary": {
+			"tvBookCustomerServiceMessage": "Missing your TV Week? If you are already signed up to receive the new TV Week, please call your complaint into customer service.",
+			"general_activateDigitalSubscriptionMessage": "Register your digital access",
+			"lookupAccount_title": "Account lookup"
+		},
+		"printDeliveryIssue": {
+			"effectiveDate_min": 2
+		},
+		"redirectMiddleware": [
+			{"urlPattern": "^https?:\\/\\/subscribe-?(.*)\\.azcentral\\.com\\/(.*)$", "redirectURL":"https://fullaccess.azcentral.com/"}
+		]
+	},
+	"site": {
+		"title": "azcentral.com"
+	},
+	"mobile": {
+		"title": "azcentral.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.azcentral.com/trial-expired/",
+				"restricted": "https://subscribe.azcentral.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "azcentral iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"caliPrivacyURL": "http://static.azcentral.com/privacy/",
+			"privacyURL": "http://static.azcentral.com/privacy/",
+			"termsOfServiceURL": "http://static.azcentral.com/terms/",
+			"adChoicesURL": "http://static.azcentral.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile158"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1531",
+			"accountId": "0"
+		},
+		"dictionary": {
+			"general_activateDigitalSubscriptionMessage": "Register your digital access",
+			"lookupAccount_title": "Register your digital access"
+		}
+	},
+	"ios_ipad": {
+		"title": "azcentral Native iPad App",
+		"core": {
+			"navigationPath": "schema/id/1029"
+		}
+	},
+	"ios_ipad_2": {
+		"title": "azcentral Native iPad App",
+		"core": {
+			"navigationPath": "schema/id/1843"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"title": "azcentral Native iPhone App",
+		"core": {
+			"navigationPath": "schema/id/1033"
+		}
+	},
+	"ios_iphone_2": {
+		"title": "azcentral Native iPhone App",
+		"core": {
+			"navigationPath": "schema/id/1033"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1531"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile158"
+		}
+	},
+	"wlna_cardinals": {
+		"additionalConfigs": ["WLNACardinals"]
+	}
+}

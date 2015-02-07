@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.delawareonline.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/69"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/227"
+		}
+	}
+}

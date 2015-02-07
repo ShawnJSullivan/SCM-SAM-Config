@@ -1,0 +1,41 @@
+{
+	"publicationName": "WTLV",
+	"title": "Firstcoastnews.com",
+	"marketId": "WTWJ",
+	"brandId": "3319WTLV",
+	"cobrandLogoText": "Firstcoastnews.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-904-354-1212",
+	"website": "www.firstcoastnews.com",
+	"baseName": "firstcoastnews",
+	"email": "news@firstcoastnews.com",
+	"state": "FL",
+	"links": {
+		"termsOfServiceURL": "http://static.firstcoastnews.com/terms/",
+		"caliPrivacyURL": "http://static.firstcoastnews.com/privacy/",
+		"privacyURL": "http://static.firstcoastnews.com/privacy/",
+		"adChoicesURL": "http://static.firstcoastnews.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "jacksonville-fl"
+	},
+	"facebook": {
+		"secret#private": "ddc65ce1191fe68f2b193331a792d384",
+		"productId": "135558683174797"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.firstcoastnews.com",
+		"trackingSuite": "gntbcstwtlv,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "news@firstcoastnews.com",
+		"phone": "1-904-354-1212"
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.statesmanjournal.com",
+			"trackingSuite": "gpaper166, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "StatesmanJournal.com"
+	},
+	"mobile": {
+		"title": "StatesmanJournal.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.statesmanjournal.com/trial-expired/",
+				"restricted": "https://subscribe.statesmanjournal.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Statesman Journal iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1074",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile166"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/391"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/391"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/395"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/395"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Statesman Journal Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1074",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile166"
+		}
+	}
+}

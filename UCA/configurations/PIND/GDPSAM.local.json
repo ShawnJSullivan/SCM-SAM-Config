@@ -1,0 +1,51 @@
+{
+	"default": {
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7070/ny-rochester-C1070/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7070/ny-rochester-C1070/consumer_sales_fod"
+			}
+		},
+		"support": {
+			"accountManagementMenuOptionsMap": {
+				"autoPay": {"map": "Sign up for EZ Pay", "enabled": true}
+			}
+		},
+		"redirectMiddleware": [],
+		"omniture": {
+			"trackingServer": "repdata.indystar.com"
+		},
+		"organizations": {
+			"ucinci": {
+				"licenseId": "143465010",
+				"userId": "143568012",
+				"organizationName": "University of Cincinnati",
+				"splashImageURL": "//www.tallahassee.com/graphics/FSUsplash.jpg",
+				"logoImageURL": "//www.tallahassee.com/graphics/FSUlogo.jpg",
+				"personalMessage": "Our personal message."
+			}
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/30"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/234"
+		}
+	},
+	"android_kindle": {
+		"cssFiles": {
+			"account": "account-test",
+			"global": "global-test",
+			"global_standalone": "global_standalone_default-test",
+			"subscribe": "subscribe-test"
+		}
+	}
+}

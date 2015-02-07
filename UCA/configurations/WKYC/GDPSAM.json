@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wkyc.com",
+			"trackingSuite": "gntbcstwkyc,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "WKYC.com"
+	},
+	"mobile": {
+		"title": "WKYC.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wkyc.com/trial-expired/",
+				"restricted": "https://subscribe.wkyc.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WKYC News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3330",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwkyc,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/155"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1771"
+		}
+	},
+	"android": {
+		"title": "WKYC News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3330",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwkyc,gntbcstglobal"
+		}
+	}
+}

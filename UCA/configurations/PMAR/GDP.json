@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Marion Star",
+	"title": "The Marion Star",
+	"marketId": "BE",
+	"brandId": "1019MS",
+	"cobrandLogoText": "MarionStar.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0210",
+	"website": "www.marionstar.com",
+	"baseName": "marionstar",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static.marionstar.com/terms/",
+		"caliPrivacyURL": "http://static.marionstar.com/privacy/",
+		"privacyURL": "http://static.marionstar.com/privacy/",
+		"adChoicesURL": "http://static.marionstar.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Marion"
+	},
+	"dealChicken": {
+		"marketKey": "marion-county-oh"
+	},
+	"facebook": {
+		"secret#private": "9436057a100c79e3e52b47c68f75378b",
+		"productId": "116574368411746"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.marionstar.com",
+		"trackingSuite": "gpaper235, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Marion"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-877-424-0210"
+	}
+}

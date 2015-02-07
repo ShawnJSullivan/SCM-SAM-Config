@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Ithaca Journal",
+	"title": "The Ithaca Journal",
+	"marketId": "CB03",
+	"brandId": "1007IJ",
+	"cobrandLogoText": "IthacaJournal.com | A Gannett Company",
+	"palette": "p4",
+	"custService": "1-866-254-3068",
+	"website": "www.ithacajournal.com",
+	"baseName": "ithacajournal",
+	"email": "ithacajournal@gannett.com",
+	"state": "NY",
+	"links": {
+		"termsOfServiceURL": "http://static.ithacajournal.com/terms/",
+		"caliPrivacyURL": "http://static.ithacajournal.com/privacy/",
+		"privacyURL": "http://static.ithacajournal.com/privacy/",
+		"adChoicesURL": "http://static.ithacajournal.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Ithaca"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"dealChicken": {
+		"marketKey": "ithaca-ny"
+	},
+	"facebook": {
+		"secret#private": "fbc6d25c3c2d2271c703e4600ee2054d",
+		"productId": "185569708121396"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.ithacajournal.com",
+		"trackingSuite": "gpaper140, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Ithaca"
+		},
+		"email": "ithacajournal@gannett.com",
+		"phone": "1-866-254-3068"
+	}
+}

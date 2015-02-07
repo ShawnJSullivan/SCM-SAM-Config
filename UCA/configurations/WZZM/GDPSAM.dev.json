@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.wzzm13.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/256"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/TOBECOMPLETED"
+		}
+	}
+}

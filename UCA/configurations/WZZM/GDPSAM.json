@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wzzm13.com",
+			"trackingSuite": "gntbcstwzzm,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "WZZM13.com"
+	},
+	"mobile": {
+		"title": "WZZM13.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wzzm13.com/trial-expired/",
+				"restricted": "https://subscribe.wzzm13.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WZZM13 News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3314",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwzzm,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/103"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1775"
+		}
+	},
+	"android": {
+		"title": "WZZM13 News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3314",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwzzm,gntbcstglobal"
+		}
+	}
+}

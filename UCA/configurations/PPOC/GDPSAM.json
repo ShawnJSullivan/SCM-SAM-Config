@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.portclintonnewsherald.com",
+			"trackingSuite": "gpaper237, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "portclintonnewsherald.com"
+	},
+	"mobile": {
+		"title": "portclintonnewsherald.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.portclintonnewsherald.com/trial-expired/",
+				"restricted": "https://subscribe.portclintonnewsherald.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "News Herald iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OP",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile237"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/759"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/759"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/763"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/763"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "News Herald Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OP",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile237"
+		}
+	}
+}

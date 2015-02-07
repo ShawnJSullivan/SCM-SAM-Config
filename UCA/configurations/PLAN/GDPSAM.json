@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.lancastereaglegazette.com",
+			"trackingSuite": "gpaper233, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "lancastereaglegazette.com"
+	},
+	"mobile": {
+		"title": "lancastereaglegazette.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.lancastereaglegazette.com/trial-expired/",
+				"restricted": "https://subscribe.lancastereaglegazette.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Lancaster Eagle-Gazette iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OL",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile233"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/771"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/771"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/775"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/775"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Lancaster Eagle-Gazette Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OL",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile233"
+		}
+	}
+}

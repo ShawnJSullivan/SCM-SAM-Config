@@ -1,0 +1,94 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.news-press.com",
+			"trackingSuite": "gpaper128, gntbcstglobal"
+		},
+		"dictionary": {
+			"subscribe_default_pageFooter": "Need help or have a question about your account? Our Customer Service Center is open Sunday, 7:00 a.m. – 11:00 a.m., Monday thru Friday 7:00 a.m. – 7:00 p.m.. On Saturday, please utilize our automated response system to report any delivery issues."
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/fl-fortmyers-C1026/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/fl-fortmyers-C1026/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/fl-fortmyers-C1026/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "News-Press.com"
+	},
+	"mobile": {
+		"title": "News-Press.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.news-press.com/trial-expired/",
+				"restricted": "https://subscribe.news-press.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The News-Press iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.news-press.com/terms/",
+			"caliPrivacyURL": "http://static.news-press.com/privacy/",
+			"privacyURL": "http://static.news-press.com/privacy/",
+			"adChoicesURL": "http://static.news-press.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile128"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "AA",
+			"unitNumber": "1026",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/343"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/343"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/347"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/347"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "AA",
+			"unitNumber": "1026"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile128"
+		}
+	}
+}

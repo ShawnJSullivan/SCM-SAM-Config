@@ -1,0 +1,82 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "gannett.112.2o7.net",
+			"trackingSuite": "gpaper196, gntbcstglobal"
+		},
+		"pciAPI": {
+			"baseURL": "https://awi.gannettgov.com/iconapi/stage/api/"
+		},
+		"displayMessages": {
+			"login": {
+				"302": "As a current subscriber, you must first <a href=\"{{appBasePath}}account-lookup/\">activate your digital access</a> before you can log in."
+			}
+		},
+		"dictionary": {
+			"subscribe_default_fodDescription": "All options include 24/7 access to www.airforcetimes.com, all tablet and smartphone apps, and the e-Newspaper edition.",
+			"subscribe_default_pageFooter": "Need help, have a question about your account, or looking for extended subscription options?"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "origin-www.airforcetimes.com"
+		}
+	},
+	"site": {
+		"title": "AirForceTimes.com"
+	},
+	"mobile": {
+		"title": "AirForceTimes.com | Mobile Edition"
+	},
+	"ios": {
+		"title": "Air Force Times iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "AF",
+			"unitNumber": "9170",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gmobilemilitary"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1635"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1635"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1633"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1633"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Air Force Times Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "AF",
+			"unitNumber": "9170",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gmobilemilitary"
+		}
+	}
+}

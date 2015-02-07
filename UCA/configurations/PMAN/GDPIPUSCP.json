@@ -1,0 +1,78 @@
+{
+	"baseName": "mansfieldnewsjournal",
+	"mobilesite": "m.mansfieldnewsjournal.com",
+	"cobrandLogo": "http://tablet.mansfieldnewsjournal.com/property/logo",
+	"emailNewsTips": "yournews@mansfieldnewsjournal.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Mansfield, OH",
+		"zip": "44903",
+		"coordinates": "40.7623,-82.5180",
+		"latitude": 40.7623,
+		"longitude": -82.5180
+	},
+	"twitter": {
+		"name": "mansfieldNJ"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.mansfieldnewsjournal.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile234"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "178138928870539"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.mansfieldnewsjournal.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.mansfieldnewsjournal.com/privacy/",
+		"TOS_URL": "http://static.mansfieldnewsjournal.com/terms/",
+		"AD_CHOICES_URL": "http://static.mansfieldnewsjournal.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "b247b7cf-8f65-414d-a497-6f88657a5f1d"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR News Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.mansfieldnewsjournal.iphone.autosubscription.1month",
+		"MARKET_ID": "B7",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id545727590?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/newsjournal",
+		"ITUNES_APPID": "545727590",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/newsjournal/id545727590?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.mansfieldsnewsjournal"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Mansfield, Ohio",
+		"BRAND_LOCATION_ZIP": "44903",
+		"BRAND_IDENTIFIER": "n_mansfieldnewsjournal",
+		"BRAND_LOCATION_GPS": "40.7623,-82.5180",
+		"BRAND_LOGO_URL": "http://www.mansfieldnewsjournal.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "isrZBa_ypIUqcFfnX5ad7odkk0DuPCsBvZuqplnweLqhM00EsyZAEQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.mansfieldnewsjournal.com",
+		"BRAND_NEWS_TIP": "yournews@mansfieldnewsjournal.com",
+		"CONTACT_US_EMAIL": "nncocsr@gannett.com",
+		"BRAND_NAME": "News Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.mansfieldnewsjournal.com",
+		"BRAND_TWITTER": "mansfieldNJ"
+	}
+}

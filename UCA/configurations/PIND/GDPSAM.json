@@ -1,0 +1,98 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.indystar.com",
+			"trackingSuite": "gpaper138, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.indystar\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL": "http://offers.indystar.com/subscribe",
+			"preservedQSPs": ["gps-source"]
+		}],
+		"ads": {
+			"subscribeProductSelectTop": {
+				"enabled": true,
+				"unitPath": "/7103/in-indianapolis-C1532/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide": {
+				"enabled": true,
+				"unitPath": "/7103/in-indianapolis-C1532/consumer_sales_fod"
+			},
+			"trialExpired": {
+				"enabled": true,
+				"unitPath": "/7103/in-indianapolis-C1532/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "IndyStar.com"
+	},
+	"mobile": {
+		"title": "IndyStar.com | Mobile Edition",
+		"omniture": {
+			"trackingSuite": "gpapermobile138"
+		}
+	},
+	"ios": {
+		"title": "The Indianapolis Star iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "IC",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile138"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/27"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1849"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/85"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/85"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Indianapolis Star Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "IC",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile138"
+		}
+	},
+	"ios_wlna_boilermakers": {
+		"marketId": "BG01",
+		"additionalConfigs": ["WLNABoilermakers"]
+	},
+	"wlna_boilermakers": {
+		"additionalConfigs": ["WLNABoilermakers"]
+	},
+	"wlna_hoosiers": {
+		"additionalConfigs": ["WLNAHoosiers"]
+	}
+}

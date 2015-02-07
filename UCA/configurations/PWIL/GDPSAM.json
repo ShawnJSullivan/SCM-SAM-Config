@@ -1,0 +1,99 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.delawareonline.com",
+			"trackingSuite": "gpaper184, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.delawareonline\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.delawareonline.com/subscribe"
+		}],
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/de-wilmington-C1052/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/de-wilmington-C1052/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/de-wilmington-C1052/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "delawareonline.com"
+	},
+	"mobile": {
+		"title": "delawareonline.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.delawareonline.com/trial-expired/",
+				"restricted": "https://subscribe.delawareonline.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The News Journal iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://m.delawareonline.com/tos?os=ios&device=ipad&nativeapp=1",
+			"caliPrivacyURL": "http://m.delawareonline.com/privacy?os=ios&device=ipad&nativeapp=1#california",
+			"privacyURL": "http://m.delawareonline.com/privacy?os=ios&device=ipad&nativeapp=1",
+			"adChoicesURL": "http://m.delawareonline.com/privacy?os=ios&device=ipad&nativeapp=1#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile184"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1052",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/67"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1855"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/267"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/267"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1052",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile184"
+		}
+	},
+	"wlna_eagles": {
+		"additionalConfigs": ["WLNAEagles"]
+	}
+}

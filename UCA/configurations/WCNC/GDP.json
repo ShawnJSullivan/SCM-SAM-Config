@@ -1,0 +1,41 @@
+{
+	"publicationName": "WCNC",
+	"title": "WCNC.COM",
+	"marketId": "WCNC",
+	"brandId": "3352WCNC",
+	"cobrandLogoText": "WCNC.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-704-329-3636",
+	"website": "www.wcnc.com",
+	"baseName": "wcnc",
+	"email": "news@wcnc.com",
+	"state": "NC",
+	"links": {
+		"termsOfServiceURL": "http://static.wcnc.com/terms/",
+		"caliPrivacyURL": "http://static.wcnc.com/privacy/",
+		"privacyURL": "http://static.wcnc.com/privacy/",
+		"adChoicesURL": "http://static.wcnc.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": ""
+	},
+	"facebook": {
+		"secret#private": "2599aa7f3dac1bc0897dd583308e5d9e",
+		"productId": "303752136334578"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wcnc.com",
+		"trackingSuite": "gntbcstwcnc,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "news@wcnc.com",
+		"phone": "1-704-329-3636"
+	}
+}

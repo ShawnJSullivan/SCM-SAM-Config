@@ -1,0 +1,44 @@
+{
+	"publicationName": "Zanesville Times Recorder",
+	"title": "Times Recorder",
+	"marketId": "BA",
+	"brandId": "1019ZT",
+	"cobrandLogoText": "ZanesvilleTimesRecorder.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0214",
+	"website": "www.zanesvilletimesrecorder.com",
+	"baseName": "zanesvilletimesrecorder",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static.zanesvilletimesrecorder.com/terms/",
+		"caliPrivacyURL": "http://static.zanesvilletimesrecorder.com/privacy/",
+		"privacyURL": "http://static.zanesvilletimesrecorder.com/privacy/",
+		"adChoicesURL": "http://static.zanesvilletimesrecorder.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Zanesville"
+	},
+	"dealChicken": {
+		"marketKey": "muskingum-valley-oh"
+	},
+	"facebook": {
+		"secret#private": "8d293d78ecdbe9e8507c6564029e3127",
+		"productId": "112913288781019"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.zanesvilletimesrecorder.com",
+		"trackingSuite": "gpaper238, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Zanesville"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-877-424-0214"
+	}
+}

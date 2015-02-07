@@ -1,0 +1,40 @@
+{
+	"publicationName": "Marine Corps Times",
+	"title": "Marine Corps Times",
+	"marketId": "M603",
+	"brandId": "9170MC",
+	"state": "VA",
+	"cobrandLogoText": "MarineCorpsTimes.com | A Gannett Company",
+	"palette": "p5",
+	"custService": "1-800-368-5718",
+	"website": "www.marinecorpstimes.com",
+	"baseName": "marinecorpstimes",
+	"email": "cust-svc@marinecorpstimes.com",
+	"links": {
+		"termsOfServiceURL": "http://static.marinecorpstimes.com/terms",
+		"caliPrivacyURL": "http://static.marinecorpstimes.com/privacy#california",
+		"privacyURL": "http://static.marinecorpstimes.com/privacy",
+		"adChoicesURL": "http://static.marinecorpstimes.com/privacy#adchoices"
+	},
+	"chat": {
+		"enabled": false
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"enabled" : false
+		},
+		"email": "cust-svc@marinecorpstimes.com",
+		"phone": "1-800-368-5718"
+	},
+	"facebook": {
+		"productId": "713617942039294"
+	},
+	"omniture": {
+		"trackingServer": "gannett.112.2o7.net",
+		"trackingSuite": "gpaper195, gntbcstglobal"
+	}
+}

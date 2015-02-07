@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Town Talk",
+	"title": "The Town Talk",
+	"marketId": "DK",
+	"brandId": "1040TT",
+	"cobrandLogoText": "thetowntalk.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-292-0581",
+	"website": "www.thetowntalk.com",
+	"baseName": "thetowntalk",
+	"email": "thetowntalk@gannett.com",
+	"state": "LA",
+	"links": {
+		"termsOfServiceURL": "http://static.thetowntalk.com/terms/",
+		"caliPrivacyURL": "http://static.thetowntalk.com/privacy/",
+		"privacyURL": "http://static.thetowntalk.com/privacy/",
+		"adChoicesURL": "http://static.thetowntalk.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Alexandria"
+	},
+	"dealChicken": {
+		"marketKey": "central-louisiana-la"
+	},
+	"facebook": {
+		"secret#private": "e779982b535dbb6da0cc4b08990e3a72",
+		"productId": "116986585038108"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.thetowntalk.com",
+		"trackingSuite": "gpaper105, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Alexandria"
+		},
+		"email": "thetowntalk@gannett.com",
+		"phone": "1-800-292-0581"
+	}
+}

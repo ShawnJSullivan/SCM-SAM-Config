@@ -1,0 +1,104 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.desmoinesregister.com",
+			"trackingSuite": "gpaper122, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ia-desmoines-C1150/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ia-desmoines-C1150/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ia-desmoines-C1150/consumer_sales-all_stop"
+			}
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.desmoinesregister\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.desmoinesregister.com/subscribe",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}]
+	},
+	"site": {
+		"title": "DesMoinesRegister.com"
+	},
+	"mobile": {
+		"title": "DesMoinesRegister.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.desmoinesregister.com/trial-expired/",
+				"restricted": "https://subscribe.desmoinesregister.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Des Moines Register iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://m.desmoinesregister.com/tos?os=ios&device=ipad&nativeapp=1",
+			"caliPrivacyURL": "http://m.desmoinesregister.com/privacy?os=ios&device=ipad&nativeapp=1#california",
+			"privacyURL": "http://m.desmoinesregister.com/privacy?os=ios&device=ipad&nativeapp=1",
+			"adChoicesURL": "http://m.desmoinesregister.com/privacy?os=ios&device=ipad&nativeapp=1#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile122"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1150",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/61"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1853"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/291"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/291"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1150"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile122"
+		}
+	},
+	"wlna_cyclones": {
+		"additionalConfigs": ["WLNACyclones"]
+	},
+	"wlna_hawkeyes": {
+		"additionalConfigs": ["WLNAHawkeyes"]
+	}
+}

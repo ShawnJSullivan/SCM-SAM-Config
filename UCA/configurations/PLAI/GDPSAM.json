@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.jconline.com",
+			"trackingSuite": "gpaper143, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "jconline.com"
+	},
+	"mobile": {
+		"title": "JCOnline.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.jconline.com/trial-expired/",
+				"restricted": "https://subscribe.jconline.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Journal and Courier iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "LC",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile143"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1013"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1013"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1021"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1021"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Journal and Courier Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "LC",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile143"
+		}
+	}
+}

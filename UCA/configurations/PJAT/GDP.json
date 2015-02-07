@@ -1,0 +1,45 @@
+{
+	"publicationName": "The Jackson Sun",
+	"title": "The Jackson Sun",
+	"marketId": "DQ",
+	"brandId": "1056JS",
+	"cobrandLogoText": "JacksonSun.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-244-3225",
+	"website": "www.jacksonsun.com",
+	"baseName": "jacksonsun",
+	"email": "jacksontnsun@gannett.com",
+	"state": "TN",
+	"links": {
+		"termsOfServiceURL": "http://static.jacksonsun.com/terms/",
+		"caliPrivacyURL": "http://static.jacksonsun.com/privacy/",
+		"privacyURL": "http://static.jacksonsun.com/privacy/",
+		"adChoicesURL": "http://static.jacksonsun.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15,
+		"enabled": true
+	},
+	"chat": {
+		"publicationId": "JacksonTN"
+	},
+	"dealChicken": {
+		"marketKey": "jackson-tn"
+	},
+	"facebook": {
+		"secret#private": "14d75c3dcdb61af1ad859a7449eb6664",
+		"productId": "174739675893665"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.jacksonsun.com",
+		"trackingSuite": "gpaper142, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "JacksonTN"
+		},
+		"email": "jacksontnsun@gannett.com",
+		"phone": "1-800-244-3225"
+	}
+}

@@ -1,0 +1,45 @@
+{
+	"publicationName": "Springfield News-Leader",
+	"title": "Springfield News-Leader",
+	"marketId": "DO",
+	"brandId": "1042NL",
+	"state": "MO",
+	"cobrandLogoText": "News-Leader.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-695-2005",
+	"website": "www.news-leader.com",
+	"baseName": "news-leader",
+	"email": "springfieldnewsleader@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.news-leader.com/terms/",
+		"caliPrivacyURL": "http://static.news-leader.com/privacy/",
+		"privacyURL": "http://static.news-leader.com/privacy/",
+		"adChoicesURL": "http://static.news-leader.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Springfield"
+	},
+	"dealChicken": {
+		"marketKey": "ozarks-mo"
+	},
+	"firefly":{
+		"threshold": 15,
+		"thresholdRegistered": 15,
+		"enabled": true
+	},
+	"facebook": {
+		"secret#private": "78cfad3add6135ca2cc0ba22cfcafb8e",
+		"productId": "164654783578465"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.news-leader.com",
+		"trackingSuite": "gpaper171, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Springfield"
+		},
+		"email": "springfieldnewsleader@gannett.com",
+		"phone": "1-800-695-2005"
+	}
+}

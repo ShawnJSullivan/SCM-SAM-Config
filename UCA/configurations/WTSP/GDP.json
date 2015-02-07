@@ -1,0 +1,41 @@
+{
+	"publicationName": "WTSP",
+	"title": "WTSP.COM",
+	"marketId": "WTSP",
+	"brandId": "3313WTSP",
+	"cobrandLogoText": "10NEWS | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-727-577-1010",
+	"website": "www.wtsp.com",
+	"baseName": "wtsp",
+	"email": "10news@wtsp.com",
+	"state": "FL",
+	"links": {
+		"termsOfServiceURL": "http://static.wtsp.com/privacy/",
+		"caliPrivacyURL": "http://static.wtsp.com/privacy/",
+		"privacyURL": "http://static.wtsp.com/privacy/",
+		"adChoicesURL": "http://static.wtsp.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "tampa-bay-fl"
+	},
+	"facebook": {
+		"secret#private": "ef79b6d3baaa9bb213ab34385d8a7a47",
+		"productId": "179755582063680"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wtsp.com",
+		"trackingSuite": "gntbcstwtsp,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "10news@wtsp.com",
+		"phone": "1-727-577-1010"
+	}
+}

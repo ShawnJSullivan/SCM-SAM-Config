@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.wcsh6.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/284"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/TOBECOMPLETED"
+		}
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.dailyrecord.com",
+			"trackingSuite": "gpaper149, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "dailyrecord.com"
+	},
+	"mobile": {
+		"title": "dailyrecord.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.dailyrecord.com/trial-expired/",
+				"restricted": "https://subscribe.dailyrecord.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Morristown News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DD",
+			"unitNumber": "1174",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile149"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/831"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/831"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/835"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/835"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Daily Record Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DD",
+			"unitNumber": "1174",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile149"
+		}
+	}
+}

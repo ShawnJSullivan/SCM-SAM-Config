@@ -1,0 +1,44 @@
+{
+	"publicationName": "Star-Gazette",
+	"title": "Star-Gazette",
+	"marketId": "CB02",
+	"brandId": "1007SG",
+	"cobrandLogoText": "stargazette.com | A Gannett Company",
+	"palette": "p3",
+	"custService": "1-866-254-0173",
+	"website": "www.stargazette.com",
+	"baseName": "stargazette",
+	"email": "stargazette@gannett.com",
+	"state": "NY",
+	"links": {
+		"termsOfServiceURL": "http://static.stargazette.com/terms/",
+		"caliPrivacyURL": "http://static.stargazette.com/privacy/",
+		"privacyURL": "http://static.stargazette.com/privacy/",
+		"adChoicesURL": "http://static.stargazette.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Elmira"
+	},
+	"dealChicken": {
+		"marketKey": "elmira-ny"
+	},
+	"facebook": {
+		"secret#private": "2d21e4db94cf20bdcf092453a4824f70",
+		"productId": "183416371685354"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.stargazette.com",
+		"trackingSuite": "gpaper125, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Elmira"
+		},
+		"email": "stargazette@gannett.com",
+		"phone": "1-866-254-0173"
+	}
+}

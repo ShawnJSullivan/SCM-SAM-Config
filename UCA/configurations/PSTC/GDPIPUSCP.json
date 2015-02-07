@@ -1,0 +1,78 @@
+{
+	"baseName": "sctimes",
+	"mobilesite": "m.sctimes.com",
+	"cobrandLogo": "http://tablet.sctimes.com/property/logo",
+	"emailNewsTips": "newsroom@sctimes.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "St. Cloud, MN",
+		"zip": "56304",
+		"coordinates": "45.5539,-94.1703",
+		"latitude": 45.5539,
+		"longitude": -94.1703
+	},
+	"twitter": {
+		"name": "sctimes"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.sctimes.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile172"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "170170889686818"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.sctimes.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.sctimes.com/privacy/",
+		"TOS_URL": "http://static.sctimes.com/terms/",
+		"AD_CHOICES_URL": "http://static.sctimes.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "bcbcbd96-5037-4979-bf9a-2d2b8555a122"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR St. Cloud Times. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.sctimes.iphone.autosubscription.1month",
+		"MARKET_ID": "DR",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=493275576",
+		"ITUNES_URL": "http://itunes.com/app/gannett/stcloudtimes",
+		"ITUNES_APPID": "493275576",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thegreenvillenews/id493275576?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.sctimes"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "St. Cloud, Minnesota",
+		"BRAND_LOCATION_ZIP": "56302",
+		"BRAND_IDENTIFIER": "n_sctimes",
+		"BRAND_LOCATION_GPS": "45.5539,-94.1703",
+		"BRAND_LOGO_URL": "http://www.sctimes.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "OBLKOjZaly4M56VF7w7XCxd-jqc1SbPZ_3ZX_in9fm7BfNqeg18mAA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.sctimes.com",
+		"BRAND_NEWS_TIP": "newsroom@sctimes.com",
+		"CONTACT_US_EMAIL": "saintcloudtimes@gannett.com",
+		"BRAND_NAME": "St. Cloud Times",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.sctimes.com",
+		"BRAND_TWITTER": "sctimes"
+	}
+}

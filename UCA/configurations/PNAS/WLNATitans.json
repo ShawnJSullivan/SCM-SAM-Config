@@ -1,0 +1,236 @@
+{
+	"wlna": {
+		"splash" : {
+			"logo" : {
+				"portrait" : {
+					"x" : "center",
+					"y" : 379
+				},
+				"landscape" : {
+					"x" : "center",
+					"y" : 285
+				},
+				"portrait_iphone" : {
+					"x" : "center",
+					"y" : 196,
+					"scale" : 0.625
+				}
+			},
+			"minimumImpressionTime" : 3,
+			"sponsorPosition" : "left"
+		},
+		"menu": {
+			"position": "left"
+		},
+		"grid": {
+			"pageInsets": {
+				"top": 0,
+				"right": 0,
+				"bottom": 0,
+				"left": 0
+			},
+			"cellInsets": {
+				"top": 1,
+				"right": 1,
+				"bottom": 1,
+				"left": 1
+			}
+		},
+		"fronts": [
+			{
+				"display": "News",
+				"tracking": "news",
+				"url": "http://api.gannett-cdn.com/internal/MobileServices/MArticleService.svc/mcontent/v1/fronts/sports_titans_tablet?siteID=109&api_key=xgs4qb4ggbqjumtgnsqad748",
+				"loader": "PrestoLoader"
+			},
+			{
+				"display": "USA Today Sports",
+				"tracking": "usatodaysports",
+				"url": "http://api.gannett-cdn.com/internal/MobileServices/MArticleService.svc/mcontent/v1/fronts/Sports_NFL_Tablet?siteId=1&api_key=djw5wr46jscgm39d8bd2rpcy",
+				"loader": "PrestoLoader"
+			},
+			{
+				"display": "Tweets",
+				"tracking": "tweets",
+				"url": "http://sports.cincinnati.com/nfl/titans/tweets",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Gamecast",
+				"tracking": "gamecast",
+				"url": "http://sports.cincinnati.com/nfl/titans/gamecast/mobile",
+				"ipad": "http://sports.cincinnati.com/nfl/titans/gamecast",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Scores",
+				"tracking": "scores",
+				"url": "http://sports.cincinnati.com/nfl/titans/scores",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Schedule",
+				"tracking": "schedule",
+				"url": "http://sports.cincinnati.com/nfl/titans/games",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Players",
+				"tracking": "players",
+				"url": "http://sports.cincinnati.com/nfl/titans/roster",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Standings",
+				"tracking": "standings",
+				"url": "http://sports.cincinnati.com/nfl/titans/standings",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Privacy Notice",
+				"tracking": "privacy",
+				"url": "http://static.tennessean.com/privacy/",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Your California Privacy Notice",
+				"tracking": "californiaprivacy",
+				"url": "http://static.tennessean.com/privacy/",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Terms of Service",
+				"tracking": "terms",
+				"url": "http://static.tennessean.com/terms/",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Ad Choices",
+				"tracking": "adchoices",
+				"url": "http://static.tennessean.com/privacy/#adchoices",
+				"loader": "WebAppLoader"
+			},
+			{
+				"display": "Feedback",
+				"tracking": "feedback",
+				"url": "http://services.cincinnati.com/CinServices/dolly/feedback.aspx?appName=Packers",
+				"loader": "WebAppLoader"
+			}
+		],
+		"urbanairship": {
+			"enabled": true,
+			"menuText": "Manage Push Alerts",
+			"tokens": {
+				"developmentAppKey": "",
+				"developmentAppSecret": "",
+				"productionAppKey": "wSzYBLYGQP6rm5TNVkAdMA",
+				"productionAppSecret": "ygLdYwGyRMi3Ha1O2_QN9Q"
+			},
+			"defaultTags": [
+				"titans_football"
+			],
+			"mandatoryTags": [
+				"segmentable"
+			],
+			"optionalTags": [
+				{
+					"tag": "titans_football",
+					"name": "Titans Football"
+				}
+			]
+		},
+		"dfp": {
+			"testing": false,
+			"testDevices": [],
+			"testNetworkId": "7070",
+			"networkId": "7103",
+			"propertyId": "tn-nashville-titans-mobile-C1056",
+			"appName": "app",
+			"positions": {
+				"sectionFront": "article_banner"
+			},
+		"adUnitIdFormat": "/{networkId}/{propertyId}/{device}_{appName}-{position}",
+			"shouldAppendAWS": true,
+			"appendCustomPath": "/sports/football/nfl",
+			"validSizes": {
+				"iPad": [
+					{
+						"width": 180,
+						"height": 150
+					},
+					{
+						"width": 180,
+						"height": 430
+					}
+				],
+				"iPhone": [
+					{
+						"width": 320,
+						"height": 50
+					}
+				]
+			}
+		},
+		"omniture": {
+			"active": true,
+			"appName": "WLNA|Tennessean|Titans",
+			"trackingServer": "repdata.tennessean.com",
+			"marketId": "gpapermobile151"
+		},
+		"firefly": {
+			"active": true,
+			"sam": {
+				"propertyHostName": "tennessean",
+				"publicationCode": "DP",
+				"unitNumber": "1056",
+				"environment": "PROD"
+			},
+			"iap": [
+				{
+					"receiptRegisterURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/register/apple?api_key=x3pex5r4krah7gubz8uhfdad",
+					"receiptValidateURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/validate/apple?api_key=x3pex5r4krah7gubz8uhfdad",
+					"productId": "com.gannett.dolly.Titans.1moDOa",
+					"commonName": "Subscription",
+					"class": "LocalSubscriptionInAppPurchase",
+					"button": "appOneMonth"
+				},
+				{
+					"receiptRegisterURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/register/apple?api_key=x3pex5r4krah7gubz8uhfdad",
+					"receiptValidateURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/validate/apple?api_key=x3pex5r4krah7gubz8uhfdad",
+					"productId": "com.gannett.dolly.Titans.1yrDOa.rev2",
+					"commonName": "Subscription",
+					"class": "LocalSubscriptionInAppPurchase",
+					"button": "appOneYear"
+				},
+				{
+					"receiptRegisterURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/register/apple?api_key=x3pex5r4krah7gubz8uhfdad",
+					"receiptValidateURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/validate/apple?api_key=x3pex5r4krah7gubz8uhfdad",
+					"productId": "com.gannett.dolly.Titans.1yrDOa",
+					"commonName": "Subscription",
+					"class": "LocalSubscriptionInAppPurchase",
+					"button": ""
+				},
+				{
+					"receiptRegisterURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/register/apple?api_key=x3pex5r4krah7gubz8uhfdad",
+					"receiptValidateURL": "http://api.gannett-cdn.com/UserService/Subscription.svc/subscriptions/validate/apple?api_key=x3pex5r4krah7gubz8uhfdad",
+					"productId": "com.gannett.dolly.Titans.1moFAa",
+					"commonName": "Subscription",
+					"class": "SAMSubscriptionInAppPurchase",
+					"button": "fullOneMonth",
+					"description": "Unlimited 24/7 access to Tennessean.com, news and sports smart phone apps, tablet magazine and the e-Newspaper."
+				}
+			],
+			"userOptionNames": {
+				"login": "Log In",
+				"logout": "Log Out",
+				"subscribe": "Subscribe",
+				"restore": "Restore iTunes Purchase",
+				"create": "Create Full Digital Account"
+			}
+		},
+		"prestoLoader": {
+			"replaceStoryURLWithWlnaURL": true,
+			"adPlacementOverride": "poster_wlna"
+		}
+	}
+}

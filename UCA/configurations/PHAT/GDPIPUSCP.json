@@ -1,0 +1,78 @@
+{
+	"baseName": "hattiesburgamerican",
+	"mobilesite": "m.hattiesburgamerican.com",
+	"cobrandLogo": "http://tablet.hattiesburgamerican.com/property/logo",
+	"emailNewsTips": "webmaster@hattiesburgamerican.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Hattiesburg, MS",
+		"zip": "39401",
+		"coordinates": "31.3295,-89.2935",
+		"latitude": 31.3295,
+		"longitude": -89.2935
+	},
+	"twitter": {
+		"name": "hburgamerican"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.hattiesburgamerican.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile135"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "176281025726180"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.hattiesburgamerican.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.hattiesburgamerican.com/privacy/",
+		"TOS_URL": "http://static.hattiesburgamerican.com/terms/",
+		"AD_CHOICES_URL": "http://static.hattiesburgamerican.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "50f12b3b-689d-4595-802e-4883c0afc262"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Hattiesburg American. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.hattiesburgamerican.iphone.autosubscription.1month",
+		"MARKET_ID": "DB",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id545725790?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/hattiesburgamerican",
+		"ITUNES_APPID": "545725790",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/hattiesburgamerican/id545725790?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.hattiesburgamerican"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Hattiesburg, Mississippi",
+		"BRAND_LOCATION_ZIP": "39401",
+		"BRAND_IDENTIFIER": "n_hattiesburgamerican",
+		"BRAND_LOCATION_GPS": "31.3295,-89.2935",
+		"BRAND_LOGO_URL": "http://www.hattiesburgamerican.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "wMEFbS53uRSoL_yvOIx3lUBh_0v911i3K9PQ5D8c4LPBRqj8J_2YLQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.hattiesburgamerican.com",
+		"BRAND_NEWS_TIP": "webmaster@hattiesburgamerican.com",
+		"CONTACT_US_EMAIL": "customerservice@hattiesburgamerican.com",
+		"BRAND_NAME": "Hattiesburg American",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.hattiesburgamerican.com",
+		"BRAND_TWITTER": "hburgamerican"
+	}
+}

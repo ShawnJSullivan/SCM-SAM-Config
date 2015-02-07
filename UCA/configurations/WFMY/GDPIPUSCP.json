@@ -1,0 +1,182 @@
+{
+	"baseName": "wfmynews2",
+	"mobilesite": "m.wfmynews2.com",
+	"cobrandLogo": "http://tablet.wfmynews2.com/property/logo",
+	"emailNewsTips": "news@wfmy.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Greensboro, NC",
+		"zip": "27405",
+		"coordinates": "36.1041,-79.7623",
+		"latitude": 36.1041,
+		"longitude": -79.7623
+	},
+	"twitter": {
+		"name": "WFMY"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "WFMY Native News iPhone",
+		"trackingServer": "repdata.digtriad.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstwfmy",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "142105475850211"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.wfmynews2.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.wfmynews2.com/privacy/",
+		"TOS_URL": "http://static.wfmynews2.com/terms/",
+		"adchoices_URL": "http://static.wfmynews2.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "WFMY: Copyright © 2014 WFMY. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "WFMY",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id469397482?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/wfmy2",
+		"ITUNES_APPID": "469397482",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/wfmy2/id469397482?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.WFMYNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Greensboro, North Carolina",
+		"BRAND_LOCATION_ZIP": "27405",
+		"BRAND_IDENTIFIER": "b_digtriad",
+		"BRAND_LOCATION_GPS": "36.1041,-79.7623",
+		"BRAND_LOGO_URL": "http://www.wfmynews2.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "iRJJlHOjU-UuBwZAsMsPc3WVFfaUS7iVLQko0tQ9SECT8nRlJNf-Gg..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.wfmynews2.com",
+		"BRAND_NEWS_TIP": "news@wfmy.com",
+		"CONTACT_US_EMAIL": "2WTK@wfmy.com",
+		"BRAND_NAME": "WFMY News 2",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.wfmynews2.com",
+		"BRAND_TWITTER": "WFMY"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "nc-greensboro-WFMY-mobile-B3320",
+		"amazonA9AppId": "e5123ca34ca64987b96600c60ed2fa42",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_wfmy.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_wfmy.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+		"CellJournalist" : {
+		"Url" : "http://yourtake.wfmynews2.com",
+		"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "85",
+		"qa": "85",
+		"staging": "89",
+		"dev": "161",
+		"prod": "83",
+		"prod-moc": "83",
+		"prod-phx": "83"
+	}
+}

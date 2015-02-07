@@ -1,0 +1,76 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.htrnews.com",
+			"trackingSuite": "gpaper188, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.htrnews.com"
+		}
+	},
+	"site": {
+		"title": "htrnews.com"
+	},
+	"mobile": {
+		"title": "htrnews.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.htrnews.com/trial-expired/",
+				"restricted": "https://subscribe.htrnews.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Herald Times Reporter iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZM",
+			"unitNumber": "1014 ",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile188"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/879"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/879"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/883"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/883"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Herald Times Reporter Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZM",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile188"
+		}
+	}
+}

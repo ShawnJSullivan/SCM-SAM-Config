@@ -1,0 +1,93 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.rgj.com",
+			"trackingSuite": "gpaper162, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nv-reno-C1011/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nv-reno-C1011/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/nv-reno-C1011/consumer_sales-all_stop"
+			}
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.rgj\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.rgj.com/specialoffer",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}]
+	},
+	"site": {
+		"title": "RGJ.com"
+	},
+	"mobile": {
+		"title": "RGJ.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.rgj.com/trial-expired/",
+				"restricted": "https://subscribe.rgj.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Reno Gazette Journal iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1011",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile162"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/307"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/307"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/311"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/311"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Reno Gazette Journal Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1011",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile162"
+		}
+	}
+}

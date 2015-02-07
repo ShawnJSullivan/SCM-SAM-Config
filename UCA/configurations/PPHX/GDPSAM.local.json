@@ -1,0 +1,26 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.azcentral.com"
+		},
+		"pciAPI": {
+			"baseURL": "https://testaccess.azcentral.com/api/sam/"
+		},
+		"support": {
+			"subscriptionOverrideURL": "https://fullaccess.azcentral.com/"
+		},
+		"redirectMiddleware": [
+			{"urlPattern": "^https?:\\/\\/subscribe-?(.*)\\.azcentral\\.com(:8000)?\\/(.*)$", "redirectURL":"https://fullaccess.azcentral.com/"}
+		]
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/48"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	}
+}

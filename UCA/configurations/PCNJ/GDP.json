@@ -1,0 +1,40 @@
+{
+	"publicationName": "Courier News",
+	"title": "My Central Jersey",
+	"marketId": "CN",
+	"brandId" : "1065CN",
+	"state": "NJ",
+	"baseName": "mycentraljersey",
+	"website": "www.mycentraljersey.com",
+	"cobrandLogoText": "MyCentralJersey.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-675-8645",
+	"email": "couriernews@gannett.com",
+	"facebook": {
+		"secret#private": "e43557019a7e83167714aa53d2d4b10a",
+		"productId": "177893718898560"
+	},
+	"dealChicken": {
+		"marketKey" : "central-jersey-nj"
+	},
+	"links": {
+		"termsOfServiceURL": "http://www.mycentraljersey.com/tos",
+		"caliPrivacyURL": "http://static.mycentraljersey.com/privacy/",
+		"privacyURL": "http://static.mycentraljersey.com/privacy/",
+		"adChoicesURL": "http://static.mycentraljersey.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Bridgewater"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Bridgewater"
+		},
+		"email": "couriernews@gannett.com",
+		"phone": "1-800-675-8645"
+	}
+}

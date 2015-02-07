@@ -1,0 +1,63 @@
+{
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.democratandchronicle.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile164"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "176958652324613"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.democratandchronicle.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.democratandchronicle.com/privacy/",
+		"TOS_URL": "http://static.democratandchronicle.com/terms/",
+		"AD_CHOICES_URL": "http://static.democratandchronicle.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "072da06a-63e6-4fb5-9129-d7891f8b6ebd"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright \u00A9 YEAR Democrat and Chronicle. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.dandc.iphone.autosubscription.1month",
+		"MARKET_ID": "A2",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=514408621",
+		"ITUNES_URL": "http://itunes.com/app/gannett/democratandchronicle",
+		"ITUNES_APPID": "514408621",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/democrat-chronicle/id514408621?mt=8",
+		"ITUNES_BUNDLEID": "http://itunes.com/app/gannett/democratandchronicle"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Rochester, New York",
+		"BRAND_LOCATION_ZIP": "14619",
+		"BRAND_IDENTIFIER": "n_democratandchronicle",
+		"BRAND_LOCATION_GPS": "43.1547,-77.6158",
+		"BRAND_LOGO_URL": "http://www.democratandchronicle.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0E4176",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "Xdr3DpD1aL5YVZqfnWvEz_xHjMbQlQG7vwDOn_Yvl757d1fQCVqzBQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.democratandchronicle.com",
+		"BRAND_NEWS_TIP": "webmaster@democratandchronicle.com",
+		"CONTACT_US_EMAIL": "webmaster@democratandchronicle.com",
+		"BRAND_NAME": "Democrat and Chronicle",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.democratandchronicle.com",
+		"BRAND_TWITTER": "DandC"
+	}
+}

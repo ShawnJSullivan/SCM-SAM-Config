@@ -1,0 +1,40 @@
+{
+	"publicationName": "The Desert Sun",
+	"title": "The Desert Sun",
+	"marketId": "J1",
+	"brandId": "1082DS",
+	"state": "CA",
+	"cobrandLogoText": "DesertSun.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-834-6052",
+	"website": "www.desertsun.com",
+	"baseName": "desertsun",
+	"email": "onlinehelp@mydesert.com",
+	"links": {
+		"termsOfServiceURL": "http://static-origin.mydesert.com/terms/",
+		"caliPrivacyURL": "http://static-origin.mydesert.com/privacy/",
+		"privacyURL": "http://static-origin.mydesert.com/privacy/",
+		"adChoicesURL": "http://static-origin.mydesert.com/privacy/#adchoices"
+	},
+	"dealChicken": {
+		"marketKey": "palm-springs-ca"
+	},
+	"facebook": {
+		"secret#private": "e8d87bfaccf8ac985eed80f68c178e44",
+		"productId": "116853348383382"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.desertsun.com",
+		"trackingSuite": "gpaper156, gntbcstglobal"
+	},
+	"chat": {
+		"publicationId": "PalmSprings"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "PalmSprings"
+		},
+		"email": "thedesertsun@gannett.com",
+		"phone": "1-800-834-6052"
+	}
+}

@@ -1,0 +1,69 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.indystar.com",
+			"trackingSuite": "gpaper138, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "lavozarizona.com"
+	},
+	"mobile": {
+		"title": "IndyStar.com | Mobile Edition",
+		"omniture": {
+			"trackingSuite": "gpapermobile138"
+		}
+	},
+	"ios": {
+		"title": "The Indianapolis Star iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "IC",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile138"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/27"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1843"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/85"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/85"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Indianapolis Star Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "IC",
+			"unitNumber": "1532",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile138"
+		}
+	}
+}

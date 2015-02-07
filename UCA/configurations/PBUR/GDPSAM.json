@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.burlingtonfreepress.com",
+			"trackingSuite": "gpaper116, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "BurlingtonFreePress.com"
+	},
+	"mobile": {
+		"title": "BurlingtonFreePress.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.burlingtonfreepress.com/trial-expired/",
+				"restricted": "https://subscribe.burlingtonfreepress.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Burlington Free Press iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DF",
+			"unitNumber": "1010",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile116"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/295"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/295"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/299"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/299"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Burlington Free Press Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DF",
+			"unitNumber": "1010",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile116"
+		}
+	}
+}

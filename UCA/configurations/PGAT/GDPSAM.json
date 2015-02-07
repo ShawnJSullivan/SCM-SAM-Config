@@ -1,0 +1,82 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "gannett.112.2o7.net",
+			"trackingSuite": "gpaper106, gntbcstglobal"
+		},
+		"pciAPI": {
+			"baseURL": "https://awi.gannettgov.com/iconapi/stage/api/"
+		},
+		"displayMessages": {
+			"login": {
+				"302": "As a current subscriber, you must first <a href=\"{{appBasePath}}account-lookup/\">activate your digital access</a> before you can log in."
+			}
+		},
+		"dictionary": {
+			"subscribe_default_fodDescription": "All options include 24/7 access to www.armytimes.com, all tablet and smartphone apps, and the e-Newspaper edition.",
+			"subscribe_default_pageFooter": "Need help, have a question about your account, or looking for extended subscription options?"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "origin-www.armytimes.com"
+		}
+	},
+	"site": {
+		"title": "ArmyTimes.com"
+	},
+	"mobile": {
+		"title": "ArmyTimes.com | Mobile Edition"
+	},
+	"ios": {
+		"title": "Army Times iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "AT",
+			"unitNumber": "9170",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gmobilemilitary"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1611"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1611"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1609"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1609"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Army Times Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "AT",
+			"unitNumber": "9170",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gmobilemilitary"
+		}
+	}
+}

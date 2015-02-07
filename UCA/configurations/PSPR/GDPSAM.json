@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.news-leader.com",
+			"trackingSuite": "gpaper171, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "News-Leader.com"
+	},
+	"mobile": {
+		"title": "News-Leader.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.news-leader.com/trial-expired/",
+				"restricted": "https://subscribe.news-leader.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Springfield News-Leader iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "WA",
+			"unitNumber": "1042",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile171"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/571"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/571"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/575"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/575"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Springfield News-Leader Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "WA",
+			"unitNumber": "1042",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile171"
+		}
+	}
+}

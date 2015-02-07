@@ -1,0 +1,41 @@
+{
+	"publicationName": "13WMAZ",
+	"title": "13wmaz.com",
+	"marketId": "WMAZ",
+	"brandId": "3329WMAZ",
+	"cobrandLogoText": "13WMAZ.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-478-752-1313",
+	"website": "www.13wmaz.com",
+	"baseName": "13wmaz",
+	"email": "webmaster@13wmaz.com",
+	"state": "GA",
+	"links": {
+		"termsOfServiceURL": "http://static-origin.13wmaz.com/en/term-service/",
+		"caliPrivacyURL": "http://static-origin.13wmaz.com/en/privacy-notice/",
+		"privacyURL": "http://static-origin.13wmaz.com/en/privacy-notice/",
+		"adChoicesURL": "http://static.13wmaz.com/en/privacy-notice/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "macon-ga"
+	},
+	"facebook": {
+		"secret#private": "7702621b0431a23b498795033d88e18d",
+		"productId": "167667113279341"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.13wmaz.com",
+		"trackingSuite": "gntbcstwmaz,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@13wmaz.com",
+		"phone": "1-478-752-1313"
+	}
+}

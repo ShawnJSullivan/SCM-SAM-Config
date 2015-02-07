@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wcsh6.com",
+			"trackingSuite": "gntbcstwcsh,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "wcsh6.com"
+	},
+	"mobile": {
+		"title": "wcsh6.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wcsh6.com/trial-expired/",
+				"restricted": "https://subscribe.wcsh6.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WCSH News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3332",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwcsh,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/159"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1793"
+		}
+	},
+	"android": {
+		"title": "WCSH News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3332",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwcsh,gntbcstglobal"
+		}
+	}
+}

@@ -1,0 +1,36 @@
+{
+	"publicationName": "Central Florida Future",
+	"title": "Central Florida Future",
+	"marketId": "PCFF",
+	"brandId" : "",
+	"state": "FL",
+	"baseName": "centralfloridafuture",
+	"website": "www.centralfloridafuture.com",
+	"cobrandLogoText": "centralfloridafuture.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-407-447-4555",
+	"email": "",
+	"facebook": {
+		"secret#private": "",
+		"productId": "765056006868726"
+	},
+	"dealChicken": {
+		"marketKey" : ""
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.centralfloridafuture.com/terms/",
+		"caliPrivacyURL": "http://static.centralfloridafuture.com/privacy/",
+		"privacyURL": "http://static.centralfloridafuture.com/privacy/",
+		"adChoicesURL": "http://static.centralfloridafuture.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": ""
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": ""
+		},
+		"email": "",
+		"phone": "1-407-447-4555"
+	}
+}

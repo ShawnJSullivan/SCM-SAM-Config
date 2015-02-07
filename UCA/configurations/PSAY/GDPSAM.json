@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.delmarvanow.com",
+			"trackingSuite": "gpaper168, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "DelmarvaNow.com"
+	},
+	"mobile": {
+		"title": "DelmarvaNow.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.delmarvanow.com/trial-expired/",
+				"restricted": "https://subscribe.delmarvanow.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Daily Times iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DG",
+			"unitNumber": "1528",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile168"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/523"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/523"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/527"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/527"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Daily Times Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DG",
+			"unitNumber": "1528",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile168"
+		}
+	}
+}

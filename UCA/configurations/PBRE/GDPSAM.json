@@ -1,0 +1,86 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.floridatoday.com",
+			"trackingSuite": "gpaper114, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/fl-brevard-C1028/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/fl-brevard-C1028/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/fl-brevard-C1028/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "floridatoday.com"
+	},
+	"mobile": {
+		"title": "FloridaToday.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.floridatoday.com/trial-expired/",
+				"restricted": "https://subscribe.floridatoday.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Florida Today iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "WA",
+			"unitNumber": "1028",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile114"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/355"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/355"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/359"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/359"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Florida Today Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "WA",
+			"unitNumber": "1028",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile114"
+		}
+	}
+}

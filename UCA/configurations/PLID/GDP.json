@@ -1,0 +1,42 @@
+{
+	"publicationName": "Livingston County Daily Press & Argus",
+	"title": "Livington Daily",
+	"marketId": "C6",
+	"brandId": "1008PA",
+	"cobrandLogoText": "LivingstonDaily.com | A Gannett Company",
+	"palette": "p4",
+	"custService": "1-888-840-4809",
+	"website": "www.livingstondaily.com",
+	"baseName": "livingstondaily",
+	"email": "cserv@dnps.com",
+	"state": "MI",
+	"links": {
+		"termsOfServiceURL": "http://static.livingstondaily.com/terms/",
+		"caliPrivacyURL": "http://static.livingstondaily.com/privacy/",
+		"privacyURL": "http://static.livingstondaily.com/privacy/",
+		"adChoicesURL": "http://static.livingstondaily.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10,
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "livingston-county-mi"
+	},
+	"facebook": {
+		"secret#private": "e33a9e61d86dc6f5b24eac73a094532d",
+		"productId": "116528121750318"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.livingstondaily.com",
+		"trackingSuite": "gpaper219, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": ""
+		},
+		"email": "cserv@dnps.com",
+		"phone": "1-888-840-4809"
+	}
+}

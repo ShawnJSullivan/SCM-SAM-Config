@@ -1,0 +1,53 @@
+{
+	"default": {
+		"support": {
+			"accountActivation": false,
+			"accountManagementMenuOptionsMap": {
+				"history": {
+					"map": "Show account history",
+					"enabled": false
+				},
+				"viewBill": {
+					"map": "View bill",
+					"enabled": false
+				},
+				"deliveryIssue": {
+					"map": "Delivery service issue",
+					"enabled": false
+				},
+				"deliveryTemporaryStop": {
+					"map": "Vacation stop",
+					"enabled": false
+				},
+				"paymentInformation": {
+					"map": "Change Credit Card",
+					"enabled": false
+				},
+				"deliveryFrequency": {
+					"map": "Increase print delivery frequency",
+					"enabled": false
+				},
+				"removeTVBook": {
+					"map": "stop_tv_book_delivery",
+					"enabled": false
+				},
+				"addTVBook": {
+					"map": "start_tv_book_delivery",
+					"enabled": false
+				},
+				"pay": {
+					"map": "Make a payment",
+					"enabled": false
+				},
+				"shareAccess": {
+					"map": "SHARE_ACCESS",
+					"enabled": false
+				},
+				"eNewspaper": {
+					"map": "ENEWSPAPER",
+					"enabled": false
+				}
+			}
+		}
+	}
+}

@@ -1,0 +1,79 @@
+{
+	"baseName": "marinecorpstimes",
+	"mobilesite": "m.marinecorpstimes.com",
+	"cobrandLogo": "http://tablet.marinecorpstimes.com/property/logo",
+	"emailNewsTips": "marinelet@marinecorpstimes.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Washington, DC",
+		"zip": "20004",
+		"coordinates": "38.8930,-77.0441",
+		"latitude": 38.8930,
+		"longitude": -77.0441
+	},
+	"twitter": {
+		"name": "MarineTimes"
+	},
+	"fireflyEnabled": true,
+	"title": "Marine Corps Times Native iPhone App",
+	"Omniture": {
+		"OMNITURE_APP_NAME": "marinecorpstimesiphone",
+		"trackingServer": "gannett.112.2o7.net",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gmobilemilitary"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "713617942039294"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.marinecorpstimes.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.marinecorpstimes.com/privacy/",
+		"TOS_URL": "http://static.marinecorpstimes.com/terms/",
+		"AD_CHOICES_URL": "http://static.marinecorpstimes.com/privacy/#adchoices",
+		"SHARING_ENABLED": "F",
+		"WDAKey": ""
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Marine Corps Times. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.marinecorpstimes.iphone.autosubscription.1month",
+		"MARKET_ID": "M603",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id885058405?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/marinecorpstimes",
+		"ITUNES_APPID": "885058405",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/apple-store/id885058405?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.ggm.marinecorpstimes"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Washington, DC",
+		"BRAND_LOCATION_ZIP": "20004",
+		"BRAND_IDENTIFIER": "",
+		"BRAND_LOCATION_GPS": "38.8930,-77.0441",
+		"BRAND_LOGO_URL": "http://www.marinecorpstimes.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "MarineTimes",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "D52F25",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "tyc9NmTfz19Uxm9bLY9xshLDIaTElygl3c9a7fp7lgI9rT-dDmiR4w..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.marinecorpstimes.com",
+		"BRAND_NEWS_TIP": "marinelet@marinecorpstimes.com",
+		"CONTACT_US_EMAIL": "cust-svc@marinecorpstimes.com",
+		"BRAND_NAME": "Marine Corps Times",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.marinecorpstimes.com",
+		"BRAND_TWITTER": "MarineTimes"
+	}
+}

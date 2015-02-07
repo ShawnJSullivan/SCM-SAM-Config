@@ -1,0 +1,99 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.mycentraljersey.com",
+			"trackingSuite": "gpaper248, gntbcstglobal"
+		},
+		"multiPublication": {
+			"enabled": true,
+			"publications": [
+				{
+					"marketId": "CN",
+					"submarketId": "BRI",
+					"baseName": "mycentraljersey",
+					"publicationAssetAlias": "couriernews",
+					"title": "Courier News",
+					"description": "Courier News' in-depth coverage of local news benefits readers in the Greater Somerset area."
+				},
+				{
+					"marketId": "CN",
+					"submarketId": "EBR",
+					"baseName": "mycentraljersey",
+					"publicationAssetAlias": "homenewstribune",
+					"title": "Home News Tribune",
+					"description": "The Home News Tribune is the prime source of news and information in the Greater Middlesex area."
+				}
+			]
+		}
+	},
+	"site": {
+		"title": "MyCentralJersey.com"
+	},
+	"mobile": {
+		"title": "MyCentralJersey.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.mycentraljersey.com/trial-expired/",
+				"restricted": "https://subscribe.mycentraljersey.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "My Central Jersey iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://www.mycentraljersey.com/tos",
+			"caliPrivacyURL": "http://static.mycentraljersey.com/privacy/",
+			"privacyURL": "http://static.mycentraljersey.com/privacy/",
+			"adChoicesURL": "http://static.mycentraljersey.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile248"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DC",
+			"unitNumber": "1065",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/819"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/819"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/823"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/823"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DC",
+			"unitNumber": "1065",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile248"
+		}
+	}
+}

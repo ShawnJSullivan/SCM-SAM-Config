@@ -1,0 +1,23 @@
+{
+    "@context": {"@vocab": "uri://GannettDigital.com/vocab#"},
+    "@id": "scm_sam/USAT/GDPIPUSCP_2/prod/master",
+    "@parent_urls": ["scm_sam/USAT/GDPIPUSCP/prod/master"],
+
+    "ads": {
+        "articleAds": [
+            {
+                "position": 0,
+                "size": "{320,50}",
+                "enableFlexAd": false,
+                "adType": "article_banner_top"
+            },
+            {
+                "position": 10000,
+                "minPosition": 4,
+                "size": "{300,250}",
+                "enableFlexAd": false,
+                "adType": "article_banner_bottom"
+            }
+        ]
+    }
+}

@@ -1,0 +1,182 @@
+{
+	"baseName": "news10",
+	"mobilesite": "m.news10.net",
+	"cobrandLogo": "http://tablet.news10.net/property/logo",
+	"emailNewsTips": "desk@news10.net",
+	"location": {
+		"timezone": "America/Los_Angeles",
+		"name": "Sacramento, CA",
+		"zip": "95818",
+		"coordinates": "38.5690,-121.5087",
+		"latitude": 38.5690,
+		"longitude": -121.5087
+	},
+	"twitter": {
+		"name": "News10_CA"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "News10 Native News iPhone",
+		"trackingServer": "repdata.news10.net",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstkxtv",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "146675622056340"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.news10.net/privacy/",
+		"CALI_PRIVACY_URL": "http://static.news10.net/privacy/",
+		"TOS_URL": "http://static.news10.net/terms/",
+		"adchoices_URL": "http://static.news10.net/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "KXTV: Copyright © 2014 KXTV-TV. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "KXTV",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id469397853?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/news10",
+		"ITUNES_APPID": "469397853",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/news10/id469397853?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.KXTVNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Los_Angeles",
+		"BRAND_LOCATION": "Sacramento, California",
+		"BRAND_LOCATION_ZIP": "95818",
+		"BRAND_IDENTIFIER": "b_news10",
+		"BRAND_LOCATION_GPS": "38.5690,-121.5087",
+		"BRAND_LOGO_URL": "http://www.news10.net/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "vWtSPp_CL_VB-kzy_nGmlkv0FzEZV_Zo4lGcOXpUww6zywYbO8lzZA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.news10.net",
+		"BRAND_NEWS_TIP": "desk@news10.net",
+		"CONTACT_US_EMAIL": "desk@news10.net",
+		"BRAND_NAME": "News10.net",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.news10.net",
+		"BRAND_TWITTER": "News10_CA"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "ca-sacramento-KXTV-mobile-B3335",
+		"amazonA9AppId": "bfbc4b44afa849c5b5c75c55517230c3",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_kxtv.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_kxtv.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+		"CellJournalist" : {
+		"Url" : "http://yourtake.news10.net",
+		"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "105",
+		"qa": "105",
+		"staging": "109",
+		"dev": "171",
+		"prod": "103",
+		"prod-moc": "103",
+		"prod-phx": "103"
+	}
+}

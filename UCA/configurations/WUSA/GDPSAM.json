@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wusa9.com",
+			"trackingSuite": "gntbcstwusa,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "wusa9.com"
+	},
+	"mobile": {
+		"title": "WUSA9.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wusa9.com/trial-expired/",
+				"restricted": "https://subscribe.wusa9.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WUSA9 News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3312",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwusa,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/95"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1753"
+		}
+	},
+	"android": {
+		"title": "WUSA9 News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3312",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwusa,gntbcstglobal"
+		}
+	}
+}

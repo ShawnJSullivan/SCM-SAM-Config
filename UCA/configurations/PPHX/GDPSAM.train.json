@@ -1,0 +1,20 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.azcentral.com"
+		},
+		"pciAPI": {
+			"baseURL": "https://testaccess.azcentral.com/api/sam/"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1029"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1033"
+		}
+	}
+}

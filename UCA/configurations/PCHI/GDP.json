@@ -1,0 +1,44 @@
+{
+	"publicationName": "Chillicothe Gazette",
+	"title": "Chillicothe Gazette",
+	"marketId": "B8",
+	"brandId": "1019CG",
+	"cobrandLogoText": "ChillicotheGazette.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0215",
+	"website": "www.chillicothegazette.com",
+	"baseName": "chillicothegazette",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static.chillicothegazette.com/terms",
+		"caliPrivacyURL": "http://static.chillicothegazette.com/privacy/",
+		"privacyURL": "http://static.chillicothegazette.com/privacy/",
+		"adChoicesURL": "http://static.chillicothegazette.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Chillicothe"
+	},
+	"dealChicken": {
+		"marketKey": "scioto-valley-oh"
+	},
+	"facebook": {
+		"secret#private": "d4c6a90c2282f1e5b4ba649207dd2b93",
+		"productId": "185597654790970"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.chillicothegazette.com",
+		"trackingSuite": "gpaper231, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Chillicothe"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-877-424-0215"
+	}
+}

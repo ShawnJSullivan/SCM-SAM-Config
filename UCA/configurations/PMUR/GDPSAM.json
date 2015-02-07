@@ -1,0 +1,81 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.dnj.com",
+			"trackingSuite": "gpaper214, gntbcstglobal"
+		},
+		"organizations": {
+			"mtsu": {
+				"userId": "4687384",
+				"licenseId": "6069930",
+				"organizationName": "Middle Tennessee State University",
+				"splashImageURL": "//staticassets.dnj.com/organizations/mtsu/splash.jpg",
+				"logoImageURL": "//staticassets.dnj.com/organizations/mtsu/logo.jpg"
+			}
+		}
+	},
+	"site": {
+		"title": "dnj.com"
+	},
+	"mobile": {
+		"title": "dnj.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.dnj.com/trial-expired/",
+				"restricted": "https://subscribe.dnj.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Daily News Journal iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DJ",
+			"unitNumber": "1056",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile214"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1569"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1569"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1575"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1575"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Daily News Journal Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DJ",
+			"unitNumber": "1056",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile214"
+		}
+	}
+}

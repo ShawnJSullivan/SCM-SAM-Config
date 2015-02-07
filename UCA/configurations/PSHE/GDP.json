@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Sheboygan Press",
+	"title": "The Sheboygan Press",
+	"marketId": "U008",
+	"brandId": "WISCONSIN",
+	"state": "WI",
+	"cobrandLogoText": "SheboyganPress.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-5639",
+	"website": "www.sheboyganpress.com",
+	"baseName": "sheboyganpress",
+	"email": "wisconsincoe@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.sheboyganpress.com/terms/",
+		"caliPrivacyURL": "http://static.sheboyganpress.com/privacy/",
+		"privacyURL": "http://static.sheboyganpress.com/privacy/",
+		"adChoicesURL": "http://static.sheboyganpress.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Sheboygan"
+	},
+	"dealChicken": {
+		"marketKey": "sheboygan-wi"
+	},
+	"facebook": {
+		"secret#private": "01aea75728364cdf1a9caae6b3dc511e",
+		"productId": "140019942719126"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.sheboyganpress.com",
+		"trackingSuite": "gpaper191, gpapertablet"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Sheboygan"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-5639"
+	}
+}

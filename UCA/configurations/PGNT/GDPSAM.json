@@ -1,0 +1,82 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "gannett.112.2o7.net",
+			"trackingSuite": "gpaper194, gntbcstglobal"
+		},
+		"pciAPI": {
+			"baseURL": "https://awi.gannettgov.com/iconapi/stage/api/"
+		},
+		"displayMessages": {
+			"login": {
+				"302": "As a current subscriber, you must first <a href=\"{{appBasePath}}account-lookup/\">activate your digital access</a> before you can log in."
+			}
+		},
+		"dictionary": {
+			"subscribe_default_fodDescription": "All options include 24/7 access to www.navytimes.com, all tablet and smartphone apps, and the e-Newspaper edition.",
+			"subscribe_default_pageFooter": "Need help, have a question about your account, or looking for extended subscription options?"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "origin-www.navytimes.com"
+		}
+	},
+	"site": {
+		"title": "NavyTimes.com"
+	},
+	"mobile": {
+		"title": "NavyTimes.com | Mobile Edition"
+	},
+	"ios": {
+		"title": "Navy Times iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "NT",
+			"unitNumber": "9170",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gmobilemilitary"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1623"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1623"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1621"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1621"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Navy Times Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "NT",
+			"unitNumber": "9170",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gmobilemilitary"
+		}
+	}
+}

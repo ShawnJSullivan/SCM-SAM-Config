@@ -1,0 +1,18 @@
+{
+	"default": {
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "cmsstage.htrnews.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/777"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/781"
+		}
+	}
+}

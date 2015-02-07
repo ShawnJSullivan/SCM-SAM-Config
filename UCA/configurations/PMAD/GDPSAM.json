@@ -1,0 +1,76 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.marshfieldnewsherald.com",
+			"trackingSuite": "gpaper189, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.marshfieldnewsherald.com"
+		}
+	},
+	"site": {
+		"title": "marshfieldnewsherald.com"
+	},
+	"mobile": {
+		"title": "marshfieldnewsherald.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.marshfieldnewsherald.com/trial-expired/",
+				"restricted": "https://subscribe.marshfieldnewsherald.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Marshfield News-Herald iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZN",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile189"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/891"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/891"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/895"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/895"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Marshfield News-Herald Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZN",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile189"
+		}
+	}
+}

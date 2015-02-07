@@ -1,0 +1,10 @@
+{
+	"default": {
+		"tealium": {
+			"enabled": false
+		},
+		"pciAPI": {
+			"baseURL": "http://devsubscription_self_serve.nmass.gci/"
+		}
+	}
+}

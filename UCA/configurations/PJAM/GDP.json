@@ -1,0 +1,41 @@
+{
+	"publicationName": "The Clarion-Ledger",
+	"title": "The Clarion-Ledger",
+	"marketId": "D0",
+	"brandId" : "1098CL",
+	"state": "MS",
+	"baseName": "clarionledger",
+	"website": "www.clarionledger.com",
+	"cobrandLogoText": "ClarionLedger.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-850-5343",
+	"email": "clarionledger@gannett.com",
+	"facebook": {
+		"secret#private": "588d41023054cb185fe5581b4b040629",
+		"productId": "127619637301465"
+	},
+	"dealChicken": {
+		"marketKey" : "jackson-ms"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.clarionledger.com/terms/",
+		"caliPrivacyURL": "http://static.clarionledger.com/privacy/",
+		"privacyURL": "http://static.clarionledger.com/privacy/",
+		"adChoicesURL": "http://static.clarionledger.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10,
+		"enabled": true
+	},
+	"chat": {
+		"publicationId": "JacksonMS"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "JacksonMS"
+		},
+		"email": "clarionledger@gannett.com",
+		"phone": "1-877-850-5343"
+	}
+}

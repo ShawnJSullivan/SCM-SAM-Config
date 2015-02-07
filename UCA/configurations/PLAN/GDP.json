@@ -1,0 +1,44 @@
+{
+	"publicationName": "Lancaster Eagle-Gazette",
+	"title": "Lancaster Eagle-Gazette",
+	"marketId": "BD",
+	"brandId": "1019LE",
+	"cobrandLogoText": "LancasterEagleGazette.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-234-1719",
+	"website": "www.lancastereaglegazette.com",
+	"baseName": "lancastereaglegazette",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static.lancastereaglegazette.com/terms/",
+		"caliPrivacyURL": "http://static.lancastereaglegazette.com/privacy/",
+		"privacyURL": "http://static.lancastereaglegazette.com/privacy/",
+		"adChoicesURL": "http://static.lancastereaglegazette.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Lancaster"
+	},
+	"dealChicken": {
+		"marketKey": "fairfield-county-oh"
+	},
+	"facebook": {
+		"secret#private": "09e9e71373bd0842976c6f764a8de657",
+		"productId": "169844466384377"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.lancastereaglegazette.com",
+		"trackingSuite": "gpaper233, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Lancaster"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-800-234-1719"
+	}
+}

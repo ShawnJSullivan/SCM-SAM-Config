@@ -1,0 +1,160 @@
+{
+	"twitter": {
+		"name": "courierjournal"
+	},
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Louisville, KY",
+		"zip": "40201",
+		"coordinates": "38.2474,-85.7610",
+		"latitude": 38.2474,
+		"longitude": -85.7610
+	},
+	"emailNewsTips": "webadmin@courier-journal.com",
+	"mobilesite": "m.courier-journal.com",
+	"cobrandLogo": "http://tablet.courier-journal.com/property/logo",
+	"baseName": "courier-journal",
+	"fireflyEnabled": false,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/ky-louisville-mobile-C1107/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/ky-louisville-mobile-C1107/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsipad",
+		"trackingServer": "repdata.courier-journal.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobile145"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "128534137209813"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.courier-journal.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.courier-journal.com/privacy/",
+		"TOS_URL": "http://static.courier-journal.com/terms/",
+		"TILE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://static.courier-journal.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "louisville-ky",
+		"WDAKey": "D5B5DCFE-B048-456D-8B60-915B0841A524"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © 2013 The Courier-Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.courier-journal.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.courier_journal.autosubscription.1month",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "B2",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id600030236?mt=8",
+		"OLD_FEED_URL": "http://m.courier-journal.com/mg-ui/dynagate/page?site=n_courier-journal&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thecourierjournalforipad",
+		"ITUNES_APPID": "600030236"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Louisville, KY",
+		"BRAND_LOCATION_ZIP": "40201",
+		"BRAND_IDENTIFIER": "n_courier-journal",
+		"BRAND_LOCATION_GPS": "38.2474,-85.7610",
+		"BRAND_LOGO_URL": "http://www.courier-journal.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "EBXFZVQ7uOpTiWQZsN6AnXZGdmcG3CzrOuGOvAUKGJej9HR6o3a3Rw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.courier-journal.com",
+		"CONTACT_US_EMAIL": "louisvillecourierjournal@gannett.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2J1J1A,121212",
+		"BRAND_NAME": "The Courier-Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.courier-journal.com",
+		"BRAND_TWITTER": "courierjournal",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+			{
+				"name": "Apartments.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.apartments.com/Kentucky/Louisville"
+			},
+			{
+				"name": "CareerBuilder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://courier-journal.gannettonline.com/careerbuilder/index.html"
+			},
+			{
+				"name": "Cars.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.cars.com/?aff=courjrnl"
+			},
+			{
+				"name": "Classifieds",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://classifieds.courier-journal.com/"
+			},
+			{
+				"name": "DealChicken.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "https://www.dealchicken.com/louisville-ky"
+			},
+			{
+				"name": "Find & Save",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://findnsave.courier-journal.com/"
+			},
+			{
+				"name": "HomeFinder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://courier-journal.gon.gannettonline.com/apps/pbcs.dll/section?category=HOMES&pub=courier-journal"
+			}
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=louisville&state=ky",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.courier-journal.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.wusa9.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "53",
+		"qa": "53",
+		"staging": "53",
+		"dev": "56",
+		"prod": "53",
+		"prod-moc": "53",
+		"prod-phx": "53"
+	}
+}

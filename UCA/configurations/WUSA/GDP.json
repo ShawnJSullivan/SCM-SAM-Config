@@ -1,0 +1,41 @@
+{
+	"publicationName": "W*USA 9",
+	"title": "wusa9.com",
+	"marketId": "WUSA",
+	"brandId": "3312WUSA",
+	"cobrandLogoText": "WUSA9.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-202-895-5999",
+	"website": "www.wusa9.com",
+	"baseName": "wusa9",
+	"email": "webmaster@wusa9.com",
+	"state": "DC",
+	"links": {
+		"termsOfServiceURL": "http://static.wusa9.com/terms/",
+		"caliPrivacyURL": "http://static.wusa9.com/privacy/",
+		"privacyURL": "http://static.wusa9.com/privacy/",
+		"adChoicesURL": "http://static.wusa9.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "washington-dc"
+	},
+	"facebook": {
+		"secret#private": "2de906fdfc18495faa3d8b4f2f590adf",
+		"productId": "298931766802481"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wusa9.com",
+		"trackingSuite": "gntbcstwusa,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@wusa9.com",
+		"phone": "1-202-895-5999"
+	}
+}

@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.wltx.com",
+			"trackingSuite": "gntbcstwltx,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "WLTX.com"
+	},
+	"mobile": {
+		"title": "WLTX.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wltx.com/trial-expired/",
+				"restricted": "https://subscribe.wltx.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WLTX News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3334",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwltx,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/167"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1587"
+		}
+	},
+	"android": {
+		"title": "WLTX News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3334",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwltx,gntbcstglobal"
+		}
+	}
+}

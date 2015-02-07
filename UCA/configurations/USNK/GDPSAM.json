@@ -1,0 +1,68 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.usatnetwork.com",
+			"trackingSuite": "gpaper151, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.usatnetwork\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.usatnetwork.com/subscribe",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}]
+	},
+	"site": {
+		"title": "usatnetwork.com"
+	},
+	"mobile": {
+		"title": "usatnetwork.com | Mobile Edition"
+	},
+	"firefly": {
+		"links": {
+			"getAccess": "https://subscribe.usatnetwork.com/trial-expired/",
+			"restricted": "https://subscribe.usatnetwork.com/trial-expired/"
+		}
+	},
+	"ios": {
+		"title": "usatnetwork iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.usatnetwork.com/terms/",
+			"caliPrivacyURL": "http://static.usatnetwork.com/privacy/",
+			"privacyURL": "http://static.usatnetwork.com/privacy/",
+			"adChoicesURL": "http://static.usatnetwork.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile151"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DP",
+			"unitNumber": "1056",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/605"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/607"
+		}
+	},
+	"android": {
+		"title": "usatnetwork Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DP",
+			"unitNumber": "1056",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile151"
+		}
+	}
+}

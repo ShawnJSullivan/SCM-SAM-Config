@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Star Press",
+	"title": "The Star Press",
+	"marketId": "C7",
+	"brandId": "1532SP",
+	"cobrandLogoText": "thestarpress.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-783-2472 ",
+	"website": "www.thestarpress.com",
+	"baseName": "thestarpress",
+	"email": "thestarpress@gannett.com",
+	"state": "IN",
+	"links": {
+		"termsOfServiceURL": "http://static.thestarpress.com/terms/",
+		"caliPrivacyURL": "http://static.thestarpress.com/privacy/",
+		"privacyURL": "http://static.thestarpress.com/privacy/",
+		"adChoicesURL": "http://static.thestarpress.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Muncie"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"dealChicken": {
+		"marketKey": "muncie-in"
+	},
+	"facebook": {
+		"secret#private": "1a161829906b511e32be6e95660b8ec9",
+		"productId": "176246942397409"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.thestarpress.com",
+		"trackingSuite": "gpaper150, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Muncie"
+		},
+		"email": "thestarpress@gannett.com",
+		"phone": "1-800-783-2472"
+	}
+}

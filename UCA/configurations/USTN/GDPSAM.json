@@ -1,0 +1,91 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.tennessean.com",
+			"trackingSuite": "gpaper151, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.tennessean\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.tennessean.com/subscribe",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}],
+		"organizations": {
+			"tntech": {
+				"userId": "5757621",
+				"licenseId": "6205906",
+				"organizationName": "Tennessee Tech University",
+				"splashImageURL": "//staticassets.tennessean.com/organizations/tntech/splash.jpg",
+				"logoImageURL": "//staticassets.tennessean.com/organizations/tntech/logo.jpg"
+			}
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/tn-nashville-C1056/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/tn-nashville-C1056/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/tn-nashville-C1056/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "Tennessean.com"
+	},
+	"mobile": {
+		"title": "Tennessean.com | Mobile Edition"
+	},
+	"firefly": {
+		"links": {
+			"getAccess": "https://subscribe.tennessean.com/trial-expired/",
+			"restricted": "https://subscribe.tennessean.com/trial-expired/"
+		}
+	},
+	"ios": {
+		"title": "Tennessean iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.tennessean.com/terms/",
+			"caliPrivacyURL": "http://static.tennessean.com/privacy/",
+			"privacyURL": "http://static.tennessean.com/privacy/",
+			"adChoicesURL": "http://static.tennessean.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile151"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DP",
+			"unitNumber": "1056",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/605"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/607"
+		}
+	},
+	"android": {
+		"title": "Tennessean Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DP",
+			"unitNumber": "1056",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile151"
+		}
+	}
+}

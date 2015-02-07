@@ -1,0 +1,44 @@
+{
+	"publicationName": "Visalia Times-Delta",
+	"title": "Visalia Times-Delta",
+	"marketId": "J4",
+	"brandId": "VISALIATULARE",
+	"cobrandLogoText": "VisaliaTimesDelta.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-888-487-9565",
+	"website": "www.visaliatimesdelta.com",
+	"baseName": "visaliatimesdelta",
+	"email": "visaliatimesdelta@gannett.com",
+	"state": "CA",
+	"links": {
+		"termsOfServiceURL": "http://static.visaliatimesdelta.com/terms/",
+		"caliPrivacyURL": "http://static.visaliatimesdelta.com/privacy/",
+		"privacyURL": "http://static.visaliatimesdelta.com/privacy/",
+		"adChoicesURL": "http://static.visaliatimesdelta.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Visalia"
+	},
+	"dealChicken": {
+		"marketKey": "visalia-ca"
+	},
+	"facebook": {
+		"secret#private": "b5a0d23e5eb117a30abcafd24eeae9a9",
+		"productId": "148799741837669"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.visaliatimesdelta.com",
+		"trackingSuite": "gpaper175, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Visalia"
+		},
+		"email": "visaliatimesdelta@gannett.com",
+		"phone": "1-888-487-9565"
+	}
+}

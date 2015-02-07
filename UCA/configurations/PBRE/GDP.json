@@ -1,0 +1,44 @@
+{
+	"publicationName": "Florida Today",
+	"title": "Florida Today",
+	"marketId": "A9",
+	"brandId": "1028FT",
+	"cobrandLogoText": "FloridaToday.com | A Gannett Company",
+	"palette": "p6",
+	"custService": "877-424-0156",
+	"website": "www.floridatoday.com",
+	"baseName": "floridatoday",
+	"email": "floridatoday@gannett.com",
+	"state": "FL",
+	"links": {
+		"termsOfServiceURL": "http://static.floridatoday.com/terms/",
+		"caliPrivacyURL": "http://static.floridatoday.com/privacy/",
+		"privacyURL": "http://static.floridatoday.com/privacy/",
+		"adChoicesURL": "http://static.floridatoday.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"chat": {
+		"publicationId": "Brevard"
+	},
+	"dealChicken": {
+		"marketKey": "space-coast-fl"
+	},
+	"facebook": {
+		"secret#private": "1d9785af646ddad2400b9021fbb452bd",
+		"productId": "133451750049911"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.floridatoday.com",
+		"trackingSuite": "gpaper114, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Brevard"
+		},
+		"email": "floridatoday@gannett.com",
+		"phone": "1-877-424-0156"
+	}
+}

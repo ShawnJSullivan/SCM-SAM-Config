@@ -1,0 +1,160 @@
+{
+	"baseName": "rgj",
+	"mobilesite": "m.rgj.com",
+	"cobrandLogo": "http://tablet.rgj.com/property/logo",
+	"emailNewsTips": "tips@rgj.com",
+	"location": {
+		"timezone": "America/Nevada",
+		"name": "Reno, NV",
+		"zip": "89501",
+		"coordinates": "39.5272,-119.8219",
+		"latitude": 39.5272,
+		"longitude": -119.8219
+	},
+	"twitter": {
+		"name": "rgj"
+	},
+	"fireflyEnabled": true,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/nv-reno-mobile-C1011/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/nv-reno-mobile-C1011/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsipad",
+		"trackingServer": "repdata.rgj.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobile162"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "178959168788968"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.rgj.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.rgj.com/privacy/",
+		"TOS_URL": "http://static.rgj.com/terms/",
+		"TILE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://static.rgj.com/privacy/#adchoices",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "reno-nv",
+		"WDAKey": "baa29cbd-a7b5-41fc-b14d-016299d2366b",
+		"SHARING_ENABLED": "T"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Reno Gazette-Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.rgj.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.rgj.autosubscription.1month",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "J7",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id805729789?mt=8",
+		"OLD_FEED_URL": "http://m.rgj.com/mg-ui/dynagate/page?site=n_rgj&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/rgjnewsforipad",
+		"ITUNES_APPID": "805729789"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Nevada",
+		"BRAND_LOCATION": "Reno, Nevada",
+		"BRAND_LOCATION_ZIP": "89501",
+		"BRAND_IDENTIFIER": "n_rgj",
+		"BRAND_LOCATION_GPS": "39.5272,-119.8219",
+		"BRAND_LOGO_URL": "http://www.rgj.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "SF329WrLKXORkOdAS44AvsNF3Ik-u0xHn9fh1zXOSMgv3dw0i_0HOw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.rgj.com",
+		"CONTACT_US_EMAIL": "tips@rgj.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "Reno Gazette-Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.rgj.com",
+		"BRAND_TWITTER": "rgj",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+			{
+				"name": "Apartments.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.apartments.com/Nevada/Reno"
+			},
+			{
+				"name": "CareerBuilder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://rgj.gannettonline.com/careerbuilder/"
+			},
+			{
+				"name": "Cars.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.cars.com/?aff=renogazj"
+			},
+			{
+				"name": "Classifieds",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.rgj.com/section/classifieds"
+			},
+			{
+				"name": "DealChicken.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.dealchicken.com/reno-nv"
+			},
+			{
+				"name": "Find & Save",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://reno.findnsave.com/"
+			},
+			{
+				"name": "HomeFinder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://rgj.gon.gannettonline.com/apps/pbcs.dll/section?category=HOMES"
+			}
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=reno&state=nv",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.rgj.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.wusa9.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "115",
+		"qa": "0",
+		"staging": "121",
+		"dev": "74",
+		"prod": "115",
+		"prod-moc": "115",
+		"prod-phx": "115"
+	}
+}

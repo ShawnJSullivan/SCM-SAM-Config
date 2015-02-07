@@ -1,0 +1,100 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.lansingstatejournal.com",
+			"trackingSuite": "gpaper144, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/mi-lansing-C1051/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/mi-lansing-C1051/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/mi-lansing-C1051/consumer_sales-all_stop"
+			}
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.lansingstatejournal\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.lansingstatejournal.com/specialoffer",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}]
+	},
+	"site": {
+		"title": "lansingstatejournal.com"
+	},
+	"mobile": {
+		"title": "lansingstatejournal.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.lansingstatejournal.com/trial-expired/",
+				"restricted": "https://subscribe.lansingstatejournal.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Lansing State Journal iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.lansingstatejournal.com/terms/",
+			"caliPrivacyURL": "http://static.lansingstatejournal.com/privacy/",
+			"privacyURL": "http://static.lansingstatejournal.com/privacy/",
+			"adChoicesURL": "http://static.lansingstatejournal.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile144"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "SD",
+			"unitNumber": "1051",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/975"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/975"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/979"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/979"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Lansing State Journal Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "SD",
+			"unitNumber": "1051",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile144"
+		}
+	}
+}

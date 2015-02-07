@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.firstcoastnews.com",
+			"trackingSuite": "gntbcstwtlv,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "firstcoastnews.com"
+	},
+	"mobile": {
+		"title": "firstcoastnews.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.firstcoastnews.com/trial-expired/",
+				"restricted": "https://subscribe.firstcoastnews.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WTLV News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3319",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwtlv,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/119"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1717"
+		}
+	},
+	"android": {
+		"title": "WTLV News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3319",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwtlv,gntbcstglobal"
+		}
+	}
+}

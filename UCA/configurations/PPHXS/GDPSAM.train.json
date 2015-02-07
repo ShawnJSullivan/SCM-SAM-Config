@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.indystar.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/30"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/234"
+		}
+	}
+}

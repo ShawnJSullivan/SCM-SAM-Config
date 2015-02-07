@@ -1,0 +1,182 @@
+{
+	"baseName": "wbir",
+	"mobilesite": "m.wbir.com",
+	"cobrandLogo": "http://tablet.wbir.com/property/logo",
+	"emailNewsTips": "Newstips@WBIR.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Knoxville, TN",
+		"zip": "37902",
+		"coordinates": "35.9991,-83.9224",
+		"latitude": 35.9991,
+		"longitude": -83.9224
+	},
+	"twitter": {
+		"name": "wbir"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "WBIR Native News iPhone",
+		"trackingServer": "repdata.wbir.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstwbir",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "110845768975038"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.wbir.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.wbir.com/privacy/",
+		"TOS_URL": "http://static.wbir.com/en/terms-service/",
+		"AD_CHOICES_URL": "http://static.wbir.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © 2014 WBIR-TV.  Traffic information provided by INRIX© 2013.  All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "WBIR",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id467273272?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/wbirtv",
+		"ITUNES_APPID": "467273272",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/wbir/id467273272?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.WBIRNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Knoxville, Tennessee",
+		"BRAND_LOCATION_ZIP": "37902",
+		"BRAND_IDENTIFIER": "b_wbir",
+		"BRAND_LOCATION_GPS": "35.9991,-83.9224",
+		"BRAND_LOGO_URL": "http://www.wbir.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "9rrvDgD07g12bJkhbzncn3XYI-Qn87uT0APC-T3ShAcHu9JUii-_Ng..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.wbir.com",
+		"BRAND_NEWS_TIP": "Newstips@WBIR.com",
+		"CONTACT_US_EMAIL": "news@wbir.com",
+		"BRAND_NAME": "WBIR",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.wbir.com",
+		"BRAND_TWITTER": "wbir"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "tn-knoxville-WBIR-mobile-B3328",
+		"amazonA9AppId": "ad18487c62494ed1aec226fca33c07b5",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_wbir.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_wbir.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+		"CellJournalist" : {
+		"Url" : "http://yourtake.wbir.com",
+		"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "51",
+		"qa": "11",
+		"staging": "11",
+		"dev": "13",
+		"prod": "51",
+		"prod-moc": "51",
+		"prod-phx": "51"
+	}
+}

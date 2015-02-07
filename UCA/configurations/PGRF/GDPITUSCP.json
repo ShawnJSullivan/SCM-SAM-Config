@@ -1,0 +1,160 @@
+{
+	"baseName": "greatfallstribune",
+	"mobilesite": "m.greatfallstribune.com",
+	"cobrandLogo": "http://tablet.greatfallstribune.com/property/logo",
+	"emailNewsTips": "tribonline@greatfallstribune.com",
+	"location": {
+		"timezone": "America/North_Dakota/Center",
+		"name": "Great Falls, MT",
+		"zip": "59405",
+		"coordinates": "47.5036,-111.2864",
+		"latitude": 47.5036,
+		"longitude": -111.2864
+	},
+	"twitter": {
+		"name": "GFTribune"
+	},
+	"fireflyEnabled": true,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/mt-greatfalls-mobile-C1094/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/mt-greatfalls-mobile-C1094/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsipad",
+		"trackingServer": "repdata.greatfallstribune.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobile131"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "137930962930704"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.greatfallstribune.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.greatfallstribune.com/privacy/",
+		"TOS_URL": "http://static.greatfallstribune.com/terms/",
+		"TILE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://static.greatfallstribune.com/privacy/#adchoices",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "great-falls-mt",
+		"WDAKey": "bae09590-e0d6-4f4f-aa67-4d362df4767a",
+		"SHARING_ENABLED": "T"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Great Falls Tribune. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.greatfallstribune.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.greatfallstribune.autosubscription.1month",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "G1",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id863095595?mt=8",
+		"OLD_FEED_URL": "http://m.greatfallstribune.com/mg-ui/dynagate/page?site=n_greatfallstribune&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/greatfallstribuneforipad",
+		"ITUNES_APPID": "863095595"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/North_Dakota/Center",
+		"BRAND_LOCATION": "Great Falls, Montana",
+		"BRAND_LOCATION_ZIP": "59405",
+		"BRAND_IDENTIFIER": "n_greatfallstribune",
+		"BRAND_LOCATION_GPS": "47.5036,-111.2864",
+		"BRAND_LOGO_URL": "http://www.greatfallstribune.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "DIlcQwru_6w7c31Cl_cDX13-O_MKDhFlgG0E4G0gg64Y281K5TdMfQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.greatfallstribune.com",
+		"CONTACT_US_EMAIL": "tribcirc@greatfallstribune.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "Great Falls Tribune",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.greatfallstribune.com",
+		"BRAND_TWITTER": "GFTribune",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+			{
+				"name": "Apartments.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.apartments.com/partner/Rent.aspx?p=greatfal&Area1=Y&page=SubArea&state=MT&rgn2=164&frontdoor=greatfal&partner=greatfal&prvpg=3"
+			},
+			{
+				"name": "CareerBuilder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://greatfallstribune.gannettonline.com/careerbuilder/index.html"
+			},
+			{
+				"name": "Cars.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.cars.com/?aff=greatfal"
+			},
+			{
+				"name": "Classifieds",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.greatfallstribune.com/classifieds"
+			},
+			{
+				"name": "DealChicken.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.dealchicken.com/great-falls-mt"
+			},
+			{
+				"name": "Find & Save",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://findnsave.greatfallstribune.com/"
+			},
+			{
+				"name": "HomeFinder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://greatfallstribune.gon.gannettonline.com/apps/pbcs.dll/section?category=HOMES&pub=greatfallstribune"
+			}
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=great%20falls&state=mt",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.greatfallstribune.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.wusa9.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "137",
+		"qa": "0",
+		"staging": "143",
+		"dev": "128",
+		"prod": "137",
+		"prod-moc": "137",
+		"prod-phx": "137"
+	}
+}

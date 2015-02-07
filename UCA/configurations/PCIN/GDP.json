@@ -1,0 +1,46 @@
+{
+	"publicationName": "The Enquirer",
+	"title": "The Enquirer",
+	"marketId": "AB",
+	"brandId": "1019EQ",
+	"state": "OH",
+	"baseName": "cincinnati",
+	"website": "news.cincinnati.com",
+	"mobilesite": "m.cincinnati.com",
+	"cobrandLogo": "http://tablet.cincinnati.com/property/logo",
+	"cobrandLogoText": "Cincinnati.com | A Gannett Company",
+	"custService": "1-800-876-4500",
+	"email": "customerservice@enquirer.com",
+	"links": {
+		"termsOfServiceURL": "http://static.cincinnati.com/terms/",
+		"caliPrivacyURL": "http://static.cincinnati.com/privacy/",
+		"privacyURL": "http://static.cincinnati.com/privacy/",
+		"adChoicesURL": "http://static.cincinnati.com/adchoices/"
+	},
+	"chat": {
+		"publicationId": "Cincinnati"
+	},
+	"firefly":{
+		"threshold": 20,
+		"thresholdRegistered": 20,
+		"enabled": true
+	},
+	"facebook": {
+		"secret#private": "ecb2ffb986fa53320419ec061327e17b",
+		"productId": "157995810912644"
+	},
+	"dealChicken": {
+		"marketKey": "cincinnati-oh"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.cincinnati.com",
+		"trackingSuite": "gpaper120, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Cincinnati"
+		},
+		"email": "CincinnatiEnquirer@gannett.com",
+		"phone": "1-800-876-4500"
+	}
+}

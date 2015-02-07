@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.mansfieldnewsjournal.com",
+			"trackingSuite": "gpaper234, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "mansfieldnewsjournal.com"
+	},
+	"mobile": {
+		"title": "mansfieldnewsjournal.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.mansfieldnewsjournal.com/trial-expired/",
+				"restricted": "https://subscribe.mansfieldnewsjournal.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "News Journal iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OM",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile234"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/699"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/699"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/703"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/703"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "News Journal Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OM",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile234"
+		}
+	}
+}

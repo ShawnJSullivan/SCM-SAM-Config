@@ -1,0 +1,107 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.visaliatimesdelta.com",
+			"trackingSuite": "gpaper175, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ca-visalia-C1089/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ca-visalia-C1089/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ca-visalia-C1089/consumer_sales-all_stop"
+			}
+		},
+		"multiPublication" : {
+			"enabled" : true,
+			"publications": [
+				{
+					"marketId": "J4",
+					"submarketId": "TUL",
+					"baseName": "visaliatimesdelta",
+					"publicationAssetAlias": "tulareadvanceregister",
+					"title": "Tulare Advance-Register",
+					"description": "Tulare Advance-Register's in-depth coverage of local news benefits readers in the Tulare area."
+				},
+				{
+					"marketId": "J4",
+					"submarketId": "VIS",
+					"baseName": "visaliatimesdelta",
+					"publicationAssetAlias": "visaliatimesdelta",
+					"title": "Visalia Times-Delta",
+					"description": "Visalia Times-Delta is the prime source of news and information in the Visalia area."
+				}
+			]
+		}
+	},
+	"site": {
+		"title": "visaliatimesdelta.com"
+	},
+	"mobile": {
+		"title": "visaliatimesdelta.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.visaliatimesdelta.com/trial-expired/",
+				"restricted": "https://subscribe.visaliatimesdelta.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Visalia Times-Delta iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "TA",
+			"unitNumber": "1089",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile175"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1149"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1149"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1143"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1143"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Visalia Times-Delta Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "TA",
+			"unitNumber": "1089",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile175"
+		}
+	}
+}

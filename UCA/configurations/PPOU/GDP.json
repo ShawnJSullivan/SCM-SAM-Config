@@ -1,0 +1,44 @@
+{
+	"publicationName": "Poughkeepsie Journal",
+	"title": "Poughkeepsie Journal",
+	"marketId": "BK",
+	"brandId": "1066PJ",
+	"state": "NY",
+	"cobrandLogoText": "PoughkeepsieJournal.com | A Gannett Company",
+	"palette": "p5",
+	"custService": "1-877-424-4341",
+	"website": "www.poughkeepsiejournal.com",
+	"baseName": "poughkeepsiejournal",
+	"email": "newsroom@poughkeepsiejournal.com",
+	"links": {
+		"termsOfServiceURL": "http://static.poughkeepsiejournal.com/terms/",
+		"caliPrivacyURL": "http://static.poughkeepsiejournal.com/privacy/",
+		"privacyURL": "http://static.poughkeepsiejournal.com/privacy/",
+		"adChoicesURL": "http://static.poughkeepsiejournal.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"chat": {
+		"publicationId": "Poughkeepsie"
+	},
+	"dealChicken": {
+		"marketKey": "poughkeepsie-ny"
+	},
+	"facebook": {
+		"secret#private": "2a98f2eb73fc1f494c8e37f24bdc5b62",
+		"productId": "179935365368749"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.poughkeepsiejournal.com",
+		"trackingSuite": "gpaper161, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Poughkeepsie"
+		},
+		"email": "thepoughkeepsiejournal@gannett.com",
+		"phone": "1-877-424-4341"
+	}
+}

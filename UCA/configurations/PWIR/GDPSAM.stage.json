@@ -1,0 +1,16 @@
+{
+	"default": {
+		"enabled": true,
+		"hostname": "cmsstage.wisconsinrapidstribune.com"
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/849"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/853"
+		}
+	}
+}

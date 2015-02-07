@@ -1,0 +1,42 @@
+{
+	"publicationName": "La Voz Arizona",
+	"title": "La Voz Arizona",
+	"marketId": "BG",
+	"brandId" : "1532IS",
+	"state": "AZ",
+	"baseName": "indystar",
+	"cobrandLogoText": "lavozarizona.com | A Gannett Company",
+	"palette": "p3",
+	"custService": "1-888-357-7827",
+	"website": "www.lavozarizona.com",
+	"email": "webmaster@lavozarizona.com",
+	"facebook": {
+		"productId": "108716282521686"
+	},
+	"dealChicken": {
+		"marketKey" : "phoenix-az"
+	},
+	"twitter": {
+		"name": "indystar"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.indystar.com/en/terms/",
+		"caliPrivacyURL": "http://static.indystar.com/en/privacy/",
+		"privacyURL": "http://static.indystar.com/en/privacy/",
+		"adChoicesURL": "http://static.indystar.com/en/adchoices/"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"chat": {
+		"publicationId": "Indianapolis"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Indianapolis"
+		},
+		"email": "indianapolisstar@gannett.com",
+		"phone": "1-888-357-7827"
+	}
+}

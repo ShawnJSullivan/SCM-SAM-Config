@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.greatfallstribune.com",
+			"trackingSuite": "gpaper131, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "GreatFallsTribune.com"
+	},
+	"mobile": {
+		"title": "GreatFallsTribune.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.greatfallstribune.com/trial-expired/",
+				"restricted": "https://subscribe.greatfallstribune.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Great Falls Tribune iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1094",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile131"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/439"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/439"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/443"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/443"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Great Falls Tribune Native News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1094",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile131"
+		}
+	}
+}

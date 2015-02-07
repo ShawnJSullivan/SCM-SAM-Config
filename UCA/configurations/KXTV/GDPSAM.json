@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.news10.net",
+			"trackingSuite": "gntbcstkxtv,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "News10.net"
+	},
+	"mobile": {
+		"title": "News10.net | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.news10.net/trial-expired/",
+				"restricted": "https://subscribe.news10.net/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "News10 News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3335",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstkxtv,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/171"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1795"
+		}
+	},
+	"android": {
+		"title": "News10 News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3335",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstkxtv,gntbcstglobal"
+		}
+	}
+}

@@ -1,0 +1,160 @@
+{
+	"baseName": "desertsun",
+	"mobilesite": "m.desertsun.com",
+	"cobrandLogo": "http://tablet.desertsun.com/property/logo",
+	"emailNewsTips": "localnews@thedesertsun.com",
+	"location": {
+		"timezone": "America/Los_Angeles",
+		"name": "Palm Springs, CA",
+		"zip": "92263",
+		"coordinates": "33.8303,-116.5444",
+		"latitude": 33.8303,
+		"longitude": -116.5444
+	},
+	"twitter": {
+		"name": "MyDesert"
+	},
+	"fireflyEnabled": true,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/ca-palmsprings-mobile-C1082/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/ca-palmsprings-mobile-C1082/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsipad",
+		"trackingServer": "repdata.desertsun.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobile156"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "116853348383382"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static-origin.mydesert.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static-origin.mydesert.com/privacy/",
+		"TOS_URL": "http://static-origin.mydesert.com/terms/",
+		"TILE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://static-origin.mydesert.com/privacy/#adchoices",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "palm-springs-ca",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "9646bee2-dc0f-45a9-a2af-8c79ea955661"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Desert Sun. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.desertsun.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.mydesert.autosubscription.1month",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "J1",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id600074187?mt=8",
+		"OLD_FEED_URL": "http://m.desertsun.com/mg-ui/dynagate/page?site=n_mydesert&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thedesertsunforipad",
+		"ITUNES_APPID": "600074187"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Los_Angeles",
+		"BRAND_LOCATION": "Palm Springs, California",
+		"BRAND_LOCATION_ZIP": "92263",
+		"BRAND_IDENTIFIER": "n_mydesert",
+		"BRAND_LOCATION_GPS": "33.8303,-116.5444",
+		"BRAND_LOGO_URL": "http://www.desertsun.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "MyDesert",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0E4176",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "eU9JgboG1wHW-5Xo2874P7AvALE1r99Z91NR4ti8yZASQliHhEkxuQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.desertsun.com",
+		"CONTACT_US_EMAIL": "onlinehelp@mydesert.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "The Desert Sun",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.desertsun.com",
+		"BRAND_TWITTER": "MyDesert",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+			{
+				"name": "Apartments.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.apartments.com/partner/Area.aspx?who=dsonline&p=dsonline&rgn4=133&page=Area&Rent_Minimum=0&Rent_Maximum=9999&state=ca&frontdoor=dsonline&partner=dsonline&prvpg=2&type_listing=1&cont.x=40&cont.y=15"
+			},
+			{
+				"name": "CareerBuilder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://desertsun.gannettonline.com/careerbuilder/index.html"
+			},
+			{
+				"name": "Cars.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.cars.com/?aff=dsonline"
+			},
+			{
+				"name": "Classifieds",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.desertsun.com/section/classifieds"
+			},
+			{
+				"name": "DealChicken.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.dealchicken.com/palm-springs-ca"
+			},
+			{
+				"name": "Find & Save",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://findnsave.desertsun.com/"
+			},
+			{
+				"name": "HomeFinder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://desertsun.gon.gannettonline.com/apps/pbcs.dll/section?category=HOMES&pub=mydesert"
+			}
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=palm%20springs&state=ca",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.desertsun.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.wusa9.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "55",
+		"qa": "55",
+		"staging": "55",
+		"dev": "61",
+		"prod": "55",
+		"prod-moc": "55",
+		"prod-phx": "55"
+	}
+}

@@ -1,0 +1,50 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.cincinnati.com"
+		},
+		"multiPublication" : {
+			"enabled" : true,
+			"publications": [
+				{
+					"marketId": "BG",
+					"baseName": "indystar",
+					"title": "Indianapolis Star",
+					"description": "Use this publication for end-to-end testing.",
+					"links": {
+						"mobileAppURLs": {
+							"ios": "http://apple.com/",
+							"android": "http://www.android.com/"
+						}
+					}
+				},
+				{
+					"marketId": "AB",
+					"baseName": "cincinnati",
+					"title": "The Cincinnati Enquirer",
+					"description": "This publication will NOT allow end-to-end testing."
+				},
+				{
+					"marketId": "BL",
+					"baseName": "delawareonline",
+					"title": "The News Journal",
+					"description": "This publication will NOT allow end-to-end testing."
+				}
+			]
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "qa101.dev.gmti.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/36"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/"
+		}
+	}
+}

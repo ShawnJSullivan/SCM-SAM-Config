@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.thv11.com",
+			"trackingSuite": "gntbcstkthv,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "THV11.COM"
+	},
+	"mobile": {
+		"title": "THV11.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thv11.com/trial-expired/",
+				"restricted": "https://subscribe.thv11.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "THV11 News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3324",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstkthv,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/147"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1783"
+		}
+	},
+	"android": {
+		"title": "THV11 News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3324",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstkthv,gntbcstglobal"
+		}
+	}
+}

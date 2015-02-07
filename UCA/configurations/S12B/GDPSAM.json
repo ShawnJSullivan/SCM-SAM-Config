@@ -1,0 +1,36 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.tennessean.com",
+			"trackingSuite": "gpapernashville12thandbroad, gntbcstglobal"
+		},
+		"tealium": {
+			"enabled": false
+		},
+		"support": {
+			"accountActivation": false,
+			"customerServiceViaEmailOnly": true
+		},
+		"dictionary": {
+			"subscribe_default_pageHeadline": "Join Now",
+			"subscribe_default_fodHeadline": "Please select your 12th & Broad membership",
+			"subscribe_default_fodDescription": "Experience Nashville’s creative community with unique events and content.",
+			"subscribe_default_cartText": "You're here! We appreciate ya. We just wanted to say thanks! :) <p class='cart-faq'><a href='http://www.12thandbroad.com/faq/'>Frequently Asked Questions</a></p>",
+			"subscribe_default_pageFooter": "Need help or have a question about your account?",
+			"subscribe_default_registerDescription": "Your membership also includes full access to The Tennessean’s website at Tennessean.com. Please fill out the form below to create an account.",
+			"subscribe_default_registerDisclaimer": " ",
+			"subscribe_default_paymentHeader": "Payment",
+			"thankyou_default_subscribedHeader": "Thank you for joining",
+			"thankyou_default_subscribedDescription": " Thank you for joining 12th & Broad. Events will be promoted via our website, email and social media. Use your email and password to claim your member tickets at no additional cost. You also have full digital access to Tennessean.com and it’s mobile apps. Use the same email and password to access those.",
+			"thankyou_default_subscribedDisclaimer": " ",
+			"subscribeDefaultFODHeadline": "Please select your 12th & Broad membership",
+			"subscribeDefaultFODDescription": "Experience Nashville’s creative community with unique events and content."
+		},
+		"externalCSS": {
+			"enabled": true,
+			"links": [
+				{"href": "https://12thandbroad.com/content/css/sam.css"}
+			]
+		}
+	}
+}

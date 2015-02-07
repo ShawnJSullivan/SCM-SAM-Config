@@ -1,0 +1,160 @@
+{
+	"baseName": "jconline",
+	"mobilesite": "m.jconline.com",
+	"cobrandLogo": "http://tablet.jconline.com/property/logo",
+	"emailNewsTips": "jconline@journalandcourier.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Lafayette, IN",
+		"zip": "47901",
+		"coordinates": "40.4172,-86.8786",
+		"latitude": 40.4172,
+		"longitude": -86.8786
+	},
+	"twitter": {
+		"name": "JConline"
+	},
+	"fireflyEnabled": true,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/in-lafayette-mobile-C1048/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/in-lafayette-mobile-C1048/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsipad",
+		"trackingServer": "repdata.jconline.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobile143"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "150121088373528"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.jconline.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.jconline.com/privacy/",
+		"TOS_URL": "http://static.jconline.com/terms/",
+		"TILE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://static.jconline.com/privacy/#adchoices",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "tile",
+		"DEAL_CHICKEN_LOCATION": "lafayette-in",
+		"WDAKey": "16e0676e-7499-4c2e-bf68-cf21a1e598ff",
+		"SHARING_ENABLED": "T"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Journal & Courier. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.jconline.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.jconline.autosubscription.1month",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "BY",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id815251197?mt=8",
+		"OLD_FEED_URL": "http://m.jconline.com/mg-ui/dynagate/page?site=n_jconline&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/journalandcourierforipad",
+		"ITUNES_APPID": "815251197"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Lafayette, IN",
+		"BRAND_LOCATION_ZIP": "47901",
+		"BRAND_IDENTIFIER": "n_jconline",
+		"BRAND_LOCATION_GPS": "40.4172,-86.8786",
+		"BRAND_LOGO_URL": "http://www.jconline.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "V5gE_vwe94PJvsu1N3i8EibIZbz4kdjN0Qz20TebM0LlCCgO-4Tgdg..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.jconline.com",
+		"CONTACT_US_EMAIL": "journalandcourier@gannett.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "Journal and Courier",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.jconline.com",
+		"BRAND_TWITTER": "JConline",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+			{
+				"name": "Apartments.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.apartments.com/Indiana/West-Lafayette"
+			},
+			{
+				"name": "CareerBuilder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://jconline.gannettonline.com/careerbuilder/index.html"
+			},
+			{
+				"name": "Cars.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.cars.com/?aff=jconline"
+			},
+			{
+				"name": "Classifieds",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.jconline.com/classifieds"
+			},
+			{
+				"name": "DealChicken.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.dealchicken.com/lafayette-in"
+			},
+			{
+				"name": "Find & Save",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.jconline.com/deals"
+			},
+			{
+				"name": "HomeFinder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.jconline.com/homes"
+			}
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=lafayette&state=in",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.jconline.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.wusa9.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "163",
+		"qa": "0",
+		"staging": "181",
+		"dev": "146",
+		"prod": "163",
+		"prod-moc": "163",
+		"prod-phx": "163"
+	}
+}

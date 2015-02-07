@@ -1,0 +1,17 @@
+{
+	"default": {
+		"facebook": {
+			"secret#private": "782445abf8a08aeecb9b18eed2ff29ac"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/31"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/89"
+		}
+	}
+}

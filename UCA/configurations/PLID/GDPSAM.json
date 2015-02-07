@@ -1,0 +1,86 @@
+{
+	"default": {
+		"support": {
+			"accountManagementMenuOptionsMap": {
+				"eNewspaper": {"map": "ENEWSPAPER", "enabled": false}
+			}
+		},
+		"omniture": {
+			"trackingServer": "srepdata.livingstondaily.com",
+			"trackingSuite": "gpaper219, gntbcstglobal"
+		},
+		"dictionary": {
+			"thankyou_default_subscribedDescription": "Thank you for subscribing to Livingston County Daily Press & Argus.",
+			"thankyou_default_subscribedDisclaimer":{
+				"enabled": true,
+				"text": "To opt out or manage your newsletter preferences, log in to My Account on livingstondaily.com."
+			},
+			"subscribe_default_fodHeadline": "CHOOSE A SUBSCRIPTION OPTION",
+			"subscribe_default_fodDescription": "The Livingston County Daily Press & Argus has been serving Livingston County since 2000, as a Daily newspaper. We are the only print source for staying up-to-date on Livingston County happenings."
+		}
+	},
+	"site": {
+		"title": "livingstondaily.com"
+	},
+	"mobile": {
+		"title": "livingstondaily.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.livingstondaily.com/trial-expired/",
+				"restricted": "https://subscribe.livingstondaily.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Livingston Daily iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "1008",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile219"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1113"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1113"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1117"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1117"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Livingston Daily Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "1008",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile219"
+		}
+	}
+}

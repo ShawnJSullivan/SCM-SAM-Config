@@ -1,0 +1,41 @@
+{
+	"publicationName": "WGRZ",
+	"title": "WGRZ.COM",
+	"marketId": "WGRZ",
+	"brandId": "3315WGRZ",
+	"cobrandLogoText": "WGRZ.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-716-849-2222",
+	"website": "www.wgrz.com",
+	"baseName": "wgrz",
+	"email": "webmaster@WGRZ.com",
+	"state": "NY",
+	"links": {
+		"termsOfServiceURL": "http://static.wgrz.com/en/terms-service/",
+		"caliPrivacyURL": "http://static.wgrz.com/privacy/",
+		"privacyURL": "http://static.wgrz.com/privacy/",
+		"adChoicesURL": "http://static.wgrz.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "buffalo-ny"
+	},
+	"facebook": {
+		"secret#private": "74769b0edb2236f8783966d0f89790f1",
+		"productId": "193961913949886"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wgrz.com",
+		"trackingSuite": "gntbcstwgrz,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@WGRZ.com",
+		"phone": "1-716-849-2222"
+	}
+}

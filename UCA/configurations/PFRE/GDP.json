@@ -1,0 +1,44 @@
+{
+	"publicationName": "The News-Messenger",
+	"title": "The News-Messenger",
+	"marketId": "BB",
+	"brandId": "1019FM",
+	"cobrandLogoText": "TheNews-Messenger.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0217",
+	"website": "www.thenews-messenger.com",
+	"baseName": "thenews-messenger",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"termsOfServiceURL": "http://static.thenews-messenger.com/terms/",
+		"caliPrivacyURL": "http://static.thenews-messenger.com/privacy/",
+		"privacyURL": "http://static.thenews-messenger.com/privacy/",
+		"adChoicesURL": "http://static.thenews-messenger.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Fremont"
+	},
+	"dealChicken": {
+		"marketKey": "north-coast-oh"
+	},
+	"facebook": {
+		"secret#private": "173e4c1aa9ba6e6eb23c16550c0b6d76",
+		"productId": "172715439435287"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.thenews-messenger.com",
+		"trackingSuite": "gpaper129, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Fremont"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-877-424-0217"
+	}
+}

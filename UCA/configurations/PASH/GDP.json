@@ -1,0 +1,48 @@
+{
+	"publicationName": "The Asheville Citizen Times",
+	"title": "The Asheville Citizen Times",
+	"marketId": "B0",
+	"brandId": "1122CT",
+	"state": "NC",
+	"baseName": "citizen-times",
+	"website": "www.citizen-times.com",
+	"mobilesite": "m.citizen-times.com",
+	"cobrandLogo": "http://tablet.citizen-times.com/property/logo",
+	"cobrandLogoText": "Citizen-times.com | A Gannett Company",
+	"custService": "1-800-672-2472",
+	"email": "citizentimes@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.citizen-times.com/terms/",
+		"caliPrivacyURL": "http://static.citizen-times.com/privacy/",
+		"privacyURL": "http://static.citizen-times.com/privacy/",
+		"adChoicesURL": "http://static.citizen-times.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Asheville"
+	},
+	"dealChicken": {
+		"marketKey": "asheville-nc"
+	},
+	"facebook": {
+		"secret#private": "79f9b54095ddaa3db6b3ea8250bd7c20",
+		"productId": "117201858348253"
+	},
+	"twitter": {
+		"name": "asheville"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.citizen-times.com",
+		"trackingSuite": "gpaper108, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Asheville"
+		},
+		"email": "citizentimes@gannett.com",
+		"phone": "1-800-672-2472"
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.poughkeepsiejournal.com",
+			"trackingSuite": "gpaper161, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "PoughkeepsieJournal.com"
+	},
+	"mobile": {
+		"title": "PoughkeepsieJournal.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.poughkeepsiejournal.com/trial-expired/",
+				"restricted": "https://subscribe.poughkeepsiejournal.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Poughkeepsie Journal iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DA",
+			"unitNumber": "1066",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile161"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/379"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/379"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/383"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/383"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Poughkeepsie Journal Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "DA",
+			"unitNumber": "1066",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile161"
+		}
+	}
+}

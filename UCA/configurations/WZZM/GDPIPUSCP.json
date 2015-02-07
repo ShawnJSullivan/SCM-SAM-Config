@@ -1,0 +1,182 @@
+{
+	"baseName": "wzzm13",
+	"mobilesite": "m.wzzm13.com",
+	"cobrandLogo": "http://tablet.wzzm13.com/property/logo",
+	"emailNewsTips": "news@wzzm13.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Grand Rapids, MI",
+		"zip": "49544",
+		"coordinates": "43.0147,-85.6849",
+		"latitude": 43.0147,
+		"longitude": -85.6849
+	},
+	"twitter": {
+		"name": "wzzm13"
+	},
+	"fireflyEnabled": false,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "WZZM13 Native News iPhone",
+		"trackingServer": "repdata.wzzm13.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobilebcstwzzm",
+		"OMNITURE_PRODUCT_ID": "bcstnewsiphone"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "140069466052631"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.wzzm13.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.wzzm13.com/privacy/",
+		"TOS_URL": "http://static.wzzm13.com/terms/",
+		"adchoices_URL": "http://static.wzzm13.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "15"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "WZZM: Copyright © 2014 WZZM-TV. Traffic information provided by INRIX© 2013. All rights reserved.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"MARKET_ID": "WZZM",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id467461933?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/wzzm-tv",
+		"ITUNES_APPID": "467461933",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/wzzm-tv/id467461933?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.WZZMNews"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Grand Rapids, Michigan",
+		"BRAND_LOCATION_ZIP": "49544",
+		"BRAND_IDENTIFIER": "b_wzzm13",
+		"BRAND_LOCATION_GPS": "43.0147,-85.6849",
+		"BRAND_LOGO_URL": "http://www.wzzm13.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "mDbpa7CKID0nGoD5jlVeTrlI3KuLE44Rv_kl-QFCtrqW5ZWJ1_mBfA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.wzzm13.com",
+		"BRAND_NEWS_TIP": "news@wzzm13.com",
+		"CONTACT_US_EMAIL": "webmaster@wzzm13.com",
+		"BRAND_NAME": "WZZM",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.wzzm13.com",
+		"BRAND_TWITTER": "wzzm13"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"property": "mi-grandrapids-WZZM-mobile-B3314",
+		"amazonA9AppId": "e3d1e88413844c548de43c331b35d50c",
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/320x50_wzzm.png"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/300x250_wzzm.png"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "article_banner_top"
+			},
+			{
+				"position": 10,
+				"minPosition": 3,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "article_banner_bottom"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"size": "{320,50}",
+				"enableFlexAd": false,
+				"adType": "section_front_top"
+			},
+			{
+				"position": 10,
+				"size": "{300,250}",
+				"enableFlexAd": false,
+				"adType": "section_front_bottom"
+			}
+		]
+	},
+	"YourTake": {
+		"CellJournalist" : {
+		"Url" : "http://yourtake.wzzm13.com",
+		"OpenInSafari" : true
+		},
+		"Contexts": {
+			"Upload": {
+				"requires-oauth": true,
+				"tab-order": 3
+			},
+			"Recent": {
+				"requires-oauth": false,
+				"tab-order": 1,
+				"item-count": 100,
+				"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'"
+			},
+			"Featured": {
+				"requires-oauth": false,
+				"tab-order": 0,
+				"item-count": 9,
+				"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+				"is-home": true
+			},
+			"MyUploads": {
+				"requires-oauth": true,
+				"tab-order": 2,
+				"item-count": 100,
+				"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'"
+			}
+		}
+	},
+	"appReviewPrompt": {
+		"enable": false,
+		"reset": false,
+		"debug": true,
+		"daysUntilPrompt": 3,
+		"usesUntilPrompt": 10,
+		"daysBeforeReminding": 10,
+		"reviewTitle": "%@",
+		"reviewMessage": "We hope that you enjoy using the %@ app.  Please take a moment to rate it.  Thanks for your support!",
+		"rateButtonTitle": "Rate It Now",
+		"remindButtonTitle": "Remind Me Later",
+		"cancelButtonTitle": "No, Thanks"
+	},
+	"SiteID": {
+		"training": "71",
+		"qa": "71",
+		"staging": "75",
+		"dev": "154",
+		"prod": "69",
+		"prod-moc": "69",
+		"prod-phx": "69"
+	}
+}

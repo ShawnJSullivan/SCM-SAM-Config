@@ -1,0 +1,78 @@
+{
+	"baseName": "statesmanjournal",
+	"mobilesite": "m.statesmanjournal.com",
+	"cobrandLogo": "http://tablet.statesmanjournal.com/property/logo",
+	"emailNewsTips": "online@statesmanjournal.com",
+	"location": {
+		"timezone": "America/Los_Angeles",
+		"name": "Salem, OR",
+		"zip": "97309",
+		"coordinates": "44.9308,-123.0289",
+		"latitude": 44.9308,
+		"longitude": -123.0289
+	},
+	"twitter": {
+		"name": "Salem_Statesman"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.statesmanjournal.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile166"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "138699832852944"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.statesmanjournal.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.statesmanjournal.com/privacy/",
+		"TOS_URL": "http://static.statesmanjournal.com/terms/",
+		"AD_CHOICES_URL": "http://static.statesmanjournal.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "babfa3ba-1bb7-4063-af82-c8590faa4452"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Statesman Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.statesmanjournal.iphone.autosubscription.1month",
+		"MARKET_ID": "J0",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id525828348?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/statesmanjournal",
+		"ITUNES_APPID": "525828348",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/statesmanjournal/id525828348?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.statesmanjournal"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Los_Angeles",
+		"BRAND_LOCATION": "Salem, Oregon",
+		"BRAND_LOCATION_ZIP": "97309",
+		"BRAND_IDENTIFIER": "n_statesmanjournal",
+		"BRAND_LOCATION_GPS": "44.9308,-123.0289",
+		"BRAND_LOGO_URL": "http://www.statesmanjournal.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "csoI20VtVAs2f3WxGNBjTAGycRBWKOysg35vC2D3JAm7w3LNU5ah-w..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.statesmanjournal.com",
+		"BRAND_NEWS_TIP": "online@statesmanjournal.com",
+		"CONTACT_US_EMAIL": "salemstatesmanjournal@gannett.com",
+		"BRAND_NAME": "Statesman Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.statesmanjournal.com",
+		"BRAND_TWITTER": "Salem_Statesman"
+	}
+}

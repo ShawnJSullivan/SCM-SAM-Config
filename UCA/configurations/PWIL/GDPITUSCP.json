@@ -1,0 +1,160 @@
+{
+	"baseName": "delawareonline",
+	"mobilesite": "m.delawareonline.com",
+	"cobrandLogo": "http://tablet.delawareonline.com/property/logo",
+	"emailNewsTips": "newsdesk@delawareonline.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Wilmington, DE",
+		"zip": "19801",
+		"coordinates": "39.7458,-75.5467",
+		"latitude": 39.7458,
+		"longitude": -75.5467
+	},
+	"twitter": {
+		"name": "delawareonline"
+	},
+	"fireflyEnabled": true,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/de-wilmington-mobile-C1052/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/de-wilmington-mobile-C1052/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsipad",
+		"trackingServer": "repdata.delawareonline.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobile184"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "175037755863662"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.delawareonline.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.delawareonline.com/privacy/",
+		"TOS_URL": "http://static.delawareonline.com/terms/",
+		"TILE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://static.delawareonline.com/privacy/#adchoices",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "wilmington-de",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "C9181C1B-F639-46C4-98AA-69F46FA11D52"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © 2013 The News Journal. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.delawareonline.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.delawareonline.autosubscription.1month",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "BL",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id600071892?mt=8",
+		"OLD_FEED_URL": "http://m.delawareonline.com/mg-ui/dynagate/page?site=n_delawareonline&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thenewsjournalforipad",
+		"ITUNES_APPID": "600071892"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Wilmington, DE",
+		"BRAND_LOCATION_ZIP": "19801",
+		"BRAND_IDENTIFIER": "n_delawareonline",
+		"BRAND_LOCATION_GPS": "39.7458,-75.5467",
+		"BRAND_LOGO_URL": "http://www.delawareonline.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0E4176",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "ViTU3JoyjkmyogQUNw9sPD5CWGDZf68sd_we4zTcvDL7W4grd47cGA..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.delawareonline.com",
+		"CONTACT_US_EMAIL": "newsdesk@delawareonline.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2J1J1A,121212",
+		"BRAND_NAME": "The News Journal",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.delawareonline.com",
+		"BRAND_TWITTER": "delawareonline",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+			{
+				"name": "Apartments.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.apartments.com/partner/region.aspx?page=region&state=DE&frontdoor=newsjour&partner=newsjour"
+			},
+			{
+				"name": "CareerBuilder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://delawareonline.gannettonline.com/careerbuilder/index.html"
+			},
+			{
+				"name": "Cars.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.cars.com/?aff=newsjour"
+			},
+			{
+				"name": "Classifieds",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.delawareonline.com/apps/pbcs.dll/section?Category=MARKETPLACE"
+			},
+			{
+				"name": "DealChicken.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.dealchicken.com/wilmington-de"
+			},
+			{
+				"name": "Find & Save",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://findnsave.delawareonline.com/"
+			},
+			{
+				"name": "HomeFinder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://delawareonline.gon.gannettonline.com/apps/pbcs.dll/section?category=HOMES&pub=delawareonline"
+			}
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=wilmington&state=de",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.delawareonline.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.delawareonline.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "61",
+		"qa": "61",
+		"staging": "67",
+		"dev": "62",
+		"prod": "61",
+		"prod-moc": "61",
+		"prod-phx": "61"
+	}
+}

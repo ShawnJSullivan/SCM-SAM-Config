@@ -1,0 +1,78 @@
+{
+	"baseName": "thespectrum",
+	"mobilesite": "m.thespectrum.com",
+	"cobrandLogo": "http://tablet.thespectrum.com/property/logo",
+	"emailNewsTips": "gjudah@thespectrum.com",
+	"location": {
+		"timezone": "America/Denver",
+		"name": "St. George, UT",
+		"zip": "84770",
+		"coordinates": "37.0953,-113.5781",
+		"latitude": 37.0953,
+		"longitude": -113.5781
+	},
+	"twitter": {
+		"name": "SpectrumNews"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.thespectrum.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile173"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "116065358464006"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.thespectrum.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.thespectrum.com/privacy/",
+		"TOS_URL": "http://static.thespectrum.com/terms/",
+		"AD_CHOICES_URL": "http://static.thespectrum.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "7f78a23b-2e84-4e5c-8c33-18a844f348f5"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Spectrum. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.thespectrum.iphone.autosubscription.1month",
+		"MARKET_ID": "G3",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id520602256?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/thespectrum",
+		"ITUNES_APPID": "520602256",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/thespectrum/id520602256?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.thespectrum"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Denver",
+		"BRAND_LOCATION": "St. George, Utah",
+		"BRAND_LOCATION_ZIP": "84770",
+		"BRAND_IDENTIFIER": "n_thespectrum",
+		"BRAND_LOCATION_GPS": "37.0953,-113.5781",
+		"BRAND_LOGO_URL": "http://www.thespectrum.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "C01D1D",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "RcP9fdX5fhWpAqCOegxFPZ5C7ZcRzqtrLqNBx6bE83XC_OOjrYJy9w..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.thespectrum.com",
+		"BRAND_NEWS_TIP": "gjudah@thespectrum.com",
+		"CONTACT_US_EMAIL": "circulation@thespectrum.com",
+		"BRAND_NAME": "The Spectrum",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.thespectrum.com",
+		"BRAND_TWITTER": "SpectrumNews"
+	}
+}

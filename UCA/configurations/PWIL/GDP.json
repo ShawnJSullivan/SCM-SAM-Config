@@ -1,0 +1,45 @@
+{
+	"publicationName": "The News Journal",
+	"title": "The News Journal",
+	"marketId": "BL",
+	"brandId": "1052M",
+	"state": "DE",
+	"cobrandLogoText": "delawareonline.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-801-3322",
+	"website": "www.delawareonline.com",
+	"baseName": "delawareonline",
+	"email": "newsdesk@delawareonline.com",
+	"links": {
+		"termsOfServiceURL": "http://static.delawareonline.com/terms/",
+		"caliPrivacyURL": "http://static.delawareonline.com/privacy/",
+		"privacyURL": "http://static.delawareonline.com/privacy/",
+		"adChoicesURL": "http://static.delawareonline.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"enabled": true,
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"dealChicken": {
+		"marketKey": "wilmington-de"
+	},
+	"facebook": {
+		"secret#private": "607f7d127c58f5f050163ecb0b31e98b",
+		"productId": "175037755863662"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.greenvilleonline.com",
+		"trackingSuite": "gpaper184, gntbcstglobal"
+	},
+	"chat": {
+		"publicationId": "Wilmington"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Wilmington"
+		},
+		"email": "wilmingtonnewsjournal@gannett.com",
+		"phone": "1-800-801-3322"
+	}
+}

@@ -1,0 +1,41 @@
+{
+	"publicationName": "KVUE",
+	"title": "KVUE.COM",
+	"marketId": "KVUE",
+	"brandId": "3350KVUE",
+	"cobrandLogoText": "KVUE.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-512-459-6521",
+	"website": "www.kvue.com",
+	"baseName": "kvue",
+	"email": "news@kvue.com",
+	"state": "TX",
+	"links": {
+		"termsOfServiceURL": "http://static.kvue.com/terms/",
+		"caliPrivacyURL": "http://static.kvue.com/privacy/",
+		"privacyURL": "http://static.kvue.com/privacy/",
+		"adChoicesURL": "http://static.kvue.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": ""
+	},
+	"facebook": {
+		"secret#private": "34e78277794ea30744c4c4b6d8fd8997",
+		"productId": "217479874996502"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.kvue.com",
+		"trackingSuite": "gntbcstkvue,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@KVUE.com",
+		"phone": "1-512-459-6521"
+	}
+}

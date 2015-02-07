@@ -1,0 +1,41 @@
+{
+	"publicationName": "KARE11",
+	"title": "KARE11.COM",
+	"marketId": "KARE",
+	"brandId": "3323KARE",
+	"cobrandLogoText": "KARE11.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-763-593-1111",
+	"website": "www.kare11.com",
+	"baseName": "kare11",
+	"email": "webmaster@kare11.com",
+	"state": "MN",
+	"links": {
+		"termsOfServiceURL": "http://static.kare11.com/terms/",
+		"caliPrivacyURL": "http://static.kare11.com/privacy/",
+		"privacyURL": "http://static.kare11.com/privacy/",
+		"adChoicesURL": "http://static.kare11.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "twin-cities-mn"
+	},
+	"facebook": {
+		"secret#private": "1a5e6eebc0c00a9ae1bf72f42de92c20",
+		"productId": "178465835525119"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.kare11.com",
+		"trackingSuite": "gntbcstkare,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@kare11.com",
+		"phone": "1-763-593-1111"
+	}
+}

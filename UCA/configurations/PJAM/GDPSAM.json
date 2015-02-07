@@ -1,0 +1,77 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.clarionledger.com",
+			"trackingSuite": "gpaper141, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "ClarionLedger.com"
+	},
+	"mobile": {
+		"title": "ClarionLedger.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.clarionledger.com/trial-expired/",
+				"restricted": "https://subscribe.clarionledger.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Clarion-Ledger iOS App",
+		"email": "clarionledger@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.clarionledger.com/terms/",
+			"caliPrivacyURL": "http://static.clarionledger.com/privacy/",
+			"privacyURL": "http://static.clarionledger.com/privacy/",
+			"adChoicesURL": "http://static.clarionledger.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile141"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "CD",
+			"unitNumber": "1098",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/999"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/999"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1003"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1003"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "CD",
+			"unitNumber": "1098"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile141"
+		}
+	}
+}

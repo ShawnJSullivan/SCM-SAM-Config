@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.coshoctontribune.com",
+			"trackingSuite": "gpaper232, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "coshoctontribune.com"
+	},
+	"mobile": {
+		"title": "coshoctontribune.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.coshoctontribune.com/trial-expired/",
+				"restricted": "https://subscribe.coshoctontribune.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Coshocton Tribune iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OC",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile232"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/723"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/723"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/727"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/727"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Coshocton Tribune Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OC",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile232"
+		}
+	}
+}

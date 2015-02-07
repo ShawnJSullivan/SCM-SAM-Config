@@ -1,0 +1,43 @@
+{
+	"publicationName": "The Indianapolis Star",
+	"title": "The Indianapolis Star",
+	"marketId": "BG",
+	"brandId" : "1532IS",
+	"state": "IN",
+	"baseName": "indystar",
+	"cobrandLogoText": "IndyStar.com | A Gannett Company",
+	"palette": "p3",
+	"custService": "1-888-357-7827",
+	"website": "www.indystar.com",
+	"email": "webmaster@indystar.com",
+	"facebook": {
+		"secret#private": "782445abf8a08aeecb9b18eed2ff29ac",
+		"productId": "108716282521686"
+	},
+	"dealChicken": {
+		"marketKey" : "indianapolis-in"
+	},
+	"twitter": {
+		"name": "indystar"
+	},
+	"links": {
+		"termsOfServiceURL": "http://static.indystar.com/en/terms/",
+		"caliPrivacyURL": "http://static.indystar.com/en/privacy/",
+		"privacyURL": "http://static.indystar.com/en/privacy/",
+		"adChoicesURL": "http://static.indystar.com/en/adchoices/"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"chat": {
+		"publicationId": "Indianapolis"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Indianapolis"
+		},
+		"email": "indianapolisstar@gannett.com",
+		"phone": "1-888-357-7827"
+	}
+}

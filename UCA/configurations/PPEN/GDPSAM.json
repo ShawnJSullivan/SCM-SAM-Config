@@ -1,0 +1,93 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.pnj.com",
+			"trackingSuite": "gpaper157, gntbcstglobal"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/FL-Pensacola-C1063/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/FL-Pensacola-C1063/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/FL-Pensacola-C1063/consumer_sales-all_stop"
+			}
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.pnj\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.pnj.com/specialoffer",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}]
+	},
+	"site": {
+		"title": "PNJ.com"
+	},
+	"mobile": {
+		"title": "PNJ.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.pnj.com/trial-expired/",
+				"restricted": "https://subscribe.pnj.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Pensacola News Journal iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ND",
+			"unitNumber": "1063",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile157"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/559"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/559"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/563"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/563"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Pensacola News Journal Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ND",
+			"unitNumber": "1063",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile157"
+		}
+	}
+}

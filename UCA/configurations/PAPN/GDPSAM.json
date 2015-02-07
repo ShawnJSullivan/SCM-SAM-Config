@@ -1,0 +1,90 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.postcrescent.com",
+			"trackingSuite": "gpaper186, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.postcrescent.com"
+		},
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/wi-appleton-C1515/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/wi-appleton-C1515/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/wi-appleton-C1515/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "postcrescent.com"
+	},
+	"mobile": {
+		"title": "postcrescent.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.postcrescent.com/trial-expired/",
+				"restricted": "https://subscribe.postcrescent.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Post-Crescent iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZA",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile186"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/843"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/843"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/847"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/847"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Post-Crescent Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZA",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile186"
+		}
+	}
+}

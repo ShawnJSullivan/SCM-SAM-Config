@@ -1,0 +1,155 @@
+{
+	"baseName": "montgomeryadvertiser",
+	"mobilesite": "m.montgomeryadvertiser.com",
+	"cobrandLogo": "http://tablet.montgomeryadvertiser.com/property/logo",
+	"emailNewsTips": "webhelp@montgomeryadvertiser.com",
+	"location": {
+		"timezone": "America/Chicago",
+		"name": "Montgomery, AL",
+		"zip": "36104",
+		"coordinates": "32.3617,-86.2792",
+		"latitude": 32.3617,
+		"longitude": -86.2792
+	},
+	"twitter": {
+		"name": "MGMAdvertiser"
+	},
+	"fireflyEnabled": true,
+	"Ads": {
+		"Prestitial_Width": "657.0",
+		"IMAAdTagFormat": "http://pubads.g.doubleclick.net/gampad/ads?sz=1024x576&iu=%@&ciu_szs&impl=s&gdfp_req=1&env=vp&output=xml_vast2&unviewed_position_start=1&m_ast=vast&url=[referrer_url]&correlator=[timestamp]",
+		"Prestitial_Height": "581.0",
+		"IMAAdUnitBase": "/7103/al-montgomery-mobile-C1123/ipad_app/",
+		"DFP_AD_UNIT_BASE": "/7070/al-montgomery-mobile-C1123/iPad_app/",
+		"Prestitial": "prestitial"
+	},
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsipad",
+		"trackingServer": "repdata.montgomeryadvertiser.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPad",
+		"OMNITURE_APP_DEVICE": "ipad",
+		"OMNITURE_MARKET_ID": "gpapermobile147"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "163677993677689"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.montgomeryadvertiser.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.montgomeryadvertiser.com/privacy/",
+		"TOS_URL": "http://static.montgomeryadvertiser.com/terms/",
+		"TILE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://static.montgomeryadvertiser.com/privacy/#adchoices",
+		"TOGGLE_ENABLED": "true",
+		"DEFAULT_FRONTS_MODE": "reader",
+		"DEAL_CHICKEN_LOCATION": "montgomery-al",
+		"WDAKey": "f1b2ad3f-44ef-4204-83ed-15cf7addd4cf",
+		"SHARING_ENABLED": "T"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Montgomery Advertiser. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"PROMOS_TALENT_URL": "http://www.montgomeryadvertiser.com/header-tablet-app.js",
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.montgomeryadvertiser.autosubscription.1month",
+		"FEED_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=%@&cnt=21",
+		"MARKET_ID": "DS",
+		"PHOTO_GALLERY_URL": "",
+		"TOPSTORIES_URL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/topstories?sid=wusa",
+		"ITUNES_API_URL": "https://itunes.apple.com/us/app/apple-store/id790279910?mt=8",
+		"OLD_FEED_URL": "http://m.montgomeryadvertiser.com/mg-ui/dynagate/page?site=n_montgomeryadvertiser&section=%@&nativeapp=1",
+		"ITUNES_URL": "http://itunes.com/app/gannett/themontgomeryadvertiserforipad",
+		"ITUNES_APPID": "790279910"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Montgomery, Alabama",
+		"BRAND_LOCATION_ZIP": "36104",
+		"BRAND_IDENTIFIER": "n_montgomeryadvertiser",
+		"BRAND_LOCATION_GPS": "32.3617,-86.2792",
+		"BRAND_LOGO_URL": "http://www.montgomeryadvertiser.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "40A159",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "Dt5cy5COvrqqV_KqXBos8KrlWQXUZPr_BohdoODFu-CEcPkU3Y03yg..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.montgomeryadvertiser.com",
+		"CONTACT_US_EMAIL": "mtgadvertiser@gannett.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "Montgomery Advertiser",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.montgomeryadvertiser.com",
+		"BRAND_TWITTER": "MGMAdvertiser",
+		"SCORES_COLOR_ARRAY": "345692,284270,2A4575",
+		"BRAND_MARKETPLACE": [
+			{
+				"name": "Apartments.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.apartments.com/Alabama/Montgomery"
+			},
+			{
+				"name": "CareerBuilder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.montgomeryadvertiser.com/jobs"
+			},
+			{
+				"name": "Cars.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.montgomeryadvertiser.com/cars"
+			},
+			{
+				"name": "DealChicken.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "https://www.dealchicken.com/montgomery-al"
+			},
+			{
+				"name": "Find & Save",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://montgomery.findnsave.com/"
+			},
+			{
+				"name": "HomeFinder.com",
+				"imageName": "leaving_app_icon.png",
+				"url": "http://www.montgomeryadvertiser.com/homes"
+			}
+		]
+	},
+	"Weather": {
+		"FeedURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=montgomery&state=al",
+		"FeedGPSURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbygeolocation?sid=wusa&lat=%.4f&lon=%.4f",
+		"IMAPrerollSection": "preroll/weather",
+		"AutoCompleteFeedURL": "http://api.usatoday.com/weather/search?api_key=fv5e3jtrrc77jmrvt32f2py4&name_startsWith=%@&callback=none",
+		"FeedVideoURL": "http://www.gannett-tv.com/tools/services/ArticleView.svc/mobile/articleview?sid=wusa&cid=17&cnt=21",
+		"ArticleFeedSectionID": "2",
+		"ClosingsHTMLURL": "http://m.montgomeryadvertiser.com/tabletClosings",
+		"UseAccuweatherData": "T",
+		"DFPFrontSection": "section_front/weather",
+		"FeedZIPURL:": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbyzip?sid=wusa&zip=%@",
+		"ClosingsFeedURL": "http://www.gannett-tv.com/tools/services/SchoolClosings.svc/mobile/schoolclosings?sid=wusa",
+		"DFPArticleSection": "article_banner/weather/alerts",
+		"FeedCityStateURL": "http://www.gannett-tv.com/tools/services/WeatherData.svc/mobile/weatherbycitystate?sid=wusa&city=%@&state=%@"
+	},
+	"ConfigSections": {
+		"USE_CONFIGURABLE_SECTIONS": "F",
+		"NEWS_SECTION_UPDATE_URL": "http://m.wusa9.com/sectionconfig?os=ios&nativeapp=1&v=1"
+	},
+	"SiteID": {
+		"training": "145",
+		"qa": "0",
+		"staging": "151",
+		"dev": "135",
+		"prod": "145",
+		"prod-moc": "145",
+		"prod-phx": "145"
+	}
+}

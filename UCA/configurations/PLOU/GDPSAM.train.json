@@ -1,0 +1,17 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "repdata.courier-journal.com"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/49"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/271"
+		}
+	}
+}

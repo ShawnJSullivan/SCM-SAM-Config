@@ -1,0 +1,9 @@
+{
+	"brandId" : "QA101",
+	"links": {
+		"mobileAppURLs": {
+			"ios": "https://itunes.apple.com/us/app/indystar/id331907339?mt=8",
+			"android": "https://play.google.com/store/apps/details?id=com.gannett.local.library.news.indystar"
+		}
+	}
+}

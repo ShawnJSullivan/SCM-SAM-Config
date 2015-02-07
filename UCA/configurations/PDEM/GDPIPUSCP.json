@@ -1,0 +1,63 @@
+{
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.desmoinesregister.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile122"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "169766623060429"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.desmoinesregister.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.desmoinesregister.com/privacy/",
+		"TOS_URL": "http://static.desmoinesregister.com/terms/",
+		"AD_CHOICES_URL": "http://static.desmoinesregister.com/adchoices/",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "7A7CDAE7-00AF-4411-87C1-42418F29E641"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright \u00A9 YEAR Des Moines Register. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.desmoinesregister.iphone.autosubscription.1month2",
+		"MARKET_ID": "D2",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id524153305?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/desmoinesregister",
+		"ITUNES_APPID": "524153305",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/desmoinesregister/id524153305?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.desmoinesregister"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/Chicago",
+		"BRAND_LOCATION": "Des Moines, Iowa",
+		"BRAND_LOCATION_ZIP": "50301",
+		"BRAND_IDENTIFIER": "n_desmoinesregister",
+		"BRAND_LOCATION_GPS": "41.5908,-93.6208",
+		"BRAND_LOGO_URL": "http://www.desmoinesregister.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "MYvU06zW9kgZdnh6dxsGsvZBQsRSC7icFTrpG3xbBILdJza7tRwsyQ..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.desmoinesregister.com",
+		"BRAND_NEWS_TIP": "online@dmreg.com",
+		"CONTACT_US_EMAIL": "newsubs@dmreg.com",
+		"BRAND_NAME": "Des Moines Register",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.desmoinesregister.com",
+		"BRAND_TWITTER": "DMRegister"
+	}
+}

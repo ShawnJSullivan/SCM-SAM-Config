@@ -1,0 +1,45 @@
+{
+	"publicationName": "Statesman Journal",
+	"title": "Statesman Journal",
+	"marketId": "J0",
+	"brandId": "1074SJ",
+	"state": "OR",
+	"cobrandLogoText": "StatesmanJournal.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-556-3975",
+	"website": "www.statesmanjournal.com",
+	"baseName": "statesmanjournal",
+	"email": "salemstatesmanjournal@gannett.com",
+	"links": {
+		"termsOfServiceURL": "http://static.statesmanjournal.com/terms/",
+		"caliPrivacyURL": "http://static.statesmanjournal.com/privacy/",
+		"privacyURL": "http://static.statesmanjournal.com/privacy/",
+		"adChoicesURL": "http://static.statesmanjournal.com/privacy/#adchoices"
+	},
+	"chat": {
+		"publicationId": "Salem"
+	},
+	"dealChicken": {
+		"marketKey": "salem-or"
+	},
+	"firefly":{
+		"threshold": 15,
+		"thresholdRegistered": 15,
+		"enabled": true
+	},
+	"facebook": {
+		"secret#private": "1f8f1ce9776001685fca625fd4726200",
+		"productId": "138699832852944"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.statesmanjournal.com",
+		"trackingSuite": "gpaper166, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Salem"
+		},
+		"email": "salemstatesmanjournal@gannett.com",
+		"phone": "1-800-452-2511"
+	}
+}

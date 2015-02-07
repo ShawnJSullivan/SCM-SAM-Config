@@ -1,0 +1,325 @@
+{
+	"default": {
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : false,
+				"provider" : "dfp",
+				"dimensions" : [[950,200]],
+				"preserveSpace" : false
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : false,
+				"provider" : "dfp",
+				"dimensions" : [[215,215]],
+				"preserveSpace" : false
+			},
+			"trialExpired" : {
+				"enabled" : false,
+				"provider" : "dfp",
+				"dimensions" : [[264,200]],
+				"preserveSpace" : false,
+				"alternateContentSelector" : ".subscribe-call-to-action"
+			}
+		},
+		"support": {
+			"accountActivation": true,
+			"customerServiceViaEmailOnly": false,
+			"customerServiceViaEmailOrPhone": true,
+			"mustacheHTML": true,
+			"accountManagementMenuOptionsMap": {
+				"history": {"map": "Show account history", "enabled": true},
+				"viewBill": {"map": "View bill", "enabled": true},
+				"deliveryIssue": {"map": "Delivery service issue", "enabled": true},
+				"deliveryTemporaryStop": {"map": "Vacation stop", "enabled": true},
+				"paymentInformation": {"map": "Change Credit Card", "enabled": true},
+				"deliveryFrequency": {"map": "Increase print delivery frequency", "enabled": true},
+				"removeTVBook": {"map": "stop_tv_book_delivery", "enabled": true},
+				"addTVBook": {"map": "start_tv_book_delivery", "enabled": true},
+				"autoPay": {"map": "Sign up for EZ Pay", "enabled": true},
+				"pay": {"map": "Make a payment", "enabled": true},
+				"shareAccess": {"map": "SHARE_ACCESS", "enabled": true},
+				"eNewspaper": {"map": "ENEWSPAPER", "enabled": true},
+				"newsletters": {"map": "NEWSLETTERS", "enabled": true}
+			},
+			"accountNewsletters" : {
+				"byGroupEnabled": false,
+				"showLogoInPage": true,
+				"dealChickenEnabled": true,
+				"offersEnabled" : true,
+				"showGroupName" : false,
+				"showTitleSupplement": true
+			}
+		},
+		"tealium": {
+			"environment": "prod",
+			"enabled": true,
+			"urlTemplate": "//tealium.hs.llnwd.net/o43/utag/gci/{{config.alias}}/{{config.tealium.environment}}/utag.js?asof={{tealium.date}}",
+			"utagDefaultData": {
+				"partner_type": "basic"
+			},
+			"utagOverrideData": {}
+		},
+		"mieContribution" : {
+			"enabled" : true
+		},
+		"multiPublication" : {
+			"enabled" : false
+		},
+		"omnitureMap": {
+			"contentType": "prop16",
+			"userId": "prop31",
+			"userStatus": "prop42",
+			"formError": "prop67",
+			"eventformError": "event16",
+			"eventformSuccess": "event15",
+			"selectProduct": "prop41",
+			"seeProductDetails": "prop41",
+			"activateDigitalAccess": "prop41",
+			"facebookToRegister": "prop41",
+			"selectProductContinue": "prop41",
+			"needHelpChatNow": "prop41",
+			"continueAccountInformation": "prop41",
+			"continueDeliveryInformation": "prop41",
+			"continuePaymentContributions": "prop41",
+			"editAccountInformation": "prop41",
+			"editDeliveryInformation": "prop41",
+			"editPaymentContributions": "prop41",
+			"subscribe": "prop41",
+			"updateCreditCard": "event61",
+			"linkAccounts": "event60",
+			"createAutoPayment": "event63",
+			"createPayment": "event62",
+			"createVacationStopStart": "event65"
+		},
+		"shareAccess": {
+			"searchEnabled": false,
+			"paginationEnabled": false,
+			"ajaxEnabled": false,
+			"defaultPageLength": 10
+		},
+		"displayMessages": {
+			"default": {
+				"default": "An error has occurred.",
+				"0": "Success.",
+				"0-redirected": "If you need to update your subscription or account information, you can do so here in the my account menu.",
+				"110": "All fields are required.",
+				"-130": "Your session may have expired. Please log in.",
+				"130": "Your session may have expired. Please log in.",
+				"120": "Invalid token. Please use the link from the temporary password to change your password.",
+				"140": "Invalid token. Please use the link from the temporary password to change your password.",
+				"220": "No accounts were found with the information provided. Please try again or contact customer service for assistance.",
+				"300": "Invalid password.",
+				"301": "Your email is associated with a registered account, but our sites now offer full access to paying subscribers only.",
+				"302": "We've detected that the email you've provided matches an active subscriber.",
+				"303": "You must reset your password.",
+				"304": "This subscription is already associated with an account.",
+				"304-login-ok": "{{#requestData.firstName}}Hi, {{.}}{{#requestData.lastName}} {{.}}{{/requestData.lastName}}.  {{/requestData.firstName}}It looks like you already have an account. Please log in below.",
+				"304-login-fb-ok": "Your account has already been activated using Facebook, there is no need to activate again. Please log in with Facebook.",
+				"305": "No accounts were found with the information provided. Please try again or contact customer service for assistance.",
+				"310": "Invalid password.",
+				"340": "Invalid token.",
+				"350": "Your account is currently configured to log in using Facebook, so you must reset your password through Facebook.",
+				"360": "Unable to log in with Facebook.  If you are a subscriber use the form below to log in.",
+				"380": "Your account is not set up to use this login method.",
+				"390": "We couldn't find an account matching your Facebook account.",
+				"410": "We're unable to send email to that address.  Please verify the information and try again or subscribe.",
+				"440": "Email address not found.  Please verify the information and try again or subscribe.",
+				"500": "Email address already registered.  Please log in to continue or choose a new email address.",
+				"510": "This email address has already been registered. Please <a href='{{#loginURL}}{{loginURL}}{{/loginURL}}{{^loginURL}}{{appBasePath}}login/{{/loginURL}}'>log in</a> or use a different email address to create your account.",
+				"530": "Email address already registered.  Please log in to continue or choose a new email address.",
+				"540": "Your Facebook account is already associated with an account.  Please log in to continue, or proceed with non-Facebook registration.",
+				"540-connect": "Your Facebook account is already associated with another account. If you would like to use Facebook to log in with this account, you must first disconnect Facebook from the other account.",
+				"550": "We're sorry. We cannot accept your registration at this time. Please review our terms of service.",
+				"720": "Could not link account. Please call customer service for assistance.",
+				"721": "Could not link one or more accounts. Please call customer service for assistance.",
+				"770": "This account has already been claimed.",
+				"780": "The code you entered was not found.",
+				"797": "The code cannot be claimed outside of the effective date.",
+				"1004": "A request is already being processed. Please try again later.",
+				"1005": "No payment is due at this time.",
+				"1077": "Failed to make payment.",
+				"1017": "The credit card expiration date you provided does not appear to be valid.",
+				"1041": "You have already submitted a temporary stop request for the dates selected. You may edit this stop below, once it has been processed.",
+				"1112": "Date entered is not a delivered date for your subscription. Please try another date.",
+				"1114": "You have already reported an issue for this date",
+				"1204": "Could not find eNewspaper.",
+				"HTTPTIMEOUT_DEFAULT": "We apologize, but we are experiencing some issues at the moment. Please try again, or call customer service at {{custService}} to complete your subscription.",
+				"HTTPTIMEOUT_SUBSCRIBE": "We apologize, but we are currently unable to process your subscription. Please wait a moment and try again, or call customer service at {{custService}} to complete your subscription."
+			},
+			"login": {
+				"0": "Log in successful."
+			},
+			"loginFromSocial": {
+				"0": "Log in through Facebook successful."
+			},
+			"resetPassword": {
+				"0": "A link to reset your password has been sent to \"{{postData.email}}\"."
+			},
+			"changePassword": {
+				"0": "Your password has been changed.",
+				"0-password-reset" : "You have been logged in.  Please be sure to memorize your new password and/or take note of it in a safe place.",
+				"340": "Invalid password reset token."
+			},
+			"logout": {
+				"0": "You have logged out successfully."
+			},
+			"createUser": {
+				"Facebook-noAccessToken": "Unable to get your information from Facebook.  Please try the 'Log in with Facebook' link again or complete the form below without Facebook."
+			},
+			"createVacationStopStart": {
+				"0": "Your print delivery stop is being processed."
+			},
+			"updateVacationStopStart": {
+				"0": "Your print delivery stop update is being processed."
+			},
+			"deleteVacationStopStart": {
+				"0": "Your print delivery stop deletion is being processed."
+			},
+			"updateTvBookOptions": {
+				"0": "The TV Book option on your home delivery account has been changed",
+				"0-A": "TV Book has been added to your home delivery account",
+				"0-R": "TV Book has been removed from your home delivery account"
+			},
+			"updateFod": {
+				"0": "Your print delivery frequency has been changed"
+			},
+			"updateUser": {
+				"0": "You have successfully updated your information",
+				"changePassword-110": "Current password, New password, and Confirm new password are all required.",
+				"changePassword-330": "Current password is incorrect.",
+				"changePassword-confirm-fail": "Password and password confirmation must match."
+			},
+			"createPrintDeliveryIssue": {
+				"0": "Your Issue has been reported"
+			},
+			"addCredentialType": {
+				"0": "Credential successfully added to your account"
+			},
+			"deleteCredentialType": {
+				"0": "Credential successfully removed from your account"
+			},
+			"addClaimTicket": {
+				"0": "Your invitation has been sent"
+			},
+			"removeClaimTicket": {
+				"0": "Digital access has been removed{{#postData.gifteeEmail}} for {{.}}{{/postData.gifteeEmail}}"
+			},
+			"lookupAccount": {
+				"0": ""
+			},
+			"linkAccount": {
+				"0": "Your other subscription has been linked"
+			},
+			"gatewayResponse": {
+				"default": "An error in the SAM Gateway has occurred.",
+				"HTTP502": "Invalid response from Atypon API.",
+				"HTTP504": "Unable to contact Atypon API."
+			},
+			"createPayment": {
+				"0": "Your payment has been successfully submitted."
+			},
+			"createAutoPayment": {
+				"0": "Please allow up to 24 hours for this change to reflect in your account."
+			},
+			"updateCreditCard": {
+				"0": "Your credit card has been changed.",
+				"1004": "A credit card change is already being processed. Please try again later."
+			},
+			"validateCreditCard": {
+				"1004": "A credit card change is already being processed. Please try again later."
+			},
+			"gems_subscribersPost" : {
+				"0" : "Your newsletter preferences have been updated.",
+				"0-unsubscribe-single" : "You have been successfully unsubscribed from {{newsletterName}}.",
+				"1" : "There was an error updating your newsletter preferences."
+			},
+			"getNewsletters" : {
+				"1" : "There was an error retrieving Newsletters available to your market."
+			},
+			"addNewsletters" : {
+				"1" : "There was an error subscribing this email address."
+			},
+			"getBillingInfo": {
+				"HTTPTIMEOUT_DEFAULT": "We apologize, but My Account is not available at this time. Please try again later, or call customer service at {{config.customerServiceCenter.phone}}."
+			},
+			"lookupLicenseId": {
+				"account-option-unavailable": "Unfortunately, this feature is currently not available for your account. If you have any questions, please contact customer service at {{config.customerServiceCenter.phone}}."
+			}
+		},
+		"pciAPI": {
+			"baseURL": "https://subscription-self-serve.gannett.com/"
+		},
+		"dictionary": {
+			"general_productRateFrequencyMap": {
+				"default": null,
+				"YR": {"fullCapitalized": "Yearly", "abbreviation": "yr"},
+				"MO": {"fullCapitalized": "Monthly", "abbreviation": "mo"}
+			},
+			"account_newsletters_pageTitle": "Newsletter Settings",
+			"account_newsletters_titleSupplement": "To sign up for free newsletters, just make your selections, share your email address and click sign me up.",
+			"account_newsletters_formFinePrint": [
+				"Signing up for newsletters indicates you agree with our <a href={{config.links.termsOfServiceURL}}>terms of service</a>",
+				"If you decide that you no longer want to receive a newsletter, you can unsubscribe by clicking the &quot;Unsubscribe&quot; link, located at the bottom of each newsletter."
+			],
+			"subscribe_default_fodHeadline": "CHOOSE A FULL ACCESS SUBSCRIPTION OPTION",
+			"subscribe_default_fodDescription": "All options include 24/7 access to {{config.website}}, all tablet and smartphone apps, the e-Newspaper edition and a 30-day article archive.",
+			"subscribe_default_multiPubHeadline": "SELECT A NEWS SOURCE",
+			"subscribe_default_multiPubDescription": "Before selecting your subscription type, please choose a news provider.",
+			"subscribe_default_mieTitle": "Monthly Media in Education Donation",
+			"subscribe_default_mieHeadline": "Your donation supplies newspapers to local classrooms.",
+			"subscribe_default_mieDescription": "Your donation to the Media in Education (MIE) program supports providing print and e-Newspaper editions of the publication to thousands of students in our community. Newspapers promote student literacy by serving as a living textbook. They integrate the latest technology, bring world and local news into the classroom, sparking enthusiasm for meaningful classroom interaction.",
+			"subscribe_default_cartHeadline": "Your Subscription",
+			"general_activateDigitalSubscriptionMessage": "Activate your digital access",
+			"lookupAccount_title": "Account lookup",
+			"account_pay_pageTitle" : "Make a payment",
+			"account_auto_pay_pageTitle" : "Sign up for EZ Pay",
+			"account_auto_pay_validateRateDescription" : "MONTHLY RATE",
+			"account_auto_pay_validateDescription" : "With EZ Pay, your subscription payment is charged directly to your credit/debit card. Automatic payments let you rest easy knowing your subscription is paid on time, all the time.",
+			"account_auto_pay_confirmRateDescription" : "Your card will be automatically charged monthly.",
+			"account_auto_pay_confirmNextPaymentDate" : "MONTHLY RATE",
+			"account_pay_confirmSubmit" : "Submit payment",
+			"account_auto_pay_confirmSubmit" : "Confirm EZ Pay Setup",
+			"account_share_access_multiShareLicenseText": "All subscriptions allow you to share digital access with a set number of non-subscribers. Users that you share access with will need to create their own unique login, and you can remove them at any time.",
+			"account_share_access_singleShareLicenseText": "Your subscription lets you share digital access with one family member or friend. They will need to create their own unique login, and you can remove them at any time.",
+			"account_share_access_noResultsText": "No subscription shares were found.",
+			"account_user_create_sharedAccess_pageTitle" : "Create an account",
+			"account_user_create_sharedAccess_pageDescription" : "Your complimentary subscription includes full access to {{config.publicationName}} on your desktop, tablet and mobile. Create an account below to log in from any device.",
+			"account_user_create_pageTitle" : "Get access on other devices",
+			"account_user_create_pageDescription" : "Your subscription includes full access to {{config.publicationName}} on desktop, tablet and mobile. <b>Create an account now to log in from any device.</b>",
+			"account_user_create_isPromotion_pageTitle" : "Create an account",
+			"account_user_create_isPromotion_pageDescription" : "Your complimentary subscription includes full access to {{config.publicationName}} on your desktop, tablet and mobile. <b>Create an account below to log in from any device. <a href='{{#loginURL}}{{loginURL}}{{/loginURL}}{{^loginURL}}{{appBasePath}}login/{{/loginURL}}'>If you have an account, please log in.</a></b>"
+		},
+		"printDeliveryIssue": {
+			"effectiveDate_min": 30
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": false
+		},
+		"cssFiles": {
+			"account": "account",
+			"global": "global",
+			"global_standalone": "global_standalone_default",
+			"subscribe": "subscribe"
+		},
+		"mieContribution" : {
+			"enabled" : true
+		}
+	},
+	"ios_ipad": {
+		"additionalConfigs": ["GDPITUSCP"]
+	},
+	"ios_iphone": {
+		"additionalConfigs": ["GDPIPUSCP"]
+	},
+	"ios": {
+		"dictionary": {
+			"general_activateDigitalSubscriptionMessage": "Activate your digital access",
+			"lookupAccount_title": "Activate your digital access"
+		}
+	},
+	"tecnavia":{
+		"support":{
+			"accountActivation": false
+		}
+	}
+}

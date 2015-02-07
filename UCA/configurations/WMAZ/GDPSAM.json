@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.13wmaz.com",
+			"trackingSuite": "gntbcstwmaz,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "13wmaz.com"
+	},
+	"mobile": {
+		"title": "13wmaz.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.13wmaz.com/trial-expired/",
+				"restricted": "https://subscribe.13wmaz.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WMAZ News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3329",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwmaz,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/151"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1749"
+		}
+	},
+	"android": {
+		"title": "WMAZ News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3329",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwmaz,gntbcstglobal"
+		}
+	}
+}

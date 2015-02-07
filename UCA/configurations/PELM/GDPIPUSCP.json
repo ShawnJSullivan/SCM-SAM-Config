@@ -1,0 +1,78 @@
+{
+	"baseName": "stargazette",
+	"mobilesite": "m.stargazette.com",
+	"cobrandLogo": "http://tablet.stargazette.com/property/logo",
+	"emailNewsTips": "sgnews@gannett.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Elmira, NY",
+		"zip": "14901",
+		"coordinates": "42.1080,-76.8117",
+		"latitude": 42.1080,
+		"longitude": -76.8117
+	},
+	"twitter": {
+		"name": "stargazette"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.stargazette.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile125"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "183416371685354"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.stargazette.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.stargazette.com/privacy/",
+		"TOS_URL": "http://static.stargazette.com/terms/",
+		"AD_CHOICES_URL": "http://static.stargazette.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "f27b00ff-c8fd-4385-bcf2-1f396788d73e"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR Star Gazette. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.stargazette.iphone.autosubscription.1month",
+		"MARKET_ID": "CB02",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id520499517?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/stargazette",
+		"ITUNES_APPID": "520499517",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/stargazette/id520499517?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.stargazette"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Elmira, New York",
+		"BRAND_LOCATION_ZIP": "14901",
+		"BRAND_IDENTIFIER": "n_stargazette",
+		"BRAND_LOCATION_GPS": "42.1080,-76.8117",
+		"BRAND_LOGO_URL": "http://www.stargazette.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "3399FF",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "fsbyUYvtfFN1PV02kxb147CdDwDcJTx26bW0wsNYJpHbbQXmA-ozPw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.stargazette.com",
+		"BRAND_NEWS_TIP": "sgnews@gannett.com",
+		"CONTACT_US_EMAIL": "stargazette@gannett.com",
+		"BRAND_NAME": "Star Gazette",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.stargazette.com",
+		"BRAND_TWITTER": "stargazette"
+	}
+}

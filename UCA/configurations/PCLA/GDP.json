@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Leaf-Chronicle",
+	"title": "The Leaf-Chronicle",
+	"marketId": "DA",
+	"brandId": "1056LC",
+	"cobrandLogoText": "TheLeafChronicle.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0154",
+	"website": "www.theleafchronicle.com",
+	"baseName": "theleafchronicle",
+	"email": "leafchronicle@gannett.com",
+	"state": "TN",
+	"links": {
+		"termsOfServiceURL": "http://www.theleafchronicle.com/terms/",
+		"caliPrivacyURL": "http://www.theleafchronicle.com/privacy/",
+		"privacyURL": "http://www.theleafchronicle.com/privacy",
+		"adChoicesURL": "http://www.theleafchronicle.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 15,
+		"thresholdRegistered": 15
+	},
+	"chat": {
+		"publicationId": "Clarksville"
+	},
+	"dealChicken": {
+		"marketKey": "clarksville-tn"
+	},
+	"facebook": {
+		"secret#private": "206d74e74c506631d8801273da841c7f",
+		"productId": "178174445540755"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.theleafchronicle.com",
+		"trackingSuite": "gpaper121, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Clarksville"
+		},
+		"email": "leafchronicle@gannett.com",
+		"phone": "1-877-424-0154"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Greenville News",
+	"title": "The Greenville News",
+	"marketId": "BS",
+	"brandId": "1120GN",
+	"cobrandLogoText": "GreenvilleOnline.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-800-736-7136",
+	"website": "www.greenvilleonline.com",
+	"baseName": "greenvilleonline",
+	"email": "greenvillenews@gannett.com",
+	"state": "SC",
+	"links": {
+		"termsOfServiceURL": "http://static.greenvilleonline.com/terms/",
+		"caliPrivacyURL": "http://static.greenvilleonline.com/privacy/",
+		"privacyURL": "http://static.greenvilleonline.com/privacy/",
+		"adChoicesURL": "http://static.greenvilleonline.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Greenville"
+	},
+	"dealChicken": {
+		"marketKey": "greenville-sc"
+	},
+	"facebook": {
+		"secret#private": "6579f7b25b4daccacb30dc2f430b034c",
+		"productId": "127457533984247"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.greenvilleonline.com",
+		"trackingSuite": "gpaper133, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Greenville"
+		},
+		"email": "greenvillenews@gannett.com",
+		"phone": "1-800-736-7136"
+	}
+}

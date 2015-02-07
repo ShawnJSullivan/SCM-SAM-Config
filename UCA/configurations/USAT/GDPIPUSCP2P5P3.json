@@ -1,0 +1,167 @@
+{
+	"Omniture": {
+		"trackingServer": "repdata.usatoday.com",
+		"OMNITURE_APP_NAME": "usatodaynewsiphone",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobileapp"
+	},
+	"YourTake": {
+		"Upload": {
+			"requires-oauth": true,
+			"tab-order": 3
+		},
+		"Featured": {
+			"tab-order": 0,
+			"download-filter": "filters[groupid]=%{featuredGroup}&sort='lastupdatetime DESC'",
+			"item-count": 9,
+			"is-home": true,
+			"requires-oauth": false
+		},
+		"MyUploads": {
+			"tab-order": 2,
+			"download-filter": "filters[uid]=%{filemobileUserID}&sort='lastupdatetime DESC'",
+			"item-count": 100,
+			"requires-oauth": true
+		},
+		"Recent": {
+			"tab-order": 1,
+			"download-filter": "filters[moderationStatus]=approved&sort='lastupdatetime DESC'",
+			"item-count": 100,
+			"requires-oauth": false
+		}
+	},
+	"Settings": {
+		"IRATE_ENABLED": "T",
+		"AD_CHOICES_URL": "http://www.usatoday.com/legal/privacynotice.html?chromeless=true#adchoices",
+		"CALI_PRIVACY_URL": "http://www.usatoday.com/legal/privacynotice.html?chromeless=true#california-privacy",
+		"PRIVACY_URL": "http://www.usatoday.com/legal/privacynotice.html?chromeless=true",
+		"TOS_URL": "http://www.usatoday.com/legal/tos.html?chromeless=true",
+		"SHARING_ENABLED": "T",
+		"THUMBNAIL_OVERLAY_FOR_EMBEDDED_MEDIA": "T",
+		"NUMBER_OF_ARTICLES_ON_FRONTS": "25"
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "",
+		"ITUNES_API_URL": "itms-apps://ax.itunes.apple.com/WebObjects/MZStore.woa/wa/viewContentsUserReviews?type=Purple+Software&id=504631398",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/usatodayforiphone/id504631398?mt=8",
+		"ITUNES_APPID": "504631398",
+		"ITUNES_BUNDLEID": "com.usatoday.iPhone20",
+		"ITUNES_URL": "http://itunes.com/app/usatoday/usatodayforiphone",
+		"MARKET_ID": "USAT"
+	},
+	"Branding": {
+		"BRAND_COLOR_SECTION": {
+			"news": "009EFC",
+			"money": "18A040",
+			"sports": "EB1E00",
+			"life": "921BB0",
+			"weather": "FFCC00",
+			"travel": "17C2B9",
+			"yourtake": "009EFC",
+			"tech": "F65D16",
+			"opinion": "666666"
+		},
+		"BRAND_LOCATION_WEATHER_DEFAULTS": {
+			"Locations": [
+				"New York, New York",
+				"Chicago, Illinois",
+				"Los Angeles, California"
+			]
+		},
+		"BRAND_FAQ_URL": "",
+		"BRAND_COLOR": "0068A9",
+		"BRAND_IDENTIFIER": "n_usatoday",
+		"BRAND_LOCATION": "New York, New York",
+		"BRAND_LOCATION_GPS": "40.6700,-73.9400",
+		"BRAND_LOCATION_ZIP": "10017",
+		"BRAND_LOGO_URL": "http://www.usatoday.com/graphics/header/logo.gif",
+		"BRAND_MOBILE_SITE": "m.usatoday.com",
+		"BRAND_NAME": "USA TODAY",
+		"BRAND_NEWS_TIP": "usatodaymobile@usatoday.com",
+		"BRAND_OTHER_APPS_URL": "http://www.usatoday.com/mobile-apps",
+		"BRAND_SUPPORT_EMAIL": "usatodaymobile@usatoday.com",
+		"BRAND_SUPPORT_TWITTER": "usatodaymobile",
+		"BRAND_TWITTER": "USATODAY",
+		"BRAND_WEBSITE": "www.usatoday.com",
+		"CONTACT_US_EMAIL": "usatodaymobile@usatoday.com",
+		"MARKET_TIME_ZONE": "America/New_York"
+	},
+	"ads": {
+		"frontAds": [
+			{
+				"adType": "section_front_top",
+				"enableFlexAd": false,
+				"size": "{320,50}",
+				"position": 2
+			},
+			{
+				"adType": "section_front_bottom",
+				"enableFlexAd": false,
+				"size": "{300,250}",
+				"position": 15
+			}
+		],
+		"houseAds": {
+			"{320, 50}": [
+				{
+					"clickthru": "https://itunes.apple.com/us/app/usa-today-bingo-cruise/id845093884?mt=8",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/usat/320x50_SimpleBingo.jpg"
+				}
+			],
+			"{300, 250}": [
+				{
+					"clickthru": "https://itunes.apple.com/us/app/usa-today-bingo-cruise/id845093884?mt=8",
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/usat/300x250_Bingo.jpg"
+				}
+			]
+		},
+		"articleAds": [
+			{
+				"adType": "article_banner_top",
+				"enableFlexAd": false,
+				"size": "{320,50}",
+				"position": 0
+			},
+			{
+				"adType": "article_banner_bottom",
+				"enableFlexAd": false,
+				"minPosition": 4,
+				"size": "{300,250}",
+				"position": 10000
+			}
+		],
+		"articleTransitionalAd": {
+			"adType": "transitional",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"galleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 1,
+			"frequency": 5
+		},
+		"embeddedGalleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": false,
+			"position": 2,
+			"frequency": 5
+		},
+		"networkId": "7103",
+		"property": "usatoday_mobile",
+		"testNetworkId": "7070",
+		"amazonA9AppId": "218b713dc1744823b48eb6322bc4d2df"
+	},
+	"comscore": {
+		"censusId": "6035223",
+		"secret": "0a46f2bdb39db821b07796d980d8919a"
+	},
+	"Fronts": {
+		"articleCount": 25
+	},
+	"aam": {
+		"audienceDpid": "3054"
+	}
+}

@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.rgj.com",
+			"trackingSuite": "gpaper160, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "TheTimesHerald.com"
+	},
+	"mobile": {
+		"title": "TheTimesHerald.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thetimesherald.com/trial-expired/",
+				"restricted": "https://subscribe.thetimesherald.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Times Herald iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "TD",
+			"unitNumber": "1051",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile160"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/987"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/987"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/991"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/991"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Times Herald Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "TD",
+			"unitNumber": "1051",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile160"
+		}
+	}
+}

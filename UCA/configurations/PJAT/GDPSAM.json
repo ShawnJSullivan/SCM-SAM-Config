@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.jacksonsun.com",
+			"trackingSuite": "gpaper142, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "jacksonsun.com"
+	},
+	"mobile": {
+		"title": "jacksonsun.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.jacksonsun.com/trial-expired/",
+				"restricted": "https://subscribe.jacksonsun.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Jackson Sun iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "JD",
+			"unitNumber": "1056",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile142"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1535"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1535"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1537"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1537"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Jackson Sun Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "JD",
+			"unitNumber": "1056",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile142"
+		}
+	}
+}

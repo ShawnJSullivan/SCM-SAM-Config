@@ -1,0 +1,150 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.packersnews.com",
+			"trackingSuite": "gpaper132, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences" : {
+			"enabled" : true,
+			"hostname" : "cmsstage.packersnews.com"
+		},
+		"multiPublication": {
+			"enabled": true,
+			"publications": [
+				{
+					"marketId": "U003",
+					"baseName": "greenbaypressgazette",
+					"title": "Green Bay Press-Gazette",
+					"description": "Serving Green Bay and Northeastern Wisconsin"
+				},
+				{
+					"marketId": "U001",
+					"baseName": "postcrescent",
+					"title": "The Post-Crescent",
+					"description": "Serving Appleton, Fox Cities, Wisconsin"
+				},
+				{
+					"marketId": "U002",
+					"baseName": "fdlreporter",
+					"title": "The Reporter",
+					"description": "Serving Fond du Lac, Wisconsin"
+				},
+				{
+					"marketId": "U004",
+					"baseName": "htrnews",
+					"title": "Herald Times Reporter",
+					"description": "Serving Manitowoc, Wisconsin"
+				},
+				{
+					"marketId": "U005",
+					"baseName": "marshfieldnewsherald",
+					"title": "Marshfield News-Herald",
+					"description": "Serving Marshfield, Wisconsin"
+				},
+				{
+					"marketId": "U006",
+					"baseName": "thenorthwestern",
+					"title": "The Oshkosh Northwestern",
+					"description": "Serving Oshkosh, Wisconsin"
+				},
+				{
+					"marketId": "U008",
+					"baseName": "sheboyganpress",
+					"title": "The Sheboygan Press",
+					"description": "Serving Sheboygan, Wisconsin"
+				},
+				{
+					"marketId": "U009",
+					"baseName": "stevenspointjournal",
+					"title": "Stevens Point Journal",
+					"description": "Serving Stevens Point, Wisconsin"
+				},
+				{
+					"marketId": "U010",
+					"baseName": "wausaudailyherald",
+					"title": "Wausau Daily Herald",
+					"description": "Serving Wausau, Wisconsin"
+				},
+				{
+					"marketId": "U011",
+					"baseName": "wisconsinrapidstribune",
+					"title": "The Daily Tribune",
+					"description": "Serving Wisconsin Rapids, Wisconsin"
+				}
+			]
+		}
+	},
+	"site": {
+		"title": "PackersNews.com"
+	},
+	"mobile": {
+		"title": "PackersNews.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.packersnews.com/trial-expired/",
+				"restricted": "https://subscribe.packersnews.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "PackersNews iOS App",
+		"email": "mobilesupport@gannett.com",
+		"links": {
+			"termsOfServiceURL": "http://static.packersnews.com/terms/",
+			"caliPrivacyURL": "http://static.packersnews.com/privacy/",
+			"privacyURL": "http://static.packersnews.com/privacy/",
+			"adChoicesURL": "http://static.packersnews.com/privacy/#adchoices"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile132"
+		},
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZG",
+			"unitNumber": "1014",
+			"accountId": "0"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/1069"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1069"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1073"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/1073"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZG",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile132"
+		}
+	},
+	"wlna_packers": {
+		"additionalConfigs": ["WLNAPackers"]
+	}
+}

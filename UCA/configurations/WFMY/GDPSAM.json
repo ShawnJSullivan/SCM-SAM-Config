@@ -1,0 +1,54 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.digtriad.com",
+			"trackingSuite": "gntbcstwfmy,gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "WFMYNews2.com"
+	},
+	"mobile": {
+		"title": "WFMYNews2.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.wfmynews2.com/trial-expired/",
+				"restricted": "https://subscribe.wfmynews2.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "WFMY News iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "",
+			"unitNumber": "3320",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwfmy,gntbcstglobal"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/131"
+		}
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/1779"
+		}
+	},
+	"android": {
+		"title": "WFMY News Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "",
+			"unitNumber": "3320",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gntbcstwfmy,gntbcstglobal"
+		}
+	}
+}

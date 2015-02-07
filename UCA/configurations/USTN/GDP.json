@@ -1,0 +1,48 @@
+{
+	"publicationName": "USATNetwork",
+	"title": "USATNetwork",
+	"marketId": "AA",
+	"brandId": "9999AA",
+	"state": "AA",
+	"palette": "a9",
+	"baseName": "usatnetwork",
+	"website": "www.usatnetwork.com",
+	"mobilesite": "m.usatnetwork.com",
+	"cobrandLogoText": "USATNetwork.com",
+	"custService": "9-999-999-9999",
+	"email": "customer@usatnetwork.com",
+	"links": {
+		"termsOfServiceURL": "http://static.usatnetwork.com/terms/",
+		"caliPrivacyURL": "http://static.usatnetwork.com/privacy/",
+		"privacyURL": "http://static.usatnetwork.com/privacy/",
+		"adChoicesURL": "http://static.usatnetwork.com/adchoices/"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "USATNetwork"
+	},
+	"dealChicken": {
+		"marketKey": "aaaaaaaaa-aa"
+	},
+	"facebook": {
+		"secret#private": "A9A9A9A9A9A9",
+		"productId": "9999999999"
+	},
+	"twitter": {
+		"name": "usatnetwork"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.usatnetwork.com",
+		"trackingSuite": "gpaper151, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "USATNetwork"
+		},
+		"email": "customer@usatnetwork.com",
+		"phone": "9-999-999-9999"
+	}
+}

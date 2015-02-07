@@ -1,0 +1,37 @@
+{
+	"division": "usat",
+	"publicationName": "USA TODAY",
+	"title": "USA TODAY",
+	"marketId": "USAT",
+	"brandId" : "8872UT",
+	"state": "VA",
+	"baseName": "usatoday",
+	"cobrandLogoText": "USA TODAY",
+	"palette": "p1",
+	"custServivce": "1-800-872-0001",
+	"email": "usatodaymobile@usatoday.com",
+	"website": "www.usatoday.com",
+	"facebook": {
+		"secret#private": "f8191f20cf5c2e53c03be63963ae874f",
+		"productId": "215046668549694"
+	},
+	"twitter": {
+		"name": "USATODAY"
+	},
+	"links": {
+		"termsOfServiceURL": "http://www.usatoday.com/legal/tos.html",
+		"caliPrivacyURL": "http://www.usatoday.com/legal/privacynotice.html",
+		"privacyURL": "http://www.usatoday.com/legal/privacynotice.html",
+		"adChoicesURL": "http://www.usatoday.com/legal/privacynotice.html#adchoices"
+	},
+	"fireflyEnabled": false,
+	"firefly": {
+		"enabled": false
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "USAT"
+		},
+		"phone": "1-800-872-0001"
+	}
+}

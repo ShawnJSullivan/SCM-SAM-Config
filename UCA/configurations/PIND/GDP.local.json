@@ -1,0 +1,9 @@
+{
+	"brandId" : "1532IS",
+	"links": {
+		"mobileAppURLs": {
+			"ios": "http://itunes.com/",
+			"android": "http://google.com/"
+		}
+	}
+}

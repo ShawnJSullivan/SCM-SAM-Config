@@ -1,0 +1,76 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.thenorthwestern.com",
+			"trackingSuite": "gpaper190, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.thenorthwestern.com"
+		}
+	},
+	"site": {
+		"title": "thenorthwestern.com"
+	},
+	"mobile": {
+		"title": "thenorthwestern.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thenorthwestern.com/trial-expired/",
+				"restricted": "https://subscribe.thenorthwestern.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Oshkosh Northwestern iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZO",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile190"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/903"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/903"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/907"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/907"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Oshkosh Northwestern Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZO",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile190"
+		}
+	}
+}

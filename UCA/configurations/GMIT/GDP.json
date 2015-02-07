@@ -1,0 +1,40 @@
+{
+	"publicationName": "Military Times",
+	"title": "Military Times",
+	"marketId": "M6",
+	"brandId": "9170MT",
+	"state": "VA",
+	"cobrandLogoText": "MilitaryTimes.com | A Gannett Company",
+	"palette": "p2",
+	"custService": "1-800-368-5718",
+	"website": "www.militarytimes.com",
+	"baseName": "militarytimes",
+	"email": "cust-svc@atpco.com",
+	"links": {
+		"termsOfServiceURL": "http://static.militarytimes.com/terms",
+		"caliPrivacyURL": "http://static.militarytimes.com/privacy#california",
+		"privacyURL": "http://static.militarytimes.com/privacy",
+		"adChoicesURL": "http://static.militarytimes.com/privacy#adchoices"
+	},
+	"firefly": {
+		"enabled": false
+	},
+	"chat": {
+		"enabled": false
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"enabled" : false
+		},
+		"email": "cust-svc@atpco.com",
+		"phone": "1-800-368-5718"
+	},
+	"facebook": {
+		"secret#private": "",
+		"productId": "144529858957413"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.militarytimes.com",
+		"trackingSuite": "gpaper246, gntbcstglobal"
+	}
+}

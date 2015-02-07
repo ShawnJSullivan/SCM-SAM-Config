@@ -1,0 +1,76 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.sheboyganpress.com",
+			"trackingSuite": "gpaper191, gntbcstglobal"
+		},
+		"legacyNewslettersPreferences": {
+			"enabled": true,
+			"hostname": "archive.sheboyganpress.com"
+		}
+	},
+	"site": {
+		"title": "SheboyganPress.com"
+	},
+	"mobile": {
+		"title": "SheboyganPress.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.sheboyganpress.com/trial-expired/",
+				"restricted": "https://subscribe.sheboyganpress.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "Sheboygan Press iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "ZS",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile191"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/915"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/915"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/919"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/919"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "Sheboygan Press Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "ZS",
+			"unitNumber": "1014",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile191"
+		}
+	}
+}

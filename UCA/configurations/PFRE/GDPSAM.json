@@ -1,0 +1,72 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.thenews-messenger.com",
+			"trackingSuite": "gpaper129, gntbcstglobal"
+		}
+	},
+	"site": {
+		"title": "thenews-messenger.com"
+	},
+	"mobile": {
+		"title": "thenews-messenger.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.thenews-messenger.com/trial-expired/",
+				"restricted": "https://subscribe.thenews-messenger.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The News-Messenger iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "OF",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile129"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/747"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/747"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/751"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/751"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The News-Messenger Android App",
+		"atypon": {
+			"transactionOrigin": "Google Play",
+			"publicationCode": "OF",
+			"unitNumber": "1019",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile129"
+		}
+	}
+}

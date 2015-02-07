@@ -1,0 +1,41 @@
+{
+	"publicationName": "KSDK",
+	"title": "KSDK.COM",
+	"marketId": "KSDK",
+	"brandId": "3325KSDK",
+	"cobrandLogoText": "KSDK.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-314-421-5055",
+	"website": "www.ksdk.com",
+	"baseName": "ksdk",
+	"email": "webmaster@ksdk.com",
+	"state": "MO",
+	"links": {
+		"termsOfServiceURL": "http://static.ksdk.com/terms/",
+		"caliPrivacyURL": "http://static.ksdk.com/privacy/",
+		"privacyURL": "http://static.ksdk.com/privacy/",
+		"adChoicesURL": "http://static.ksdk.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "st-louis-mo"
+	},
+	"facebook": {
+		"secret#private": "16d43612502ff3802677831393ec138f",
+		"productId": "102370399840683"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.ksdk.com",
+		"trackingSuite": "gntbcstksdk,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@ksdk.com",
+		"phone": "1-314-421-5055"
+	}
+}

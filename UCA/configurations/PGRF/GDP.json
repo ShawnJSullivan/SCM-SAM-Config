@@ -1,0 +1,44 @@
+{
+	"publicationName": "Great Falls Tribune",
+	"title": "Great Falls Tribune",
+	"marketId": "G1",
+	"brandId": "1094GF",
+	"cobrandLogoText": "GreatFallsTribune.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-888-424-8742",
+	"website": "www.greatfallstribune.com",
+	"baseName": "greatfallstribune",
+	"email": "tribcirc@greatfallstribune.com",
+	"state": "MT",
+	"links": {
+		"termsOfServiceURL": "http://static.greatfallstribune.com/terms/",
+		"caliPrivacyURL": "http://static.greatfallstribune.com/privacy/",
+		"privacyURL": "http://static.greatfallstribune.com/privacy/",
+		"adChoicesURL": "http://static.greatfallstribune.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "GreatFalls"
+	},
+	"dealChicken": {
+		"marketKey": "great-falls-mt"
+	},
+	"facebook": {
+		"secret#private": "58d06c5423ecc0d0580eb93df8324792",
+		"productId": "137930962930704"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.greatfallstribune.com",
+		"trackingSuite": "gpaper131, gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "GreatFalls"
+		},
+		"email": "tribcirc@greatfallstribune.com",
+		"phone": "1-888-424-8742"
+	}
+}

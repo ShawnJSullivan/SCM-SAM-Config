@@ -1,0 +1,44 @@
+{
+	"publicationName": "The Daily Tribune",
+	"title": "The Daily Tribune",
+	"marketId": "U011",
+	"brandId": "WISCONSIN",
+	"cobrandLogoText": "WisconsinRapidsTribune.com | A Gannett Company",
+	"palette": "p5",
+	"custService": "1-877-424-5647",
+	"website": "www.wisconsinrapidstribune.com",
+	"baseName": "wisconsinrapidstribune",
+	"email": "wisconsincoe@gannett.com",
+	"state": "WI",
+	"links": {
+		"termsOfServiceURL": "http://static.wisconsinrapidstribune.com/terms/",
+		"caliPrivacyURL": "http://static.wisconsinrapidstribune.com/privacy/",
+		"privacyURL": "http://static.wisconsinrapidstribune.com/privacy/",
+		"adChoicesURL": "http://static.wisconsinrapidstribune.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "WisconsinRapids"
+	},
+	"dealChicken": {
+		"marketKey": "central-wisconsin-wi"
+	},
+	"facebook": {
+		"secret#private": "c93b4f6a6ad5fc338bda5db0a07ee461",
+		"productId": "132335483492709"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wisconsinrapidstribune.com",
+		"trackingSuite": "gpaper193, gpapertablet"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "WisconsinRapids"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-5647"
+	}
+}

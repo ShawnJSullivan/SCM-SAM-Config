@@ -1,0 +1,41 @@
+{
+	"publicationName": "WZZM",
+	"title": "WZZM13.COM",
+	"marketId": "WZZM",
+	"brandId": "3314WZZM",
+	"cobrandLogoText": "WZZM13.COM | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-616-785-1301",
+	"website": "www.wzzm13.com",
+	"baseName": "wzzm13",
+	"email": "webmaster@wzzm13.com",
+	"state": "MI",
+	"links": {
+		"termsOfServiceURL": "http://static.wzzm13.com/terms/",
+		"caliPrivacyURL": "http://static.wzzm13.com/privacy/",
+		"privacyURL": "http://static.wzzm13.com/privacy/",
+		"adChoicesURL": "http://static.wzzm13.com/privacy/#adchoices"
+	},
+	"fireflyEnabled": false,
+	"chat": {
+		"enabled": false
+	},
+	"dealChicken": {
+		"marketKey": "grand-rapids-mi"
+	},
+	"facebook": {
+		"secret#private": "653ed88555d8ab2f8bed14fc00809c67",
+		"productId": "140069466052631"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wzzm13.com",
+		"trackingSuite": "gntbcstwzzm,gntbcstglobal"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"enabled": false
+		},
+		"email": "webmaster@wzzm13.com",
+		"phone": "1-616-785-1301"
+	}
+}

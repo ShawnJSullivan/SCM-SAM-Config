@@ -1,0 +1,44 @@
+{
+	"publicationName": "Coshocton Tribune",
+	"title": "Coshocton Tribune",
+	"marketId": "B9",
+	"brandId": "1019CT",
+	"cobrandLogoText": "CoshoctonTribune.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-0211",
+	"website": "www.coshoctontribune.com",
+	"baseName": "coshoctontribune",
+	"email": "nncocsr@gannett.com",
+	"state": "OH",
+	"links": {
+		"caliPrivacyURL": "http://static.coshoctontribune.com/privacy/",
+		"privacyURL": "http://static.coshoctontribune.com/privacy/",
+		"termsOfServiceURL": "http://static.coshoctontribune.com/terms/",
+		"adChoicesURL": "http://static.coshoctontribune.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Coshocton"
+	},
+	"dealChicken": {
+		"marketKey": "coshocton-oh"
+	},
+	"facebook": {
+		"secret#private": "864083b929f87253c707633798cc1ba6",
+		"productId": "116887158381763"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.coshoctontribune.com",
+		"trackingSuite": "gpaper232, gntbcstglobal"
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Coshocton"
+		},
+		"email": "nncocsr@gannett.com",
+		"phone": "1-877-424-0211"
+	}
+}

@@ -1,0 +1,44 @@
+{
+	"publicationName": "Wausau Daily Herald",
+	"title": "Wausau Daily Herald",
+	"marketId": "U010",
+	"brandId": "WISCONSIN",
+	"cobrandLogoText": "wausaudailyherald.com | A Gannett Company",
+	"palette": "p1",
+	"custService": "1-877-424-5644",
+	"website": "www.wausaudailyherald.com",
+	"baseName": "wausaudailyherald",
+	"email": "wisconsincoe@gannett.com",
+	"state": "WI",
+	"links": {
+		"termsOfServiceURL": "http://static.wausaudailyherald.com/terms/",
+		"caliPrivacyURL": "http://static.wausaudailyherald.com/privacy/",
+		"privacyURL": "http://static.wausaudailyherald.com/privacy/",
+		"adChoicesURL": "http://static.wausaudailyherald.com/privacy/#adchoices"
+	},
+	"firefly": {
+		"threshold": 10,
+		"thresholdRegistered": 10
+	},
+	"chat": {
+		"publicationId": "Wausau"
+	},
+	"dealChicken": {
+		"marketKey": "central-wisconsin-wi"
+	},
+	"facebook": {
+		"secret#private": "be9986b343625ec4c776e9e36f888bce",
+		"productId": "187427251271455"
+	},
+	"omniture": {
+		"trackingServer": "srepdata.wausaudailyherald.com",
+		"trackingSuite": "gpaper182, gpapertablet"
+	},
+		"customerServiceCenter": {
+		"chat": {
+			"publicationId": "Wausau"
+		},
+		"email": "wisconsincoe@gannett.com",
+		"phone": "1-877-424-5644"
+	}
+}

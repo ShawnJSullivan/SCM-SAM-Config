@@ -1,0 +1,40 @@
+{
+	"publicationName": "Army Times",
+	"title": "Army Times",
+	"marketId": "M602",
+	"brandId": "9170AT",
+	"state": "VA",
+	"cobrandLogoText": "ArmyTimes.com | A Gannett Company",
+	"palette": "p4",
+	"custService": "1-800-368-5718",
+	"website": "www.armytimes.com",
+	"baseName": "armytimes",
+	"email": "cust-svc@armytimes.com",
+	"links": {
+		"termsOfServiceURL": "http://static.armytimes.com/terms",
+		"caliPrivacyURL": "http://static.armytimes.com/privacy#california",
+		"privacyURL": "http://static.armytimes.com/privacy",
+		"adChoicesURL": "http://static.armytimes.com/privacy#adchoices"
+	},
+	"chat": {
+		"enabled": false
+	},
+	"firefly": {
+		"threshold": 7,
+		"thresholdRegistered": 7
+	},
+	"customerServiceCenter": {
+		"chat": {
+			"enabled" : false
+		},
+		"email": "cust-svc@armytimes.com",
+		"phone": "1-800-368-5718"
+	},
+	"facebook": {
+		"productId": "352855671529986"
+	},
+	"omniture": {
+		"trackingServer": "gannett.112.2o7.net",
+		"trackingSuite": "gpaper106, gntbcstglobal"
+	}
+}

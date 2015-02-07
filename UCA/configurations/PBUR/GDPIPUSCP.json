@@ -1,0 +1,78 @@
+{
+	"baseName": "burlingtonfreepress",
+	"mobilesite": "m.burlingtonfreepress.com",
+	"cobrandLogo": "http://tablet.burlingtonfreepress.com/property/logo",
+	"emailNewsTips": "metro@burlingtonfreepress.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Burlington, VT",
+		"zip": "05401",
+		"coordinates": "44.4773,-73.2121",
+		"latitude": 44.4773,
+		"longitude": -73.2121
+	},
+	"twitter": {
+		"name": "bfp_news"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.burlingtonfreepress.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile116"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "151224581596873"
+	},
+	"Settings": {
+		"PRIVACY_URL": "http://static.burlingtonfreepress.com/privacy/",
+		"CALI_PRIVACY_URL": "http://static.burlingtonfreepress.com/privacy/",
+		"TOS_URL": "http://static.burlingtonfreepress.com/terms/",
+		"AD_CHOICES_URL": "http://static.burlingtonfreepress.com/privacy/#adchoices",
+		"SHARING_ENABLED": "T",
+		"WDAKey": "44da616d-0f50-4445-aac6-5db02294fd73"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR The Burlington Free Press. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.burlingtonfreepress.iphone.autosubscription.1month",
+		"MARKET_ID": "BT",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id525818989?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/burlingtonfreepress",
+		"ITUNES_APPID": "525818989",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/burlingtonfreepress/id525818989?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.burlingtonfreepress"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Burlington, Vermont",
+		"BRAND_LOCATION_ZIP": "05401",
+		"BRAND_IDENTIFIER": "n_burlingtonfreepress",
+		"BRAND_LOCATION_GPS": "44.4773,-73.2121",
+		"BRAND_LOGO_URL": "http://www.burlingtonfreepress.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "C01D1D",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "9TVveX97F1fDyjFanMn8CI2Lk1zJZU16zcjopPJBYmq193w7beQ8Bw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.burlingtonfreepress.com",
+		"BRAND_NEWS_TIP": "metro@burlingtonfreepress.com",
+		"CONTACT_US_EMAIL": "freepress@gannett.com",
+		"BRAND_NAME": "The Burlington Free Press",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.burlingtonfreepress.com",
+		"BRAND_TWITTER": "bfp_news"
+	}
+}

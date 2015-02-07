@@ -1,0 +1,79 @@
+{
+	"baseName": "mycentraljersey",
+	"mobilesite": "m.mycentraljersey.com",
+	"cobrandLogo": "http://tablet.mycentraljersey.com/property/logo",
+	"emailNewsTips": "webhelp@app.com",
+	"location": {
+		"timezone": "America/New_York",
+		"name": "Somerville, NJ",
+		"zip": "08876",
+		"coordinates": "40.5697,-74.6076",
+		"latitude": 40.5697,
+		"longitude": -74.6076
+	},
+	"twitter": {
+		"name": "MyCentralJersey"
+	},
+	"fireflyEnabled": true,
+	"Omniture": {
+		"OMNITURE_APP_NAME": "uscpnewsiphone",
+		"trackingServer": "repdata.mycentraljersey.com",
+		"OMNITURE_IPHONE_SECTION": "native_news_iPhone",
+		"OMNITURE_APP_DEVICE": "iphone",
+		"OMNITURE_MARKET_ID": "gpapermobile248"
+	},
+	"Facebook": {
+		"FACEBOOK_ID": "177893718898560"
+	},
+	"Settings": {
+		"WDAKey": "f02d6b38-c9bd-4a5b-a116-007e285ddc5d",
+		"CALI_PRIVACY_URL": "http://static.mycentraljersey.com/privacy/",
+		"AD_CHOICES_URL": "http://static.mycentraljersey.com/privacy/#adchoices",
+		"PRIVACY_URL": "http://static.mycentraljersey.com/privacy/",
+		"SHARING_ENABLED": "T",
+		"TOS_URL": "http://www.mycentraljersey.com/tos"
+	},
+	"Messages": {
+		"COPYRIGHT_TEXT": "Copyright © YEAR My Central Jersey. All rights reserved. \n Users of this site agree to the Terms of Service and Privacy Policy/California Privacy Rights.",
+		"APP_UPGRADE_TITLE": "App Upgrade Available",
+		"NO_INTERNET_MESSAGE": "This service is unavailable at this time. The service provider may be experiencing network difficulties or this device no longer has adequate wireless reception.",
+		"NO_INTERNET_TITLE": "Network not available",
+		"APP_UPGRADE_MESSAGE": "A new version of this application is now available in the App Store."
+	},
+	"Links": {
+		"IAP_SUBSCRIPTION_PRODUCTID": "com.mycentraljersey.iphone.autosubscription.1month",
+		"MARKET_ID": "CN",
+		"ITUNES_API_URL": "http://itunes.apple.com/us/app/apple-store/id520557512?mt=8",
+		"ITUNES_URL": "http://itunes.com/app/gannett/mycentraljersey",
+		"ITUNES_APPID": "520557512",
+		"ITUNES_APP_URL": "http://itunes.apple.com/us/app/mycentraljersey/id520557512?mt=8",
+		"ITUNES_BUNDLEID": "com.gannett.news.local.mycentraljersey"
+	},
+	"Branding": {
+		"MARKET_TIME_ZONE": "America/New_York",
+		"BRAND_LOCATION": "Somerville, NJ",
+		"BRAND_LOCATION_ZIP": "08876",
+		"BRAND_IDENTIFIER": "n_mycentraljersey",
+		"BRAND_LOCATION_GPS": "40.5697,-74.6076",
+		"BRAND_LOGO_URL": "http://www.mycentraljersey.com/graphics/header/logo.gif",
+		"BRAND_OTHER_APPS_URL": "",
+		"BRAND_SUPPORT_TWITTER": "",
+		"BRAND_SUPPORT_EMAIL": "mobilesupport@gannett.com",
+		"BRAND_COLOR": "0461C2",
+		"BRAND_BRIGHTCOVE_READ_TOKEN": {
+			"qa": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"prod": "gUWnkVBaIkpkhjoKsIgudP2lR8bYYtHILaLIomqgU0vA_RarVWzFFw..",
+			"staging": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"training": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"dev": "18_XyZsvuTpld39gZIpUnA4qWDKTOqufQF6udYCcWTK4XK6M65xbDg..",
+			"USAT": "U08JuX30Nn5OqgGakfxRqiTTjwaeaxSCk2-s5H1TcIrDK-1dVOha1A.."
+		},
+		"BRAND_WEBSITE": "www.mycentraljersey.com",
+		"CONTACT_US_EMAIL": "couriernews@gannett.com",
+		"SIDERAIL_COLOR_ARRAY": "1F1F1F,121212,2A2A2A,121212",
+		"BRAND_NAME": "My Central Jersey",
+		"BRAND_FAQ_URL": "",
+		"BRAND_MOBILE_SITE": "m.mycentraljersey.com",
+		"BRAND_TWITTER": "MyCentralJersey"
+	}
+}

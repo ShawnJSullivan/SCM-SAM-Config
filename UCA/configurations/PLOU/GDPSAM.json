@@ -1,0 +1,93 @@
+{
+	"default": {
+		"omniture": {
+			"trackingServer": "srepdata.courier-journal.com",
+			"trackingSuite": "gpaper145, gntbcstglobal"
+		},
+		"redirectMiddleware": [{
+			"urlPattern": "https?:\\/\\/subscribe-?(.*)\\.courier-journal\\.com\\/(|\\?((?!productId=).)*)$",
+			"redirectURL":"http://offers.courier-journal.com/subscribe",
+			"preservedQSPs": [
+				"gps-source"
+			]
+		}],
+		"ads": {
+			"subscribeProductSelectTop" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ky-louisville-C1107/consumer_sales_fod"
+			},
+			"subscribeProductSelectSide" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ky-louisville-C1107/consumer_sales_fod"
+			},
+			"trialExpired" : {
+				"enabled" : true,
+				"unitPath" : "/7103/ky-louisville-C1107/consumer_sales-all_stop"
+			}
+		}
+	},
+	"site": {
+		"title": "courier-journal.com"
+	},
+	"mobile": {
+		"title": "courier-journal.com | Mobile Edition",
+		"firefly": {
+			"links": {
+				"getAccess": "https://subscribe.courier-journal.com/trial-expired/",
+				"restricted": "https://subscribe.courier-journal.com/trial-expired/"
+			}
+		}
+	},
+	"ios": {
+		"title": "The Courier-Journal iOS App",
+		"atypon": {
+			"transactionOrigin": "iTunes",
+			"publicationCode": "DG",
+			"unitNumber": "1107",
+			"accountId": "0"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile145"
+		}
+	},
+	"ios_ipad": {
+		"core": {
+			"navigationPath": "schema/id/49"
+		}
+	},
+	"ios_ipad_2": {
+		"core": {
+			"navigationPath": "schema/id/1861"
+		},
+		"additionalConfigs": [
+			"GDPITUSCP",
+			"GDPITUSCP_2"
+		]
+	},
+	"ios_iphone": {
+		"core": {
+			"navigationPath": "schema/id/271"
+		}
+	},
+	"ios_iphone_2": {
+		"core": {
+			"navigationPath": "schema/id/271"
+		},
+		"additionalConfigs": [
+			"GDPIPUSCP",
+			"GDPIPUSCP_2"
+		]
+	},
+	"android": {
+		"title": "The Courier-Journal Android App",
+		"atypon": {
+			"publicationCode": "DG",
+			"unitNumber": "1107",
+			"accountId": "0",
+			"transactionOrigin": "Google Play"
+		},
+		"omniture": {
+			"trackingSuite": "gpapermobile145"
+		}
+	}
+}

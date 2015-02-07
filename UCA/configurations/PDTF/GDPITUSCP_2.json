@@ -1,0 +1,213 @@
+{
+	"aam": {
+		"audienceDpid": "3054"
+	},
+	"ads": {
+		"networkId": "7103",
+		"testNetworkId": "7070",
+		"subscribeProductSelectTop": {
+			"preserveSpace": true,
+			"enabled": false,
+			"dimensions": [
+				[
+					950,
+					200
+				]
+			],
+			"provider": "dfp"
+		},
+		"articleAds": [
+			{
+				"position": 0,
+				"numberOfCharactersBetweenRepeats": 2500,
+				"enableFlexAd": false,
+				"adType": "article_banner",
+				"size": "{300,250}"
+			}
+		],
+		"frontAds": [
+			{
+				"position": 2,
+				"enableFlexAd": false,
+				"adType": "section_front_top",
+				"size": "{320,50}"
+			},
+			{
+				"position": 15,
+				"enableFlexAd": false,
+				"adType": "section_front_bottom",
+				"size": "{300,250}"
+			}
+		],
+		"trialExpired": {
+			"alternateContentSelector": ".subscribe-call-to-action",
+			"preserveSpace": false,
+			"enabled": false,
+			"dimensions": [
+				[
+					264,
+					200
+				]
+			],
+			"provider": "dfp"
+		},
+		"articleTransitionalAd": {
+			"adType": "transitional",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"galleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"embeddedGalleryTransitionalAd": {
+			"adType": "transitional_gallery",
+			"enableFlexAd": true,
+			"position": 2,
+			"frequency": 5
+		},
+		"amazonA9AppId": "fb894ef4eec94d54b1ce1ec0b815b243",
+		"houseAds": {
+			"{300, 250}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/300x250_detroitfreepress.png",
+					"clickthru": ""
+				}
+			],
+			"{320, 50}": [
+				{
+					"asset": "http://www.gannett-cdn.com/appservices/internal-ads/uscp-ads/320x50_detroitfreepress.png",
+					"clickthru": ""
+				}
+			]
+		},
+		"property": "mi-freep-mobile-C1561",
+		"subscribeProductSelectSide": {
+			"preserveSpace": true,
+			"enabled": false,
+			"dimensions": [
+				[
+					215,
+					215
+				]
+			],
+			"provider": "dfp"
+		}
+	},
+	"comscore": {
+		"censusId": "6035223",
+		"secret": "0a46f2bdb39db821b07796d980d8919a"
+	},
+	"Branding": {
+		"BRAND_QUICKLINKS": {
+			"default": [
+				{
+					"name": "Weather",
+					"imageName": "quicklinks_weather_icon",
+					"type": "13"
+				},
+				{
+					"name": "Saved",
+					"imageName": "quicklinks_saved_articles_icon",
+					"type": "7"
+				},
+				{
+					"name": "Scores",
+					"imageName": "quicklinks_scores_icon",
+					"type": "10",
+					"listItemImageOnRight": true,
+					"quickLinks": [
+						{
+							"name": "NFL",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/nfl/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "MLB",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/mlb/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NBA",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/nba/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NHL",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/nhl/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NCAAF",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/ncaaf/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						},
+						{
+							"name": "NCAAB",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.usatoday.com/sports/ncaab/scores?showUSATlogo=true&chromeless=true",
+							"type": "12"
+						}
+					]
+				},
+				{
+					"name": "Marketplace",
+					"imageName": "quicklinks_marketplace_icon",
+					"type": "10",
+					"listItemImageOnRight": true,
+					"quickLinks": [
+						{
+							"name": "Apartments.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.michigan.com/realestate/?tab=rnt"
+						},
+						{
+							"name": "CareerBuilder.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.freep.com/jobs"
+						},
+						{
+							"name": "Cars.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.freep.com/cars"
+						},
+						{
+							"name": "Classifieds",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.freep.com/section/classifieds"
+						},
+						{
+							"name": "DealChicken.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "https://www.dealchicken.com/detroit-mi"
+						},
+						{
+							"name": "Find & Save",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://findnsave.freep.com/"
+						},
+						{
+							"name": "HomeFinder.com",
+							"imageName": "leaving_app_icon.png",
+							"url": "http://www.freep.com/homes"
+						}
+					]
+				},
+				{
+					"name": "DealChicken",
+					"imageName": "dealchicken_icon",
+					"url": "http://www.dealchicken.com/detroit-mi?Source=ip%7Cdetroit-mi%7CiPadApp",
+					"type": "12"
+				}
+			]
+		}
+	}
+}
